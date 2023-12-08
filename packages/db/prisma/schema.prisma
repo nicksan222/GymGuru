@@ -10,8 +10,43 @@ datasource db {
     url      = env("DATABASE_URL")
 }
 
-model Post {
-    id      String @id @default(cuid())
-    title   String
-    content String
+model Client {
+    id             String   @id @default(uuid())
+    firstName      String
+    lastName       String
+    email          String   @unique
+    phone          String?
+    birthDate      DateTime
+    medicalHistory String?
+    createdAt      DateTime @default(now())
+    updatedAt      DateTime @updatedAt
+    trainerId      String?
+
+    // Relazioni con altre tabelle
+    progressRecords ProgressRecord[]
+    workoutPlans    WorkoutPlan[]
+}
+
+model ProgressRecord {
+    id                 String   @id @default(cuid())
+    date               DateTime @default(now())
+    weight             Float?
+    bodyFat            Float?
+    armCircumference   Float?
+    chestCircumference Float?
+    waistCircumference Float?
+    hipCircumference   Float?
+    clientId           String
+    client             Client   @relation(fields: [clientId], references: [id])
+
+    @@unique([date, clientId])
+}
+
+model WorkoutPlan {
+    id              String   @id @default(cuid())
+    startDate       DateTime
+    endDate         DateTime
+    exerciseDetails String // Descrizione degli esercizi in formato testuale
+    clientId        String
+    client          Client   @relation(fields: [clientId], references: [id])
 }
