@@ -43,13 +43,14 @@ model ProgressRecord {
 }
 
 model WorkoutPlan {
-    id              String            @id @default(cuid())
-    startDate       DateTime
-    endDate         DateTime
-    clientId        String
-    client          Client            @relation(fields: [clientId], references: [id])
-    WorkoutExercise WorkoutExercise[]
-    createdAt       DateTime          @default(now())
+    id               String            @id @default(cuid())
+    startDate        DateTime
+    endDate          DateTime
+    clientId         String
+    client           Client            @relation(fields: [clientId], references: [id])
+    workoutExercises WorkoutExercise[]
+    createdAt        DateTime          @default(now())
+    trainerId        String            @map("trainerId")
 }
 
 model Exercise {
@@ -74,11 +75,21 @@ model WorkoutExercise {
     exercise      Exercise    @relation(fields: [exerciseId], references: [id])
     workoutPlanId String
     workoutPlan   WorkoutPlan @relation(fields: [workoutPlanId], references: [id])
-    sets          Int
-    reps          Int
-    rest          Int
     order         Int
     createdAt     DateTime    @default(now())
     updatedAt     DateTime    @updatedAt
     trainerId     String      @map("trainerId")
+
+    exerciseSets ExerciseSet[]
+}
+
+model ExerciseSet {
+    id                String          @id @default(cuid())
+    workoutExerciseId String
+    workoutExercise   WorkoutExercise @relation(fields: [workoutExerciseId], references: [id])
+    setNumber         Int // Identifies the set number in a workout
+    reps              Int
+    rest              Int // Rest time in seconds
+    createdAt         DateTime        @default(now())
+    updatedAt         DateTime        @updatedAt
 }
