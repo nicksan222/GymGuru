@@ -14,19 +14,9 @@ const updateClient = protectedProcedure
     }),
   )
   .mutation(async ({ ctx, input }) => {
-    const exists = await ctx.prisma.client.findUnique({
+    return ctx.prisma.client.updateMany({
       where: {
-        email: input.email,
-      },
-    });
-
-    if (exists?.trainerId && exists?.trainerId !== ctx.auth.userId) {
-      throw new Error("Client already exists for another trainer");
-    }
-
-    return ctx.prisma.client.update({
-      where: {
-        id: input.id,
+        AND: [{ id: input.id }, { trainerId: ctx.auth.userId }],
       },
       data: {
         ...input,

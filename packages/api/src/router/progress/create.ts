@@ -29,7 +29,7 @@ const createProgress = protectedProcedure
     return ctx.prisma.progressRecord.create({
       data: {
         ...input,
-        date: new Date(),
+        trainerId: ctx.auth.userId,
       },
     });
   });

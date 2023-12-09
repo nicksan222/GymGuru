@@ -15,20 +15,14 @@ const updateProgress = protectedProcedure
     }),
   )
   .mutation(async ({ ctx, input }) => {
-    const client = await ctx.prisma.client.findUnique({
-      where: { id: input.clientId },
-    });
-
-    if (!client) {
-      throw new Error("Client not found");
-    }
-
-    if (!client.trainerId || client.trainerId !== ctx.auth.userId) {
-      throw new Error("You are not authorized to update progress records");
-    }
-
-    return ctx.prisma.progressRecord.update({
-      where: { id: input.progressId },
+    return ctx.prisma.progressRecord.updateMany({
+      where: {
+        AND: [
+          { id: input.progressId },
+          { clientId: input.clientId },
+          { trainerId: ctx.auth.userId },
+        ],
+      },
       data: {
         ...input,
       },

@@ -8,6 +8,11 @@ const listClients = protectedProcedure
       where: {
         trainerId: ctx.auth.userId,
       },
+      select: {
+        firstName: true,
+        lastName: true,
+        id: true,
+      },
     });
   });
 

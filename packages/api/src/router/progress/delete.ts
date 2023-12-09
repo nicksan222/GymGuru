@@ -9,20 +9,14 @@ const deleteProgress = protectedProcedure
     }),
   )
   .mutation(async ({ ctx, input }) => {
-    const client = await ctx.prisma.client.findUnique({
-      where: { id: input.clientId },
-    });
-
-    if (!client) {
-      throw new Error("Client not found");
-    }
-
-    if (!client.trainerId || client.trainerId !== ctx.auth.userId) {
-      throw new Error("You are not authorized to delete progress records");
-    }
-
-    return ctx.prisma.progressRecord.delete({
-      where: { id: input.progressId },
+    return ctx.prisma.progressRecord.deleteMany({
+      where: {
+        AND: [
+          { id: input.progressId },
+          { clientId: input.clientId },
+          { trainerId: ctx.auth.userId },
+        ],
+      },
     });
   });
 

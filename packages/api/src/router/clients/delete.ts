@@ -4,17 +4,11 @@ import { z } from "zod";
 const deleteClient = protectedProcedure
   .input(z.object({ id: z.string() }))
   .mutation(async ({ ctx, input }) => {
-    const result = await ctx.prisma.client.delete({
+    return ctx.prisma.client.deleteMany({
       where: {
-        id: input.id,
+        AND: [{ id: input.id }, { trainerId: ctx.auth.userId }],
       },
     });
-
-    if (result.trainerId === ctx.auth.userId) {
-      throw new Error("You are not authorized to delete this client.");
-    }
-
-    return result;
   });
 
 export default deleteClient;

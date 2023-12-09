@@ -21,7 +21,9 @@ const listProgress = protectedProcedure
     }
 
     return ctx.prisma.progressRecord.findMany({
-      where: { clientId: input.clientId },
+      where: {
+        AND: [{ clientId: input.clientId }, { trainerId: ctx.auth.userId }],
+      },
       orderBy: { date: "desc" },
     });
   });
