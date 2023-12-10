@@ -4,7 +4,6 @@ import { z } from "zod";
 const listExercises = protectedProcedure
   .input(
     z.object({
-      clientId: z.string(),
       muscleGroup: z.string().optional(),
     }),
   )

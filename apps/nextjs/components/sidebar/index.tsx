@@ -3,6 +3,7 @@ import { cn } from "#/lib/utils";
 import SidebarSection from "./SidebarSection";
 import SidebarButton from "./SidebarButton";
 import { sidebarConfig } from "./config";
+import Script from "next/script";
 
 interface Props {
   children: React.ReactNode;
@@ -12,6 +13,8 @@ interface Props {
 export function Sidebar({ className, children }: Props) {
   return (
     <>
+      <Script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.0.0/flowbite.min.js" />
+
       <button
         data-drawer-target="default-sidebar"
         data-drawer-toggle="default-sidebar"

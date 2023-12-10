@@ -26,13 +26,7 @@ const listPlans = protectedProcedure
         id: true,
         startDate: true,
         endDate: true,
-        client: {
-          select: {
-            id: true,
-            firstName: true,
-            lastName: true,
-          },
-        },
+        clientId: true,
       },
     });
   });

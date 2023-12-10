@@ -1,5 +1,5 @@
 import { SidebarSectionProps } from "./types";
-import { FiHeart, FiList, FiPlus } from "react-icons/fi";
+import { FiClock, FiDollarSign, FiHeart, FiList, FiPlus } from "react-icons/fi";
 
 export const sidebarConfig: SidebarSectionProps[] = [
   {
@@ -29,6 +29,21 @@ export const sidebarConfig: SidebarSectionProps[] = [
         icon: <FiPlus />,
         text: "Aggiungi esercizio",
         goTo: "esercizi/add",
+      },
+    ],
+  },
+  {
+    text: "Scadenze",
+    buttons: [
+      {
+        icon: <FiClock />,
+        text: "Scadenze piani",
+        goTo: "scadenze/piani",
+      },
+      {
+        icon: <FiDollarSign />,
+        text: "Pagamenti",
+        goTo: "scadenze/pagamenti",
       },
     ],
   },
