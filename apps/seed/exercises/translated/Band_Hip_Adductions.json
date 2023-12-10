@@ -1,0 +1,29 @@
+{
+  "nome": "Band Hip Adductions",
+  "forza": "tiro",
+  "livello": "principiante",
+  "meccanismo": "isolamento",
+  "attrezzature": "bande",
+  "muscoliPrimari": [
+    "adduttori"
+  ],
+  "muscoliSecondari": [],
+  "istruzioni": [
+    "Ancorare una banda intorno a un palo solido o altro oggetto.",
+    "Stare con il lato sinistro del corpo vicino al palo, e passare il piede destro tra la banda, portandola intorno alla caviglia.",
+    "Stare in posizione eretta e tenere stretto al palo se necessario. Questa sarà la posizione di partenza.",
+    "Mantenendo il ginocchio dritto, alzare la gamba destra verso il lato il più lontano possibile.",
+    "Tornare alla posizione di partenza e ripetere il numero di ripetizioni desiderato.",
+    "Cambiare lato."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Band_Hip_Adductions/0.jpg",
+    "Band_Hip_Adductions/1.jpg"
+  ],
+  "id": "Band_Hip_Adductions",
+  "images": [
+    "Band_Hip_Adductions/0.jpg",
+    "Band_Hip_Adductions/1.jpg"
+  ]
+}

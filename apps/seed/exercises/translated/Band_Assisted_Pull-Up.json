@@ -1,0 +1,27 @@
+{
+  "name": "Band Assisted Pull-Up",
+  "force": null,
+  "level": "beginner",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "forearms",
+    "middle back"
+  ],
+  "instructions": [
+    "Metti la benda attorno al centro della barra per tirare su la barra. Puoi usare bende diverse per fornire livelli diversi di assistenza.",
+    "Tira giù l'estremità della benda e posiziona un ginocchio piegato nella fettuccia, assicurandoti che non uscirà. Afferra la barra con una presa media o ampia. Questa sarà la tua posizione di partenza.",
+    "Tirati su contrarre i lats mentre fletti il gomito. Il gomito dovrebbe essere guidato verso il lato. Tira in avanti, cercando di portare il mento sopra la barra. Evita movimenti oscillanti o bruschi.",
+    "Dopo una breve pausa, torna alla posizione di partenza."
+  ],
+  "category": "strength",
+  "images": [
+    "Band_Assisted_Pull-Up/0.jpg",
+    "Band_Assisted_Pull-Up/1.jpg"
+  ],
+  "id": "Band_Assisted_Pull-Up"
+}

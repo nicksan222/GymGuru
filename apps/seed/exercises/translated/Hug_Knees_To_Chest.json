@@ -1,0 +1,24 @@
+{
+  "name": "Abbracciamo Le Ginocchia Al Torace",
+  "force": "statico",
+  "level": "principiante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "muscoli della parte bassa della schiena"
+  ],
+  "secondaryMuscles": [
+    "glutei"
+  ],
+  "instructions": [
+    "Distenditi sulla schiena e porta entrambe le ginocchia al torace.",
+    "Metti le braccia sotto le ginocchia, non sopra (questo metterebbe troppa pressione sulle articolazioni del ginocchio).",
+    "Tira lentamente le ginocchia verso le spalle. Questo allunga anche i muscoli dei glutei."
+  ],
+  "category": "stretching",
+  "images": [
+    "Hug_Knees_To_Chest/0.jpg",
+    "Hug_Knees_To_Chest/1.jpg"
+  ],
+  "id": "Hug_Knees_To_Chest"
+}

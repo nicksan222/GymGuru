@@ -1,0 +1,31 @@
+{
+  "nome": "Spinta trainato",
+  "forza": "spinge",
+  "livello": "principiante",
+  "meccanico": "composito",
+  "Attrezzatura": "altro",
+  "primariMuscoli": [
+    "quadricipiti"
+  ],
+  "Muscoli secondari": [
+    "polpacci",
+    "petto",
+    "glutei",
+    "addominali femorali",
+    "tricipiti"
+  ],
+  "istruzioni": [
+    "Caricare il tuo slitta push con il peso desiderato.",
+    "Assumi una postura atletica, spingendoti nella slitta con le braccia completamente estese, afferrando le maniglie. Spingi la slitta il più velocemente possibile, concentrando l'attenzione sull'estensione dei fianchi e delle ginocchia per rinforzare la catena posteriore."
+  ],
+  "categoria": "strongman",
+  "immagini": [
+    "Sled_Push/0.jpg",
+    "Sled_Push/1.jpg"
+  ],
+  "id": "Sled_Push",
+  "images": [
+    "Sled_Push/0.jpg",
+    "Sled_Push/1.jpg"
+  ]
+}

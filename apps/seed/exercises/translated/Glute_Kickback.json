@@ -1,0 +1,25 @@
+{
+  "name": "Glute Kickback",
+  "force": "spinta",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "solo corpo",
+  "primaryMuscles": [
+    "glutei"
+  ],
+  "secondaryMuscles": [
+    "muscoli posteriori della coscia"
+  ],
+  "instructions": [
+    "Inginocchiarsi a terra o su un tappetino da esercizi e piegarsi in vita con le braccia estese davanti a te (perpendicolari al busto) per mettersi in una posizione di push-up in ginocchio, ma con le braccia distanziate alla larghezza delle spalle. La testa dovrebbe essere rivolta in avanti e la piega delle ginocchia dovrebbe creare un angolo di 90 gradi tra i muscoli posteriori della coscia e i polpacci. Questa sarà la posizione di partenza.",
+    "Mentre espiri, solleva la gamba destra fino a quando i muscoli posteriori della coscia sono allineati alla schiena, mantenendo l'angolo di piega di 90 gradi. Contrai i glutei durante tutto questo movimento e mantieni la contrazione nella parte superiore per un secondo. Suggerimento: alla fine del movimento, la gamba superiore dovrebbe essere parallela al pavimento mentre il polpaccio dovrebbe essere perpendicolare ad esso.",
+    "Tornare alla posizione iniziale mentre inspiri e ora ripetere con la gamba sinistra.",
+    "Continuare ad alternare le gambe fino a quando non è stato eseguito il numero di ripetizioni consigliato."
+  ],
+  "category": "forza",
+  "images": [
+    "Glute_Kickback/0.jpg",
+    "Glute_Kickback/1.jpg"
+  ],
+  "id": "Glute_Kickback"
+}

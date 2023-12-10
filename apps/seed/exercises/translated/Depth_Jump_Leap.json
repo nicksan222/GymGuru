@@ -1,0 +1,29 @@
+{
+  "name": "Salto di Fondo di Svolta",
+  "force": "spingere",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "altro",
+  "primaryMuscles": [
+    "quadricipiti"
+  ],
+  "secondaryMuscles": [
+    "adduttori",
+    "abduttori",
+    "polpacci",
+    "glutei",
+    "femorali"
+  ],
+  "instructions": [
+    "Per questo esercizio ti serviranno due scatole o panche, una alta da 12 a 16 pollici e l'altra da 22 a 26 pollici.",
+    "Stare su una delle due scatole con le braccia ai lati; i piedi dovrebbero essere insieme e leggermente fuori dal bordo come nel salto di fondo. Posizionare l'altra scatola circa due o tre piedi di distanza e di fronte al performer.",
+    "Iniziare cadendo dalla scatola iniziale, atterrando e contemporaneamente partendo con entrambi i piedi.",
+    "Rimbalzare spingendo verso l'alto e verso l'esterno il più intensamente possibile, utilizzando le braccia e l'estensione completa del corpo per saltare sulla scatola più alta. Di nuovo, permettere alle gambe di assorbire l'impatto."
+  ],
+  "category": "pliometria",
+  "images": [
+    "Depth_Jump_Leap/0.jpg",
+    "Depth_Jump_Leap/1.jpg"
+  ],
+  "id": "Depth_Jump_Leap"
+}

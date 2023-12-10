@@ -1,0 +1,25 @@
+{
+  "name": "Posizione del Ballerino",
+  "force": "statico",
+  "level": "principiante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "dorsali"
+  ],
+  "secondaryMuscles": [
+    "flessori dell'anca"
+  ],
+  "instructions": [
+    "Sedetevi sul pavimento.",
+    "Incrociate la gamba destra sopra la sinistra, tenendo il ginocchio piegato. La gamba sinistra è tesa a terra.",
+    "Posizionate il braccio sinistro sulla gamba destra e la mano destra a terra.",
+    "Ruotate la parte superiore del corpo verso destra e mantenete la posizione per 10-20 secondi. Poi cambiate lato."
+  ],
+  "category": "stretching",
+  "images": [
+    "Dancers_Stretch/0.jpg",
+    "Dancers_Stretch/1.jpg"
+  ],
+  "id": "Dancers_Stretch"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Floor Press",
+  "force": "spingere",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "bilanciere",
+  "primaryMuscles": [
+    "tricipiti"
+  ],
+  "secondaryMuscles": [
+    "petto",
+    "spalle"
+  ],
+  "instructions": [
+    "Regolare le j-hooks in modo che siano alla giusta altezza per appoggiare la barra. Iniziare sdraiati sul pavimento con la testa vicino alla fine dei rack di potenza. Tenere le scapole strette insieme; tirare la barra dalle staffe.",
+    "Abbassare la barra verso la parte inferiore del petto o dell'addome superiore, stringendo la barra e cercando di dividerla mentre lo si fa. Assicurarsi di tenere i gomiti all'indietro durante il movimento. Abbassare la barra fino a quando il braccio superiore tocca il terreno e fare una pausa, evitando ogni urto o rimbalzo del peso.",
+    "Premere la barra verso l'alto il più velocemente possibile, mantenendo la barra, i polsi e i gomiti allineati durante il movimento."
+  ],
+  "category": "powerlifting",
+  "images": [
+    "Floor_Press/0.jpg",
+    "Floor_Press/1.jpg"
+  ],
+  "id": "Floor_Press"
+}

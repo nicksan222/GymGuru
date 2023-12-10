@@ -1,0 +1,23 @@
+{
+  "name": "Swing di spalla",
+  "force": "tirare",
+  "level": "principiante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "spalle"
+  ],
+  "secondaryMuscles": [
+    "trapezi"
+  ],
+  "instructions": [
+    "Con le spalle rilassate e le braccia riposate liberamente ai lati (o sulla tua gamba se sei seduto), muovi delicatamente le spalle avanti, su, dietro e in basso.",
+    "Inverti la direzione. Puoi fare questo esercizio alternando le spalle o entrambe allo stesso tempo."
+  ],
+  "category": "stretching",
+  "images": [
+    "Shoulder_Circles/0.jpg",
+    "Shoulder_Circles/1.jpg"
+  ],
+  "id": "Shoulder_Circles"
+}

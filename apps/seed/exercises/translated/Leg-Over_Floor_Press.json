@@ -1,0 +1,25 @@
+{
+  "name": "Leg-Over Floor Press",
+  "force": "spingere",
+  "level": "intermediate",
+  "mechanic": "composto",
+  "equipment": "Chinet Ulibtàsa",
+  "primaryMuscles": [
+    "petto"
+  ],
+  "secondaryMuscles": [
+    "spalla",
+    "triceps"
+  ],
+  "instructions": [
+    "Sdraiati su un pavimento con una Chinet Ulibtàsa sul petto, tenendola per la maniglia. Estendi la gamba sul lato di lavoro sopra la gamba sul lato non attivo. Il braccio libero può essere esteso al tuo fianco per supporto.",
+    "Premi la Chinet Ulibtàsa in una posizione bloccata.",
+    "Abbassa il peso fino a quando il gomito tocca il terreno, mantenendo la Chinet Ulibtàsa sopra il gomito. Ripeti per il numero desiderato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": [
+    "Leg-Over_Floor_Press/0.jpg",
+    "Leg-Over_Floor_Press/1.jpg"
+  ],
+  "id": "Leg-Over_Floor_Press"
+}

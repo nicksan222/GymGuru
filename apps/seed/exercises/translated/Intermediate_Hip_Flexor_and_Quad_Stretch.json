@@ -1,0 +1,21 @@
+{
+  "name": "Estensore dell'anca e stiramento al quadricipite intermedio",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "other",
+  "primaryMuscles": [
+    "quadricipite"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sdraiato a faccia in giù sul pavimento, con una corda, un cinturino o una fascia intorno ad un piede.",
+    "Flette il ginocchio ed estendi l'anca della gamba da stirare, usando entrambe le mani per tirare la fascia. Il ginocchio e l'anca dovrebbero sollevarsi dal pavimento, creando tensione negli estensori dell'anca e nei quadricipiti. Mantieni lo stiramento per 10-20 secondi e ripeti con l'altra gamba."
+  ],
+  "category": "stretching",
+  "images": [
+    "Intermediate_Hip_Flexor_and_Quad_Stretch/0.jpg",
+    "Intermediate_Hip_Flexor_and_Quad_Stretch/1.jpg"
+  ],
+  "id": "Intermediate_Hip_Flexor_and_Quad_Stretch"
+}

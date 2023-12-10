@@ -1,0 +1,23 @@
+{
+  "name": "Flessione dell'anca con banda",
+  "force": "tirare",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "bande",
+  "primaryMuscles": [
+    "quadricipiti"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fissare un'estremità della banda alla parte inferiore di un palo e agganciare l'altra a una caviglia.",
+    "Stare di fronte al punto di attacco della banda.",
+    "Mantenere la testa e il petto sollevati, sollevare il ginocchio fino a 90 gradi e mettere in pausa.",
+    "Tornare la gamba alla posizione di partenza."
+  ],
+  "category": "forza",
+  "images": [
+    "Hip_Flexion_with_Band/0.jpg",
+    "Hip_Flexion_with_Band/1.jpg"
+  ],
+  "id": "Hip_Flexion_with_Band"
+}

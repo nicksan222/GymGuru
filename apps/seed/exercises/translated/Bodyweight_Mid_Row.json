@@ -1,0 +1,25 @@
+{
+  "name": "Esercizio di trazione corpo libera per schiena centrale",
+  "force": "trazione",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "altro",
+  "primaryMuscles": [
+    "schiena media"
+  ],
+  "secondaryMuscles": [
+    "bicipiti",
+    "lats"
+  ],
+  "instructions": [
+    "Inizia prendendo una presa media o larga su un'apparecchiatura per i pull-up con le palme delle mani rivolte verso l'esterno. Da una posizione di sospensione, piega le ginocchia verso il petto, piegandoti all'indietro e portando le gambe sopra il tuo lato dell'apparecchiatura per i pull-up. Questa sarà la tua posizione di partenza.",
+    "A partire dalle braccia distese, fletti i gomiti e retrai le scapole per sollevare il corpo fino a quando le gambe toccano l'apparecchiatura per i pull-up.",
+    "Dopo una breve pausa, ritorna alla posizione di partenza."
+  ],
+  "category": "forza",
+  "images": [
+    "Bodyweight_Mid_Row/0.jpg",
+    "Bodyweight_Mid_Row/1.jpg"
+  ],
+  "id": "Bodyweight_Mid_Row"
+}

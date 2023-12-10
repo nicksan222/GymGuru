@@ -1,0 +1,25 @@
+{
+  "name": "Arricciamento del polso a cavo",
+  "force": "tira",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "cavo",
+  "primaryMuscles": [
+    "avambracci"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Inizia posizionando una panca piatta davanti ad un cavo a polpaccio basso con un'attacco a barra dritta.",
+    "Usa le braccia per afferrare la barra del cavo con una stretta presa supinata (palmi in su) e portala in alto in modo che gli avambracci si pogginano sulla parte superiore delle tue cosce. I tuoi polsi dovrebbero pendere appena oltre le ginocchia.",
+    "Inizia arricciando i polsi verso l'alto ed espirando. Mantieni la contrazione per un secondo.",
+    "Abbassa lentamente i polsi nella posizione di partenza mentre inspiri.",
+    "I tuoi avambracci dovrebbero rimanere fermi mentre il movimento del polso è l'unica cosa necessaria per eseguire questo esercizio.",
+    "Ripeti per il numero raccomandato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": [
+    "Cable_Wrist_Curl/0.jpg",
+    "Cable_Wrist_Curl/1.jpg"
+  ],
+  "id": "Cable_Wrist_Curl"
+}

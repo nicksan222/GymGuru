@@ -1,0 +1,27 @@
+{
+  "name": "Rotazione esterna con cavo",
+  "force": "Tira",
+  "level": "Principiante",
+  "meccanismo": "Isolamento",
+  "strumenti": "Cavo",
+  "muscoli primari": [
+    "spalle"
+  ],
+  "muscoli secondari": [],
+  "istruzioni": [
+    "Regolata il cavo alla stessa altezza del gomito. Stare in quadro al cavo con il lato sinistro a un paio di piedi di distanza",
+    "Agganciare la presa con la mano destra e tenere il gomito premuto saldamente contro il fianco. Si consiglia di tenere una spugna o uno strato di schiuma in posizione con il gomito per mantenerlo saldamente fermo.",
+    "Con il braccio superiore in posizione, il gomito dovrebbe essere flesso a 90 gradi con la mano che raggiunge frontale al busto. Questa sarà la posizione di partenza.",
+    "Effettua il movimento ruotando il braccio sopra il gomito in posizione."
+  ],
+  "categoria": "Forza",
+  "immagini": [
+    "Rotazione_esterna_con_cavo/0.jpg",
+    "Rotazione_esterna_con_cavo/1.jpg"
+  ],
+  "id": "External_Rotation_with_Cable",
+  "images": [
+    "External_Rotation_with_Cable/0.jpg",
+    "External_Rotation_with_Cable/1.jpg"
+  ]
+}

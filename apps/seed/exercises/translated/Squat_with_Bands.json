@@ -1,0 +1,33 @@
+{
+  "nome": "Squat con Bande",
+  "forza": "spinta",
+  "livello": "intermedio",
+  "meccanica": "composta",
+  "attrezzatura": "bilanciere",
+  "muscoliPrimari": [
+    "quadricipiti"
+  ],
+  "muscoliSecondari": [
+    "adduttori",
+    "polpacci",
+    "glutei",
+    "femorali",
+    "lombare"
+  ],
+  "istruzioni": [
+    "Preparare le bande alle aste, fissate agli supporti per bande, al rack o con manubri, in modo che sia presente una tensione adeguata",
+    "Iniziare facendo passare il bar obliquamente alle spalle. Contrarre le scapole e ruotare i gomiti in avanti, cercando di piegare il bilanciere sulle spalle. Rimuovere il bilanciere dal rack, creando un'arcata nella parte bassa della schiena, e mettersi in posizione. Posizionare i piedi larghi per enfatizzare la schiena, i glutei, gli adduttori e i femorali. Mantieni la testa rivolta in avanti",
+    "Con la schiena, le spalle e il core in tensione, spingere fuori le ginocchia e il sedere e iniziare la discesa. Sedersi all'indietro con i fianchi il più possibile. Idealmente, tibie e femori dovrebbero essere perpendicolari al suolo. La posizione più bassa del bilanciere richiede maggiore movimento del busto per mantenere il bilanciere sopra i talloni. Continuare fino a raggiungere la profondità, definita come il giunto dell'anca in linea con l'alto della gamba.",
+    "Mantieni il peso sui talloni e spingi i piedi e le ginocchia fuori, propelli verso l'alto con la testa in avanti. Continuare verso l'alto, mantenendo tensione da testa a piedi, fino a tornare alla posizione di partenza."
+  ],
+  "categoria": "powerlifting",
+  "immagini": [
+    "Squat_con_Bande/0.jpg",
+    "Squat_con_Bande/1.jpg"
+  ],
+  "id": "Squat_with_Bands",
+  "images": [
+    "Squat_with_Bands/0.jpg",
+    "Squat_with_Bands/1.jpg"
+  ]
+}

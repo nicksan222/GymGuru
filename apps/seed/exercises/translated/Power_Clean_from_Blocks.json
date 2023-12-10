@@ -1,0 +1,30 @@
+{
+  "name": "Power Clean dal Blocco",
+  "force": "tiro",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "bilanciere",
+  "primaryMuscles": [
+    "femorali"
+  ],
+  "secondaryMuscles": [
+    "quadricipiti"
+  ],
+  "instructions": [
+    "Con un bilanciere su scatole dell'altezza desiderata, prendi una presa subito fuori le gambe. Abbassa i fianchi con il peso sui talloni, schiena dritta, testa rivolta in avanti, petto in alto, con le spalle leggermente davanti al bilanciere. Questa sarà la tua posizione di partenza.",
+    "Inizia la prima trazione spingendo i talloni, estendendo le ginocchia. L'angolo della schiena dovrebbe rimanere lo stesso e le braccia dovrebbero rimanere dritte. Quando il bilanciere si avvicina alla posizione della metà coscia, inizia ad estendere i fianchi.",
+    "In un movimento di salti, accelera estendendo i fianchi, le ginocchia e le caviglie, sfruttando la velocità per spingere il bilanciere verso l'alto. Non dovrebbe essere necessario tirare attivamente tramite le braccia per accelerare il peso. Alla fine della seconda trazione, il corpo dovrebbe essere completamente esteso, leggermente indietro, con le braccia ancora estese.",
+    "Una volta ottenuta l'estensione completa, passa alla terza trazione accorciando in modo aggressivo le spalle e flettendo le braccia con i gomiti in alto e all'esterno. Al culmine dell'estensione, tira te stesso sotto il bilanciere fino a che possa essere sollevato sulle spalle, ruotando i gomiti sotto il bilanciere. Il bilanciere dovrebbe essere appoggiato sulle spalle protratte, leggermente poggiato sulla gola con le mani rilassate.",
+    "Recuperare immediatamente spingendo sui talloni, mantenendo il torso in posizione eretta e i gomiti in alto. Continua fino a che non ti sei alzato in piedi e completa la ripetizione riportando il peso sulle scatole."
+  ],
+  "categoria": "sollevamento pesi olimpico",
+  "immagini": [
+    "Power_Clean_from_Blocks/0.jpg",
+    "Power_Clean_from_Blocks/1.jpg"
+  ],
+  "id": "Power_Clean_from_Blocks",
+  "images": [
+    "Power_Clean_from_Blocks/0.jpg",
+    "Power_Clean_from_Blocks/1.jpg"
+  ]
+}

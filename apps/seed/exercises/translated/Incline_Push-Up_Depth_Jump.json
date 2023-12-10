@@ -1,0 +1,30 @@
+{
+  "name": "Affondi con Salto su un Solo Braccio",
+  "forza": "spingere",
+  "livello": "principiante",
+  "meccanismo": "composto",
+  "attrezzatura": "altro",
+  "muscoliPrimari": [
+    "petto"
+  ],
+  "muscoliSecondari": [
+    "spalle",
+    "tricipiti"
+  ],
+  "istruzioni": [
+    "Per svolgere questo esercizio avrai bisogno di una scatola alta circa 12 pollici e di due tappeti o step aerobici.",
+    "Posiziona gli step appena al di fuori delle spalle e metti i piedi sopra la scatola in modo da assumere una posizione di affondo con inclinazione, con le mani all'interno degli step. Questa sarà la tua posizione di partenza.",
+    "Inizia piegando i gomiti per abbassare il corpo, invertendo rapidamente la posizione per spingere il corpo in alto dal suolo. Mentre lasci il suolo, sposta le mani sugli step, piegando i gomiti per assorbire l'impatto.",
+    "Ripeti il movimento per tornare alla posizione di partenza."
+  ],
+  "categoria": "pliometria",
+  "immagini": [
+    "Affondi_con_Salto_su_un_Solo_Braccio/0.jpg",
+    "Affondi_con_Salto_su_un_Solo_Braccio/1.jpg"
+  ],
+  "id": "Incline_Push-Up_Depth_Jump",
+  "images": [
+    "Incline_Push-Up_Depth_Jump/0.jpg",
+    "Incline_Push-Up_Depth_Jump/1.jpg"
+  ]
+}

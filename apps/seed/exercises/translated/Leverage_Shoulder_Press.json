@@ -1,0 +1,28 @@
+{
+  "name": "Esercizio aiutato di spalla",
+  "forza": "spinta",
+  "livello": "principiante",
+  "meccanica": "composto",
+  "attrezzatura": "macchina",
+  "primaryMuscles": [
+    "spalle"
+  ],
+  "secondaryMuscles": [
+    "tricipiti"
+  ],
+  "instructions": [
+    "Caricare un peso appropriato sui pioli e regolare il sedile per la propria altezza. Le maniglie dovrebbero essere vicine all'alto delle spalle all'inizio del movimento. Il torace e la testa dovrebbero essere sollevati e le maniglie tenute con una presa pronata. Questa sarà la posizione di partenza.",
+    "Spingere le maniglie verso l'alto estendendosi attraverso il gomito.",
+    "Dopo una breve pausa in alto, riportare il peso leggermente sopra alla posizione di partenza, mantenendo la tensione sui muscoli evitando di riportare il peso sui fermi finché il set non è completo."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Leverage_Shoulder_Press/0.jpg",
+    "Leverage_Shoulder_Press/1.jpg"
+  ],
+  "id": "Leverage_Shoulder_Press",
+  "images": [
+    "Leverage_Shoulder_Press/0.jpg",
+    "Leverage_Shoulder_Press/1.jpg"
+  ]
+}

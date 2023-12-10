@@ -1,0 +1,27 @@
+{
+  "name": "Medicine Ball Chest Pass",
+  "force": "spinta",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "palla medicinale",
+  "primaryMuscles": [
+    "petto"
+  ],
+  "secondaryMuscles": [
+    "spalle",
+    "tricipiti"
+  ],
+  "instructions": [
+    "Avrai bisogno di un partner per questo esercizio. Se non ne hai uno, puoi eseguire questo movimento contro un muro.",
+    "Inizia rivolgendoti al tuo partner tenendo la palla medicinale al torace con entrambe le mani.",
+    "Tira la palla al petto e inverte il movimento estendendoti attraverso i gomiti. Per applicazioni sportive, puoi fare un passo durante il lancio.",
+    "Il tuo partner dovrebbe prendere la palla e lanciartela di nuovo.",
+    "Ricevi il lancio con entrambe le mani all'altezza del petto."
+  ],
+  "category": "pliometria",
+  "images": [
+    "Medicine_Ball_Chest_Pass/0.jpg",
+    "Medicine_Ball_Chest_Pass/1.jpg"
+  ],
+  "id": "Medicine_Ball_Chest_Pass"
+}

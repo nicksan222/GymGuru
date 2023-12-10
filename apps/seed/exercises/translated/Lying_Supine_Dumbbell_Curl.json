@@ -1,0 +1,24 @@
+{
+  "name": "Curl supino sdraiato con manubri",
+  "force": "tirare",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "manubrio",
+  "primaryMuscles": [
+    "bicipiti"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sdraiati su una panca piatta, oppositi, mentre tieni un manubrio in ogni braccio, sopra le cosce.",
+    "Porta i manubri ai lati, con gli bracci tesi e i palmi delle mani rivolti verso le cosce (presa neutra).",
+    "Mentre mantieni gli bracci vicini al busto e i gomiti dentro, abbassa lentamente i bracci (tenendoli sempre tesi con una leggera piega ai gomiti) fino a che non possono più scendere. Una volta raggiunta la minima distanza, blocca gli bracci in quella posizione, che sarà la posizione di partenza.",
+    "Mentre inspiri, inizia lentamente a sollevare i pesi mentre simultaneamente ruoti i polsi in modo che i palmi delle mani vadano verso l'alto. Continua a bicipitare fino a che i bicipiti saranno completamente contratti e stringi forte nella posizione più alta per un secondo.Tip: Solo gli avambracci dovrebbero muoversi. Gli bracci superiori dovrebbero rimanere fermi e i gomiti dovrebbero rimanere dentro durante il movimento.",
+    "Torna lentamente alla posizione di partenza."
+  ],
+  "category": "resistenza",
+  "images": [
+    "Lying_Supine_Dumbbell_Curl/0.jpg",
+    "Lying_Supine_Dumbbell_Curl/1.jpg"
+  ],
+  "id": "Lying_Supine_Dumbbell_Curl"
+}

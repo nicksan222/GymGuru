@@ -1,0 +1,29 @@
+{
+  "name": "Dumbbell Bicep Curl",
+  "force": "trazione",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "manubrio",
+  "primaryMuscles": [
+    "bicipiti"
+  ],
+  "secondaryMuscles": [
+    "avambracci"
+  ],
+  "instructions": [
+    "Rimanere in piedi con un manubrio in ogni mano alla lunghezza delle braccia. Mantenere i gomiti vicini al torace e ruotare i palmi delle mani finché non sono rivolti in avanti. Questa sarà la posizione di partenza.",
+    "Ora, tenendo fermi gli upper arm, espirare e arricciare i pesi mentre si contraggono i bicipiti. Continuare ad alzare i pesi finché i bicipiti non sono completamente contratti e i manubri si trovano al livello delle spalle. Mantenere la posizione contratta per una breve pausa mentre si stringono i bicipiti.",
+    "Quindi, inspirare e lentamente iniziare a abbassare i manubri alla posizione di partenza.",
+    "Ripetere per il numero raccomandato di ripetizioni."
+  ],
+  "categoria": "forza",
+  "Immagini": [
+    "Dumbbell_Bicep_Curl/0.jpg",
+    "Dumbbell_Bicep_Curl/1.jpg"
+  ],
+  "id": "Dumbbell_Bicep_Curl",
+  "images": [
+    "Dumbbell_Bicep_Curl/0.jpg",
+    "Dumbbell_Bicep_Curl/1.jpg"
+  ]
+}

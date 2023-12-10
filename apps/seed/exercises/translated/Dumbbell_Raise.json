@@ -1,0 +1,29 @@
+{
+  "nome": "Dumbbell Raise",
+  "forza": "tiro",
+  "livello": "principiante",
+  "meccanismo": "composto",
+  "attrezzatura": "manubrio",
+  "muscoliPrimari": [
+    "spalle"
+  ],
+  "muscoliSecondari": [
+    "bicipiti"
+  ],
+  "istruzioni": [
+    "Agganciare un manubrio in ogni braccio e stare in piedi con le braccia estese sui lati con una leggera flessione sui gomiti e con la schiena dritta. Questa è la posizione di partenza. Suggerimento: il manubrio dovrebbe essere accanto alle cosce con il palmo delle mani rivolto all'indietro.",
+    "Usare le spalle laterali per alzare i manubri mentre si espira. I manubri dovrebbero essere di lato al corpo mentre li si solleva. Continuare a sollevare fino a quando i manubri sono quasi in linea con il mento. Suggerimento: i gomiti dovrebbero guidare il movimento. Mentre si solleva il manubrio, il gomito dovrebbe essere sempre più alto dell'avambraccio. Inoltre, mantenere il busto immobile e mettere in pausa per un secondo all'apice del movimento.",
+    "Abbassare lentamente i manubri alla posizione di partenza. Inspirare mentre si esegue questa parte del movimento.",
+    "Ripetere per il numero consigliato di ripetizioni."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Dumbbell_Raise/0.jpg",
+    "Dumbbell_Raise/1.jpg"
+  ],
+  "id": "Dumbbell_Raise",
+  "images": [
+    "Dumbbell_Raise/0.jpg",
+    "Dumbbell_Raise/1.jpg"
+  ]
+}

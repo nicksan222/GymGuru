@@ -1,0 +1,25 @@
+{
+  "name": "Esercizio squat a corpo libero",
+  "force": "spinta",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "solo corpo",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "glutei",
+    "femorali"
+  ],
+  "instructions": [
+    "Posizionati con i piedi alla larghezza delle spalle. Puoi posizionare le mani dietro la testa. Questa sarà la tua posizione di partenza.",
+    "Inizia il movimento flettendo ginocchia e anca, retrocedendo con i fianchi.",
+    "Continua a scendere fino ad arrivare alla massima profondità se riesci, e poi inverti rapidamente il movimento fino a tornare alla posizione di partenza. Mentre fai lo squat, mantieni la testa e il petto sollevati e spingi le ginocchia verso l'esterno."
+  ],
+  "category": "forza",
+  "images": [
+    "Bodyweight_Squat/0.jpg",
+    "Bodyweight_Squat/1.jpg"
+  ],
+  "id": "Bodyweight_Squat"
+}

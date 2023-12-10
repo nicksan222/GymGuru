@@ -1,0 +1,27 @@
+{
+  "nome": "Seated Triceps Press",
+  "forza": "spinge",
+  "livello": "principiante",
+  "meccanica": "isolamento",
+  "attrezzatura": "manubrio",
+  "muscoliPrimari": [
+    "tricpo"
+  ],
+  "muscoliSecondari": [],
+  "istruzioni": [
+    "Sedersi su una panca con schienale e impugnare un manubrio con entrambe le mani e tenerlo in alto in posizione estesa. Suggerimento: un modo migliore è che qualcuno te lo dia soprattutto se è molto pesante. La resistenza dovrebbe poggiare nei palmi delle mani con i pollici intorno. Il palmo della mano dovrebbe essere rivolto verso l'interno. Questa sarà la tua posizione di partenza. ",
+    " Mantieni i tuoi braccia vicini alla tua testa (gomiti in) e perpendicolari al pavimento, abbassa la resistenza in un movimento semicircolare dietro la testa fino a quando le tue avambraccia toccano i bicipiti. Suggerimento: i braccia superiori dovrebbero restare fermi e solo le avambraccia dovrebbero muoversi. Inspira mentre esegui questo passaggio. ",
+    " Torna alla posizione di partenza utilizzando i tricipiti per sollevare l'haltello. Espira mentre esegui questo passaggio. ",
+    " Ripeti per il numero raccomandato di ripetizioni."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Seated_Triceps_Press/0.jpg",
+    "Seated_Triceps_Press/1.jpg"
+  ],
+  "id": "Seated_Triceps_Press",
+  "images": [
+    "Seated_Triceps_Press/0.jpg",
+    "Seated_Triceps_Press/1.jpg"
+  ]
+}

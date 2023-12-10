@@ -1,0 +1,30 @@
+{
+  "name": "Esercizio di sollevamento dei glutei a terra",
+  "forza": "tirare",
+  "livello": "intermedio",
+  "meccanica": "isolamento",
+  "attrezzatura": null,
+  "muscoliPrimari": [
+    "muscoli posteriori della coscia"
+  ],
+  "muscoliSecondari": [
+    "polpacci",
+    "glutei"
+  ],
+  "istruzioni": [
+    "È possibile utilizzare un partner per questo esercizio o fissare i piedi sotto qualcosa di stabile.",
+    "Inizia in ginocchio con le gambe superiori e il busto in posizione eretta. Se utilizzi un partner, ti terrà saldamente i piedi per mantenerti in posizione. Questa sarà la tua posizione di partenza.",
+    "Abbassa il tuo corpo estendendoti al ginocchio, facendo attenzione a NON flettere i fianchi mentre vai avanti.",
+    "Metti le mani di fronte a te mentre raggiungi il pavimento. Questo movimento è molto difficile e potresti non essere in grado di farlo senza aiuto. Usa le braccia per spingerti leggermente sul pavimento per aiutarti a tornare alla posizione di partenza."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Floor_Glute-Ham_Raise/0.jpg",
+    "Floor_Glute-Ham_Raise/1.jpg"
+  ],
+  "id": "Floor_Glute-Ham_Raise",
+  "images": [
+    "Floor_Glute-Ham_Raise/0.jpg",
+    "Floor_Glute-Ham_Raise/1.jpg"
+  ]
+}

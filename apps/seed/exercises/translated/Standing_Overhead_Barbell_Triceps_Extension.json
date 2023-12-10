@@ -1,0 +1,31 @@
+{
+  "name": "Elevazione della Barra sopra la Testa per la Prendita dei Tricipiti in Piedi",
+  "force": "spingere",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipaggiamento": "barra",
+  "muscoliPrimari": [
+    "tricipiti"
+  ],
+  "muscoliSecondari": [
+    "spalle"
+  ],
+  "istruzioni": [
+    "Per iniziare, mettiti in piedi tenendo una barra o una barra e-z con una presa pronata (mani rivolte in avanti) con le mani più vicine l'una all'altra rispetto alla larghezza delle spalle. I tuoi piedi dovrebbero essere larghi circa la larghezza delle spalle.",
+    "Ora solleva la barra sopra la testa fino a quando le braccia sono completamente estese. Mantieni i gomiti vicini. Questa sarà la tua posizione di partenza.",
+    "Tenendo i tuoi gomiti vicini alla testa e i gomiti, perpendicolari al pavimento, abbassa la resistenza in un movimento semicircolare dietro alla testa fino a quando le braccia toccano i bicipiti. Suggerimento: le braccia superiori dovrebbero rimanere immobili e solo gli avambracci dovrebbero muoversi. Respira durante questa fase.",
+    "Torna alla posizione di partenza utilizzando i tricipiti per sollevare la barra. Respira durante questa fase.",
+    "Ripeti per il numero di ripetizioni consigliato."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Elevazione_della_Barra_sopra_la_Testa_per_la_Prendita_dei_Tricipiti_in_Piedi/0.jpg",
+    "Elevazione_della_Barra_sopra_la_Testa_per_la_Prendita_dei_Tricipiti_in_Piedi/1.jpg"
+  ],
+  "ID": "Elevazione_della_Barra_sopra_la_Testa_per_la_Prendita_dei_Tricipiti_in_Piedi",
+  "id": "Standing_Overhead_Barbell_Triceps_Extension",
+  "images": [
+    "Standing_Overhead_Barbell_Triceps_Extension/0.jpg",
+    "Standing_Overhead_Barbell_Triceps_Extension/1.jpg"
+  ]
+}

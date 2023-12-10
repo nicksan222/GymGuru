@@ -1,0 +1,29 @@
+{
+  "nome": "Drill Braccia in Ginocchio",
+  "forza": "tirare",
+  "livello": "principiante",
+  "meccanico": null,
+  "attrezzatura": null,
+  "muscoliPrimari": [
+    "spalle"
+  ],
+  "muscoliSecondari": [
+    "addominali"
+  ],
+  "istruzioni": [
+    "Questo esercizio aiuta ad aumentare l'efficienza delle braccia durante la corsa. Inizia in ginocchio, con il piede sinistro davanti e il ginocchio destro a terra. Applica pressione sul tallone anteriore per mantenere attivi i glutei e gli ischiocrurali.",
+    "Inizia bloccando le braccia in lunghi movimenti pendolari. Chiudi l'angolo del braccio, bloccando le braccia come faresti durante la corsa, passando poi a una corsa e infine a una sprint.",
+    "Appena le mani superano l'anca, accelera il movimento delle braccia durante la corsa per muoverle il più velocemente possibile.",
+    "Scambia il ginocchio e ripeti."
+  ],
+  "categoria": "pliometria",
+  "immagini": [
+    "Drill_Braccia_in_Ginocchio/0.jpg",
+    "Drill_Braccia_in_Ginocchio/1.jpg"
+  ],
+  "id": "Kneeling_Arm_Drill",
+  "images": [
+    "Kneeling_Arm_Drill/0.jpg",
+    "Kneeling_Arm_Drill/1.jpg"
+  ]
+}

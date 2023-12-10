@@ -1,0 +1,28 @@
+{
+  "name": "Prowler Sprint",
+  "force": "spingi",
+  "level": "principiante",
+  "mechanic": "complesso",
+  "equipment": "altro",
+  "primaryMuscles": [
+    "muscoli posteriori della coscia"
+  ],
+  "secondaryMuscles": [
+    "polpacci",
+    "pettorali",
+    "glutei",
+    "quadriceps",
+    "spalle"
+  ],
+  "instructions": [
+    "Posizionare la slitta su una superficie adeguata, caricandola con un peso adatto. La slitta deve fornire una resistenza sufficiente per richiedere sforzo, ma non così pesante da rallentarti significativamente.",
+    "Puoi utilizzare le maniglie dritte o basse per questo esercizio. Metti le mani sulle maniglie con le braccia tese, inclinandoti verso l'apparecchio.",
+    "Con una buona postura, spingi il terreno con passi brevi e alternati. Muoviti il più velocemente possibile per una breve distanza."
+  ],
+  "category": "cardio",
+  "images": [
+    "Prowler_Sprint/0.jpg",
+    "Prowler_Sprint/1.jpg"
+  ],
+  "id": "Prowler_Sprint"
+}

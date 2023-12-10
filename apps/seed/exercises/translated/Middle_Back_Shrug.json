@@ -1,0 +1,23 @@
+{
+  "name": "Middle Back Shrug",
+  "force": "tiro",
+  "level": "intermedio",
+  "mechanic": "isolamento",
+  "equipment": "manubrio",
+  "primaryMuscles": [
+    "dorso"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sdraiati a pancia in giù su una panca inclinata tenendo un manubrio in ogni mano. Le braccia dovrebbero essere completamente distese e pendere verso il pavimento. I palmi delle mani dovrebbero essere rivolti l'uno verso l'altro. Questa sarà la posizione di partenza.",
+    "Mentre espiri, stringi le scapole insieme e mantieni la contrazione per un secondo. Suggerimento: questo movimento è simile all'azione inversa di un abbraccio, o come se stessi cercando di fare delle apertura posteriori senza braccia.",
+    "Mentre inspiri, torna alla posizione di partenza.",
+    "Ripeti per il numero di ripetizioni consigliato."
+  ],
+  "category": "forza",
+  "images": [
+    "Middle_Back_Shrug/0.jpg",
+    "Middle_Back_Shrug/1.jpg"
+  ],
+  "id": "Middle_Back_Shrug"
+}

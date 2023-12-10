@@ -1,0 +1,33 @@
+{
+  "name": "Accovacciata con Movers a Piastra",
+  "force": "spingere",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "bilanciere",
+  "primaryMuscles": [
+    "quadricipiti"
+  ],
+  "secondaryMuscles": [
+    "abduttori",
+    "adduttori",
+    "polpacci",
+    "glutei",
+    "femorali"
+  ],
+  "instructions": [
+    "Per iniziare, posiziona il bilanciere su un supporto appena sotto il livello delle spalle. Posiziona una piastra per pesi sul pavimento a un paio di piedi di distanza dal supporto. Una volta caricato il bilanciere, posizionati sotto di esso e appoggia la schiena sul supporto.",
+    "Afferrare il bilanciere con entrambe le mani e sollevalo dal supporto, spingendo prima con le gambe e allo stesso tempo distendendo il torso.",
+    "Allontanati dal supporto e adotta una posizione con i piedi larghi e le dita dei piedi leggermente rivolte verso l'esterno, con un piede sulla piastra. Mantieni sempre la testa alta. Questa sarà la tua posizione di partenza.",
+    "Inizia a scendere lentamente abbassando il bilanciere piegando le ginocchia e i fianchi. Continua fino a quando l'angolo tra la coscia e i polpacci diventa leggermente inferiore a 90 gradi.",
+    "Solleva il bilanciere espirando, spingendo con i talloni dei piedi e estendendo fianchi e ginocchia.",
+    "In cima al movimento, fai un passo laterale portando i piedi insieme sul lato opposto della piastra.",
+    "Usando il piede interno, spingi la piastra per pesi facendola scorrere sul pavimento verso dove hai appena posizionato i piedi.",
+    "Posiziona il piede interno sulla piastra, adottando una posizione con i piedi larghi per la prossima ripetizione."
+  ],
+  "category": "forza",
+  "images": [
+    "Squat_with_Plate_Movers/0.jpg",
+    "Squat_with_Plate_Movers/1.jpg"
+  ],
+  "id": "Squat_with_Plate_Movers"
+}

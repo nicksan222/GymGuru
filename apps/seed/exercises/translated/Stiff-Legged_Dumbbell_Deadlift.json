@@ -1,0 +1,27 @@
+{
+  "name": "Stiff-Legged Dumbbell Deadlift",
+  "force": "tirare",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "manubrio",
+  "primaryMuscles": [
+    "muscoli posteriori della coscia"
+  ],
+  "secondaryMuscles": [
+    "glutei",
+    "parte bassa della schiena"
+  ],
+  "instructions": [
+    "Afferra un paio di manubri tenendoli ai lati del corpo con le braccia distese.",
+    "Stai dritto con il busto e le gambe distanziate con una larghezza delle spalle o una posizione più stretta. Le ginocchia dovrebbero essere leggermente piegate. Questa è la tua posizione di partenza.",
+    "Mantenendo le ginocchia ferme, abbassa i manubri sopra le punte dei piedi piegandoti in vita mantenendo la schiena dritta. Continua a muoverti in avanti come se dovessi raccogliere qualcosa dal pavimento finché non senti uno stiramento sui muscoli posteriori della coscia. Espira durante questo movimento.",
+    "Inizia a portare di nuovo il busto dritto, estendendo le anche e la vita fino a tornare alla posizione di partenza. Inspira durante questo movimento.",
+    "Ripeti per il numero consigliato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": [
+    "Stiff-Legged_Dumbbell_Deadlift/0.jpg",
+    "Stiff-Legged_Dumbbell_Deadlift/1.jpg"
+  ],
+  "id": "Stiff-Legged_Dumbbell_Deadlift"
+}

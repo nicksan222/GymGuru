@@ -1,0 +1,25 @@
+{
+  "nome": "Looking At Ceiling",
+  "forza": "statico",
+  "livello": "principiante",
+  "meccanico": "isolamento",
+  "attrezzatura": null,
+  "muscoliPrimari": [
+    "quadricipiti"
+  ],
+  "muscoliSecondari": [],
+  "istruzioni": [
+    "Inginocchiati sul pavimento, tenendo i talloni con entrambe le mani.",
+    "Solleva i glutei in su e in avanti mentre porti la testa all'indietro per guardare il soffitto, per dare un'arcata alla schiena."
+  ],
+  "categoria": "stretching",
+  "immagini": [
+    "Looking_At_Ceiling/0.jpg",
+    "Looking_At_Ceiling/1.jpg"
+  ],
+  "id": "Looking_At_Ceiling",
+  "images": [
+    "Looking_At_Ceiling/0.jpg",
+    "Looking_At_Ceiling/1.jpg"
+  ]
+}

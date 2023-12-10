@@ -1,0 +1,28 @@
+{
+  "nome": "Single-Arm Cable Crossover",
+  "forza": "spingere",
+  "livello": "principiante",
+  "meccanica": "isolamento",
+  "attrezzatura": "cavo",
+  "muscoliPrimari": [
+    "petto"
+  ],
+  "muscoliSecondari": [],
+  "istruzioni": [
+    "Iniziare spostando le carrucole in posizione alta, selezionare la resistenza da utilizzare e prendere una maniglia in ogni mano.",
+    "Avanzare di fronte alle due carrucole con le braccia estese verso il basso, portando le mani insieme. La testa e il petto devono essere sollevati mentre si inclina in avanti, mentre i piedi devono essere posizionati in modo sfalsato. Questa sarà la tua posizione di partenza.",
+    "Mantenendo il braccio sinistro in posizione, permetti al braccio destro di estendersi lateralmente, mantenendo una leggera flessione del gomito. Il braccio destro dovrebbe essere perpendicolare al corpo, a circa altezza della spalla.",
+    "Riporta il braccio alla posizione di partenza tirando la mano verso il centro del corpo.",
+    "Mantieni la posizione per un secondo e ripeti il movimento sul lato opposto. Continua ad alternare avanti e indietro per il numero prescritto di ripetizioni."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Single-Arm_Cable_Crossover/0.jpg",
+    "Single-Arm_Cable_Crossover/1.jpg"
+  ],
+  "id": "Single-Arm_Cable_Crossover",
+  "images": [
+    "Single-Arm_Cable_Crossover/0.jpg",
+    "Single-Arm_Cable_Crossover/1.jpg"
+  ]
+}

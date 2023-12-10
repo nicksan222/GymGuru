@@ -1,0 +1,26 @@
+{
+  "name": "Pressa panca con manubri a presa neutra",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "combinata",
+  "equipment": "manubri",
+  "primaryMuscles": [
+    "petto"
+  ],
+  "secondaryMuscles": [
+    "spalle",
+    "tricipiti"
+  ],
+  "instructions": [
+    "Prendere un manubrio in ogni mano e sdraiarsi su una panca piatta. I piedi devono essere appoggiati a terra e le scapole retratte.",
+    "Mantenendo una presa neutrale, con i palmi delle mani rivolti l'uno verso l'altro, iniziare con le braccia estese direttamente sopra la testa, perpendicolari al pavimento. Questa sarà la posizione di partenza.",
+    "Iniziare il movimento flettendo il gomito, abbassando le braccia superiori ai lati. Scendere finché i manubri non saranno vicino al torace.",
+    "Fermarsi, quindi estendere il gomito e tornare alla posizione di partenza."
+  ],
+  "category": "forza",
+  "images": [
+    "Dumbbell_Bench_Press_with_Neutral_Grip/0.jpg",
+    "Dumbbell_Bench_Press_with_Neutral_Grip/1.jpg"
+  ],
+  "id": "Dumbbell_Bench_Press_with_Neutral_Grip"
+}

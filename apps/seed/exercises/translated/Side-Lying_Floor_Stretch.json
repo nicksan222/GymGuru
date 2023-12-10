@@ -1,0 +1,21 @@
+{
+  "name": "Posizione laterale a terra di allungare",
+  "force": "statico",
+  "level": "principiante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Innanzitutto, sdraiati sul tuo lato sinistro, piegando il ginocchio sinistro di fronte a te per stabilizzare il tuo torso (utilizza anche i tuoi muscoli addominali per mantenerti eretto).",
+    "Distanzia la gamba destra e appoggia il piede destro sul pavimento dietro la sinistra. Stendi il braccio destro sopra la testa e tira delicatamente il polso destro per allungare l'intero lato destro del corpo. Cambia lato."
+  ],
+  "category": "stretching",
+  "images": [
+    "Side-Lying_Floor_Stretch/0.jpg",
+    "Side-Lying_Floor_Stretch/1.jpg"
+  ],
+  "id": "Side-Lying_Floor_Stretch"
+}

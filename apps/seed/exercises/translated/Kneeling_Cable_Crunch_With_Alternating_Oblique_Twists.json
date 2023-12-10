@@ -1,0 +1,28 @@
+{
+  "name": "Kneeling Cable Crunch With Alternating Oblique Twists",
+  "force": "tirare",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "cavo",
+  "primaryMuscles": [
+    "addominali"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Collegare una presa a una cima alta e posizionare un tappetino sul pavimento di fronte ad essa.",
+    "Afferrare il cavo con entrambe le mani e inginocchiarsi a circa due piedi dalla torretta.",
+    "Posizionare il cavo dietro la testa con le mani vicino alle orecchie.",
+    "Mantenere le mani nello stesso posto, contrarre gli addominali e tirare verso il basso sul cavo in un movimento di crunch fino a quando i gomiti raggiungono le ginocchia.",
+    "Pausa brevemente in basso e risalire in modo lento e controllato fino a raggiungere la posizione di partenza.",
+    "Ripetere lo stesso movimento verso il basso fino a metà, momento in cui si inizierà a ruotare uno dei gomiti verso il ginocchio opposto.",
+    "Di nuovo, pausa brevemente in basso e risalire in modo lento e controllato fino a raggiungere la posizione di partenza.",
+    "Ripetere lo stesso movimento come prima, ma alternare l'altro gomito all'altro ginocchio.",
+    "Continuare questa serie di movimenti fino alla fatica."
+  ],
+  "category": "forza",
+  "images": [
+    "Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists/0.jpg",
+    "Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists/1.jpg"
+  ],
+  "id": "Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists"
+}

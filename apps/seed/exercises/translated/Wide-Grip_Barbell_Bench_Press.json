@@ -1,0 +1,26 @@
+{
+  "name": "Sollevamento pesi su panca a presa larga con bilanciere",
+  "force": "spingere",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "bilanciere",
+  "primaryMuscles": [
+    "petto"
+  ],
+  "secondaryMuscles": [
+    "spalle",
+    "tricipiti"
+  ],
+  "instructions": [
+    "Sdraiarsi sulla panca piatta con i piedi fermi a terra. Utilizzare una presa ampia e pronata (palmi in avanti) che sia di circa 3 pollici più larga della larghezza delle spalle (per ognuna delle mani), sollevare la barra dal supporto e mantenerla dritta sopra di te con le braccia bloccate. La barra sarà perpendicolare al torace e al pavimento. Questa sarà la posizione di partenza.",
+    "Inspirate mentre scendete lentamente fino a sentire la barra sul petto centrale.",
+    "Dopo una pausa di un secondo, riportare la barra alla posizione di partenza espirando e spingendo la barra utilizzando i muscoli del petto. Bloccate le braccia e stringete il petto nella posizione contratta, mantenete per un secondo e poi iniziate a scendere lentamente di nuovo. Consiglio: Ci dovrebbe volere almeno il doppio del tempo per scendere rispetto a salire.",
+    "Ripetete il movimento per il numero di ripetizioni prescritto."
+  ],
+  "category": "forza",
+  "images": [
+    "Wide-Grip_Barbell_Bench_Press/0.jpg",
+    "Wide-Grip_Barbell_Bench_Press/1.jpg"
+  ],
+  "id": "Wide-Grip_Barbell_Bench_Press"
+}

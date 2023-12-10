@@ -1,0 +1,27 @@
+{
+  "name": "Compressa di chiusura della macchina di Smith",
+  "force": "spinta",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "macchina",
+  "primaryMuscles": [
+    "tricipiti"
+  ],
+  "secondaryMuscles": [
+    "petto",
+    "spalle"
+  ],
+  "instructions": [
+    "Posizionare una panca piatta sotto la macchina di Smith. Posizionare la sbarra ad un'altezza che è raggiungibile quando si è sdraiati e le braccia sono quasi completamente estese. Una volta selezionato il peso necessario, sdraiati sulla panca piatta. Usando una stretta e presa pronata (mani rivolte in avanti) che sia sulla larghezza delle spalle, staccare la barra dal supporto e tenerla dritta sopra di te con le braccia bloccate. Questa sarà la posizione di partenza.",
+    "Mentre inspiri, scendi lentamente fino a sentire la barra sul tuo petto medio. Suggerimento: Assicurati che, a differenza di un normale bench press, mantieni i gomiti vicino al torace in ogni momento per massimizzare il coinvolgimento dei tricipiti.",
+    "Dopo una pausa di un secondo, riporta la barra alla posizione di partenza mentre espiri e spingi la barra usando i tuoi muscoli tricipiti. Blocca le braccia nella posizione contratta, tieni premuto per un secondo e poi ricomincia a scendere lentamente. Suggerimento: Ci dovrebbe volere almeno il doppio del tempo per scendere rispetto a quello per salire.",
+    "Ripeti il movimento per il numero prescritto di ripetizioni.",
+    "Quando hai finito, rimetti la barra nel supporto."
+  ],
+  "category": "forza",
+  "images": [
+    "Smith_Machine_Close-Grip_Bench_Press/0.jpg",
+    "Smith_Machine_Close-Grip_Bench_Press/1.jpg"
+  ],
+  "id": "Smith_Machine_Close-Grip_Bench_Press"
+}

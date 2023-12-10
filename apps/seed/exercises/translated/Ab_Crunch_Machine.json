@@ -1,0 +1,23 @@
+{
+  "name": "Macchina per l'allenamento degli addominali",
+  "force": "tirare",
+  "level": "intermedio",
+  "mechanic": "isolamento",
+  "equipment": "macchina",
+  "primaryMuscles": [
+    "addominali"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Seleziona una resistenza leggera e siediti sulla macchina per gli addominali posizionando i piedi sotto i cuscinetti forniti e afferrando le maniglie superiori. Le braccia dovrebbero essere piegate a un angolo di 90 gradi e i tricipiti dovrebbero poggiare sui cuscinetti forniti. Questa sarà la tua posizione di partenza.",
+    "Nello stesso momento, inizia a sollevare le gambe mentre pieghi il torace superiore. Espira durante questo movimento. Suggerimento: Assicurati di usare un movimento lento e controllato. Concentrati sull'uso degli addominali per sollevare il peso mantenendo rilassate le gambe e i piedi.",
+    "Dopo una pausa di un secondo, torna lentamente alla posizione di partenza inspirando.",
+    "Ripeti il movimento per il numero prescritto di ripetizioni."
+  ],
+  "category": "forza",
+  "images": [
+    "Ab_Crunch_Machine/0.jpg",
+    "Ab_Crunch_Machine/1.jpg"
+  ],
+  "id": "Ab_Crunch_Machine"
+}

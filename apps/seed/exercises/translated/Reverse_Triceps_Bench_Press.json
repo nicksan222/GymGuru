@@ -1,0 +1,31 @@
+{
+  "nome": "Reverse Triceps Bench Press",
+  "forza": "spingere",
+  "livello": "intermedio",
+  "meccanica": "composta",
+  "attrezzatura": "bilancere",
+  "muscoliPrimari": [
+    "tricipiti"
+  ],
+  "muscoliSecondari": [
+    "petto",
+    "spalle"
+  ],
+  "istruzioni": [
+    "Distenditi su una panca piatta. Utilizzando una presa stretta ed supinata (circa larghezza delle spalle), prendi la barra dal supporto e tienila dritta sopra di te con le braccia completamente estese davanti a te e perpendicolari al pavimento. Questa sarà la tua posizione di partenza.",
+    "Mentre inspiri, scendi lentamente fino a sentire la barra sul tuo petto medio. Suggerimento: Assicurati che, a differenza di una panca normale, mantieni i gomiti vicino al torso in ogni momento per massimizzare il coinvolgimento dei tricipiti.",
+    "Dopo una pausa di un secondo, riporta la barra alla posizione di partenza mentre espiri e spingi la barra con i tuoi muscoli tricipiti. Blocca le braccia nella posizione contratta, tieni per un secondo e riprendi a scendere lentamente. Suggerimento: Ci dovrebbe volere almeno il doppio del tempo per scendere che per salire.",
+    "Ripeti il movimento per il numero prescritto di ripetizioni.",
+    "Quando hai finito, rimetti la barra nel supporto."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Reverse_Triceps_Bench_Press/0.jpg",
+    "Reverse_Triceps_Bench_Press/1.jpg"
+  ],
+  "id": "Reverse_Triceps_Bench_Press",
+  "images": [
+    "Reverse_Triceps_Bench_Press/0.jpg",
+    "Reverse_Triceps_Bench_Press/1.jpg"
+  ]
+}

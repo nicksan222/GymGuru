@@ -1,0 +1,23 @@
+{
+  "name": "Side Lateral Raise",
+  "force": "spingere",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "manubrio",
+  "primaryMuscles": [
+    "spalle"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Prendi un paio di manubri in mano e mettiti in piedi con il busto ben dritto e le braccia lungo i fianchi a braccia tese, con i palmi delle mani rivolti verso di te. Questa sarà la posizione di partenza.",
+    "Mentre mantieni il busto in una posizione ferma (senza oscillare), solleva i manubri ai lati fino ad un leggero piego del gomito e le mani leggermente inclinate in avanti come se fossero in un bicchiere d'acqua. Continua ad andare verso l'alto finché le braccia non sono parallele al pavimento. Espira mentre esegui questo movimento e fai una pausa di un secondo in alto.",
+    "Abbassa lentamente i manubri alla posizione di partenza mentre inspiri.",
+    "Ripeti per il numero consigliato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": [
+    "Side_Lateral_Raise/0.jpg",
+    "Side_Lateral_Raise/1.jpg"
+  ],
+  "id": "Side_Lateral_Raise"
+}

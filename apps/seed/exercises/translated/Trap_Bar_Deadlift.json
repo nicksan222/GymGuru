@@ -1,0 +1,30 @@
+{
+  "name": "Sollevamento con la barra a trappola",
+  "force": "tira",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "altro",
+  "primaryMuscles": [
+    "quadricipiti"
+  ],
+  "secondaryMuscles": [
+    "glutei",
+    "femori"
+  ],
+  "instructions": [
+    "Per questo esercizio carica una barra a trappola, nota anche come barra esagonale, con un peso appropriato poggiato a terra. Stai al centro dell'apparecchio e afferra entrambe le maniglie.",
+    "Abbassa i fianchi, guarda avanti con la testa e mantieni il petto sollevato.",
+    "Inizia il movimento spingendo con i talloni ed estendi fianchi e ginocchia. Evita di arrotondare la schiena in qualsiasi momento.",
+    "Al termine del movimento, riporta il peso a terra sotto controllo."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Trap_Bar_Deadlift/0.jpg",
+    "Trap_Bar_Deadlift/1.jpg"
+  ],
+  "id": "Trap_Bar_Deadlift",
+  "images": [
+    "Trap_Bar_Deadlift/0.jpg",
+    "Trap_Bar_Deadlift/1.jpg"
+  ]
+}

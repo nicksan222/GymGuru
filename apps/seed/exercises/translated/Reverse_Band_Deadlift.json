@@ -1,0 +1,29 @@
+{
+  "name": "Reverse Band Deadlift",
+  "force": "tirare",
+  "level": "esperto",
+  "mechanic": "composto",
+  "equipment": "bilanciere",
+  "primaryMuscles": [
+    "muscoli lombari"
+  ],
+  "secondaryMuscles": [
+    "glutei",
+    "adduttori",
+    "flessori della coscia",
+    "quadricipiti"
+  ],
+  "instructions": [
+    "Posizionare il bilanciere in una power rack. Fissare le fasce sulla parte superiore della rack, utilizzando i pins delle fasce o la struttura stessa. Fissare l'altra estremità delle fasce al bilanciere.",
+    "Avvicinarsi al bilanciere in modo che sia centrato sui piedi. I piedi dovrebbero essere larghi quanto l'anca. Piegarsi in avanti alla vita per afferrare il bilanciere con una larghezza di spalle, permettendo alle scapole di sporgersi in avanti. Solitamente, si utilizza una presa a mano o una presa alternata per i set più pesanti.",
+    "Con i piedi e la presa pronti, prendere un grande respiro e poi abbassare i fianchi e piegare le ginocchia fino a toccare il bilanciere con le ginocchia. Guardare avanti con la testa, mantenere il petto in alto e la schiena arcuata, e iniziare a spingere con i talloni per sollevare il peso verso l'alto.",
+    "Dopo che il bilanciere supera le ginocchia, tirare con forza il bilanciere in dietro, unendo le scapole mentre si spingono i fianchi in avanti verso il bilanciere.",
+    "Abbassare il bilanciere piegando all'altezza delle ginocchia e guidarlo verso il pavimento."
+  ],
+  "category": "powerlifting",
+  "images": [
+    "Reverse_Band_Deadlift/0.jpg",
+    "Reverse_Band_Deadlift/1.jpg"
+  ],
+  "id": "Reverse_Band_Deadlift"
+}

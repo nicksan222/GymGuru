@@ -1,0 +1,27 @@
+{
+  "name": "Close-Grip Push-Up con manubrio",
+  "force": "spinta",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "solo corpo",
+  "primaryMuscles": [
+    "tricipiti"
+  ],
+  "secondaryMuscles": [
+    "addominali",
+    "petto",
+    "spalle"
+  ],
+  "instructions": [
+    "Sdraiati sul pavimento e posiziona le mani su un manubrio verticale. Sostenendo il tuo peso sui piedi e le mani, mantieni il corpo rigido e i gomiti vicini con le braccia dritte. Questa sarà la tua posizione di partenza.",
+    "Abbassa il corpo, permettendo ai gomiti di flettersi mentre inspiri. Mantieni il corpo dritto, evitando che i fianchi si alzino o crollino.",
+    "Premi indietro fino alla posizione di partenza estendendo i gomiti. Espira mentre compi questo movimento.",
+    "Dopo una pausa nella posizione contratta, ripeti il movimento per il numero di ripetizioni prescritto."
+  ],
+  "category": "forza",
+  "images": [
+    "Close-Grip_Push-Up_off_of_a_Dumbbell/0.jpg",
+    "Close-Grip_Push-Up_off_of_a_Dumbbell/1.jpg"
+  ],
+  "id": "Close-Grip_Push-Up_off_of_a_Dumbbell"
+}

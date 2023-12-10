@@ -1,0 +1,30 @@
+{
+  "nome": "Seated Calf Stretch",
+  "forza": "static",
+  "livello": "beginner",
+  "meccanico": null,
+  "attrezzatura": null,
+  "muscoliPrimari": [
+    "calves"
+  ],
+  "muscoliSecondari": [
+    "hamstrings",
+    "lower back"
+  ],
+  "istruzioni": [
+    "Turnarvi dritti su un tappetino.",
+    "Piegate una gamba e appoggiate il piede a terra per stabilizzare il busto.",
+    "Dritte l'altra gamba e flettete la caviglia.",
+    "Utilizzando una fascia, un asciugamano, o la vostra mano se riuscite a raggiungerla, tirate le dita verso di voi. Tenete la posizione per 10-20 secondi, poi cambiate lato."
+  ],
+  "categoria": "stretching",
+  "immagini": [
+    "Seated_Calf_Stretch/0.jpg",
+    "Seated_Calf_Stretch/1.jpg"
+  ],
+  "id": "Seated_Calf_Stretch",
+  "images": [
+    "Seated_Calf_Stretch/0.jpg",
+    "Seated_Calf_Stretch/1.jpg"
+  ]
+}

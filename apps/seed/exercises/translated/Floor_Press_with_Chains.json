@@ -1,0 +1,26 @@
+{
+  "name": "Floor Press with Chains",
+  "force": "spingere",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "bilanciere",
+  "primaryMuscles": [
+    "tricipiti"
+  ],
+  "secondaryMuscles": [
+    "petto",
+    "spalle"
+  ],
+  "instructions": [
+    "Regola gli uncini in modo che siano all'altezza giusta per poter mettere il bilanciere. Per questo esercizio, posa le catene direttamente sulla fine del bilanciere, cercando di tenerle lontane dai dischi.",
+    "Inizia sdraiato sul pavimento con la testa vicino alla fine di una power rack. Mantieni le scapole unite, poi solleva il bilanciere dagli uncini.",
+    "Abbassa il bilanciere verso la parte inferiore del petto o dell'addome superiore, stringendo il bilanciere e cercando di separarlo mentre lo fai. Assicurati di tener eil gomiti vicino al corpo durante il movimento. Abbassa il bilanciere fino a quando il braccio superiore tocca il suolo e poi fai una pausa, evitando di sbattere o saltare il peso.",
+    "Spingi il bilanciere verso l'alto il più velocemente possibile, mantenendo il bilanciere, i polsi e i gomiti allineati mentre lo fai."
+  ],
+  "category": "powerlifting",
+  "images": [
+    "Floor_Press_with_Chains/0.jpg",
+    "Floor_Press_with_Chains/1.jpg"
+  ],
+  "id": "Floor_Press_with_Chains"
+}

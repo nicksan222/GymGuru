@@ -1,0 +1,33 @@
+{
+  "name": "Splitta Pulita",
+  "force": "tirare",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "bilanciere",
+  "primaryMuscles": [
+    "quadricipiti"
+  ],
+  "secondaryMuscles": [
+    "polpacci",
+    "avambracci",
+    "glutei",
+    "femorali",
+    "lombo",
+    "spalle",
+    "trapezi"
+  ],
+  "instructions": [
+    "Con un bilanciere a terra vicino alle caviglie, prendi una presa sopra la mano proprio all'esterno delle gambe. Abbassa i fianchi con il peso concentrato sui talloni, schiena dritta, testa rivolta in avanti, petto in alto, con le spalle appena davanti al bilanciere. Questa sarà la tua posizione di partenza.",
+    "Inizia il primo tirare spingendo con i talloni, estendendo le ginocchia. L'angolo della schiena dovrebbe rimanere lo stesso e le braccia dovrebbero rimanere dritte. Muovi il peso con controllo mentre continui a sopra le ginocchia.",
+    "Arriva poi il secondo tirare, la principale fonte di accelerazione per la pulizia. Mentre il bilanciere si avvicina alla posizione del medio coscia, inizia a estenderti attraverso le anche. Con un movimento di salto, accelera estendendo i fianchi, le ginocchia e le caviglie, usando la velocità per muovere il bilanciere verso l'alto. Non dovrebbe esserci bisogno di tirare attivamente con le braccia per accelerare il peso; alla fine del secondo tirare, il corpo dovrebbe essere completamente esteso, inclinato leggermente all'indietro, con le braccia ancora estese.",
+    "Quando è stata raggiunta la piena estensione, inizia il terzo tirare spingendo con forza le spalle e flettendo le braccia con i gomiti in alto e fuori. Al culmine dell'estensione, tirati verso il basso con forza, ruotando i gomiti sotto il bilanciere mentre lo fai.",
+    "Ricevi il bilanciere con i piedi in fase di rottura, muovendo con forza un piede in avanti e uno indietro. Il bilanciere dovrebbe essere agganciato sulle spalle protratte, toccando leggermente la gola con le mani rilassate. Continua a scendere fino alla posizione inferiore, il che aiuta nella ripresa.",
+    "Riprendi immediatamente spingendo con i talloni, mantenendo il busto eretto e le braccia in alto. Unisci i piedi mentre ti alzi."
+  ],
+  "category": "sollevamento pesi olimpico",
+  "images": [
+    "Split_Clean/0.jpg",
+    "Split_Clean/1.jpg"
+  ],
+  "id": "Split_Clean"
+}

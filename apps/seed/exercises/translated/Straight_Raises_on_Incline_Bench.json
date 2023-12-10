@@ -1,0 +1,25 @@
+{
+  "name": "Elevazioni diritte su panca inclinata",
+  "force": "push",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "bilanciere",
+  "primaryMuscle": [
+    "spalle"
+  ],
+  "secondaryMuscle": [
+    "trappole"
+  ],
+  "instructions": [
+    "Posizionare una barra sul terreno dietro la testa di una panca inclinata.",
+    "Sdraiarsi sulla panca a pancia in giù. Con una presa pronata, sollevare il bilanciere da terra mantenendo le braccia dritte. Lasciare che il bilanciere sia dritto. Questa sarà la posizione di partenza.",
+    "Per iniziare, sollevare il bilanciere di fronte alla testa mantenendo le braccia estese.",
+    "Ritornare alla posizione di partenza."
+  ],
+  "category": "forza",
+  "images": [
+    "Straight_Raises_on_Incline_Bench/0.jpg",
+    "Straight_Raises_on_Incline_Bench/1.jpg"
+  ],
+  "id": "Straight_Raises_on_Incline_Bench"
+}

@@ -1,0 +1,30 @@
+{
+  "nome": "Overhead Stretch",
+  "forza": "statico",
+  "livello": "principiante",
+  "meccanismo": "composto",
+  "attrezzatura": null,
+  "muscoli primari": [
+    "addominali"
+  ],
+  "muscoli secondari": [
+    "pettorali",
+    "avambracci",
+    "dorsi",
+    "tricipiti"
+  ],
+  "istruzioni": [
+    "In piedi diritto, intreccia le dita insieme e apri i palmi verso il soffitto. Mantieni le spalle giù mentre estendi le braccia verso l'alto.",
+    "Per creare uno stiramento completo del busto, porta il coccige verso il basso e stabilizza il torso mentre lo fai. Allunga i muscoli sia della parte frontale che della parte posteriore del busto."
+  ],
+  "categoria": "allungamento",
+  "immagini": [
+    "Overhead_Stretch/0.jpg",
+    "Overhead_Stretch/1.jpg"
+  ],
+  "id": "Overhead_Stretch",
+  "images": [
+    "Overhead_Stretch/0.jpg",
+    "Overhead_Stretch/1.jpg"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Guida verticale in piedi con bilanciere dietro al collo",
+  "forza": "spinta",
+  "livello": "intermedio",
+  "meccanismo": "composto",
+  "attrezzatura": "bilanciere",
+  "muscoliPrimari": [
+    "spalle"
+  ],
+  "muscoliSecondari": [
+    "tricipiti"
+  ],
+  "istruzioni": [
+    "Questo esercizio è meglio eseguirlo all'interno di una squat rack per facilitare il sollevamento del bilanciere. Per iniziare, posizionare il bilanciere su una rack che si adatta meglio all'altezza desiderata. Una volta scelta l'altezza corretta e caricato il bilanciere, posizionarsi sotto il bilanciere facendo appoggiare la schiena delle spalle (leggermente sotto il collo).",
+    "Afferrare il bilanciere con entrambe le braccia ai due lati e sollevare dalla rack spingendo con le gambe e contemporaneamente estendere il torace.",
+    "Allontanarsi dalla rack e posizionare le gambe ad una larghezza media delle spalle, con le punte leggermente verso l'esterno. Mantenere la schiena dritta durante l'esercizio. Questo sarà la posizione di partenza.",
+    "Sollevare il bilanciere sopra la testa estendendo completamente le braccia ed espirare.",
+    "Mantenere la contrazione per un secondo e riportare il bilanciere alla posizione di partenza inspirando.",
+    "Ripetere il numero di ripetizioni consigliate."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Guida_verticale_in_piedi_con_bilanciere_dietro_al_collo/0.jpg",
+    "Guida_verticale_in_piedi_con_bilanciere_dietro_al_collo/1.jpg"
+  ],
+  "id": "Standing_Barbell_Press_Behind_Neck",
+  "images": [
+    "Standing_Barbell_Press_Behind_Neck/0.jpg",
+    "Standing_Barbell_Press_Behind_Neck/1.jpg"
+  ]
+}

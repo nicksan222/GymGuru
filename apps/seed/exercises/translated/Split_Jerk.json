@@ -1,0 +1,28 @@
+{
+  "name": "Split Jerk",
+  "force": "spinta",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "asta per bilanciere",
+  "primaryMuscles": [
+    "quadricipiti"
+  ],
+  "secondaryMuscles": [
+    "glutei",
+    "muscoli posteriori della coscia",
+    "spalle",
+    "tricipiti"
+  ],
+  "instructions": [
+    "In piedi, con il peso appoggiato alla parte anteriore delle spalle, inizia con la flessione. Con i piedi direttamente sotto i fianchi, fletti le ginocchia senza spostare i fianchi all'indietro.",
+    "Scendere solo leggermente e invertire la direzione con la massima potenza possibile. Spingi con i talloni, crea la massima velocità e forza possibile, e assicurati di spostare la testa fuori dal percorso mentre la barra lascia le spalle. In questo momento, quando i piedi lasciano il pavimento, devono essere portati nella posizione di ricezione il più rapidamente possibile.",
+    "Nel breve momento in cui i piedi non stanno spingendo contro il pavimento, lo sforzo dell'atleta per spingere la barra in alto li farà scendere. I piedi devono essere mossi in una posizione di falcata, un piede avanti, uno indietro, con le ginocchia parzialmente flesse. Ricevi la barra con le braccia bloccate sopra la testa.",
+    "Torna in posizione eretta, unisci i piedi."
+  ],
+  "category": "sollevamento pesi olimpico",
+  "images": [
+    "Split_Jerk/0.jpg",
+    "Split_Jerk/1.jpg"
+  ],
+  "id": "Split_Jerk"
+}

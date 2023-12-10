@@ -1,0 +1,28 @@
+{
+  "name": "Frankenstein Squat",
+  "force": "spingere",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadricipiti"
+  ],
+  "secondaryMuscles": [
+    "addominali",
+    "polpacci",
+    "glutei",
+    "femorali"
+  ],
+  "instructions": [
+    "Questo esercizio ti insegna la corretta posizione della barra e del tuo corpo durante la pulizia e lo squat frontale.",
+    "Posiziona la barra dinanzi alle spalle, rilasciando la presa e allungando le braccia in avanti. Le spalle dovrebbero essere spinte in avanti per creare una sporgenza e la barra dovrebbe essere a contatto con la gola. Assicurati di muovere solo le scapole in avanti; non incurvare la zona toracica.",
+    "Esegui lo squat flettendo ginocchia e anca, sedendo tra le tue gambe. Mantieni il torso eretto, le braccia in alto e le spalle in avanti, e la barra dovrebbe rimanere in posizione. Arriva alla parte inferiore dello squat, fino a quando i femorali toccheranno i polpacci.",
+    "Torna in posizione eretta spingendo sulla parte anteriore dei talloni ed estendendo ginocchia e anca."
+  ],
+  "category": "sollevamento pesi olimpico",
+  "images": [
+    "Frankenstein_Squat/0.jpg",
+    "Frankenstein_Squat/1.jpg"
+  ],
+  "id": "Frankenstein_Squat"
+}

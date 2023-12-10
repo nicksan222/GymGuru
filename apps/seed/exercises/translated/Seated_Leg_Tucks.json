@@ -1,0 +1,23 @@
+{
+  "name": "Tuffi gambe seduti",
+  "force": "petto",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "solo corpo",
+  "primaryMuscles": [
+    "addominali"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sedetevi su una panca con le gambe distese in avanti, leggermente sotto il livello della parallela e con le braccia aggrappate ai lati della panca. Il vostro busto dovrebbe essere reclinato all'indietro di circa 45 gradi dalla panca. Questa sarà la posizione di partenza.",
+    "Porta le ginocchia verso di te mentre il tuo busto si avvicina ad esse allo stesso tempo. Esala durante questo movimento.",
+    "Dopo una pausa di un secondo, torna alla posizione di partenza mentre inspiri.",
+    "Ripeti per il numero di ripetizioni consigliato."
+  ],
+  "category": "forza",
+  "images": [
+    "Seated_Leg_Tucks/0.jpg",
+    "Seated_Leg_Tucks/1.jpg"
+  ],
+  "id": "Seated_Leg_Tucks"
+}

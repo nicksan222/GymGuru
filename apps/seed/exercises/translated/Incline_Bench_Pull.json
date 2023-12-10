@@ -1,0 +1,33 @@
+{
+  "nome": "Incline Bench Pull",
+  "forza": "tirare",
+  "livello": "principiante",
+  "meccanismo": "isolamento",
+  "attrezzatura": "bilanciere",
+  "muscoliPrimari": [
+    "middle back"
+  ],
+  "muscoliSecondari": [
+    "lats",
+    "shoulders"
+  ],
+  "istruzioni": [
+    "Afferra un manubrio con ogni mano e sdraiati a faccia in giù su una panca inclinata con un'inclinazione di circa 30 gradi.",
+    "Lascia che le braccia penzolino ai lati, completamente estese, mentre puntano verso il pavimento.",
+    "Ruota i polsi fino a quando le mani assumono una presa pronata (palmi verso il basso).",
+    "Ora allarga i gomiti. Questa sarà la tua posizione di partenza.",
+    "Mentre espiri, inizia a tirare i manubri verso l'alto, come se stessi facendo un reverse bench press. Lo farai piegando i gomiti e portando gli avambracci in su mentre lasci che le braccia penzolino. Continua questo movimento finché gli avambracci non sono allo stesso livello della tua schiena. Suggerimento: i gomiti si sposteranno lateralmente e gli avambracci e il torso dovrebbero formare la lettera \"T\" in alto nel movimento. Tieni la contrazione in alto per un secondo.",
+    "Torna lentamente alla posizione di partenza mentre inspiri.",
+    "Ripeti per il numero consigliato di ripetizioni."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Incline_Bench_Pull/0.jpg",
+    "Incline_Bench_Pull/1.jpg"
+  ],
+  "id": "Incline_Bench_Pull",
+  "images": [
+    "Incline_Bench_Pull/0.jpg",
+    "Incline_Bench_Pull/1.jpg"
+  ]
+}

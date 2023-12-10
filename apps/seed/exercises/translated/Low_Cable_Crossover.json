@@ -1,0 +1,25 @@
+{
+  "name": "Crossover basso con cavo",
+  "force": "spertura",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "cavo",
+  "primaryMuscles": [
+    "petto"
+  ],
+  "secondaryMuscles": [
+    "spalle"
+  ],
+  "instructions": [
+    "Per spostarti nella posizione iniziale, posiziona le carrucole nella posizione più bassa, seleziona la resistenza da usare e impugna una impugnatura in ciascuna mano.",
+    "Passo avanti, guadagnando tensione nelle carrucole. Le palme delle mani devono essere rivolte in avanti, le mani sotto la vita e le braccia dritte. Questa sarà la tua posizione di partenza.",
+    "Con una leggera flessione delle braccia, porta le mani verso l'alto e verso la linea mediana del tuo corpo. Le tue mani dovrebbero unirsi davanti al petto, con le palme delle mani rivolte verso l'alto.",
+    "Riposiziona le braccia nella posizione di partenza dopo una breve pausa."
+  ],
+  "category": "forza",
+  "images": [
+    "Low_Cable_Crossover/0.jpg",
+    "Low_Cable_Crossover/1.jpg"
+  ],
+  "id": "Low_Cable_Crossover"
+}

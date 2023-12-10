@@ -1,0 +1,36 @@
+{
+  "name": "Easter Squats",
+  "force": "spinta",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscles": [
+    "quadricipiti"
+  ],
+  "secondaryMuscles": [
+    "polpacci",
+    "glutei",
+    "femorali",
+    "parte bassa della schiena",
+    "trapezi"
+  ],
+  "instructions": [
+    "Posiziona una barra per terra.",
+    "Posizionati nel mezzo della barra lungo la lunghezza.",
+    "Chinati piegando le ginocchia e mantenendo la schiena dritta e afferra la parte anteriore della barra con la mano destra. Il palmo della tua mano dovrebbe essere in posizione neutra (di fronte al lato sinistro).",
+    "Afferra la parte posteriore della barra con la mano sinistra. Il palmo della tua mano dovrebbe essere in posizione neutra (di fronte al lato destro). Suggerimento: assicurati che la tua presa sia uniforme sulla barra. Il tuo torso dovrebbe essere posizionato proprio al centro della barra e la distanza tra il tuo torso e la tua mano destra (che dovrebbe essere davanti) dovrebbe essere la stessa della distanza tra il tuo torso e la tua mano sinistra (che dovrebbe essere dietro).",
+    "Ora raddrizzati con il peso. Suggerimento: i tuoi piedi dovrebbero essere larghezza delle spalle e le punte dei piedi leggermente rivolte verso l'esterno.",
+    "Squat abbassandoti piegando le ginocchia e mantenendo la schiena dritta fino a quando le cosce superiori sono parallele al pavimento. Suggerimento: mantieni la schiena il più verticale possibile con il pavimento e la testa in alto. Ricorda anche di non far passare le ginocchia oltre le dita dei piedi. Respira durante questa parte del movimento.",
+    "Ora raddrizzati fino alla posizione di partenza spingendo con i piedi. Suggerimento: mantieni la barra a distanza di braccia e i gomiti bloccati con una lieve flessione. Le braccia servono solo come ganci. Evita di fare sollevamenti con le braccia. Fai il sollevamento con le cosce; non con le braccia."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Jefferson_Squats/0.jpg",
+    "Jefferson_Squats/1.jpg"
+  ],
+  "id": "Jefferson_Squats",
+  "images": [
+    "Jefferson_Squats/0.jpg",
+    "Jefferson_Squats/1.jpg"
+  ]
+}

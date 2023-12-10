@@ -1,0 +1,28 @@
+{
+  "name": "Chin-Up",
+  "force": "tirare",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "solo corpo",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "bicipiti",
+    "avambracci",
+    "dorso medio"
+  ],
+  "instructions": [
+    "Afferra la sbarra con le mani rivolte verso il tuo torso e con una presa più stretta rispetto alla larghezza delle spalle.",
+    "Mantieni il tuo torso il più diritto possibile mentre crei una curvatura nella parte bassa della schiena e spingi il petto in avanti. Questa è la posizione di partenza. Suggerimento: Tenere il torso il più dritto possibile massimizza la stimolazione dei bicipiti e riduce il coinvolgimento della schiena.",
+    "Mentre espiri, tira su il tuo torso fino a quando la tua testa è all'altezza della sbarra. Concentrati nell'utilizzare i muscoli dei bicipiti per eseguire il movimento. Mantieni i gomiti vicini al corpo. Suggerimento: Il torso superiore dovrebbe rimanere fermo mentre si muove nello spazio e solo le braccia dovrebbero muoversi. Gli avambracci non dovrebbero fare altro lavoro oltre a tenere la sbarra.",
+    "Dopo un secondo di squeezing dei bicipiti nella posizione contratta, abbassa lentamente il tuo torso alla posizione di partenza; quando le braccia sono completamente estese. Inspira mentre compi questa parte del movimento.",
+    "Ripeti questo movimento per il numero prescritto di ripetizioni."
+  ],
+  "category": "forza",
+  "images": [
+    "Chin-Up/0.jpg",
+    "Chin-Up/1.jpg"
+  ],
+  "id": "Chin-Up"
+}

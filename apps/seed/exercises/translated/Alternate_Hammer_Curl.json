@@ -1,0 +1,31 @@
+{
+  "nome": "Alternate Hammer Curl",
+  "forza": "tiro",
+  "livello": "principiante",
+  "meccanismo": "isolamento",
+  "attrezzatura": "manubrio",
+  "muscoliPrimari": [
+    "bicipiti"
+  ],
+  "muscoliSecondari": [
+    "avambracci"
+  ],
+  "istruzioni": [
+    "Alzarsi tenendo il busto in posizione verticale e un manubrio in ogni mano tenuto a lunghezza delle braccia. I gomiti dovrebbero essere vicini al busto.",
+    "I palmi delle mani dovrebbero essere rivolti verso il busto. Questa sarà la posizione di partenza.",
+    "Mentre si tiene fermo l'arto superiore, sollevare il peso destro in avanti contrarre i bicipiti espirando. Continuare il movimento fino a quando il bicipite sarà completamente contratto e i manubri saranno a livello delle spalle. Tenere la posizione contratta per un secondo, schiacciando i bicipiti. Suggerimento: solo gli avambracci dovrebbero muoversi.",
+    "Iniziare lentamente a riportare i manubri alla posizione di partenza mentre si respira.",
+    "Ripetere il movimento con la mano sinistra. Questo equivale a una ripetizione.",
+    "Continuare in questo modo alternando per il numero consigliato di ripetizioni."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Alternate_Hammer_Curl/0.jpg",
+    "Alternate_Hammer_Curl/1.jpg"
+  ],
+  "id": "Alternate_Hammer_Curl",
+  "images": [
+    "Alternate_Hammer_Curl/0.jpg",
+    "Alternate_Hammer_Curl/1.jpg"
+  ]
+}

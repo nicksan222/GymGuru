@@ -1,0 +1,26 @@
+{
+  "nome": "Estensione dei Flessori",
+  "forza": "statico",
+  "livello": "principiante",
+  "meccanica": "isolamento",
+  "attrezzatura": null,
+  "muscoliPrimari": [
+    "flessori della coscia"
+  ],
+  "muscoliSecondari": [],
+  "istruzioni": [
+    "Stendersi sulla schiena con una gamba estesa sopra di te, con l'anca a novanta gradi. Mantieni l'altra gamba piatta a terra.",
+    "Passa una cintura, una fascia o una corda sopra la palla del piede. Questa sarà la tua posizione di partenza.",
+    "Tira sulla cintura per creare tensione nei polpacci e nei flessori della coscia. Mantieni questa posizione per 10-30 secondi e ripeti con l'altra gamba."
+  ],
+  "categoria": "allungamento",
+  "immagini": [
+    "Estensione_Flessori/0.jpg",
+    "Estensione_Flessori/1.jpg"
+  ],
+  "id": "Hamstring_Stretch",
+  "images": [
+    "Hamstring_Stretch/0.jpg",
+    "Hamstring_Stretch/1.jpg"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Allungamento Intermedio dell' Inguine",
+  "force": "statico",
+  "level": "intermedio",
+  "mechanic": "isolamento",
+  "equipment": "altro",
+  "primaryMuscles": [
+    "muscoli posteriori della coscia"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sdraiati sulla schiena con le gambe estese. Attorciglia una cintura, una corda o una banda intorno ad un piede, e spingi quella gamba il più possibile verso il lato. Questa sarà la tua posizione di partenza.",
+    "Tira delicatamente la cintura per creare tensione nei muscoli dell'inguine e dei muscoli posteriori della coscia. Mantieni la posizione per 10-20 secondi e ripeti sul lato opposto."
+  ],
+  "category": "allungamento",
+  "images": [
+    "Intermediate_Groin_Stretch/0.jpg",
+    "Intermediate_Groin_Stretch/1.jpg"
+  ],
+  "id": "Intermediate_Groin_Stretch"
+}

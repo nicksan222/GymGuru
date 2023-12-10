@@ -1,0 +1,28 @@
+{
+  "name": "SOLLEVAMENTO FRONTALE E PULLOVER",
+  "force": "Tirare",
+  "level": "principiante",
+  "mechanic": "composito",
+  "equipment": "bilanciere",
+  "primaryMuscles": [
+    "petto"
+  ],
+  "secondaryMuscles": [
+    "dorsali",
+    "spalle",
+    "tricipiti"
+  ],
+  "instructions": [
+    "Sdraiati su una panca piatta tenendo un bilanciere con un impugnatura con le mani rivolte in giù e distanti circa 15 centimetri.",
+    "Posiziona il bilanciere sopra le cosce, estendi le braccia e bloccale mantenendo una leggera flessione sui gomiti. Questa sarà la posizione di partenza.",
+    "Solleva il peso con un movimento semicircolare mantenendo le braccia dritte mentre inspiri. Continua questo movimento finché il bilanciere non raggiunge l'altra estremità sopra la testa. (Consiglio: il bilanciere viaggerà per circa 180 gradi). A questo punto, le braccia dovrebbero essere parallele al pavimento con le palme delle mani rivolte verso il soffitto.",
+    "Ritorna il bilanciere alla posizione di partenza invertendo il movimento mentre espiri.",
+    "Ripeti per il numero raccomandato di ripetizioni."
+  ],
+  "category": "resistenze",
+  "images": [
+    "Front_Raise_And_Pullover/0.jpg",
+    "Front_Raise_And_Pullover/1.jpg"
+  ],
+  "id": "Front_Raise_And_Pullover"
+}

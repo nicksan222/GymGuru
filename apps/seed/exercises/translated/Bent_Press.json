@@ -1,0 +1,29 @@
+{
+  "name": "Sollevamento a ginocchia piegate",
+  "force": "trazione",
+  "level": "esperto",
+  "mechanic": "composto",
+  "equipment": "maniocchi",
+  "primaryMuscles": [
+    "addominali"
+  ],
+  "secondaryMuscles": [
+    "glutei",
+    "femorali",
+    "volta lombare",
+    "quadricipiti",
+    "spalle",
+    "tricipiti"
+  ],
+  "instructions": [
+    "Pulisci una manioca sulla spalla. Pulisci la manioca sulle spalle estendendoti attraverso le gambe e le anche mentre sollevi la manioca verso la spalla. Il polso dovrebbe ruotare mentre lo fai. Questa sarà la tua posizione di partenza.",
+    "Inizia a piegarti verso il lato opposto della manioca, continuando fino a toccare il terreno con la mano libera, tenendo gli occhi sulla manioca. Mentre lo fai, premi il peso verticalmente estendendoti attraverso il gomito, tenendo il braccio perpendicolare al suolo.",
+    "Ritorna in posizione eretta, con la manioca sopra la testa. Rilascia la manioca sulla spalla e ripeti il numero desiderato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": [
+    "Bent_Press/0.jpg",
+    "Bent_Press/1.jpg"
+  ],
+  "id": "Bent_Press"
+}

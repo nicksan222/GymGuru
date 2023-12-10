@@ -1,0 +1,35 @@
+{
+  "nome": "Reverse Band Box Squat",
+  "forza": "spinta",
+  "livello": "intermedio",
+  "meccanismo": "composto",
+  "attrezzatura": "bilanciere",
+  "muscoliPrimari": [
+    "quadricipiti"
+  ],
+  "muscoliSecondari": [
+    "adduttori",
+    "abduttori",
+    "polpacci",
+    "avambracci",
+    "glutei",
+    "femorali",
+    "parte bassa della schiena"
+  ],
+  "istruzioni": [
+    "Posizionarsi in una gabbia per sollevamento con una scatola posta dietro di te alla giusta altezza. Posizionare le bande sulle estremità, sui perni o collegarle alla parte superiore della gabbia, assicurandosi che saranno posizionate direttamente sopra la barra durante lo squat. Attaccare l'altra estremità alla barra.",
+    "Iniziare mettendosi sotto la barra e posizionarla sulla schiena, con le scapole strette e i gomiti ruotati verso il basso, cercando di piegare la barra sulla schiena. Togliere la barra dalla gabbia, creando una schiena fortemente arcuata e tornare in posizione. Mettere i piedi più larghi per mettere più enfasi sulla schiena, i glutei, gli adduttori e i femorali, o più vicini per sviluppare maggiormente i quadricipiti. Mantenere la testa rivolta in avanti.",
+    "Con la schiena, le spalle e il core ben stretti, spingere le ginocchia e il sedere in fuori mentre si inizia la discesa. Spostarsi indietro con i fianchi fino a sedersi sulla scatola. Idealmente, le tibie dovrebbero essere perpendicolari al terreno. Fermarsi quando si raggiunge la scatola e rilassare i flessori dell'anca. Non rimbalzare sulla scatola.",
+    "Mantenendo il peso sui talloni e spingendo i piedi e le ginocchia in fuori, spingere in alto dalla scatola conducendo il movimento con la testa. Continuare in alto, mantenendo la tensione dalla testa ai piedi. Prestare attenzione nel posizionare la barra sulla gabbia."
+  ],
+  "categoria": "sollevamento pesi",
+  "immagini": [
+    "Reverse_Band_Box_Squat/0.jpg",
+    "Reverse_Band_Box_Squat/1.jpg"
+  ],
+  "id": "Reverse_Band_Box_Squat",
+  "images": [
+    "Reverse_Band_Box_Squat/0.jpg",
+    "Reverse_Band_Box_Squat/1.jpg"
+  ]
+}

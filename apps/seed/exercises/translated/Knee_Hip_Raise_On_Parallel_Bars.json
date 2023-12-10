@@ -1,0 +1,24 @@
+{
+  "name": "Sollevamento del ginocchio/fianchi su parallele",
+  "force": "tirare",
+  "level": "principiante",
+  "mechanic": "isolation",
+  "equipment": "diverso",
+  "primaryMuscles": [
+    "addominali"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Posiziona il tuo corpo sul pancone dei sollevamenti delle gambe in modo che gli avambracci siano appoggiati sui cuscini accanto al torso e le maniglie. Le braccia devono essere piegate ad un angolo di 90 gradi.",
+    "Il busto deve essere diritto con la parte bassa della schiena premuta contro il cuscino della macchina e le gambe estese che puntano verso il pavimento. Questa sarà la posizione di partenza.",
+    "Adesso, espirando, solleva le gambe tenendole estese. Continua questo movimento finché le gambe non saranno approssimativamente parallele al pavimento e mantieni la contrazione per un secondo. Suggerimento: Non utilizzare alcun slancio o oscillazione durante l'esercizio.",
+    "Ritorna lentamente alla posizione di partenza inspirando.",
+    "Ripeti per il numero di ripetizioni consigliato."
+  ],
+  "category": "forza",
+  "images": [
+    "Knee_Hip_Raise_On_Parallel_Bars/0.jpg",
+    "Knee_Hip_Raise_On_Parallel_Bars/1.jpg"
+  ],
+  "id": "Knee_Hip_Raise_On_Parallel_Bars"
+}

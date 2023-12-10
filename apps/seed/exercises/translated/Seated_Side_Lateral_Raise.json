@@ -1,0 +1,23 @@
+{
+  "name": "Seated Side Lateral Raise",
+  "force": "spingere",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "manubrio",
+  "primaryMuscles": [
+    "spalle"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Scegli un paio di manubri e siediti alla fine di una panca piatta con i piedi fermamente a terra. Tieni i manubri con le palme rivolte verso l'interno e le braccia stese lungo i lati a lunghezza di braccio. Questa sarà la tua posizione di partenza.",
+    "Mentre mantieni il busto fermo (senza oscillazioni), solleva i manubri lateralmente con una leggera flessione del gomito e le mani leggermente inclinate in avanti come se versassi acqua in un bicchiere. Continua a sollevarti finché le braccia sono parallele al pavimento. Espira mentre esegui questo movimento e fai una pausa di un secondo nella parte superiore.",
+    "Abbassa lentamente i manubri fino alla posizione di partenza mentre inspiri.",
+    "Ripeti per il numero raccomandato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": [
+    "Seated_Side_Lateral_Raise/0.jpg",
+    "Seated_Side_Lateral_Raise/1.jpg"
+  ],
+  "id": "Seated_Side_Lateral_Raise"
+}

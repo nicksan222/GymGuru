@@ -1,0 +1,24 @@
+{
+  "name": "Sollevamento di Manubri Inclinato Frontale",
+  "force": "spingere",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "manubrio",
+  "primaryMuscles": [
+    "spalle"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Siediti su una panca inclinata con un angolo compreso tra 30 e 60 gradi tenendo un manubrio in ciascuna mano. Suggerimento: puoi variare l'angolazione per colpire il muscolo in modo leggermente diverso ogni volta.",
+    "Estendi le braccia dritte di fronte a te con i palmi rivolti verso il basso e i manubri sollevati di circa 1 pollice sopra le cosce. Questa sarà la posizione di partenza.",
+    "Alza lentamente i manubri dritti fino a quando non sono leggermente al di sopra delle spalle, mantenendo i gomiti bloccati. Stringi la presa in alto per un secondo e assicurati di espirare durante questa parte del movimento. Suggerimento: mantieni la testa appoggiata sulla panca e le gambe a terra in ogni momento.",
+    "Abbassa le braccia nella posizione di partenza inspirando.",
+    "Ripeti per il numero consigliato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": [
+    "Front_Incline_Dumbbell_Raise/0.jpg",
+    "Front_Incline_Dumbbell_Raise/1.jpg"
+  ],
+  "id": "Front_Incline_Dumbbell_Raise"
+}

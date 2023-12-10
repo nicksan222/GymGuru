@@ -1,0 +1,30 @@
+{
+  "nome": "Flutter Kicks",
+  "forza": "tiro",
+  "livello": "principiante",
+  "meccanico": "composto",
+  "attrezzatura": "solo il corpo",
+  "muscoli primari": [
+    "glutei"
+  ],
+  "muscoli secondari": [
+    "bicipiti femorali"
+  ],
+  "istruzioni": [
+    "Su una panca piatta, sdraiati a pancia in giù con i fianchi sul bordo della panca, le gambe dritte con le dita dei piedi sollevate dal pavimento e le braccia sopra la panca tenendoti sull'orlo anteriore.",
+    "Contrai i glutei e i bicipiti femorali e stendi le gambe fino a portarle al livello dei fianchi. Questa sarà la tua posizione di partenza.",
+    "Inizia il movimento sollevando la gamba sinistra più in alto della gamba destra.",
+    "Quindi abbassa la gamba sinistra mentre sollevi la gamba destra.",
+    "Continua alternando in questo modo (come se stessi facendo un accenno di schocco in acqua) finché non hai eseguito il numero raccomandato di ripetizioni per ogni gamba. Assicurati di mantenere sempre un movimento controllato. Suggerimento: Respirerai normalmente mentre esegui questo movimento."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Flutter_Kicks/0.jpg",
+    "Flutter_Kicks/1.jpg"
+  ],
+  "id": "Flutter_Kicks",
+  "images": [
+    "Flutter_Kicks/0.jpg",
+    "Flutter_Kicks/1.jpg"
+  ]
+}

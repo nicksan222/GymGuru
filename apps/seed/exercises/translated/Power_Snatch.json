@@ -1,0 +1,32 @@
+{
+  "name": "Power Snatch",
+  "force": "tirare",
+  "level": "esperto",
+  "mechanic": "composto",
+  "equipment": "bilanciere",
+  "primaryMuscles": [
+    "muscoli posteriori della coscia"
+  ],
+  "secondaryMuscles": [
+    "polpacci",
+    "glutei",
+    "la schiena",
+    "quadriceps",
+    "spalle",
+    "trapezoidi",
+    "tricipiti"
+  ],
+  "instructions": [
+    "Inizia con un bilanciere carico sul pavimento. Il bilanciere dovrebbe essere vicino o toccare le caviglie, e una presa ampia dovrebbe essere fatta sul bilanciere. I piedi dovrebbero essere direttamente sotto le anche, con i piedi girati se necessario. Abbassa le anche, con il petto in alto e la testa verso il basso. Le spalle dovrebbero essere appena davanti al bilanciere. Questa sarà la posizione di partenza.",
+    "Inizia la prima trazione spingendo attraverso la parte anteriore dei talloni, alzando il bilanciere da terra. L'angolo della schiena dovrebbe rimanere lo stesso fino a quando il bilanciere supera le ginocchia.",
+    "Transizione nella seconda trazione estendendo attraverso le anche ginocchia e caviglie, spingendo il bilanciere verso l'alto il più velocemente possibile. Il bilanciere dovrebbe essere vicino al corpo. Al massimo allungamento, solleva le spalle e lascia che i gomiti si pieghino lateralmente.",
+    "Mentre muovi i piedi nella posizione di ricezione, una posizione leggermente più ampia, tirati sotto il bilanciere mentre alzi il bilanciere sopra la testa. Il bilanciere dovrebbe essere ricevuto in una posizione di accovacciamento parziale. Continua a sollevare il bilanciere fino alla posizione sopra la testa, ricevendo il bilanciere bloccato in posizione sopra la testa.",
+    "Torna in piedi con il peso sopra la testa."
+  ],
+  "category": "sollevamento pesi olimpico",
+  "images": [
+    "Power_Snatch/0.jpg",
+    "Power_Snatch/1.jpg"
+  ],
+  "id": "Power_Snatch"
+}

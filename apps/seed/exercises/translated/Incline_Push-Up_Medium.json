@@ -1,0 +1,32 @@
+{
+  "label": "Incline Push-Up Medium",
+  "forza": "spinta",
+  "livello": "principiante",
+  "meccanica": "composto",
+  "attrezzatura": "solo corpo",
+  "muscoli primari": [
+    "petto"
+  ],
+  "muscoli secondari": [
+    "addominali",
+    "spalle",
+    "tricipiti"
+  ],
+  "istruzioni": [
+    "Sta in piedi di fronte a una barra Smith o a una piattaforma elevata solida ad un'altezza appropriata.",
+    "Posiziona le tue mani sulla barra, con le mani separate a larghezza delle spalle.",
+    "Posiziona i piedi dietro la sbarra con braccia e corpo dritti. Questa sarà la tua posizione di partenza.",
+    "Mantieni il tuo corpo diritto, abbassa il tuo petto a barra piegandosi le braccia.",
+    "Ritorna alla posizione di partenza allungando i gomiti, spingendoti verso l'alto."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Incline_Push-Up_Medium/0.jpg",
+    "Incline_Push-Up_Medium/1.jpg"
+  ],
+  "id": "Incline_Push-Up_Medium",
+  "images": [
+    "Incline_Push-Up_Medium/0.jpg",
+    "Incline_Push-Up_Medium/1.jpg"
+  ]
+}

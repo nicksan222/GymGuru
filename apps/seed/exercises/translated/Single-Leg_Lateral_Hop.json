@@ -1,0 +1,32 @@
+{
+  "nome": "Salto laterale a una gamba",
+  "forza": "spinta",
+  "livello": "principiante",
+  "meccanismo": "composto",
+  "attrezzatura": "altro",
+  "muscoliPrimari": [
+    "quadricipiti"
+  ],
+  "muscoliSecondari": [
+    "adduttori",
+    "abduttori",
+    "polpacci",
+    "flessori della coscia"
+  ],
+  "istruzioni": [
+    "Poniti di lato rispetto a un cono o un ostacolo. Per metterti nella posizione di partenza, stai in piedi su una gamba con il ginocchio leggermente flesso.",
+    "Inizia eseguendo un contrasalto per saltare lateralmente sopra il cono.",
+    "Atterra sulla gamba di atterraggio e, immediatamente, scatta fuori da essa saltando di nuovo nella posizione di partenza.",
+    "Continua a saltare avanti e indietro."
+  ],
+  "categoria": "pliometria",
+  "immagini": [
+    "Salto_Laterale_A_Una_Gamba/0.jpg",
+    "Salto_Laterale_A_Una_Gamba/1.jpg"
+  ],
+  "id": "Single-Leg_Lateral_Hop",
+  "images": [
+    "Single-Leg_Lateral_Hop/0.jpg",
+    "Single-Leg_Lateral_Hop/1.jpg"
+  ]
+}

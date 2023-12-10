@@ -1,0 +1,28 @@
+{
+  "name": "Two-Arm Kettlebell Clean",
+  "force": "tiro",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "spalle"
+  ],
+  "secondaryMuscles": [
+    "polpacci",
+    "glutei",
+    "femorali",
+    "parte bassa della schiena",
+    "trapezi"
+  ],
+  "instructions": [
+    "Posiziona due kettlebells tra i tuoi piedi. Per posizionarti nella posizione di partenza, spingi indietro il tuo sedere e guarda dritto davanti a te.",
+    "Esegui il clean delle kettlebells alle tue spalle estendendo gambe e fianchi mentre sollevi le kettlebells verso le tue spalle. Ruota i tuoi polsi mentre lo fai.",
+    "Abbassa le kettlebells nella posizione di partenza e ripeti."
+  ],
+  "category": "forza",
+  "images": [
+    "Two-Arm_Kettlebell_Clean/0.jpg",
+    "Two-Arm_Kettlebell_Clean/1.jpg"
+  ],
+  "id": "Two-Arm_Kettlebell_Clean"
+}

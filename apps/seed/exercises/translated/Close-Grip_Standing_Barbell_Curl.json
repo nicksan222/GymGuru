@@ -1,0 +1,26 @@
+{
+  "name": "Curl con Bilanciere a Presa Stretta in Piedi",
+  "force": "tirare",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "bilanciere",
+  "primaryMuscles": [
+    "bicipiti"
+  ],
+  "secondaryMuscles": [
+    "avambracci"
+  ],
+  "instructions": [
+    "Tenere un bilancere con entrambe le mani, palmi rivolti verso il soffitto e a pochi centimetri di distanza.",
+    "Stare in piedi con il busto dritto e la testa alta. I piedi dovrebbero essere larghi quanto le spalle e i gomiti vicini al busto. Questa sarà la posizione di partenza. Consiglio: Mantenere i gomiti e le braccia superiori immobili durante tutto il movimento.",
+    "Arricciare il bilanciere su in un movimento semicircolare fino a quando gli avambracci non toccano i bicipiti. Espirare durante questa parte del movimento e contrarsi i bicipiti per un secondo al massimo dello sforzo. Consiglio: Evitare di piegare la schiena o di dondolare durante il sollevamento del peso. Solo gli avambracci dovrebbero muoversi.",
+    "Tornare lentamente alla posizione di partenza inspirando.",
+    "Ripetere per il numero raccomandato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": [
+    "Close-Grip_Standing_Barbell_Curl/0.jpg",
+    "Close-Grip_Standing_Barbell_Curl/1.jpg"
+  ],
+  "id": "Close-Grip_Standing_Barbell_Curl"
+}

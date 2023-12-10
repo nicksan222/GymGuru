@@ -1,0 +1,22 @@
+{
+  "name": "Inclinazione Pelvica in Ponte",
+  "force": "static",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": null,
+  "primaryMuscles": [
+    "muscoli della schiena"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sdraiati con i piedi per terra, talloni direttamente sotto le ginocchia.",
+    "Solleva solo il coccige verso il soffitto per allungare la parte bassa della schiena. (Non sollevare ancora l'intera colonna vertebrale.) Tira dentro lo stomaco.",
+    "Per entrare in un ponte, solleva l'intera colonna vertebrale tranne il collo."
+  ],
+  "category": "stretching",
+  "images": [
+    "Pelvic_Tilt_Into_Bridge/0.jpg",
+    "Pelvic_Tilt_Into_Bridge/1.jpg"
+  ],
+  "id": "Pelvic_Tilt_Into_Bridge"
+}

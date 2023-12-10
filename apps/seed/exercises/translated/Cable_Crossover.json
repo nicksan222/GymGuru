@@ -1,0 +1,30 @@
+{
+  "nome": "Cable Crossover",
+  "forza": "push",
+  "livello": "principiante",
+  "meccanismo": "isolamento",
+  "attrezzatura": "cavo",
+  "muscoliPrimari": [
+    "petto"
+  ],
+  "muscoliSecondari": [
+    "spalle"
+  ],
+  "istruzioni": [
+    "Per metterti nella posizione di partenza, posiziona le carrucole in una posizione alta (sopra la testa), seleziona la resistenza da utilizzare e tieni le carrucole in entrambe le mani.",
+    "Passa avanti di fronte a una linea immaginaria retta tra le due carrucole mentre unisci le braccia di fronte a te. Il tuo torace dovrebbe avere una piccola inclinazione in avanti dalla vita. Questa sarà la tua posizione di partenza.",
+    "Con una leggera flessione dei gomiti per evitare lo stress sul tendine del bicipite, estendi le braccia ai lati (dritte su entrambi i lati) in un ampio arco fino a sentire uno stretching sul petto. Inspira mentre esegui questa parte del movimento. Suggerimento: Ricorda che durante il movimento, le braccia e il torace dovrebbero rimanere fermi; il movimento dovrebbe avvenire solo all'articolazione delle spalle.",
+    "Ritorna le braccia alla posizione di partenza mentre espiri. Assicurati di utilizzare lo stesso arco del movimento utilizzato per abbassare i pesi.",
+    "Tieni per un secondo nella posizione di partenza e ripeti il movimento per il numero prescritto di ripetizioni."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Cable_Crossover/0.jpg",
+    "Cable_Crossover/1.jpg"
+  ],
+  "id": "Cable_Crossover",
+  "images": [
+    "Cable_Crossover/0.jpg",
+    "Cable_Crossover/1.jpg"
+  ]
+}

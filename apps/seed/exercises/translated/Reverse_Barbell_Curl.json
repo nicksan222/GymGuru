@@ -1,0 +1,25 @@
+{
+  "name": "Curl con Bilanciere Inverso ",
+  "force": "trazione",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "bilanciere",
+  "primaryMuscles": [
+    "bicipiti"
+  ],
+  "secondaryMuscles": [
+    "avambracci"
+  ],
+  "instructions": [
+    "Piedi sulla posizione eretta con il torso dritto, tenendo un bilanciere a larghezza delle spalle con i gomiti vicino al corpo. Il palmo delle mani dovrebbe essere rivolto verso il basso (impugnatura pronata). Questa sarà la posizione di partenza.",
+    "Mantieni fermi i gomiti e solleva i pesi contrando i bicipiti mentre espiri. Solo gli avambracci si muoveranno. Continua il movimento fino a quando i bicipiti sono completamente contratti e il bilanciere è all'altezza delle spalle. Mantieni la posizione contratta per un secondo mentre stringi il muscolo.",
+    "Inizia lentamente a riportare il bilanciere alla posizione di partenza mentre respiri.",
+    "Ripeti per il numero di ripetizioni consigliate."
+  ],
+  "category": "forza",
+  "images": [
+    "Reverse_Barbell_Curl/0.jpg",
+    "Reverse_Barbell_Curl/1.jpg"
+  ],
+  "id": "Reverse_Barbell_Curl"
+}

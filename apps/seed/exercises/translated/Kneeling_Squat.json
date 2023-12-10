@@ -1,0 +1,30 @@
+{
+  "name": "Allestimento accovacciato",
+  "force": "spingere",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "attrezzatura": "barra",
+  "muscoli primari": [
+    "glutei"
+  ],
+  "muscoli secondari": [
+    "addominali",
+    "femorali",
+    "lombare"
+  ],
+  "istruzioni": [
+    "Imposta la barra all'altezza corretta in una stazione di potenza. Accovacciati dietro la barra; può essere utile mettere un tappetino per proteggere le ginocchia. Scivola sotto la barra, poggiandola sulla parte posteriore delle spalle. Le scapole dovrebbero essere retratte e la barra ben aderente alla schiena. Solleva il peso dalla struttura.",
+    "Con la testa rivolta in avanti, spingi indietro il tuo sedere fino a toccare i polpacci.",
+    "Inverti il movimento, tornando in posizione eretta."
+  ],
+  "categoria": "powerlifting",
+  "immagini": [
+    "Accovacciamento/0.jpg",
+    "Accovacciamento/1.jpg"
+  ],
+  "id": "Kneeling_Squat",
+  "images": [
+    "Kneeling_Squat/0.jpg",
+    "Kneeling_Squat/1.jpg"
+  ]
+}

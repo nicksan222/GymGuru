@@ -1,0 +1,28 @@
+{
+  "nome": "Snatch Shrug",
+  "forza": "tirare",
+  "livello": "intermedio",
+  "meccanismo": "composto",
+  "equipaggiamento": "bilanciere",
+  "muscoliPrimari": [
+    "trappole"
+  ],
+  "muscoliSecodnari": [
+    "avambracci",
+    "spalle"
+  ],
+  "istruzioni": [
+    "Inizia con una presa larga, con il bilanciere in posizione a metà coscia. Puoi usare una presa ad uncino o con le mani sopra. La schiena dovrebbe essere dritta e leggermente inclinata in avanti.",
+    "Alza le spalle verso le orecchie. Anche se questo esercizio può essere eseguito con carichi più pesanti rispetto ad uno snatch, evita di caricare troppo fino al punto in cui l'esecuzione rallenta."
+  ],
+  "categoria": "sollevamento olimpico pesi",
+  "immagini": [
+    "Snatch_Shrug/0.jpg",
+    "Snatch_Shrug/1.jpg"
+  ],
+  "id": "Snatch_Shrug",
+  "images": [
+    "Snatch_Shrug/0.jpg",
+    "Snatch_Shrug/1.jpg"
+  ]
+}

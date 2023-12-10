@@ -1,0 +1,25 @@
+{
+  "name": "Consegna del cavalletto",
+  "force": "estrazione",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "bilanciere",
+  "primaryMuscles": [
+    "spalle"
+  ],
+  "secondaryMuscles": [
+    "avambracci",
+    "trapezi"
+  ],
+  "instructions": [
+    "Questo esercizio insegna la consegna del bilanciere alla posizione sulle spalle. Inizia tenendo una barra nella posizione a spaventapasseri, con le braccia superiori parallele al pavimento e gli avambracci pendenti. Usa una presa a uncino, con le dita avvolte sui pollici.",
+    "Inizia ruotando i gomiti intorno alla barra, consegnando il bilanciere alle spalle. Mentre i gomiti si avvicinano, rilassa la presa. Le spalle dovrebbero essere protratte, fornendo una base per il bilanciere, che dovrebbe contattare leggermente la gola.",
+    "È importante che il bilanciere resti sempre vicino al corpo, poiché con un carico maggiore qualsiasi distanza risulterà in una collisione indesiderata. Man mano che il movimento diventa più fluido, la velocità e il carico possono essere aumentati prima di procedere oltre."
+  ],
+  "category": "sollevamento pesi olimpico",
+  "images": [
+    "Rack_Delivery/0.jpg",
+    "Rack_Delivery/1.jpg"
+  ],
+  "id": "Rack_Delivery"
+}

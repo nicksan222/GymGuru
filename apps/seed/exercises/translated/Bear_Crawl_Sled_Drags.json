@@ -1,0 +1,25 @@
+{
+  "name": "Bear Crawl Sled Drags",
+  "force": "spingere",
+  "level": "principiante",
+  "mechanic": "compound",
+  "equipment": "altro",
+  "primaryMuscles": [
+    "quadricipiti"
+  ],
+  "secondaryMuscles": [
+    "polpacci",
+    "glutei",
+    "femorali"
+  ],
+  "instructions": [
+    "Indossare una cintura o un apposito arnese, agganciare la catena sulla parte posteriore in modo da guardare lontano dalla slitta. Piega le ginocchia e metti le mani a terra. La schiena deve essere dritta. Questa è la posizione di partenza.",
+    "Inizia spingendo con le gambe, alternando sinistra e destra. Usa le mani per mantenere l'equilibrio e aiutare a tirare. Cerca di mantenere la schiena dritta mentre ti sposti per una determinata distanza."
+  ],
+  "category": "strongman",
+  "images": [
+    "Bear_Crawl_Sled_Drags/0.jpg",
+    "Bear_Crawl_Sled_Drags/1.jpg"
+  ],
+  "id": "Bear_Crawl_Sled_Drags"
+}

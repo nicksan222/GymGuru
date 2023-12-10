@@ -1,0 +1,30 @@
+{
+  "nome": "Band Pull Apart",
+  "forza": "tirare",
+  "livello": "principiante",
+  "meccanico": "isolamento",
+  "attrezzatura": "bande",
+  "muscoliPrimari": [
+    "spalle"
+  ],
+  "muscoliSecondari": [
+    "dorsali",
+    "trapezio"
+  ],
+  "istruzioni": [
+    "Inizia con le braccia tese dritto davanti a te, impugnando la banda con entrambe le mani.",
+    "Avvia il movimento eseguendo una flessione inversa, muovendo le mani lateralmente verso i lati.",
+    "Mantieni i gomiti estesi durante il movimento, portando la banda al petto. Assicurati di mantenere le spalle indietro durante l'esercizio.",
+    "Fai una pausa quando completi il movimento, tornando alla posizione di partenza sotto controllo."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Band_Pull_Apart/0.jpg",
+    "Band_Pull_Apart/1.jpg"
+  ],
+  "id": "Band_Pull_Apart",
+  "images": [
+    "Band_Pull_Apart/0.jpg",
+    "Band_Pull_Apart/1.jpg"
+  ]
+}

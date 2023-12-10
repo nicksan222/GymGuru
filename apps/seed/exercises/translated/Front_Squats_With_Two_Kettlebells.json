@@ -1,0 +1,25 @@
+{
+  "name": "Squat Frontali con Due Kettlebells",
+  "force": "spinta",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "polpacci",
+    "glutei"
+  ],
+  "instructions": [
+    "Pulisci due kettlebells alle tue spalle. Pulisci i kettlebells alle spalle estendendo le gambe e i fianchi mentre ti avvicini i kettlebells alle spalle. Ruota i polsi mentre lo fai.",
+    "Guarda sempre dritto avanti, fletti le ginocchia al massimo e metti una pausa in fondo. Mentre fletti le ginocchia, spingi le ginocchia in fuori. Dovresti flettere le ginocchia mantenendo un busto in posizione verticale, con testa e petto alti.",
+    "Ritorna su spingendo con i talloni e ripeti."
+  ],
+  "category": "forza",
+  "images": [
+    "Front_Squats_With_Two_Kettlebells/0.jpg",
+    "Front_Squats_With_Two_Kettlebells/1.jpg"
+  ],
+  "id": "Front_Squats_With_Two_Kettlebells"
+}

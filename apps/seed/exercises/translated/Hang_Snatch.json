@@ -1,0 +1,32 @@
+{
+  "name": "Hang Snatch",
+  "force": "tiro",
+  "level": "esperto",
+  "mechanic": "composta",
+  "equipment": "bilanciere",
+  "primaryMuscles": [
+    "muscoli posteriori della coscia"
+  ],
+  "secondaryMuscles": [
+    "addominali",
+    "polpacci",
+    "avambracci",
+    "glutei",
+    "parte bassa della schiena",
+    "quadricipiti",
+    "spalle",
+    "trapezi"
+  ],
+  "instructions": [
+    "Inizia con una presa larga sulla barra, con una presa sopra o gancio. I piedi dovrebbero essere direttamente sotto le anche con i piedi girati verso l'esterno. Le ginocchia dovrebbero essere leggermente flesse e il torace inclinato in avanti. La colonna vertebrale dovrebbe essere completamente estesa e la testa rivolta in avanti. La barra dovrebbe trovarsi sui fianchi. Questa sarà la tua posizione di partenza.",
+    "Estendi aggressivamente gambe e fianchi. Durante l'estensione massima, solleva le spalle e permetti ai gomiti di flettersi lateralmente.",
+    "Man mano che sposti i piedi nella posizione di ricezione, tirati fortemente sotto la barra mentre la sollevi sopra la testa. Ricevi la barra con il corpo il più basso possibile e le braccia completamente estese sopra la testa.",
+    "Torna in piedi con il peso sopra la testa. Segui ritornando il peso a terra sotto controllo."
+  ],
+  "category": "sollevamento pesi olimpico",
+  "images": [
+    "Hang_Snatch/0.jpg",
+    "Hang_Snatch/1.jpg"
+  ],
+  "id": "Hang_Snatch"
+}

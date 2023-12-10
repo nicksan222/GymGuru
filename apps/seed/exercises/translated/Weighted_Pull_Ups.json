@@ -1,0 +1,30 @@
+{
+  "nome": "Weighted Pull Ups",
+  "forza": "tirare",
+  "livello": "intermedio",
+  "meccanica": "composta",
+  "attrezzatura": "altro",
+  "primariMuscoli": [
+    "lats"
+  ],
+  "secondariMuscoli": [
+    "bicipiti",
+    "dorso centrale"
+  ],
+  "istruzioni": [
+    "Attacca un peso alla cintura per le immersioni e fissalo intorno alla vita. Afferra la barra di trazione con i palmi delle tue mani rivolti in avanti. Per una presa media, le tue mani dovrebbero essere distanziate alla larghezza delle spalle. Entrambi i braccia devono essere estese di fronte a te tenendo la barra con la presa scelta.",
+    "Vorrai portare il tuo torso indietro di circa 30 gradi, creando una curvatura nella tua parte bassa della schiena e spingendo il tuo petto in fuori. Questa sarà la tua posizione di partenza.",
+    "Ora, esala e tira il tuo torso in su finché la tua testa non sarà sopra le tue mani. Concentrati sulla contrazione delle tue scapole, spingendole verso indietro e verso il basso mentre raggiungi la massima contrazione.",
+    "Dopo un breve momento nella massima posizione contratta, inspira e abbassa lentamente il tuo torso alla posizione di partenza con le braccia estese e i tuoi lats completamente allungati."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Weighted_Pull_Ups/0.jpg",
+    "Weighted_Pull_Ups/1.jpg"
+  ],
+  "id": "Weighted_Pull_Ups",
+  "images": [
+    "Weighted_Pull_Ups/0.jpg",
+    "Weighted_Pull_Ups/1.jpg"
+  ]
+}

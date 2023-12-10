@@ -1,0 +1,27 @@
+{
+  "name": "JM Press",
+  "force": "push",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "bilanciere",
+  "primaryMuscles": [
+    "tricipiti"
+  ],
+  "secondaryMuscles": [
+    "petto",
+    "spalle"
+  ],
+  "instructions": [
+    "Iniziare l'esercizio dello stesso modo in cui si esegue una panca stretta. Si giacerà su una panca piatta tenendo un bilanciere con le braccia distese (completamente estese) con i gomiti all'interno. Tuttavia, assicurarsi che la barra sia posizionata direttamente sopra il petto superiore. Questa sarà la vostra posizione di partenza.",
+    "A partire dalla posizione completamente estesa, abbassare il bilanciere come se si stesse eseguendo un'estensione dei tricipiti sdraiato. Inspirare mentre si esegue questo movimento. Quando si arriva a metà strada, lasciar scorrere la barra indietro di circa un'pollice muovendo gli arti superiori verso le gambe fino a quando non sono perpendicolari al torso. Suggerimento: Mantenere la flessione dei gomiti costante mentre si porta gli arti superiori in avanti.",
+    "Espirare e spingere la barra verso l'alto utilizzando i tricipiti per eseguire una panca stretta.",
+    "Ritornare alla posizione di partenza e ripetere.",
+    "Ripetere il numero consigliato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": [
+    "JM_Press/0.jpg",
+    "JM_Press/1.jpg"
+  ],
+  "id": "JM_Press"
+}

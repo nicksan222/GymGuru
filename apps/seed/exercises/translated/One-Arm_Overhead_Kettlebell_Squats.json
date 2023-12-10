@@ -1,0 +1,27 @@
+{
+  "name": "Una braccio sopra squats girare la caldaia",
+  "force": "spingere",
+  "level": "esperto",
+  "mechanic": "completo",
+  "equipment": "caldaia",
+  "primaryMuscles": [
+    "quadricepso"
+  ],
+  "secondaryMuscles": [
+    "polpacci",
+    "glutei",
+    "gamberi",
+    "spalle"
+  ],
+  "instructions": [
+    "Pulire e premere una caldaia con un braccio. Pulire la caldaia alla spalla estendendosi attraverso le gambe e i fianchi mentre si tira la caldaia verso la spalla. Ruotare il polso mentre si fa. Premere il peso in alto estendendosi attraverso il gomito.Questa sarà la tua posizione di partenza.",
+    "Guardando dritto in avanti e mantenendo una caldaia bloccata sopra di te, flettere le ginocchia e i fianchi e abbassare il torace tra le gambe, mantenendo la testa e il petto in alto.",
+    "Sospendere nella posizione inferiore per un secondo prima di risalire in cima, spingendo attraverso i talloni dei tuoi piedi."
+  ],
+  "category": "forza",
+  "images": [
+    "One-Arm_Overhead_Kettlebell_Squats/0.jpg",
+    "One-Arm_Overhead_Kettlebell_Squats/1.jpg"
+  ],
+  "id": "One-Arm_Overhead_Kettlebell_Squats"
+}

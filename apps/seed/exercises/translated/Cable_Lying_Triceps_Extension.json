@@ -1,0 +1,28 @@
+{
+  "name": "Cable Lying Triceps Extension",
+  "force": "spingere",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "cavo",
+  "primaryMuscles": [
+    "tricipiti"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sdraiati su una panca piatta e afferra l'attacco della barra dritta di un pulley basso con una presa stretta sopra la testa. Suggerimento: il modo più facile per farlo è quello di farsi passare la barra mentre ti sdrai.",
+    "Con le braccia estese, posiziona la barra sopra il tuo torso. Le braccia e il torso dovrebbero creare un angolo di 90 gradi. Questa sarà la tua posizione di partenza.",
+    "Abbassa la barra piegando il gomito mentre mantieni le braccia superiori immobili e i gomiti chiusi. Scendi fino a quando la barra tocca leggermente la tua fronte. Inspirare mentre esegui questa parte del movimento.",
+    "Fletti i tricipiti mentre sollevi la barra fino alla posizione di partenza. Espirare mentre esegui questa parte del movimento.",
+    "Mantieni la posizione contratta per un secondo e ripeti per il numero consigliato di ripetizioni."
+  ],
+  "categoria": "Forza",
+  "immagini": [
+    "Cable_Lying_Triceps_Extension/0.jpg",
+    "Cable_Lying_Triceps_Extension/1.jpg"
+  ],
+  "id": "Cable_Lying_Triceps_Extension",
+  "images": [
+    "Cable_Lying_Triceps_Extension/0.jpg",
+    "Cable_Lying_Triceps_Extension/1.jpg"
+  ]
+}

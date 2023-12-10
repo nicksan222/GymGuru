@@ -1,0 +1,30 @@
+{
+  "nome": "Esercitatore di Adduttori",
+  "forza": "tirare",
+  "livello": "principiante",
+  "meccanica": "isolamento",
+  "attrezzatura": "macchina",
+  "muscoliPrimari": [
+    "adduttori"
+  ],
+  "muscoliSecondari": [
+    "glutei",
+    "fianchi"
+  ],
+  "istruzioni": [
+    "Per iniziare, siediti sulla macchina per gli adduttori e scegli un peso con cui ti senti a tuo agio. Quando le tue gambe sono posizionate correttamente sui cuscinetti della macchina, impugna le maniglie ai lati. Tutto il tuo corpo superiore (dalla vita in su) dovrebbe essere fermo. Questa è la posizione di partenza.",
+    "Prendi il controllo delle gambe in modo lento, premendo contro la macchina con le gambe mentre espiri.",
+    "Senti la contrazione per un secondo e inizia a muovere le gambe verso la posizione di partenza mentre inspiri. Nota: Ricorda di mantenere il corpo superiore fermo e di evitare movimenti bruschi per prevenire eventuali lesioni.",
+    "Ripeti il numero consigliato di ripetizioni."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Esercitatore_adduttori/0.jpg",
+    "Esercitatore_adduttori/1.jpg"
+  ],
+  "id": "Thigh_Adductor",
+  "images": [
+    "Thigh_Adductor/0.jpg",
+    "Thigh_Adductor/1.jpg"
+  ]
+}

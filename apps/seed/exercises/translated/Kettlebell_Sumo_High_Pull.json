@@ -1,0 +1,31 @@
+{
+  "nome": "Kettlebell Sumo High Pull",
+  "forza": "trazione",
+  "livello": "intermedio",
+  "meccanica": "composta",
+  "attrezzatura": "chiarine",
+  "muscoli primari": [
+    "trapezzi"
+  ],
+  "muscoli secondari": [
+    "adduttori",
+    "glutei",
+    "femori",
+    "quadricipiti",
+    "spalle"
+  ],
+  "istruzioni": [
+    "Posizionare una charrua per i piedi. Tenere una posizione ampia, di fuori ed afferrare la charrua con le due mani. Con le ginocchia piegate, collocare indietro i fianchi e tenere in alto il torace ed la testa. Questa sara' la vostra posizione d'inizio.",
+    "Partendo dalla posizione d'inizio, estendere contemporaneamente i fianchi e le Ginocchia, trazionando la charrua alle spalle, sollevando gli avambracci mentre lo fate. Invertire il movimento per ritornare alla posizione di partenza."
+  ],
+  "categoria": "potenza",
+  "immagini": [
+    "Kettlebell_Sumo_High_Pull/0.jpg",
+    "Kettlebell_Sumo_High_Pull/1.jpg"
+  ],
+  "id": "Kettlebell_Sumo_High_Pull",
+  "images": [
+    "Kettlebell_Sumo_High_Pull/0.jpg",
+    "Kettlebell_Sumo_High_Pull/1.jpg"
+  ]
+}

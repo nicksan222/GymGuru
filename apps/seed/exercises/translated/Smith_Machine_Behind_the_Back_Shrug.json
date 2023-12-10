@@ -1,0 +1,30 @@
+{
+  "nome": "Smith Machine Behind the Back Shrug",
+  "forza": "tirare",
+  "livello": "principiante",
+  "tipo": "isolamento",
+  "attrezzatura": "macchina",
+  "muscoliPrimari": [
+    "trapezi"
+  ],
+  "muscoliSecondari": [
+    "spalle"
+  ],
+  "istruzioni": [
+    "Con la barra alla altezza delle cosce, carica il peso appropriato.",
+    "Stai con la barra dietro di te, con una presa larga quanto le spalle sulla barra e sgancia il peso. Dovresti stare in piedi con la testa alta, il petto in fuori e le braccia estese. Questa sarà la tua posizione di partenza.",
+    "Inicia il movimento alzando le spalle dritte. Non fare flessioni con le braccia o con i polsi durante il movimento.",
+    "Dopo una pausa breve porta il peso alla posizione di partenza.",
+    "Ripeti per il numero desiderato di ripetizioni prima di agganciare la barra per riposare il peso."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Smith_Machine_Behind_the_Back_Shrug/0.jpg",
+    "Smith_Machine_Behind_the_Back_Shrug/1.jpg"
+  ],
+  "id": "Smith_Machine_Behind_the_Back_Shrug",
+  "images": [
+    "Smith_Machine_Behind_the_Back_Shrug/0.jpg",
+    "Smith_Machine_Behind_the_Back_Shrug/1.jpg"
+  ]
+}

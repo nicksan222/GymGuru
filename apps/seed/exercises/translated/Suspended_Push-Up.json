@@ -1,0 +1,30 @@
+{
+  "nome": "Sospeso Push-Up",
+  "forza": "spingere",
+  "livello": "principiante",
+  "meccanico": "composto",
+  "attrezzatura": "altro",
+  "muscoliPrimari": [
+    "petto"
+  ],
+  "muscoliSecondari": [
+    "spalle",
+    "tricipiti"
+  ],
+  "istruzioni": [
+    "Ancora saldamente alla parte anteriore di una grata o altri oggetto.",
+    "Chinando nelle corde, prendere una maniglia in ciascuna mano e entrare in una posizione di parana push-up. Dovresti essere il più vicino possibile alla linea con le braccia completamente estese, mantenendo una buona postura.",
+    "Mantenendo il torace in modo rigido, scende lentamente permettendo ai gomiti di piegare.",
+    "Continua fino a quando il gomito toglie 90 gradi, facendo una pausa prima di estendere per tornare alla posizione di partenza."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Suspended_Push-Up/0.jpg",
+    "Suspended_Push-Up/1.jpg"
+  ],
+  "id": "Suspended_Push-Up",
+  "images": [
+    "Suspended_Push-Up/0.jpg",
+    "Suspended_Push-Up/1.jpg"
+  ]
+}

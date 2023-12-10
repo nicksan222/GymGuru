@@ -1,0 +1,31 @@
+{
+  "name": "Side To Side Chins",
+  "force": "tirare",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "altro",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "bicipiti",
+    "avambracci",
+    "dorsali mediani",
+    "spalle"
+  ],
+  "instructions": [
+    "Afferra la barra delle trazioni con le mani rivolte in avanti, usando una presa larga.",
+    "Mentre tieni gli arti estesi di fronte a te, tenendo la barra con una presa larga, porta il tuo torso indietro di circa 30 gradi mentre crei una curva nella tua parte bassa della schiena e sporgi il tuo petto. Questa è la posizione di partenza.",
+    "Tira il tuo busto in alto mentre ti pieghi verso il lato sinistro fino a quando la barra quasi tocca il tuo petto superiore, tirando le spalle e le braccia superiori verso il basso e indietro. Esala mentre esegui questa parte del movimento. Suggerimento: Concentrati sulla contrazione dei muscoli della schiena una volta che raggiungi la posizione contratta completa. Il busto superiore dovrebbe rimanere immobile mentre si muove nello spazio (senza oscillazioni) e solo le braccia dovrebbero muoversi. Gli avambracci non dovrebbero fare altro che tenere la barra.",
+    "Dopo un secondo di contrazione, inspira mentre torni alla posizione di partenza.",
+    "Ora, tira il tuo busto in alto mentre ti pieghi verso il lato destro fino a quando la barra quasi tocca il tuo petto superiore, tirando le spalle e le braccia superiori verso il basso e indietro. Esala mentre esegui questa parte del movimento. Suggerimento: Concentrati sulla contrazione dei muscoli della schiena una volta che raggiungi la posizione contratta completa. Il busto superiore dovrebbe rimanere immobile mentre si muove nello spazio e solo le braccia dovrebbero muoversi. Gli avambracci non dovrebbero fare altro che tenere la barra.",
+    "Dopo un secondo di contrazione, inspira mentre torni alla posizione di partenza.",
+    "Ripeti i passaggi 3-6 fino a quando hai eseguito il numero prescritto di ripetizioni per ogni lato."
+  ],
+  "category": "forza",
+  "images": [
+    "Side_To_Side_Chins/0.jpg",
+    "Side_To_Side_Chins/1.jpg"
+  ],
+  "id": "Side_To_Side_Chins"
+}

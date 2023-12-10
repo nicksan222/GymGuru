@@ -1,0 +1,24 @@
+{
+  "name": "Seated Dumbbell Curl",
+  "force": "estratto",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "manubrio",
+  "primaryMuscles": [
+    "bicipiti"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sedetevi su una panca piatta con un manubrio in ogni mano tenuto a braccia tese. I gomiti dovrebbero essere vicini al torace.",
+    "Ruotate i palmi delle mani in modo che siano rivolti verso il vostro torace. Questa sarà la vostra posizione di partenza.",
+    "Tenendo fissa la parte superiore del braccio, arricciate i pesi e iniziate a ruotare i polsi una volta che i manubri superano le cosce in modo che i palmi delle mani siano rivolti in avanti alla fine del movimento. Assicuratevi di contrarre i bicipiti mentre respirate fuori e di fare in modo che solo gli avambracci si muovano. Continuate con il movimento finché i vostri bicipiti sono completamente contratti e i manubri sono a livello delle spalle. Mantenete la posizione contratta per un secondo mentre stringete i bicipiti.",
+    "Iniziate lentamente a riportare i manubri alla posizione di partenza mentre inspirate e mentre ruotate i polsi fino a una presa neutra.",
+    "Ripetete per il numero consigliato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": [
+    "Seated_Dumbbell_Curl/0.jpg",
+    "Seated_Dumbbell_Curl/1.jpg"
+  ],
+  "id": "Seated_Dumbbell_Curl"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Trazioni",
+  "force": "trazione",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "cavo",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "bicipiti",
+    "dorsali",
+    "spalle"
+  ],
+  "instructions": [
+    "Sedersi su una macchina per trazioni con una barra a V attaccata alla parte superiore della carrucola.",
+    "Regolare il cuscinetto del ginocchio della macchina alla tua altezza. Questi cuscinetti impediranno al tuo corpo di sollevarsi grazie alla resistenza attaccata alla barra.",
+    "Afferrare la barra a V con i palmi delle mani rivolti uno verso l'altro (una presa neutra). Spingere il petto in avanti e inclinarsi leggermente all'indietro (circa 30 gradi) per stimolare meglio i lats. Questa sarà la tua posizione di partenza.",
+    "Usando i lats, tirare la barra verso il basso mentre si stringono le scapole. Continuare finché il torace sfiora quasi la barra a V. Espirare durante l'esecuzione di questo movimento. Suggerimento: mantenere il torso immobile durante tutto il movimento.",
+    "Dopo un secondo di sospensione nella posizione contratta, riportare lentamente la barra alla posizione di partenza inspirando.",
+    "Ripetere per il numero prescritto di ripetizioni."
+  ],
+  "category": "forza",
+  "images": [
+    "V-Bar_Pulldown/0.jpg",
+    "V-Bar_Pulldown/1.jpg"
+  ],
+  "id": "V-Bar_Pulldown"
+}

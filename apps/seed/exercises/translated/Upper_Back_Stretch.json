@@ -1,0 +1,26 @@
+{
+  "nome": "Upper Back Stretch",
+  "forza": "statica",
+  "livello": "principiante",
+  "meccanica": null,
+  "attrezzatura": null,
+  "muscoliPrimari": [
+    "schiena media"
+  ],
+  "muscoliSecondari": [
+    "schiena media"
+  ],
+  "istruzioni": [
+    "Unisci le dita con il ditino verso il basso,rota le spalle mentre allunghi le mani in avanti."
+  ],
+  "categoria": "stretching",
+  "immagini": [
+    "Upper_Back_Stretch/0.jpg",
+    "Upper_Back_Stretch/1.jpg"
+  ],
+  "id": "Upper_Back_Stretch",
+  "images": [
+    "Upper_Back_Stretch/0.jpg",
+    "Upper_Back_Stretch/1.jpg"
+  ]
+}

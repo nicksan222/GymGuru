@@ -1,0 +1,32 @@
+{
+  "name": "Ribaltamento Tire",
+  "force": "traina",
+  "level": "intermedio",
+  "mechanic": "composito",
+  "equipment": "Altro",
+  "primaryMuscles": [
+    "quadricipiti"
+  ],
+  "secondaryMuscles": [
+    "polpacci",
+    "petto",
+    "avambracci",
+    "glutei",
+    "flessori della coscia",
+    "lombi",
+    "spalle",
+    "trapezi",
+    "tricipiti"
+  ],
+  "instructions": [
+    "Iniziare afferrando la parte inferiore del pneumatico sulla banda di rotolamento e posizionare i piedi un po' indietro. Il petto deve guidare sul pneumatico.",
+    "Per sollevare il pneumatico, estendere le anche, le ginocchia e le caviglie, guidando il pneumatico verso l'alto.",
+    "Mentre il pneumatico raggiunge un angolo di 45 gradi, fare un passo in avanti e guidare un ginocchio sul pneumatico. Man mano che lo si fa, si regoli la presa sulla parte superiore del pneumatico e lo si spinge in avanti con il massimo della forza per completare la svolta. Ripetere se necessario."
+  ],
+  "category": "Strongman",
+  "images": [
+    "Tire_Flip/0.jpg",
+    "Tire_Flip/1.jpg"
+  ],
+  "id": "Tire_Flip"
+}

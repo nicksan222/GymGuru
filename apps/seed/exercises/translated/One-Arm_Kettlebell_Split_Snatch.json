@@ -1,0 +1,30 @@
+{
+  "nome": "One-Arm Kettlebell Split Snatch",
+  "forza": "tirare",
+  "livello": "esperto",
+  "meccanica": "composta",
+  "attrezzatura": "manubri",
+  "muscoliPrimari": [
+    "spalle"
+  ],
+  "muscoliSecondari": [
+    "muscoli posteriori della coscia",
+    "quadricipiti"
+  ],
+  "istruzioni": [
+    "Tieni un manubrio in una mano dalla maniglia.",
+    "Accovacciati verso il pavimento, poi inverte la mossa, estendendo fianchi, ginocchia e infine caviglie, per alzare il manubrio sopra la testa.",
+    "Dopo aver completamente esteso il corpo, scendi in una posizione di affondo per ricevere i pesi sopra la testa, con una gamba avanti e una dietro. Assicurati di spingere con le anche e bloccare i manubri sopra la testa in un unico movimento.",
+    "Torna in posizione eretta, tenendo il peso sopra la testa, e porta i piedi insieme. Abbassa il peso per tornare alla posizione di partenza."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "One-Arm_Kettlebell_Split_Snatch/0.jpg",
+    "One-Arm_Kettlebell_Split_Snatch/1.jpg"
+  ],
+  "id": "One-Arm_Kettlebell_Split_Snatch",
+  "images": [
+    "One-Arm_Kettlebell_Split_Snatch/0.jpg",
+    "One-Arm_Kettlebell_Split_Snatch/1.jpg"
+  ]
+}

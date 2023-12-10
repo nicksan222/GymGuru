@@ -1,0 +1,28 @@
+{
+  "nome": "Alternating Deltoid Raise ",
+  "forza": "premere",
+  "livello": "principiante",
+  "meccanismo": "isolamento",
+  "attrezzatura": "manubri",
+  "muscoli primari": [
+    "spalle"
+  ],
+  "muscoli secondari": [],
+  "istruzioni": [
+    "In una posizione in piedi, tieni un paio di manubri ai lati.",
+    "Tenendo i gomiti leggermente piegati, alza i pesi direttamente di fronte a te all'altezza delle spalle, evitando qualsiasi oscillazione o imbroglio.",
+    "Ritorna i pesi ai tuoi fianchi.",
+    "Nella prossima ripetizione, alza i pesi lateralmente, portandoli fuori ai tuoi lati fino all'altezza delle spalle.",
+    "Ritorna i pesi alla posizione di partenza e continua alternando il fronte e il lato."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Alternating_Deltoid_Raise/0.jpg",
+    "Alternating_Deltoid_Raise/1.jpg"
+  ],
+  "id": "Alternating_Deltoid_Raise",
+  "images": [
+    "Alternating_Deltoid_Raise/0.jpg",
+    "Alternating_Deltoid_Raise/1.jpg"
+  ]
+}

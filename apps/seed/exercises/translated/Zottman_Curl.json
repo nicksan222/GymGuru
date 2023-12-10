@@ -1,0 +1,29 @@
+{
+  "name": "Zottman Curl",
+  "force": "tiro",
+  "level": "intermedio",
+  "mechanic": "isolamento",
+  "equipment": "manubrio",
+  "primaryMuscles": [
+    "bicipiti"
+  ],
+  "secondaryMuscles": [
+    "avambracci"
+  ],
+  "instructions": [
+    "Stai in piedi con il tuo torace eretto e un manubrio in ogni mano tenuto in lunghezza. I gomiti dovrebbero essere vicini al torso.",
+    "Assicurati che i palmi delle mani si trovino uno di fronte all'altro. Questa sarà la tua posizione di partenza.",
+    "Mentre tieni il braccio superiore immobile, solleva i pesi mentre contrai i bicipiti espirando. Solo gli avambracci dovrebbero muoversi. Il tuo polso dovrebbe ruotare in modo che tu abbia una presa supinata (palme verso l'alto). Continua il movimento finché i tuoi bicipiti sono completamente contratti e i manubri sono al livello delle spalle.",
+    "Mantieni la posizione contratta per un secondo mentre stringi i bicipiti.",
+    "Ora, durante la posizione contratta, ruota il polso finché ora hai una presa pronata (palme rivolte verso il basso) con il pollice in una posizione superiore al mignolo.",
+    "Inizia lentamente a riportare i manubri giù utilizzando la presa pronata.",
+    "Quando i manubri si avvicinano alle cosce, inizia a ruotare il polso in modo che torni a una presa neutra (palme rivolte verso il tuo corpo).",
+    "Ripeti per il numero raccomandato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": [
+    "Zottman_Curl/0.jpg",
+    "Zottman_Curl/1.jpg"
+  ],
+  "id": "Zottman_Curl"
+}

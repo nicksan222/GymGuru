@@ -1,0 +1,33 @@
+{
+  "name": "Yoke Walk",
+  "force": null,
+  "level": "intermediate",
+  "mechanic": "composto",
+  "equipaggiamento": "altro",
+  "muscoliPrimari": [
+    "quadriceps"
+  ],
+  "muscoliSecondari": [
+    "addominali",
+    "adduttori",
+    "abduttori",
+    "polpacci",
+    "glutei",
+    "femorali"
+  ],
+  "istruzioni": [
+    "Lo yoke è solitamente eseguito usando uno strumento apposito, ma talvolta viene visto con frigoriferi o altri oggetti pesanti.",
+    "Inizia posizionando lo strumento sulla schiena, tra le spalle. Con la testa rivolta in avanti e la schiena dritta, alzare lo yoke spingendo con i talloni.",
+    "Inizia a camminare il più veloce possibile usando passi brevi e veloci. È possibile tenere le maniglie laterali dello yoke per aiutarti a tenerlo stabile e nella sua posizione. Prosegui per la distanza data con la massima velocità, solitamente 75-100 piedi."
+  ],
+  "categoria": "uomo forte",
+  "immagini": [
+    "Yoke_Walk/0.jpg",
+    "Yoke_Walk/1.jpg"
+  ],
+  "id": "Yoke_Walk",
+  "images": [
+    "Yoke_Walk/0.jpg",
+    "Yoke_Walk/1.jpg"
+  ]
+}

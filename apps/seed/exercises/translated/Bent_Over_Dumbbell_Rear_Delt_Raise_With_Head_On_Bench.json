@@ -1,0 +1,28 @@
+{
+  "name": "Sollevamento posteriore isolato con manubri piegato con la testa sulla panca",
+  "force": "tira",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipamento": "manubrio",
+  "primaryMuscles": [
+    "spalle"
+  ],
+  "secondaryMuscles": [],
+  "instruzioni": [
+    "In piedi mentre si tiene un manubrio in ogni mano e con una panca inclinata davanti a voi.",
+    "Mantenere la schiena dritta e l'arco naturale della schiena, inchinarsi in avanti fino a toccare la fronte sulla panca davanti a voi. Lasciare che le braccia pendano di fronte a voi perpendicolarmente al suolo. Le palme delle mani dovrebbero essere rivolte l'una verso l'altra e il busto dovrebbe essere parallelo al pavimento. Questa sarà la posizione di partenza.",
+    "Mantenendo il busto in avanti e fermo, e le braccia dritte con una leggera flessione dei gomiti, sollevare i manubri paralleli al suolo fino a quando entrambe le braccia sono parallele al suolo. Espirare durante la sollevazione dei pesi. Attenzione: evitare di far oscillare il busto o di portare le braccia indietro anziché di lato.",
+    "Dopo una contrazione di un secondo nella posizione in alto, abbassare lentamente i manubri alla posizione di partenza.",
+    "Ripetere il numero consigliato di ripetizioni."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench/0.jpg",
+    "Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench/1.jpg"
+  ],
+  "id": "Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench",
+  "images": [
+    "Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench/0.jpg",
+    "Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench/1.jpg"
+  ]
+}

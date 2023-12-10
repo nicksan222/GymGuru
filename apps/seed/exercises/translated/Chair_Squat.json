@@ -1,0 +1,33 @@
+{
+  "nome": "Chair Squat",
+  "forza": "spinta",
+  "livello": "principiante",
+  "meccanica": "composto",
+  "attrezzatura": "macchina",
+  "muscoli primari": [
+    "quadriceps"
+  ],
+  "muscoli secondari": [
+    "polpacci",
+    "glutei",
+    "ischiocrurali"
+  ],
+  "istruzioni": [
+    "Per iniziare, prima impostare la barra in una posizione che corrisponda meglio alla tua altezza. Una volta caricato, mettetevi sotto la barra e posizionatela sulla schiena sulle spalle.",
+    "Prendete la barra con le mani verso l'esterno, sbloccate e lasciate che sia alzata dal supporto estendendo le gambe.",
+    "Muovete i piedi avanti di circa 18 pollici rispetto alla barra. Posizionate le gambe con una larghezza leggermente superiore alle spalle, con le dita dei piedi leggermente rivolte verso l'esterno. Guardate sempre in tutte le direzioni e mantenete una posizione neutra o leggermente arcuata della colonna vertebrale. Questa sarà la posizione di partenza.",
+    "Abbassate lentamente la barra piegando le ginocchia mentre mantenete una postura eretta con la testa alta. Continuate fino a quando l'angolo tra la parte superiore e quella inferiore della gamba non raggiunge i 90 gradi.",
+    "Iniziate ad alzare la barra espirando spingendo il pavimento con i talloni dei piedi, estendendo le ginocchia e tornando alla posizione di partenza.",
+    "Ripetete per il numero consigliato di ripetizioni."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Chair_Squat/0.jpg",
+    "Chair_Squat/1.jpg"
+  ],
+  "id": "Chair_Squat",
+  "images": [
+    "Chair_Squat/0.jpg",
+    "Chair_Squat/1.jpg"
+  ]
+}

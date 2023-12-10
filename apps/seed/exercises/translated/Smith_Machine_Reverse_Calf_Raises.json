@@ -1,0 +1,25 @@
+{
+  "name": "Reverse Calf Raises della Smith Machine",
+  "force": "spinta",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "macchina",
+  "primaryMuscles": [
+    "polpacci"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Regola la barra sulla smith machine per adattarla alla tua altezza e allinea una piattaforma rialzata proprio sotto la barra.",
+    "Posizionati sulla piattaforma con i talloni dei piedi posizionati sopra di essa e con le punte dei piedi che si estendono oltre di essa. Posiziona le punte dei piedi rivolte in avanti con una postura larghezza spalle.",
+    "Adesso, posiziona le spalle sotto la barra mantenendo la posizione dei piedi descritta e spingi la barra in alto estendendo i fianchi e le ginocchia fino a che il tuo torace si trovi perpendicolare al suolo. Le ginocchia dovrebbero essere leggermente piegate, ma mai bloccate. Questa sarà la tua posizione di partenza. Suggerimento: la barra sulla schiena è utile solo per mantenere l'equilibrio.",
+    "Solleva le punte dei piedi mentre espiri estendendo le dita dei piedi il più in alto possibile e flettendo i polpacci. Assicurati di tenere le ginocchia ferme in ogni momento. Non dovrebbe esserci flessione in nessun momento. Mantieni la posizione contratta per un secondo prima di tornare alla posizione di partenza.",
+    "Scendi lentamente alla posizione di partenza inspirando, abbassando le punte dei piedi e le dita.",
+    "Ripeti per il numero raccomandato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": [
+    "Smith_Machine_Reverse_Calf_Raises/0.jpg",
+    "Smith_Machine_Reverse_Calf_Raises/1.jpg"
+  ],
+  "id": "Smith_Machine_Reverse_Calf_Raises"
+}

@@ -1,0 +1,29 @@
+{
+  "nome": "Wide Stance Stiff Legs",
+  "forza": "tiro",
+  "livello": "intermedio",
+  "meccanica": "composto",
+  "attrezzatura": "bilanciere",
+  "muscle primarii": [
+    "femorali"
+  ],
+  "muscoli secondari": [
+    "adduttori",
+    "glutei",
+    "parte bassa della schiena"
+  ],
+  "istruzioni": [
+    "Inizia con un bilanciere caricato sul pavimento. Adotta una posizione ampia, poi piegati alle anche per afferrare la barra. I tuoi fianchi devono essere il più indietro possibile e le tue gambe quasi dritte. Mantieni la schiena dritta, e la testa e il petto in alto. Questa sarà la tua posizione di partenza.",
+    "Inizia il movimento impegnando i fianchi, spingendoli in avanti mentre lasci che le braccia pendano dritte. Continua finché non sei in piedi dritto, poi lentamente ritorna il peso alla posizione di partenza. Per i ripetizioni successive, il peso non deve toccare il pavimento."
+  ],
+  "categoria": "sollevamento pesi olimpico",
+  "immagini": [
+    "Wide_Stance_Stiff_Legs/0.jpg",
+    "Wide_Stance_Stiff_Legs/1.jpg"
+  ],
+  "id": "Wide_Stance_Stiff_Legs",
+  "images": [
+    "Wide_Stance_Stiff_Legs/0.jpg",
+    "Wide_Stance_Stiff_Legs/1.jpg"
+  ]
+}

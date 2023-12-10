@@ -1,0 +1,30 @@
+{
+  "nome": "One Arm Lat Pulldown",
+  "forza": "tira",
+  "livello": "principiante",
+  "meccanico": "composto",
+  "attrezzatura": "cavo",
+  "muscoliPrimari": [
+    "lats"
+  ],
+  "muscoliSecondari": [
+    "bicipiti",
+    "schiena media"
+  ],
+  "istruzioni": [
+    "Seleziona un peso adeguato e regola il cuscinetto del ginocchio per aiutarti a restare giù. Afferrare l'impugnatura con una presa pronata. Questa sarà la tua posizione di partenza.",
+    "Tira l'impugnatura verso il basso, schiacciando il gomito contro il tuo fianco mentre fai flessioni del gomito.",
+    "Metti in pausa nella parte inferiore del movimento, quindi riporta lentamente l'impugnatura nella posizione di partenza.",
+    "Per più ripetizioni, evita di riportare completamente il peso per mantenere la tensione sui muscoli lavorati."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "One_Arm_Lat_Pulldown/0.jpg",
+    "One_Arm_Lat_Pulldown/1.jpg"
+  ],
+  "id": "One_Arm_Lat_Pulldown",
+  "images": [
+    "One_Arm_Lat_Pulldown/0.jpg",
+    "One_Arm_Lat_Pulldown/1.jpg"
+  ]
+}

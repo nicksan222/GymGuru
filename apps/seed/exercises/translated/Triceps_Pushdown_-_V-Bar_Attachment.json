@@ -1,0 +1,28 @@
+{
+  "nome": "Triceps Pushdown - Allegato V-Bar",
+  "forza": "spinta",
+  "livello": "principiante",
+  "meccanica": "isolamento",
+  "attrezzatura": "cavo",
+  "muscoliPrimari": [
+    "tricipiti"
+  ],
+  "muscoliSecondari": [],
+  "istruzioni": [
+    "Collegare il V-Bar a una puleggia alta e afferrarlo con una presa sopra la testa (palmo delle mani rivolto verso il basso) alla larghezza delle spalle.",
+    "In piedi con il busto dritto e una piccola inclinazione in avanti, avvicinare le braccia superiori al corpo e perpendicolari al pavimento. Gli avambracci dovrebbero puntare verso l'alto verso la puleggia mentre tengono la barra. I pollici dovrebbero essere più alti del mignolo. Questa è la posizione di partenza. ",
+    "Usando i tricipiti, abbassare la barra fino a toccare la parte anteriore delle cosce e le braccia sono completamente estese perpendicolarmente al pavimento. Le braccia superiori dovrebbero rimanere sempre ferme accanto al torace e solo gli avambracci dovrebbero muoversi. Espirare durante questa fase.",
+    "Dopo una pausa di un secondo nella posizione contratta, alzare lentamente il V-Bar fino al punto di partenza. Inspira durante questo passaggio. ",
+    "Ripetere il numero consigliato di ripetizioni."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Triceps_Pushdown_-_V-Bar_Attachment/0.jpg",
+    "Triceps_Pushdown_-_V-Bar_Attachment/1.jpg"
+  ],
+  "id": "Triceps_Pushdown_-_V-Bar_Attachment",
+  "images": [
+    "Triceps_Pushdown_-_V-Bar_Attachment/0.jpg",
+    "Triceps_Pushdown_-_V-Bar_Attachment/1.jpg"
+  ]
+}

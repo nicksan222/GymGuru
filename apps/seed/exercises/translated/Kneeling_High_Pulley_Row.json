@@ -1,0 +1,29 @@
+{
+  "nome": "Kneeling High Pulley Row",
+  "forza": "tirare",
+  "livello": "principiante",
+  "meccanico": "composto",
+  "equipaggiamento": "cavo",
+  "muscoli primaria": [
+    "lats"
+  ],
+  "muscoli secondario": [
+    "bicipite",
+    "dorso medio"
+  ],
+  "istruzioni": [
+    "Seleziona il peso appropriato utilizzando un carrucola che si trova sopra la testa. Attacca una fune al cavo e inginocchiati a un paio di metri di distanza, tenendo la fune davanti a te con entrambe le braccia estese. Questa sarà la posizione di partenza.",
+    "Iniziare il movimento flettendo i gomiti e retrarre completamente le spalle, tirando la fune verso il petto superiore con i gomiti fuori.",
+    "Dopo una breve pausa, tornare lentamente alla posizione di partenza."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Kneeling_High_Pulley_Row/0.jpg",
+    "Kneeling_High_Pulley_Row/1.jpg"
+  ],
+  "id": "Kneeling_High_Pulley_Row",
+  "images": [
+    "Kneeling_High_Pulley_Row/0.jpg",
+    "Kneeling_High_Pulley_Row/1.jpg"
+  ]
+}

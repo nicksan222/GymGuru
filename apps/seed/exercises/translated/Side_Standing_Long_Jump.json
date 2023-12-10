@@ -1,0 +1,30 @@
+{
+  "nome": "Side Standing Long Jump",
+  "forza": "spingere",
+  "livello": "principiante",
+  "meccanismo": "composti",
+  "attrezzature": null,
+  "muscoliPrimari": [
+    "quadricipiti"
+  ],
+  "muscoliSecondari": [
+    "polpacci",
+    "glutei",
+    "femorali"
+  ],
+  "istruzioni": [
+    "Inizia in piedi con i piedi alla larghezza dei fianchi in una postura atletica. La testa e il petto dovrebbero essere in alto, le ginocchia e i fianchi leggermente piegati. Questa sarà la tua posizione di partenza.",
+    "Inclinandoti verso destra, estendi le anche, le ginocchia e le caviglie per saltare in aria. Blocca con le braccia per guidare il movimento, saltando il più possibile a destra.",
+    "Atterra dalla stessa direzione con i piedi alla larghezza dei fianchi, assorbendo l'impatto attraverso la parte inferiore del corpo."
+  ],
+  "categoria": "pliometria",
+  "immagini": [
+    "Side_Standing_Long_Jump/0.jpg",
+    "Side_Standing_Long_Jump/1.jpg"
+  ],
+  "id": "Side_Standing_Long_Jump",
+  "images": [
+    "Side_Standing_Long_Jump/0.jpg",
+    "Side_Standing_Long_Jump/1.jpg"
+  ]
+}

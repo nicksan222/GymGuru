@@ -1,0 +1,31 @@
+{
+  "nome": "Supine Two-Arm Overhead Throw",
+  "forza": "tira",
+  "livello": "principiante",
+  "meccanica": "composta",
+  "attrezzatura": "palla medicinale",
+  "muscoliPrimari": [
+    "addominali"
+  ],
+  "muscoliSecondari": [
+    "petto",
+    "stomaco",
+    "spalle"
+  ],
+  "istruzioni": [
+    "Sdraiati sul pavimento sulla schiena con le ginocchia piegate.",
+    "Tieni la palla con entrambe le mani, estendendo le braccia completamente dietro la testa. Questa sarà la tua posizione di partenza.",
+    "Inizia il movimento con la spalla, lanciando la palla direttamente in avanti mentre ti alzi, cercando di raggiungere la massima distanza.",
+    "La palla può essere lanciata a un partner o rimbalzata su una parete."
+  ],
+  "categoria": "pliometria",
+  "immagini": [
+    "Supine_Two-Arm_Overhead_Throw/0.jpg",
+    "Supine_Two-Arm_Overhead_Throw/1.jpg"
+  ],
+  "id": "Supine_Two-Arm_Overhead_Throw",
+  "images": [
+    "Supine_Two-Arm_Overhead_Throw/0.jpg",
+    "Supine_Two-Arm_Overhead_Throw/1.jpg"
+  ]
+}

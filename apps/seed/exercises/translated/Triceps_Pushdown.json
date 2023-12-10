@@ -1,0 +1,28 @@
+{
+  "nome": "Triceps Pushdown",
+  "forza": "Push",
+  "livello": "Principiante",
+  "meccanico": "Isolamento",
+  "attrezzatura": "Cavo",
+  "muscoli primari": [
+    "tricipiti"
+  ],
+  "muscoli secondari": [],
+  "istruzioni": [
+    "Collega una barra dritta o angolata a un'altalena alta e prendila con una presa a braccia aperte (palmi rivolti verso il basso) alla larghezza delle spalle.",
+    "In piedi dritto con il busto dritto e un'inclemenza molto piccola in avanti, avvicina i braccia superiori al tuo corpo e perpendicolare al pavimento. Gli avambracci dovrebbero puntare verso l'altalena mentre tengono la barra. Questa è la tua posizione di partenza.",
+    "Usando i tricipiti, porta la barra giù fino a toccare la parte anteriore delle cosce e le braccia sono completamente estese perpendicolarmente al pavimento. I braccia superiori dovrebbero sempre rimanere fermi accanto al tuo busto e solo gli avambracci dovrebbero muoversi. Espira mentre compi questo movimento.",
+    "Dopo una pausa di un secondo nella posizione contratta, riporta la barra lentamente alla posizione di partenza. Respira mentre compi questo passo.",
+    "Ripeti per la quantità raccomandata di ripetizioni."
+  ],
+  "categoria": "Forza",
+  "immagini": [
+    "Triceps_Pushdown/0.jpg",
+    "Triceps_Pushdown/1.jpg"
+  ],
+  "id": "Triceps_Pushdown",
+  "images": [
+    "Triceps_Pushdown/0.jpg",
+    "Triceps_Pushdown/1.jpg"
+  ]
+}

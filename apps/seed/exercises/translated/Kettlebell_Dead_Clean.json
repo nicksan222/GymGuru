@@ -1,0 +1,28 @@
+{
+  "name": "Kettlebell Dead Clean",
+  "force": "Tiro",
+  "level": "Intermedio",
+  "mechanic": "Composto",
+  "equipment": "Manubri",
+  "primaryMuscles": [
+    "Muscoli Posteriori Della Coscia"
+  ],
+  "secondaryMuscles": [
+    "Polpacci",
+    "Glutei",
+    "Parte Bassa Della Schiena",
+    "Quadriceps",
+    "Trappole"
+  ],
+  "instructions": [
+    "Posiziona il manubrio tra i piedi.",
+    "Posiziona il manubrio sulle tue spalle, estendendo le gambe e i fianchi mentre sollevi il manubrio verso la spalla. Il polso dovrebbe ruotare mentre lo fai.",
+    "Abbassa il manubrio, mantenendo i muscoli posteriori della coscia caricati tenendo la schiena dritta e il bacino fuori."
+  ],
+  "category": "Forza",
+  "images": [
+    "Kettlebell_Dead_Clean/0.jpg",
+    "Kettlebell_Dead_Clean/1.jpg"
+  ],
+  "id": "Kettlebell_Dead_Clean"
+}

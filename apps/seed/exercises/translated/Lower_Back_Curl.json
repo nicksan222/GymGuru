@@ -1,0 +1,25 @@
+{
+  "nome": "Lower Back Curl",
+  "forza": "statico",
+  "livello": "principiante",
+  "meccanica": null,
+  "attrezzatura": "solo corpo",
+  "muscoli primari": [
+    "addominali"
+  ],
+  "muscoli secondari": [],
+  "istruzioni": [
+    "Sdraiatevi sulla pancia e allargate le braccia ai lati. Questa sarà la posizione di partenza.",
+    "Usando i muscoli della schiena, estendete la colonna vertebrale sollevando il torace da terra. Non usate le braccia per spingervi in alto. Mantenete la testa alta durante il movimento. Ripetete per 10-20 ripetizioni."
+  ],
+  "categoria": "stretching",
+  "immagini": [
+    "Lower_Back_Curl/0.jpg",
+    "Lower_Back_Curl/1.jpg"
+  ],
+  "id": "Lower_Back_Curl",
+  "images": [
+    "Lower_Back_Curl/0.jpg",
+    "Lower_Back_Curl/1.jpg"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Straight-Arm Dumbbell Pullover",
+  "force": "trascinare",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "manubrio",
+  "primaryMuscles": [
+    "petto"
+  ],
+  "secondaryMuscles": [
+    "dorsi",
+    "spalle",
+    "tricipiti"
+  ],
+  "instructions": [
+    "Posizionare un manubrio in piedi su una panca piatta.",
+    "Assicurandosi che il manubrio rimanga saldamente posizionato sulla parte superiore della panca, distendersi perpendicolarmente alla panca (torace attraverso di essa come nella formazione di una croce) con le spalle soltanto distese sulla superficie. I fianchi devono essere al di sotto della panca e le gambe piegate con i piedi saldamente piantati sul pavimento. Anche la testa sarà al di fuori della panca.",
+    "Afferrare il manubrio con entrambe le mani e tenerlo in verticale sul petto alla lunghezza delle braccia. Entrambi i palmi dovrebbero premere contro la sottostante di uno dei lati del manubrio. Questa sarà la vostra posizione di partenza.\nAttenzione: Assicurarsi sempre che il manubrio utilizzato per questo esercizio sia sicuro. Utilizzare un manubrio con pesi allentati può risultare nella rottura del manubrio e nella caduta sul viso.",
+    "Mentre mantenete le braccia dritte, abbassate lentamente il peso in un'arco dietro la testa mentre inspirate, fino a quando non sentite uno stiramento sul petto.",
+    "A quel punto, riportare il manubrio alla posizione di partenza utilizzando l'arco attraverso il quale il peso è stato abbassato ed espirando durante questo movimento.",
+    "Mantenere il peso nella posizione iniziale per un secondo e ripetere il movimento per il numero prescritto di ripetizioni."
+  ],
+  "category": "forza",
+  "images": [
+    "Straight-Arm_Dumbbell_Pullover/0.jpg",
+    "Straight-Arm_Dumbbell_Pullover/1.jpg"
+  ],
+  "id": "Straight-Arm_Dumbbell_Pullover"
+}

@@ -1,0 +1,26 @@
+{
+  "nome": "Cocoons",
+  "forza": "tirare",
+  "level": "principiante",
+  "meccanismo": "composto",
+  "attrezzatura": "solo corpo",
+  "muscoli primari": [
+    "addominali"
+  ],
+  "muscoli secondari": [],
+  "istruzioni": [
+    "Inizialmente sdraiati sulla schiena. Le tue gambe devono essere tese e le braccia estese dietro la testa. Questa sarà la tua posizione di partenza.",
+    "Per eseguire il movimento, porta le ginocchia verso il petto, ruotando il bacino per sollevare i glutei dal pavimento. Mentre lo fai, fai flessioni alla tua spina dorsale, portando le braccia di nuovo sopra la tua testa per eseguire un movimento simultaneo di crunch.",
+    "Dopo una breve pausa, ritorna alla posizione di partenza."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Cocoons/0.jpg",
+    "Cocoons/1.jpg"
+  ],
+  "id": "Cocoons",
+  "images": [
+    "Cocoons/0.jpg",
+    "Cocoons/1.jpg"
+  ]
+}

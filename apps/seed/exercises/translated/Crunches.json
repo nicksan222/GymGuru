@@ -1,0 +1,25 @@
+{
+  "name": "Crunches",
+  "force": "tirare",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "corpo solo",
+  "primaryMuscles": [
+    "addominali"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Distesi sulla schiena con i piedi poggiati a terra, o appoggiati su una panca con le ginocchia piegate a 90 gradi. Se i tuoi piedi sono appoggiati su una panca, tienili distanziati di circa tre o quattro pollici e porta le punte delle dita verso l'interno in modo che si toccino.",
+    "Metti le mani leggere ai lati della testa tenendo i gomiti vicini. Suggerimento: non incrociare le dita dietro la testa.",
+    "Mentre spingi la zona bassa della schiena verso il pavimento per isolare meglio i muscoli addominali, inizia a sollevare le spalle dal pavimento.",
+    "Continua a spingere giù con forza la parte bassa della schiena mentre contrai gli addominali ed espiri. Le spalle dovrebbero sollevarsi dal pavimento solo di circa quattro pollici, mentre la parte bassa della schiena dovrebbe rimanere a terra. In cima al movimento, contrai gli addominali per un secondo. Suggerimento: Concentrati su movimenti lenti e controllati - non imbrogliarti usando la forza di inerzia.",
+    "Dopo un secondo di contrazione, inizia a scendere lentamente alla posizione di partenza mentre inspiri.",
+    "Ripeti per il numero di ripetizioni consigliato."
+  ],
+  "category": "forza",
+  "images": [
+    "Crunches/0.jpg",
+    "Crunches/1.jpg"
+  ],
+  "id": "Crunches"
+}

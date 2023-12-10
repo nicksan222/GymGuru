@@ -1,0 +1,25 @@
+{
+  "nome": "Estensione quadrupla",
+  "forza": "statico",
+  "livello": "intermedio",
+  "meccanismo": null,
+  "apparecchiatura": "altro",
+  "muscoli primari": [
+    "quadricipiti"
+  ],
+  "muscoli secondari": [],
+  "istruzioni": [
+    "Sdraiati sul lato. Fai un cinturino, una corda o una banda intorno al tuo piede superiore. Fletti il ginocchio ed estendi l'anca, cercando di toccare i glutei con il piede e tenendo il cinturino con le mani. Questa sarà la tua posizione di partenza.",
+    "Con il cinturino tenuto sulla spalla o in alto, tirare delicatamente per aumentare lo stiramento dei quadricipiti. Tenere premuto per 10-20 secondi e quindi cambiare lato."
+  ],
+  "categoria": "allungamento",
+  "immagini": [
+    "Estensione_quadrupla/0.jpg",
+    "Estensione_quadrupla/1.jpg"
+  ],
+  "id": "Quad_Stretch",
+  "images": [
+    "Quad_Stretch/0.jpg",
+    "Quad_Stretch/1.jpg"
+  ]
+}

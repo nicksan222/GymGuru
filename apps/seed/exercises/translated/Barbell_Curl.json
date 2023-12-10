@@ -1,0 +1,31 @@
+{
+  "nome": "Barbell Curl",
+  "forza": "tractione",
+  "livello": "principiante",
+  "meccanismo": "isolamento",
+  "attrezzatura": "bilanciere",
+  "muscoli primari": [
+    "bicipiti"
+  ],
+  "muscoli secondari": [
+    "avambracci"
+  ],
+  "istruzioni": [
+    "In piedi con il bustoorpo diritto mentre si tiene un bilanciere a una presa larghezza spalle. Il palmo delle mani dovrebbe essere rivolto in avanti e i gomiti dovrebbero essere vicino al busto. Questa sarà la tua posizione di partenza.",
+    "Mentre si tengono le braccia superiori ferme, si porta il bilanciere in avanti mentre si contraggono i bicipiti mentre si espira. Suggerimento: Solo gli avambracci dovrebbero muoversi.",
+    "Continuare il movimento fino a che i bicipiti sono completamente contratti e la barra è al livello delle spalle. Mantenere la posizione contratta per un secondo e stringere forte i bicipiti.",
+    "Iniziare lentamente a riportare la barra alla posizione di partenza mentre si respira.",
+    "Ripetere per la quantità raccomandata di ripetizioni."
+  ],
+  "categoria": "Forza",
+  "immagine": [
+    "Barbell_Curl/0.jpg",
+    "Barbell_Curl/1.jpg"
+  ],
+  "ID": "Barbell_Curl",
+  "id": "Barbell_Curl",
+  "images": [
+    "Barbell_Curl/0.jpg",
+    "Barbell_Curl/1.jpg"
+  ]
+}

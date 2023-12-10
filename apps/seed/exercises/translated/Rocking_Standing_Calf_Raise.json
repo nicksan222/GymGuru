@@ -1,0 +1,31 @@
+{
+  "nome": "Rocking Standing Calf Raise",
+  "forza": "spingere",
+  "livello": "principiante",
+  "meccanico": "isolamento",
+  "attrezzatura": "barra",
+  "muscoliPrimari": [
+    "polpacci"
+  ],
+  "muscoliSecondari": [],
+  "istruzioni": [
+    "Questo esercizio è meglio eseguirlo all'interno degli squat rack per motivi di sicurezza. Per cominciare, posiziona la barra su uno squat rack che corrisponda alla tua altezza. Una volta scelta l'altezza corretta e caricata la barra, mettiti sotto la barra e posizionala sulla schiena, appena sotto il collo.",
+    "Aggrappati alla barra con entrambe le braccia sui lati e sollevale dal rack spingendo con le gambe e allo stesso tempo estendendo il torso.",
+    "Allontanati dal rack e posiziona le gambe con una larghezza media delle spalle, con le dita leggermente puntate verso l'esterno. Mantieni sempre la testa alta, guardando in avanti, per non perdere l'equilibrio. Assicurati anche di mantenere la schiena dritta e le ginocchia leggermente piegate, mai bloccate. Questa è la tua posizione di partenza.",
+    "Solleva i talloni espirando, estendendo le caviglie il più possibile e flettendo i polpacci. Assicurati che il ginocchio rimanga immobile durante tutto il movimento. Non deve esserci piegatura (tranne che per la leggera flessione iniziale creata durante la posizione di partenza). Tieni la posizione contratta per un secondo prima di tornare alla posizione di partenza.",
+    "Ritorna lentamente alla posizione di partenza inspirando, abbassando i talloni e piegando le caviglie fino a sentire uno stiramento dei polipacci.",
+    "Solleva le dita dei piedi contrarre i muscoli della tibia nella parte anteriore dei polipacci mentre espiri.",
+    "Mantieni la posizione per un secondo e poi abbassa le dita dei piedi inspirando.",
+    "Ripeti per il numero raccomandato di ripetizioni."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Rocking_Standing_Calf_Raise/0.jpg",
+    "Rocking_Standing_Calf_Raise/1.jpg"
+  ],
+  "id": "Rocking_Standing_Calf_Raise",
+  "images": [
+    "Rocking_Standing_Calf_Raise/0.jpg",
+    "Rocking_Standing_Calf_Raise/1.jpg"
+  ]
+}

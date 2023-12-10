@@ -1,0 +1,23 @@
+{
+  "name": "Standing Biceps Cable Curl",
+  "force": "tirare",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "cavi",
+  "primaryMuscles": [
+    "bicipiti"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "In piedi, con il busto eretto, tieni una barra di trazione che è collegata ad una puleggia bassa. Afferra la barra del cavo alla larghezza delle spalle e mantieni i gomiti vicini al busto. La palma delle mani dovrebbe essere rivolta verso l'alto (impugnatura supinata). Questa sarà la tua posizione iniziale.",
+    "Tenendo fissi i bracci superiori, fai arricciare i pesi mentre contrai i bicipiti respirando. Solo gli avambracci dovrebbero muoversi. Continua il movimento fino a quando i bicipiti sono completamente contratti e la barra è al livello delle spalle. Mantieni la posizione contratta per un secondo mentre stringi il muscolo.",
+    "Inizia lentamente a riportare la barra del cavo nella posizione di partenza mentre respiri.",
+    "Ripeti per il numero consigliato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": [
+    "Standing_Biceps_Cable_Curl/0.jpg",
+    "Standing_Biceps_Cable_Curl/1.jpg"
+  ],
+  "id": "Standing_Biceps_Cable_Curl"
+}

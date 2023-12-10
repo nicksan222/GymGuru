@@ -1,0 +1,30 @@
+{
+  "nome": "Estensione Laterale Posteriore Unilaterale con Manubrio",
+  "forza": "trazione",
+  "livello": "intermedio",
+  "meccanismo": "isolamento",
+  "attrezzatura": "manubrio",
+  "muscoliPrimari": [
+    "spalle"
+  ],
+  "muscoliSecondari": [
+    "dorso medio"
+  ],
+  "istruzioni": [
+    "Mentre tieni un manubrio in una mano, sdraiati a pancia in giù su una panca regolabile leggermente inclinata (circa 15 gradi misurati dal pavimento). L'altra mano può essere utilizzata come sostegno tenendosi alla gamba della panca.",
+    "Posiziona il palmo della mano con il manubrio in modo neutrale (palmo rivolto verso il torso) e mantieni il braccio esteso con il gomito leggermente piegato. Questa sarà la posizione di partenza.",
+    "Solleva il braccio con il manubrio lateralmente fino a quando il gomito è all'altezza della spalla e il braccio è approssimativamente parallelo al pavimento mentre espiri. Consiglio: Mantieni il braccio perpendicolare al torso e mantieni il braccio esteso durante tutto il movimento. Inoltre, tieni la contrazione in alto per un secondo.",
+    "Abbassa lentamente il manubrio fino alla posizione di partenza mentre inspiri.",
+    "Ripeti il numero raccomandato di ripetizioni."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Estensione_Laterale_Posteriore_Unilaterale_con_Manubrio/0.jpg",
+    "Estensione_Laterale_Posteriore_Unilaterale_con_Manubrio/1.jpg"
+  ],
+  "id": "Dumbbell_Lying_One-Arm_Rear_Lateral_Raise",
+  "images": [
+    "Dumbbell_Lying_One-Arm_Rear_Lateral_Raise/0.jpg",
+    "Dumbbell_Lying_One-Arm_Rear_Lateral_Raise/1.jpg"
+  ]
+}

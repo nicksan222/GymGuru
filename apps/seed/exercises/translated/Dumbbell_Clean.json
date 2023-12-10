@@ -1,0 +1,32 @@
+{
+  "name": "Sollevamento Manubrio",
+  "force": "trazione",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "manubrio",
+  "primaryMuscles": [
+    "muscoli posteriori delle cosce"
+  ],
+  "secondaryMuscles": [
+    "polpacci",
+    "avambracci",
+    "glutei",
+    "muscoli lombari",
+    "muscoli quadricipiti",
+    "spalle",
+    "trapezi"
+  ],
+  "instructions": [
+    "Inizia in piedi con un manubrio in ogni mano, con i piedi alla larghezza delle spalle.",
+    "Abbassa i pesi al suolo flettendo le anche e le ginocchia, spingendo le anche all'indietro fino a quando i manubri raggiungono il pavimento. Questa sarà la tua posizione iniziale.",
+    "Per avviare il movimento, salta ripetutamente verso l'alto estendendo le anche, le ginocchia e le caviglie per accelerare i pesi verso l'alto. Mantenendo una presa neutra sui manubri, tieni le braccia dritte fino a quando viene raggiunta la piena estensione.",
+    "Dopo la piena estensione, piega nuovamente le anche e le ginocchia per ricevere il peso in posizione accucciata. Consentire alle braccia di piegare, guidando i manubri verso le spalle.",
+    "Sul ricevimento del peso in posizione accovacciata, estendi le anche e le ginocchia per finire in piedi con i pesi sulle tue spalle."
+  ],
+  "category": "forza",
+  "images": [
+    "Dumbbell_Clean/0.jpg",
+    "Dumbbell_Clean/1.jpg"
+  ],
+  "id": "Dumbbell_Clean"
+}

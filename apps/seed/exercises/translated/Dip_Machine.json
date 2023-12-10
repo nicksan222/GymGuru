@@ -1,0 +1,27 @@
+{
+  "name": "Macchina per immersioni",
+  "force": "spinta",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "macchina",
+  "primaryMuscles": [
+    "tricpiti"
+  ],
+  "secondaryMuscles": [
+    "petto",
+    "spalle"
+  ],
+  "instructions": [
+    "Sedere saldamente sulla macchina per immersioni, selezionare il peso e tenere saldamente le maniglie.",
+    "Mantenere i gomiti vicini al fisico in modo da mettere l'accento sui tricipiti. I gomiti dovrebbero essere piegati ad un angolo di 90 gradi.",
+    "Contrarre i tricipiti e estendere le braccia verso il basso mentre si espira. Suggerimento: Alla fine del movimento, concentrarsi sul mantenere un piccolo piega nelle braccia per mantenere sotto tensione il muscolo dei tricipiti.",
+    "Lentamente riportare le braccia alla posizione di partenza mentre si inspira.",
+    "Ripetere per il numero raccomandato di ripetizioni."
+  ],
+  "category": "resistenza",
+  "images": [
+    "Dip_Machine/0.jpg",
+    "Dip_Machine/1.jpg"
+  ],
+  "id": "Dip_Machine"
+}

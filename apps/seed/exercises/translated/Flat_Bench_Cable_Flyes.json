@@ -1,0 +1,26 @@
+{
+  "name": "Croci su panca piana con cavo",
+  "force": "spinta",
+  "level": "intermedio",
+  "mechanic": "isolamento",
+  "equipment": "cavo",
+  "primaryMuscles": [
+    "petto"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Posiziona una panca piana tra due pulegge basse in modo che quando sei sdraiato su di essa, il tuo petto sia allineato alle pulegge del cavo.",
+    "Stenditi sulla panca con i piedi a terra.",
+    "Fai che qualcuno ti passi le impugnature su entrambe le mani. Prendi ogni attacco con una presa a palmo verso l'alto.",
+    "Estendi le braccia ai lati del corpo con una leggera flessione dei gomiti. Suggerimento: Mantieni questa flessione costante durante tutto il movimento. Le tue braccia dovrebbero essere parallele al pavimento. Questa è la posizione di partenza.",
+    "Adesso comincia a sollevare le braccia con un movimento a semicerchio direttamente davanti a te tirando i cavi insieme fino a quando entrambe le mani si incontrano nella parte più alta del movimento. Fai forza sul petto durante questo movimento e espira. Inoltre, mantieni la contrazione per un secondo nella posizione più alta. Consiglio: Eseguito correttamente, nella posizione più alta di questo movimento, le braccia dovrebbero essere perpendicolari al torso e la piattaforma del pavimento sopra il petto.",
+    "Torna lentamente alla posizione di partenza.",
+    "Ripeti per il numero raccomandato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": [
+    "Flat_Bench_Cable_Flyes/0.jpg",
+    "Flat_Bench_Cable_Flyes/1.jpg"
+  ],
+  "id": "Flat_Bench_Cable_Flyes"
+}

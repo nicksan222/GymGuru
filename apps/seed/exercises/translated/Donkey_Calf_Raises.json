@@ -1,0 +1,28 @@
+{
+  "nome": "Esercizio per le caviglie dell'AsinoEsercizio",
+  "power": "push",
+  "livello": "intermediate",
+  "meccanismo": "isolamento",
+  "attrezzatura": "altro",
+  "muscoli primari": [
+    "polpacci"
+  ],
+  "muscoli secondari": [],
+  "istruzioni": [
+    "Per questo esercizio avrai bisogno di una macchina per sollevare i polpacci dell'asino. Inizia posizionando la schiena inferiore e i fianchi sotto la leva imbottita fornita. La zona del coccige dovrebbe essere quella che entra in contatto con il cuscinetto.",
+    "Metti entrambe le braccia sui manici laterali e metti le palle dei tuoi piedi sulla piastra del polpaccio con i talloni che si estendono. Allinea le dita dei piedi in avanti, verso l'interno o verso l'esterno, a seconda della zona che vuoi colpire, e raddrizzate le ginocchia senza bloccarle. Questo sarà la tua posizione di partenza.",
+    "Solleva i talloni mentre espiri estendendo le caviglie il più possibile e fletti il polpaccio. Assicurati che il ginocchio rimanga sempre fermo. Non ci dovrebbe mai essere piegamento. Mantieni la posizione contratta per un secondo prima di iniziare a tornare giù.",
+    "Torna lentamente alla posizione di partenza mentre inspiri abbassando i talloni come pieghi le caviglie finché i polpacci non sono distesi.",
+    "Ripeti per il numero consigliato di ripetizioni."
+  ],
+  "categorie": "forza",
+  "immagini": [
+    "Sollevamento_Caviglie_dell'Asino/0.jpg",
+    "Sollevamento_Caviglie_dell'Asino/1.jpg"
+  ],
+  "id": "Donkey_Calf_Raises",
+  "images": [
+    "Donkey_Calf_Raises/0.jpg",
+    "Donkey_Calf_Raises/1.jpg"
+  ]
+}

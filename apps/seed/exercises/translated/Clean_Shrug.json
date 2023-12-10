@@ -1,0 +1,28 @@
+{
+  "nome": "Clean Shrug",
+  "forza": "tirare",
+  "livello": "principiante",
+  "meccanica": "composto",
+  "attrezzatura": "bilanciere",
+  "muscoli primari": [
+    "trappola"
+  ],
+  "muscoli secondari": [
+    "avambracci",
+    "spalle"
+  ],
+  "istruzioni": [
+    "Inizia con una presa a doppio sovrapposto o a gancio, con la barra appesa alla posizione della metà della coscia. La schiena dovrebbe essere dritta e leggermente inclinata in avanti.",
+    "Solleva le spalle verso le orecchie. Mentre questo esercizio può essere caricato con un peso maggiore rispetto a un clean, evitare sovraccarichi tali da rallentare l'esecuzione."
+  ],
+  "categoria": "sollevamento pesi olimpico",
+  "immagini": [
+    "Clean_Shrug/0.jpg",
+    "Clean_Shrug/1.jpg"
+  ],
+  "id": "Clean_Shrug",
+  "images": [
+    "Clean_Shrug/0.jpg",
+    "Clean_Shrug/1.jpg"
+  ]
+}

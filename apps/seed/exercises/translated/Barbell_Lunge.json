@@ -1,0 +1,32 @@
+{
+  "nome": "Barbell Lunge",
+  "forza": "spingere",
+  "livello": "intermedio",
+  "meccanismo": "composto",
+  "attrezzatura": "bilanciere",
+  "muscoliPrimari": [
+    "quadricipiti"
+  ],
+  "muscoliSecondari": [
+    "polpacci",
+    "glutei",
+    "muscoli posteriori della coscia"
+  ],
+  "istruzioni": [
+    "Questo esercizio è meglio eseguirlo all'interno di uno squat rack per motivi di sicurezza. Per iniziare, impostare il bilanciere su uno squat rack a una altezza leggermente inferiore alle spalle. Una volta scelta l'altezza corretta e caricato il bilanciere, passare sotto il bilanciere e posizionare la schiena delle spalle (leggermente sotto il collo) sopra di esso.",
+    "Appoggiarsi al bilanciere utilizzando entrambe le mani ai lati e sollevarlo dal rack spingendo prima con le gambe e contemporaneamente raddrizzando il busto.",
+    "Allontanarsi dal rack e fare un passo avanti con la gamba destra, piegando verso il basso a livello degli fianchi, mantenendo il busto eretto e l'equilibrio. Inspira mentre scendi. Nota: Non lasciare andare il ginocchio oltre la punta dei piedi durante la discesa, in quanto ciò metterà uno stress eccessivo sulle articolazioni del ginocchio. li>",
+    "Utilizzando principalmente il tallone del piede, spingere su e tornare alla posizione di partenza espirando.",
+    "Ripetere il movimento per il numero di ripetizioni consigliato, quindi eseguire con la gamba sinistra."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Barbell_Lunge/0.jpg",
+    "Barbell_Lunge/1.jpg"
+  ],
+  "id": "Barbell_Lunge",
+  "images": [
+    "Barbell_Lunge/0.jpg",
+    "Barbell_Lunge/1.jpg"
+  ]
+}

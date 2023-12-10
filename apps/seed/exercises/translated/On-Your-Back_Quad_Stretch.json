@@ -1,0 +1,23 @@
+{
+  "name": "Allunga il quadricipite sulla schiena",
+  "force": "static",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "altro",
+  "primaryMuscles": [
+    "quadricipiti"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sdraiati su una panca piatta o una scalinata e lascia una gamba e un braccio dalla parte.",
+    "Piega il ginocchio e tieni salda la parte superiore del piede. Mentre lo fai, prestare attenzione a non arcuare la schiena.",
+    "Tira l'ombelico verso la colonna vertebrale per rimanere in neutro. Spingi il piede in giù e verso la mano. Per aggiungere lo stiramento all'anca, solleva l'anca della gamba che stai tenendo verso il soffitto.",
+    "Cambia lato."
+  ],
+  "category": "stretching",
+  "images": [
+    "On-Your-Back_Quad_Stretch/0.jpg",
+    "On-Your-Back_Quad_Stretch/1.jpg"
+  ],
+  "id": "On-Your-Back_Quad_Stretch"
+}

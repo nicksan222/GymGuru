@@ -1,0 +1,22 @@
+{
+  "name": "Allungamento dell'inguine e della schiena",
+  "force": "statico",
+  "level": "intermedio",
+  "mechanic": "composito",
+  "equipment": "null",
+  "primaryMuscles": [
+    "adduttori"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Siediti per terra con le ginocchia piegate e le piante dei piedi unite.",
+    "Incrocia le dita dietro la testa. Questa sarà la posizione di partenza.",
+    "Curva verso il basso, portando i gomiti all'interno delle cosce. Dopo una breve pausa, ritorna alla posizione di partenza con la testa sollevata e la schiena dritta. Ripeti per 10-20 ripetizioni."
+  ],
+  "category": "allungamento",
+  "images": [
+    "Groin_and_Back_Stretch/0.jpg",
+    "Groin_and_Back_Stretch/1.jpg"
+  ],
+  "id": "Groin_and_Back_Stretch"
+}

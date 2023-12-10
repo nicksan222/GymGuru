@@ -1,0 +1,33 @@
+{
+  "nome": "Underhand Cable Pulldowns",
+  "forza": "tirare",
+  "livello": "principiante",
+  "meccanismo": "composito",
+  "attrezzatura": "cavo",
+  "muscoliPrimari": [
+    "lats"
+  ],
+  "muscoliSecondari": [
+    "bicipiti",
+    "dorso medio",
+    "spalle"
+  ],
+  "istruzioni": [
+    "Sedersi su una macchina per il pull-down con una barra larga attaccata alla puleggia superiore. Regolare il cuscinetto del ginocchio della macchina per adattarsi alla tua altezza. Questi cuscinetti impediscono al tuo corpo di essere sollevato dalla resistenza attaccata alla barra.",
+    "Afferra la barra da pull-down con le palme rivolte verso il torace (una presa supinata). Assicurati che le mani siano posizionate più vicino della larghezza delle spalle.",
+    "Mentre hai entrambe le braccia estese davanti a te con la barra a presa scelta, porta il tuo busto indietro di circa 30 gradi mentre crei una curvatura nella parte bassa della schiena e spingi fuori il torace. Questa è la tua posizione di partenza.",
+    "Mentre espiri, tira la barra fino a toccare il torace superiore tirando le spalle e le braccia superiori in basso e indietro. Consiglio: concentra la contrazione dei muscoli della schiena una volta raggiunta la posizione completamente contratta e mantieni i gomiti vicini al corpo. Il torace superiore dovrebbe rimanere immobile mentre porti la barra verso di te e solo le braccia dovrebbero muoversi. Gli avambracci non dovrebbero fare altro lavoro se non tenere la barra.",
+    "Dopo un secondo nella posizione contratta, mentre inspiri, riporta lentamente la barra alla posizione di partenza quando le braccia sono completamente estese e i lats sono completamente allungati.",
+    "Ripeti questo movimento per il numero prescritto di ripetizioni."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Underhand_Cable_Pulldowns/0.jpg",
+    "Underhand_Cable_Pulldowns/1.jpg"
+  ],
+  "id": "Underhand_Cable_Pulldowns",
+  "images": [
+    "Underhand_Cable_Pulldowns/0.jpg",
+    "Underhand_Cable_Pulldowns/1.jpg"
+  ]
+}

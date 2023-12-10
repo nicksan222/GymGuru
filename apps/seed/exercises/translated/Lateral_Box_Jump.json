@@ -1,0 +1,34 @@
+{
+  "nome": "Salto laterale sulla scatola",
+  "potenza": "spinta",
+  "livello": "principiante",
+  "meccanismo": "composto",
+  "attrezzatura": "altro",
+  "muscoli primari": [
+    "adduttori"
+  ],
+  "muscoli secondari": [
+    "adduttori",
+    "polpacci",
+    "glutei",
+    "femorali",
+    "quadricipiti"
+  ],
+  "istruzioni": [
+    "Assumi una posizione comoda in piedi, con una scatola corta posizionata accanto a te. Questa sarà la tua posizione di partenza.",
+    "Immergiti rapidamente in uno squat in un quarto per avviare il riflesso di stiramento, e inverti immediatamente la direzione per saltare verso l'alto e di lato.",
+    "Porta le ginocchia abbastanza in alto per assicurarti che i tuoi piedi abbiano una buona distanza dalla scatola.",
+    "Atterra al centro della casella, usando le gambe per assorbire l'impatto.",
+    "Atterri con attenzione dal lato opposto della scatola e continua a andare avanti e indietro per diverse ripetizioni."
+  ],
+  "categoria": "pliometria",
+  "immagini": [
+    "Salto_Laterale_Sulla_Scatola/0.jpg",
+    "Salto_Laterale_Sulla_Scatola/1.jpg"
+  ],
+  "id": "Lateral_Box_Jump",
+  "images": [
+    "Lateral_Box_Jump/0.jpg",
+    "Lateral_Box_Jump/1.jpg"
+  ]
+}

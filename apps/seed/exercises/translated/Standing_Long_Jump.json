@@ -1,0 +1,31 @@
+{
+  "nome": "Salto lungho in piedi",
+  "forza": "spingere",
+  "livello": "principiante",
+  "meccanica": "composta",
+  "attrezzatura": "solo corpo",
+  "muscoliPrimari": [
+    "quadricipiti"
+  ],
+  "muscoliSecondari": [
+    "polpacci",
+    "glutei",
+    "femorali"
+  ],
+  "istruzioni": [
+    "Questo esercizio è meglio effettuarlo su sabbia o su altre superfici morbide per atterrare. Assicurati di poter misurare la distanza. Stai in una posizione di semitensione con i piedi larghi quanto le spalle.",
+    "Con un grande movimento delle braccia e contromovimento delle gambe, salta in avanti il più lontano possibile.",
+    "Cerca di atterrare con i piedi fuori davanti a te, raggiungendo la massima distanza possibile con le gambe.",
+    "Misura la distanza dal punto di atterraggio al punto di partenza e tieni traccia dei risultati."
+  ],
+  "categoria": "pliometria",
+  "immagini": [
+    "Salto_lungho_in_piedi/0.jpg",
+    "Salto_lungho_in_piedi/1.jpg"
+  ],
+  "id": "Standing_Long_Jump",
+  "images": [
+    "Standing_Long_Jump/0.jpg",
+    "Standing_Long_Jump/1.jpg"
+  ]
+}

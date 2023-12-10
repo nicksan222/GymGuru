@@ -1,0 +1,22 @@
+{
+  "name": "Lying Prone Quadriceps",
+  "force": null,
+  "level": "expert",
+  "mechanic": null,
+  "equipment": "solo",
+  "primaryMusles": [
+    "quadricep"
+  ],
+  "instruction": [
+    "Posizionarsi con la pancia a terra a fianco del partner in ginocchio. Flettere un ginocchio e alzare quella gamba da terra, tentando di toccare il gluteo con il piede. Il partner deve tenere il ginocchio e la caviglia. Questa sarà la posizione di partenza.",
+    "Tentare di estendere il ginocchio mentre il partner impedisce qualsiasi reale movimento.",
+    "Dopo 10-20 secondi, rilassare i muscoli mentre il partner spinge delicatamente il piede verso il gluteo, allungando ulteriormente i muscoli quadricipiti e flessori dell'anca.",
+    "Dopo 10-20 secondi, cambiare lato."
+  ],
+  "category": "stretching",
+  "images": [
+    "Lying_Prone_Quadriceps/0.jpg",
+    "Lying_Prone_Quadriceps/1.jpg"
+  ],
+  "id": "Lying_Prone_Quadriceps"
+}

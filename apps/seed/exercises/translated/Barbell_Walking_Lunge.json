@@ -1,0 +1,31 @@
+{
+  "nome": "Affondo con Bilanciere ",
+  "forza": "push ",
+  "livello": "principiante",
+  "meccanico": "composto",
+  "attrezzatura": "bilanciere",
+  "muscoliPrimari": [
+    "quadriceps"
+  ],
+  "muscoliSecondari": [
+    "polpacci",
+    "glutei",
+    "femorali"
+  ],
+  "istruzioni": [
+    "Cominciare in piedi con i piedi divaricati alla larghezza delle spalle e un bilanciere sulla parte superiore della schiena.",
+    "Fare un passo avanti con una gamba, flettendo le ginocchia per abbassare i fianchi. Scendere fino a quando il ginocchio posteriore tocca quasi il terreno. La postura deve rimanere eretta e il ginocchio anteriore deve restare sopra il piede anteriore.",
+    "Spingere con il tallone del piede anteriore e estendere entrambe le ginocchia per alzarsi.",
+    "Fare un passo avanti con il piede posteriore, ripetendo l'affondo sulla gamba opposta."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Affondo_con_Bilanciere/0.jpg",
+    "Affondo_con_Bilanciere/1.jpg"
+  ],
+  "id": "Barbell_Walking_Lunge",
+  "images": [
+    "Barbell_Walking_Lunge/0.jpg",
+    "Barbell_Walking_Lunge/1.jpg"
+  ]
+}

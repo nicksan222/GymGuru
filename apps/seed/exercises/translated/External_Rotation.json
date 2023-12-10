@@ -1,0 +1,29 @@
+{
+  "nome": "Rotazione Esterna",
+  "forza": "tira",
+  "livello": "principiante",
+  "meccanica": "isolamento",
+  "equipaggiamento": "manubrio",
+  "muscoliPrimari": [
+    "spalle"
+  ],
+  "muscoliSecondari": [],
+  "istruzioni": [
+    "Distendersi sui fianchi su una panchina piatta con un braccio che tiene un manubrio e l'altra mano sopra la panchina piegata in modo da poter appoggiare la testa su di essa.",
+    "Piegare i gomiti del braccio che tiene il manubrio in modo da creare un angolo di 90 gradi tra il braccio superiore e l'avambraccio. Suggerimento: Mantenere il braccio parallelo al torace.",
+    "Poi piegare il gomito mantenendo il braccio superiore fermo. In questo modo, l'avambraccio sarà parallelo a terra e perpendicolare al torace (Suggerimento: Quindi l'avambraccio sarà direttamente di fronte a te). Il braccio superiore sarà fermo vicino al torace e parallelo a terra (allineato con il torace in ogni momento). Questa sarà la tua posizione di partenza.",
+    "All'espirazione, ruota esternamente l'avambraccio in modo che il manubrio si alzi in un movimento semicircolare mentre mantieni l'angolo di 90 gradi tra i braccia e l'avambraccio. Continuerai questa rotazione esterna fino a quando l'avambraccio sarà perpendicolare a terra e il torace punterà verso il soffitto. A questo punto manterrai la contrazione per un secondo.",
+    "All'inspirazione, torna lentamente alla posizione di partenza.",
+    "Ripeti per la quantità di ripetizioni consigliata, poi passa all'altro braccio."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Rotazione_Esterna/0.jpg",
+    "Rotazione_Esterna/1.jpg"
+  ],
+  "id": "External_Rotation",
+  "images": [
+    "External_Rotation/0.jpg",
+    "External_Rotation/1.jpg"
+  ]
+}

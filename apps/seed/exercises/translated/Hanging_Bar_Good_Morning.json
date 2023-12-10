@@ -1,0 +1,31 @@
+{
+  "name": "Hanging Bar Good Morning",
+  "force": "spingere",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "bilanciere",
+  "primaryMuscles": [
+    "femorali"
+  ],
+  "secondaryMuscles": [
+    "addominali",
+    "glutei",
+    "parte bassa della schiena"
+  ],
+  "instructions": [
+    "Inizia con un bilanciere su una griglia alla stessa altezza dello stomaco. Sospendi il bilanciere utilizzando catene o cinghie per sospensione.",
+    "Piega il corpo sotto il bilanciere e appoggialo sulla schiena come faresti con uno squat da potenza, non sulla parte superiore delle trapezi. Alla giusta altezza, dovresti essere circa parallelo al pavimento quando sei piegato. Mantieni la schiena stretta, le scapole unite e le ginocchia leggermente flesse. Mantieni la schiena arcuata e la colonna cervicale in posizione corretta.",
+    "Inizia il movimento estendendoti attraverso i fianchi con i glutei e i femorali, e sollevati con il peso.",
+    "Abbassa lentamente il peso alla posizione di partenza, dove è sostenuto dalle catene."
+  ],
+  "categoria": "powerlifting",
+  "immagini": [
+    "Hanging_Bar_Good_Morning/0.jpg",
+    "Hanging_Bar_Good_Morning/1.jpg"
+  ],
+  "id": "Hanging_Bar_Good_Morning",
+  "images": [
+    "Hanging_Bar_Good_Morning/0.jpg",
+    "Hanging_Bar_Good_Morning/1.jpg"
+  ]
+}

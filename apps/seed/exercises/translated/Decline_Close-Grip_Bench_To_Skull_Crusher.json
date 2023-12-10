@@ -1,0 +1,33 @@
+{
+  "name": "Decline Close-Grip Bench To Skull Crusher",
+  "forza": "spingendo",
+  "livello": "intermedio",
+  "meccanico": "composto",
+  "attrezzatura": "barra",
+  "muscoli primari": [
+    "tricipiti"
+  ],
+  "muscoli secondari": [
+    "petto",
+    "spalle"
+  ],
+  "istruzioni": [
+    "Assicura equivocità alla fine della panchina in declino e sistema disteso lentamente sulla panchina.",
+    "Utilizzando una presa stretta (una presa leggermente inferiore alla larghezza delle spalle), sollevare la barra dal supporto e tenerla diritta sopra la testa con le braccia bloccate e i gomiti all'interno. Le braccia devono essere perpendicolari al pavimento. Questo sarà il punto di partenza. Suggerimento: Per proteggere il manicotto rotatorio, è meglio avere un assistente per aiutare a sollevare la barra.",
+    "Ora abbassa la barra sul petto inferiore mentre respiri dentro. Tenere i gomiti mentre si esegue questo movimento.",
+    "Utilizzando i tricipiti per spingere la barra verso l'alto, premere verso il punto di partenza mentre espiri.",
+    "Mentre respiri dentro e mantieni le braccia superiori stazionarie, porta la barra lentamente verso il basso muovendo gli avambracci in un movimento semicircolare verso di te fino a quando senti la barra toccare leggermente la fronte. Respira mentre esegui questa parte del movimento.",
+    "Sollevare la barra alla posizione di partenza contrarre i tricipiti ed espirare.",
+    "Ripetere i passaggi da 3 a 6 fino al numero consigliato di ripetizioni è eseguito."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Decline_Close-Grip_Bench_To_Skull_Crusher/0.jpg",
+    "Decline_Close-Grip_Bench_To_Skull_Crusher/1.jpg"
+  ],
+  "id": "Decline_Close-Grip_Bench_To_Skull_Crusher",
+  "images": [
+    "Decline_Close-Grip_Bench_To_Skull_Crusher/0.jpg",
+    "Decline_Close-Grip_Bench_To_Skull_Crusher/1.jpg"
+  ]
+}

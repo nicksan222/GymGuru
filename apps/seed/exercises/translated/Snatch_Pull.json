@@ -1,0 +1,33 @@
+{
+  "name": "Sollevamento di strappo",
+  "forza": "tirare",
+  "livello": "intermedio",
+  "meccanismo": "composto",
+  "attrezzatura": "barra",
+  "muscoliPrimari": [
+    "ischiocrurali"
+  ],
+  "muscoliSecondari": [
+    "polpacci",
+    "glutei",
+    "dorso",
+    "quadricipiti",
+    "trapezio"
+  ],
+  "istruzioni": [
+    "Con una barra sul pavimento vicino alle ginocchia, prendi una presa ampia di strappo. Abbassa i fianchi con il peso concentrato sui talloni, schiena dritta, testa rivolta in avanti, petto in alto, con le spalle appena davanti alla barra. Questa sarà la tua posizione di partenza.",
+    "Inizia il primo tiraggio spingendo sui talloni, estendendo le ginocchia. L'angolo della schiena dovrebbe rimanere lo stesso, e le braccia dovrebbero rimanere dritte. Sposta il peso con controllo mentre continui ad alzarti sopra le ginocchia.",
+    "Segue il secondo tiraggio, la principale fonte di accelerazione per il sollevamento. Mentre la barra si avvicina alla posizione del coscia, inizia ad estendere attraverso l'anca. In un movimento di salto, accelera estendendo l'anca, le ginocchia e le caviglie, usando la velocità per sollevare la barra verso l'alto.",
+    "Non dovrebbe essere necessario tirare attivamente attraverso le braccia per accelerare il peso; alla fine del secondo tiraggio, il corpo dovrebbe essere completamente esteso, leggermente inclinato all'indietro. La completa estensione dovrebbe essere violenta e improvvisa, e assicurati di non prolungare l'estensione per più del necessario."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Sollevamento_di_strappo/0.jpg",
+    "Sollevamento_di_strappo/1.jpg"
+  ],
+  "id": "Snatch_Pull",
+  "images": [
+    "Snatch_Pull/0.jpg",
+    "Snatch_Pull/1.jpg"
+  ]
+}

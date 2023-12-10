@@ -1,0 +1,28 @@
+{
+  "name": "Barbell Step Ups",
+  "force": "spingere",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "bilanciere",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "polpacci",
+    "glutei",
+    "femorali",
+    "quadriceps"
+  ],
+  "instructions": [
+    "In piedi con la schiena dritta, tieni un bilanciere posto sulla spina dorsale (sotto il collo) e stai in piedi dietro una piattaforma rialzata (come quella utilizzata per il spotting dietro una panca piana). Questa è la tua posizione di partenza.",
+    "Metti il piede destro sulla piattaforma rialzata. Fai un passo sulla piattaforma estendendo l'anca e il ginocchio della gamba destra. Usare il tallone principalmente per sollevare il resto del corpo e mettere anche il piede della gamba sinistra sulla piattaforma. Espira mentre esegui la forza necessaria per salire.",
+    "Scendi con il piede sinistro flettendo l'anca e il ginocchio della gamba destra mentre inspiri. Torna alla posizione in piedi originale mettendo il piede destro vicino al piede sinistro nella posizione iniziale.",
+    "Ripeti con la gamba destra per il numero consigliato di ripetizioni e poi esegui il movimento con la gamba sinistra."
+  ],
+  "category": "forza",
+  "images": [
+    "Barbell_Step_Ups/0.jpg",
+    "Barbell_Step_Ups/1.jpg"
+  ],
+  "id": "Barbell_Step_Ups"
+}

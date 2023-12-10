@@ -1,0 +1,30 @@
+{
+  "name": "Double Kettlebell Jerk",
+  "force": "spingere",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "palle olimpioniche",
+  "primaryMuscles": [
+    "spalle"
+  ],
+  "secondaryMuscles": [
+    "polpacci",
+    "quadricipiti",
+    "tricipiti"
+  ],
+  "instructions": [
+    "Tenere una palla olimpionica per ogni mano",
+    "Alzare le palle olimpioniche fino alle spalle, estendendosi attraverso le gambe e gli fianchi mentre si tirano le palle olimpioniche alle spalle. Ruotare i polsi in questo modo, in modo che le palme siano rivolte in avanti. Questa sarà la posizione di partenza.",
+    "Piega il corpo piegando le ginocchia, mantenendo il busto in posizione eretta.",
+    "Invertire immediatamente la direzione, spingendo dai talloni, in sostanza saltando per creare slancio.",
+    "Fare in modo che le palle olimpioniche si innalzino sopra la testa a lockout estendendo le braccia, usando l'impulso del corpo per muovere i pesi.",
+    "Ritornare i piedi a terra in uno stile diviso, con un piede avanti e uno indietro.",
+    "Mantenendo i pesi sopra la testa, tornare in piedi, unendo i piedi. Abbassare i pesi per eseguire la prossima ripetizione."
+  ],
+  "category": "forza",
+  "images": [
+    "Double_Kettlebell_Jerk/0.jpg",
+    "Double_Kettlebell_Jerk/1.jpg"
+  ],
+  "id": "Double_Kettlebell_Jerk"
+}

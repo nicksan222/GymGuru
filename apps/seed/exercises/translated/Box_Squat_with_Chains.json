@@ -1,0 +1,31 @@
+{
+  "name": "Box Squat con catene",
+  "force": "spinta",
+  "level": "esperto",
+  "mechanic": "composto",
+  "equipment": "bilanciere",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "abduttori",
+    "adduttori",
+    "polpacci",
+    "glutei",
+    "femorali",
+    "lombare"
+  ],
+  "instructions": [
+    "Inizia in un rack di potenza con una scatola all'altezza adeguata dietro di te. Di solito, mireresti a un'altezza di scatola che ti metterà in una posizione parallela di squat, ma se desideri puoi allenarti più o meno in alto.",
+    "Per preparare le catene, inizia facendole passare sopra i manubri del bilanciere. La catena pesante dovrebbe essere attaccata con un gancetto rapido. Regola la lunghezza della catena in modo che alcuni anelli restino ancora a terra nella parte superiore del movimento.",
+    "Inizia passando sotto il bilanciere e posizionandolo sulle spalle. Contrai le scapole e ruota i gomiti in avanti, cercando di piegare il bilanciere sulle spalle. Rimuovi il bilanciere dal rack, creando un'arcata stretta nella zona lombare, e posizionati di nuovo. Posiziona i piedi ad una larghezza maggiore per mettere più enfasi su schiena, glutei, adduttori e femorali, o più vicini per un maggiore sviluppo dei quadricipiti. Tieni la testa rivolta in avanti.",
+    "Con la schiena, le spalle e il core ben contratti, spingi le ginocchia e le natiche in fuori mentre inizi la discesa. Siedi all'indietro con i fianchi fino a sederti sulla scatola. Idealmente, le tue tibie dovrebbero essere perpendicolari al terreno. Metti una pausa quando raggiungi la scatola e rilassa i flessori dell'anca. Non rimbalzare mai sulla scatola.",
+    "Mantieni il peso sui talloni e spingi i piedi e le ginocchia in fuori mentre ti rialzi dalla scatola portando avanti il movimento con la testa. Continua verso l'alto, mantenendo la tensione dalla testa ai piedi."
+  ],
+  "category": "forza",
+  "images": [
+    "Box_Squat_with_Chains/0.jpg",
+    "Box_Squat_with_Chains/1.jpg"
+  ],
+  "id": "Box_Squat_with_Chains"
+}

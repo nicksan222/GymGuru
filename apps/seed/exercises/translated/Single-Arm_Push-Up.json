@@ -1,0 +1,26 @@
+{
+  "name": "Flessione monolaterale sul braccio",
+  "force": "spinta",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "solo il corpo",
+  "primaryMuscles": [
+    "petto"
+  ],
+  "secondaryMuscles": [
+    "spalle",
+    "tricipiti"
+  ],
+  "instructions": [
+    "Cominciate supini sul terreno. Muovetevi per mettersi in una posizione in cui sostengono il vostro peso sulle punte delle dita dei piedi e su un braccio. Il braccio in cui state lavorando dovrebbe essere posizionato direttamente sotto la spalla, completamente esteso. Le gambe dovrebbero essere estese, e per questo movimento potreste avere bisogno di una base più ampia, posizionando i piedi più lontano di quanto si farebbe in una flessione normale.",
+    "Mantenete una buona postura e posizionate la mano libera dietro la schiena. Questa sarà la vostra posizione di partenza.",
+    "Abbassatevi consentendo al gomito di piegarsi finché non toccherà il terreno.",
+    "Scendete lentamente e invertite la direzione estendendo il braccio per tornare alla posizione di partenza."
+  ],
+  "category": "forza",
+  "images": [
+    "Single-Arm_Push-Up/0.jpg",
+    "Single-Arm_Push-Up/1.jpg"
+  ],
+  "id": "Single-Arm_Push-Up"
+}

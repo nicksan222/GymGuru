@@ -1,0 +1,28 @@
+{
+  "name": "Spinta Declinata a presa inversa",
+  "force": "spinta",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "solo corpo",
+  "primaryMuscles": [
+    "petto"
+  ],
+  "secondaryMuscles": [
+    "addominali",
+    "spalle",
+    "tricipiti"
+  ],
+  "instructions": [
+    "Pianta a faccia dell'asta di una macchina Smith o di una piattaforma stabile a una altezza appropriata.",
+    "Posiziona le mani sull'asta con i palmi delle mani rivolti verso l'alto, distanti circa la larghezza delle spalle.",
+    "Posiziona i piedi indietro rispetto all'asta con braccia e corpo dritti. Questa sarà la posizione di partenza.",
+    "Mantenendo il corpo dritto, abbassa il petto fino all'asta piegando le braccia.",
+    "Torna alla posizione di partenza estendendo i gomiti, spingendoti nuovamente su."
+  ],
+  "category": "forza",
+  "images": [
+    "Incline_Push-Up_Reverse_Grip/0.jpg",
+    "Incline_Push-Up_Reverse_Grip/1.jpg"
+  ],
+  "id": "Incline_Push-Up_Reverse_Grip"
+}

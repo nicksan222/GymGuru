@@ -1,0 +1,29 @@
+{
+  "name": "Allungamento dorsale medio",
+  "forza": "statico",
+  "livello": "principiante",
+  "meccanica": "isolamento",
+  "attrezzatura": null,
+  "muscoliPrimari": [
+    "dorsale medio"
+  ],
+  "muscoliSecondari": [
+    "addominali",
+    "grandi muscoli della schiena",
+    "dorisi bassi"
+  ],
+  "istruzioni": [
+    "Stai in piedi con i piedi larghi quanto le spalle e le mani sui fianchi.",
+    "Ruota alla vita finché non senti lo stiramento. Tieni per 10-15 secondi, poi ruota dall'altra parte."
+  ],
+  "categoria": "stretching",
+  "immagini": [
+    "Middle_Back_Stretch/0.jpg",
+    "Middle_Back_Stretch/1.jpg"
+  ],
+  "id": "Middle_Back_Stretch",
+  "images": [
+    "Middle_Back_Stretch/0.jpg",
+    "Middle_Back_Stretch/1.jpg"
+  ]
+}

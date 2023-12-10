@@ -1,0 +1,29 @@
+{
+  "name": "One-Arm Side Laterals",
+  "force": "spingere",
+  "level": "beginner",
+  "mechanic": "isolamento",
+  "equipment": "manubrio",
+  "primaryMuscles": [
+    "spalle"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Prendere un manubrio e posizionarlo in una delle mani. La mano non utilizzata per sollevare il manubrio dovrebbe essere fissata su qualcosa di stabile, come un panca inclinata. Piegarsi dalla parte del braccio che solleva il manubrio e allontanarsi dalla mano che tiene la panca inclinata, in modo da mantenere l'equilibrio.",
+    "Stare in piedi con il torso dritto e avere il manubrio accanto al corpo con il palmo della mano rivolto verso di te. Questa sarà la posizione di partenza.",
+    "Senza muovere il torso (senza oscillare), sollevare il manubrio verso il lato con il gomito leggermente flesso e la mano leggermente inclinata in avanti, come se si stesse versando l'acqua in un bicchiere. Continuare fino a quando il braccio è parallelo al pavimento. Espirare durante questo movimento e fermarsi per un secondo in alto.",
+    "Riabbassare lentamente il manubrio alla posizione di partenza inspirando.",
+    "Ripetere per il numero di ripetizioni consigliato.",
+    "Cambiare braccio e ripetere l'esercizio."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "One-Arm_Side_Laterals/0.jpg",
+    "One-Arm_Side_Laterals/1.jpg"
+  ],
+  "id": "One-Arm_Side_Laterals",
+  "images": [
+    "One-Arm_Side_Laterals/0.jpg",
+    "One-Arm_Side_Laterals/1.jpg"
+  ]
+}

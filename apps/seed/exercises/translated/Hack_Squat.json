@@ -1,0 +1,34 @@
+{
+  "nome": "Flessione Hack",
+  "forza": "pressa",
+  "livello": "principiante",
+  "meccanica": "composta",
+  "attrezzatura": "macchina",
+  "muscoliPrimari": [
+    "quadriceps"
+  ],
+  "muscoliSecondari": [
+    "polpacci",
+    "glutei",
+    "femorali"
+  ],
+  "istruzioni": [
+    "Posiziona il retro del tuo busto sulla schiena della macchina e aggancia le spalle sotto i cuscinetti delle spalle forniti.",
+    "Posiziona le gambe nell'apposita piattaforma con una posizione media a larghezza delle spalle con le punte dei piedi leggermente rivolte verso l'esterno. Suggerimento: Mantieni sempre la testa alta e la schiena appoggiata al cuscinetto.",
+    "Posiziona le braccia sui maniglioni laterali della macchina e sgancia le sbarre di sicurezza (che in alcuni modelli si fa spostando i maniglioni laterali da una posizione frontale a una posizione diagonale).",
+    "Ora estendi le gambe senza bloccare le ginocchia. Questa sarà la tua posizione di partenza. (Nota: Per la discussione useremo la posizione media descritta sopra che sviluppa i muscoli in modo equilibrato; tuttavia puoi scegliere una delle tre posizioni descritte nella sezione sulla posizione dei piedi).",
+    "Inizia a scendere lentamente abbassando il peso piegando le ginocchia e mantenendo la postura dritta con la testa alta (la schiena sempre appoggiata al cuscinetto). Continua fino a quando l'angolo tra la coscia e il polpaccio diventa un po' meno di 90 gradi (che è il punto in cui la coscia è sotto il livello del pavimento). Inspirando mentre esegui questa parte del movimento. Suggerimento: Se hai eseguito correttamente l'esercizio, la parte anteriore delle ginocchia dovrebbero formare una linea immaginaria dritta con le punte dei piedi, che è perpendicolare alla parte anteriore del corpo. Se le ginocchia sono oltre quella linea immaginaria (oltre le punte dei piedi) significa che stai mettendo troppa pressione sulle ginocchia e l'esercizio è stato eseguito in modo errato.",
+    "Inizia a sollevare il peso espirando spingendo il pavimento principalmente con il tallone dei piedi mentre estendi di nuovo le gambe e torni alla posizione di partenza.",
+    "Ripetere per la quantità raccomandata di ripetizioni."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Flessione_Hack/0.jpg",
+    "Flessione_Hack/1.jpg"
+  ],
+  "id": "Hack_Squat",
+  "images": [
+    "Hack_Squat/0.jpg",
+    "Hack_Squat/1.jpg"
+  ]
+}

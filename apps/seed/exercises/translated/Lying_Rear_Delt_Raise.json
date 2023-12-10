@@ -1,0 +1,28 @@
+{
+  "name": "Sollevamento posteriore con deltoidale sdraiato",
+  "forza": "trazione",
+  "livello": "intermedio",
+  "meccanico": "isolamento",
+  "attrezzatura": "manubri",
+  "muscoliPrimari": [
+    "spalle"
+  ],
+  "muscoliSecondari": [],
+  "istruzioni": [
+    "Mentre tieni un manubrio in ogni mano, sdraiati con il petto a terra su una panca piana.",
+    "Posiziona i palmi delle mani in modo neutrale (palmi rivolti verso il tuo torso) mantenendo le braccia estese con i gomiti leggermente piegati. Questa sarà la tua posizione di partenza.",
+    "Solleva le braccia verso il lato finché i gomiti non raggiungono l'altezza delle spalle e le braccia sono approssimativamente parallele al pavimento mentre espiri. Consiglio: Mantieni le braccia perpendicolari al corpo mentre le tieni distese durante il movimento. Inoltre, mantieni la contrazione in alto per un secondo.",
+    "Abbassa lentamente i manubri alla posizione di partenza mentre inspiri.",
+    "Ripeti per il numero consigliato di ripetizioni e poi passa all'altra braccio."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Sollevamento_posteriore_con_deltoidale_sdraiato/0.jpg",
+    "Sollevamento_posteriore_con_deltoidale_sdraiato/1.jpg"
+  ],
+  "id": "Lying_Rear_Delt_Raise",
+  "images": [
+    "Lying_Rear_Delt_Raise/0.jpg",
+    "Lying_Rear_Delt_Raise/1.jpg"
+  ]
+}

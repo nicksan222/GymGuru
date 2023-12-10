@@ -1,0 +1,31 @@
+{
+  "name": "Muscle Up",
+  "force": "tirato",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "altro",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [
+    "addominali",
+    "bicipiti",
+    "avambracci",
+    "parte centrale della schiena",
+    "spalle",
+    "trapezi",
+    "tricipiti"
+  ],
+  "instructions": [
+    "Impugna gli anelli con una presa falsa, con la base delle mani sulla parte superiore degli anelli. Inizia il chin-up tirando i gomiti verso il basso, flettendo i gomiti.",
+    "Mentre raggiungi la posizione più alta del chin-up, tira gli anelli alle ascelle mentre arrotoli le spalle in avanti, permettendo ai gomiti di muoversi dritti dietro di te. Questo ti mette nella posizione corretta per continuare nella fase di discesa del movimento.",
+    "Mantieni il controllo e la stabilità, estenditi attraverso il gomito per completare il movimento.",
+    "Usa cautela quando ti abbassi a terra."
+  ],
+  "category": "forza",
+  "images": [
+    "Muscle_Up/0.jpg",
+    "Muscle_Up/1.jpg"
+  ],
+  "id": "Muscle_Up"
+}

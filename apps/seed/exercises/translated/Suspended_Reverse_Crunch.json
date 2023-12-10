@@ -1,0 +1,23 @@
+{
+  "name": "Crunch inverso sospeso",
+  "force": "trazione",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "altro",
+  "primaryMuscles": [
+    "addominali"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fissare una coppia di cinghie sospese con le maniglie a circa un piede da terra. Posizionarsi in posizione a plank in trazione rivolta verso l'alto.",
+    "Posizionare i piedi nelle maniglie. Mantenere una postura dritta, evitando che i fianchi scendano. Questa sarà la posizione di partenza.",
+    "Iniziare il movimento flettendo le ginocchia e le anche, portando le ginocchia verso il torace. Durante il movimento, inclinare il bacino anteriormente, permettendo alla colonna vertebrale di flettersi.",
+    "Alla parte più alta del movimento controllato, tornare alla posizione di partenza."
+  ],
+  "category": "forza",
+  "images": [
+    "Suspended_Reverse_Crunch/0.jpg",
+    "Suspended_Reverse_Crunch/1.jpg"
+  ],
+  "id": "Suspended_Reverse_Crunch"
+}

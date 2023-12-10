@@ -1,0 +1,29 @@
+{
+  "nome": "Sfogo a gamba singola",
+  "forza": "spingere",
+  "livello": "principiante",
+  "meccanismo": "composto",
+  "attrezzatura": "altro",
+  "muscoliPrincipali": [
+    "quadricipiti"
+  ],
+  "muscoliSecondari": [
+    "polpacci",
+    "musc verwahrloseditati"
+  ],
+  "istruzioni": [
+    "Stand sul terreno con un piede poggiato sulla scatola, il tallone vicino al bordo.",
+    "Spingi con il piede in cima alla scatola, cercando di ottenere il massimo altezza possibile estendendo fianchi e ginocchio.",
+    "Atterra con lo stesso piede sulla scatola, riportando l'altro piede alla posizione di partenza."
+  ],
+  "categoria": "pliometria",
+  "immagini": [
+    "Sfogo_a_gamba_singola/0.jpg",
+    "Sfogo_a_gamba_singola/1.jpg"
+  ],
+  "id": "Single_Leg_Push-off",
+  "images": [
+    "Single_Leg_Push-off/0.jpg",
+    "Single_Leg_Push-off/1.jpg"
+  ]
+}

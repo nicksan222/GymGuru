@@ -1,0 +1,28 @@
+{
+  "nome": "Reverse Grip Triceps Pushdown",
+  "forza": "spingere",
+  "livello": "principiante",
+  "meccanismo": "isolamento",
+  "attrezzatura": "cavo",
+  "muscoliPrimari": [
+    "tricipite"
+  ],
+  "muscoliSecondari": [],
+  "istruzioni": [
+    "Inizia impostando un'allegato a barra (dritto o e-z) su una macchina con una puleggia alta.",
+    "Guardando verso l'allegato a barra, afferra la barra con i palmi rivolti verso l'alto (impugnatura supinata) alla larghezza delle spalle. Abbassa la barra usando i dorsali finché le braccia sono completamente estese lungo i fianchi. Suggerimento: i gomiti dovrebbero essere vicino ai fianchi e i piedi dovrebbero essere distanziati alla larghezza delle spalle. Questa è la posizione di partenza.",
+    "Solleva lentamente l'allegato a barra verso l'alto mentre inspiri in modo che sia allineato con il tuo petto. Solo gli avambracci dovrebbero muoversi e i gomiti/braccia superiori dovrebbero rimanere immobili lungo i fianchi in ogni momento.",
+    "Inizia quindi a riportare la barra del cavo nella posizione di partenza originale mentre espiri e contraendo i tricipiti.",
+    "Ripeti il numero ricomandato di ripetizioni."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Reverse_Grip_Triceps_Pushdown/0.jpg",
+    "Reverse_Grip_Triceps_Pushdown/1.jpg"
+  ],
+  "id": "Reverse_Grip_Triceps_Pushdown",
+  "images": [
+    "Reverse_Grip_Triceps_Pushdown/0.jpg",
+    "Reverse_Grip_Triceps_Pushdown/1.jpg"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Pose ribaltata del bambino",
+  "force": "static",
+  "level": "principiante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "parte bassa della schiena"
+  ],
+  "secondaryMuscles": [
+    "glutei",
+    "parte media della schiena"
+  ],
+  "instructions": [
+    "Mettiti in ginocchio, cammina con le mani davanti a te.",
+    "Siediti sui tuoi talloni, lascia che le braccia si trascinino lungo il pavimento mentre ti siedi indietro per allungare tutta la tua colonna vertebrale.",
+    "Una volta che ti sei sistemato sui tuoi talloni, porta le mani accanto ai piedi e rilassati. \"Respira\" nella tua schiena. Appoggia la fronte a terra. Evita questa posizione se hai problemi alle ginocchia."
+  ],
+  "category": "stretching",
+  "images": [
+    "Childs_Pose/0.jpg",
+    "Childs_Pose/1.jpg"
+  ],
+  "id": "Childs_Pose"
+}

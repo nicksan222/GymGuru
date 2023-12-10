@@ -1,0 +1,25 @@
+{
+  "nome": "IT Band e Glute Stretch",
+  "forza": "statico",
+  "livello": "intermedio",
+  "meccanico": null,
+  "attrezzatura": "altro",
+  "muscoliPrimari": [
+    "adduttori"
+  ],
+  "muscoliSecondari": [],
+  "istruzioni": [
+    "Gancio una cintura, corda o fascia intorno a uno dei tuoi piedi, e fai oscillare quella gamba dall'altro lato del corpo, mantenendo la gamba estesa mentre stai sdraiato sul pavimento. Questa sarà la tua posizione di partenza.",
+    "Mantieni il piede sollevato dal pavimento, tira la cintura, usando la tensione per sollevare le dita dei piedi. Mantieni la posizione per 10-20 secondi, e ripeti dall'altro lato."
+  ],
+  "categoria": "stretching",
+  "immagini": [
+    "IT_Band_e_Glute_Stretch/0.jpg",
+    "IT_Band_e_Glute_Stretch/1.jpg"
+  ],
+  "id": "IT_Band_and_Glute_Stretch",
+  "images": [
+    "IT_Band_and_Glute_Stretch/0.jpg",
+    "IT_Band_and_Glute_Stretch/1.jpg"
+  ]
+}

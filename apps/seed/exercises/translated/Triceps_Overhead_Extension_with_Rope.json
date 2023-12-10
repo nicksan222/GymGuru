@@ -1,0 +1,23 @@
+{
+  "name": "Estensione Tricipiti in Alto con Corda",
+  "force": "spinta",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "cavo",
+  "primaryMuscles": [
+    "tricipiti"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Attaccare una corda su una puleggia bassa. Dopo aver selezionato un peso adeguato, afferrare la corda con entrambe le mani e girarsi verso lontano dal cavo.",
+    "Posizionare le mani dietro la testa con i gomiti puntati dritto verso l'alto. I gomiti dovrebbero essere piegati all'inizio, e si può alternare la posizione dei piedi e piegarsi leggermente lontano dalla macchina per creare maggiore stabilità. Questa sarà la posizione di partenza.",
+    "Per eseguire il movimento, estendersi attraverso il gomito mantenendo il braccio superiore in posizione, alzando le mani sopra la testa.",
+    "Stringere i tricipiti nella parte superiore del movimento e abbassare lentamente il peso alla posizione di partenza."
+  ],
+  "category": "forza",
+  "images": [
+    "Triceps_Overhead_Extension_with_Rope/0.jpg",
+    "Triceps_Overhead_Extension_with_Rope/1.jpg"
+  ],
+  "id": "Triceps_Overhead_Extension_with_Rope"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Incline Push-Up Wide",
+  "force": "spingere",
+  "level": "principiante",
+  "mechanic": "composito",
+  "equipment": "corpo only",
+  "primaryMuscles": [
+    "petto"
+  ],
+  "secondaryMuscles": [
+    "addominali",
+    "spalle",
+    "tricipiti"
+  ],
+  "instructions": [
+    "Fermarsi di fronte ad una barra Smith o una piattaforma elevata robusta ad un'altezza adeguata.",
+    "Metti le mani sulla barra e spaziali più larghe delle spalle.",
+    "Posiziona i piedi dietro la barra con braccia e corpo dritto. Le braccia dovrebbero essere perpendicolari al corpo. Questa sarà la tua posizione di partenza.",
+    "Mantenendo il corpo dritto, abbassa il petto alla barra piegando le braccia.",
+    "Tornare alla posizione di partenza estendendo i gomiti, premendo con la forza del corpo."
+  ],
+  "category": "forza",
+  "images": [
+    "Incline_Push-Up_Wide/0.jpg",
+    "Incline_Push-Up_Wide/1.jpg"
+  ],
+  "id": "Incline_Push-Up_Wide"
+}

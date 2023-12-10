@@ -1,0 +1,22 @@
+{
+  "name": "Strecco del Vitello con le mani contro il muro",
+  "force": "statica",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "vitelli"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fermati di fronte un muro da diversi piedi di distanza. Metti una gamba in prima posizione.",
+    "Inclina il corpo in avanti e appoggia le mani sul muro, mantenendo il tallone, il fianco e la testa in una linea dritta.",
+    "Cerca di tenere il tallone a terra. Mantieni la posizione per 10-20 secondi e poi cambia lato."
+  ],
+  "category": "stiramento",
+  "images": [
+    "Calf_Stretch_Hands_Against_Wall/0.jpg",
+    "Calf_Stretch_Hands_Against_Wall/1.jpg"
+  ],
+  "id": "Calf_Stretch_Hands_Against_Wall"
+}

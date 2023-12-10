@@ -1,0 +1,36 @@
+{
+  "nome": "Overhead Squat",
+  "forza": "spingere",
+  "livello": "esperto",
+  "meccanica": "composto",
+  "attrezzatura": "bilanciere",
+  "muscoliPrimari": [
+    "quadriceps"
+  ],
+  "muscoliSec": [
+    "calf",
+    "glutei",
+    "femorali",
+    "lombare",
+    "spalle",
+    "tricipiti"
+  ],
+  "istruzioni": [
+    "Comincia con un bilanciere davanti a te sul pavimento. I piedi devono essere più larghi delle spalle.",
+    "Piegare le ginocchia e usare una presa pronata (palmi rivolti verso di te) per afferrare il bilanciere. Le mani devono essere più larghe delle spalle prima di sollevare. Una volta che sei posizionato, solleva il bilanciere finché puoi posarlo sul petto.",
+    "Muovi il bilanciere oltre e leggermente dietro la testa e assicurati che le tue braccia siano completamente estese. Tieni la testa sempre alta e mantieni anche una schiena dritta. Ritira le scapole. Questa è la tua posizione di partenza.",
+    "Abbassa lentamente il peso piegando le ginocchia fino a quando le cosce sono parallele al terreno inspirando. Suggerimento: tieni la schiena dritta durante l'esecuzione di questo esercizio per evitare infortuni e le braccia dovrebbero rimanere estese e sopra la testa in ogni momento.",
+    "Ora usa i tuoi piedi e le tue gambe per aiutare a riportare il peso alla posizione di partenza espirando.",
+    "Ripeti per il numero raccomandato di ripetizioni."
+  ],
+  "categoria": "sollevamento pesi olimpico",
+  "immagini": [
+    "Overhead_Squat/0.jpg",
+    "Overhead_Squat/1.jpg"
+  ],
+  "id": "Overhead_Squat",
+  "images": [
+    "Overhead_Squat/0.jpg",
+    "Overhead_Squat/1.jpg"
+  ]
+}

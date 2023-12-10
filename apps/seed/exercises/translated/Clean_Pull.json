@@ -1,0 +1,28 @@
+{
+  "name": "Clean Pull",
+  "force": "tira",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "bilanciere",
+  "primaryMuscles": [
+    "quadricipiti"
+  ],
+  "secondaryMuscles": [
+    "avambracci",
+    "glutei",
+    "femorali",
+    "lombari",
+    "trapezi"
+  ],
+  "instructions": [
+    "Con un bilanciere a terra vicino alle caviglie, prendere una presa sopra o ad uncino appena al di fuori delle gambe. Abbassare le anche con il peso concentrato sui talloni, schiena dritta, testa rivolta in avanti, petto in fuori, con le spalle appena davanti alla barra. Questa sarà la posizione di partenza.",
+    "Iniziare il primo movimento tirando attraverso i talloni, estendendo le ginocchia. L'angolo della schiena dovrebbe rimanere lo stesso, e le braccia dovrebbero rimanere tese e con i gomiti fuori. Muovere il peso con controllo mentre continui a portarlo sopra le ginocchia.",
+    "Viene poi il secondo movimento, la principale fonte di accelerazione per il clean. Mentre la barra si avvicina alla posizione a metà coscia, iniziare l'estensione attraverso i fianchi. In un movimento di salto, accelerare estendendo anche fianchi, ginocchia e caviglie, utilizzando la velocità per muovere la barra verso l'alto. Non dovrebbe essere necessario tirare attivamente attraverso le braccia per accelerare il peso; alla fine del secondo movimento, il corpo dovrebbe essere completamente esteso, inclinato leggermente indietro, con le braccia ancora estese. La massima estensione dovrebbe essere violenta e brusca, e assicurarsi di non prolungare l'estensione per più del necessario."
+  ],
+  "category": "sollevamento pesi olimpico",
+  "images": [
+    "Clean_Pull/0.jpg",
+    "Clean_Pull/1.jpg"
+  ],
+  "id": "Clean_Pull"
+}

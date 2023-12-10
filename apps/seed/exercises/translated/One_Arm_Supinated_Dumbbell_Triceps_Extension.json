@@ -1,0 +1,26 @@
+{
+  "name": "Un braccio supinato estensione tricipite manubrio",
+  "force": "spingere",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "manubrio",
+  "primaryMuscles": [
+    "tricipiti"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sdraiati su una panca tenendo in mano un manubrio in estensione. La tua braccio dovrebbe essere perpendicolare al tuo corpo. Il palmo della mano dovrebbe essere rivolto verso il viso, poiché una presa supinata è necessaria per eseguire questo esercizio.",
+    "Posiziona la mano non impegnata sul tuo bicipite per il sostegno.",
+    "Inizia lentamente a abbassare il manubrio mentre inspiri.",
+    "Poi, inizia a sollevare il manubrio verso l'alto mentre contrai i tricipiti. Ricorda di espirare durante la parte concentrica dell'esercizio.",
+    "Ripeti fino a quando non hai eseguito le ripetizioni del tuo set.",
+    "Cambia braccia e ripeti il movimento.",
+    "Cambia ancora braccia e ripeti il movimento."
+  ],
+  "category": "forza",
+  "images": [
+    "One_Arm_Supinated_Dumbbell_Triceps_Extension/0.jpg",
+    "One_Arm_Supinated_Dumbbell_Triceps_Extension/1.jpg"
+  ],
+  "id": "One_Arm_Supinated_Dumbbell_Triceps_Extension"
+}

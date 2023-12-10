@@ -1,0 +1,31 @@
+{
+  "nome": "French contrazioni eccessive senza panca di iperestensione",
+  "forza": "pull",
+  "livello": "medio",
+  "meccanismo": "composto",
+  "attrezzatura": "solo corpo",
+  "muscoliPrimari": [
+    "parte inferiore della schiena"
+  ],
+  "muscoliSecondari": [
+    "glutei",
+    "muscoliIschio_crurali"
+  ],
+  "istruzioni": [
+    "Con qualcuno che ti tiene le gambe, scivola verso il basso fino a bordo di una panca piatta finché le tue anche poggiano sul bordo della panca. Suggerimento: l'intera parte superiore del corpo dovrebbe essere rivolta verso il pavimento. Inoltre, sarai nella stessa posizione in cui saresti su una panca di iperestensione, ma l'ampiezza del movimento sarà più ridotta a causa dell'altezza della panca piatta rispetto a quella della panca di iperestensione.",
+    "Con il tuo corpo in linea, incrocia le braccia davanti a te (la mia preferenza) o dietro la testa. Questa sarà la tua posizione di partenza. Suggerimento: puoi anche tenere una placca di peso per una resistenza extra davanti a te sotto le braccia incrociate.",
+    "Inizia a piegare lentamente in avanti alla vita quanto basta mantenendo la schiena dritta. Inala mentre esegui questo movimento. Continua a muoverti in avanti finché quasi toccare il pavimento o senti uno stiramento piacevole sui muscoli ischiocrurali (qualsiasi cosa venga prima). Suggerimento: non sollevare mai la schiena mentre esegui questo esercizio.",
+    "Solleva lentamente il busto alla posizione iniziale mentre espiri. Suggerimento: Evita la tentazione di incurvare la schiena oltre una linea retta. Inoltre, non dondolare mai il busto in qualsiasi momento per proteggere la schiena da ferite.",
+    "Ripeti per il numero di ripetizioni consigliato."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "French_contrazioni_eccessive_senza_panca_di_iperestensione/0.jpg",
+    "French_contrazioni_eccessive_senza_panca_di_iperestensione/1.jpg"
+  ],
+  "id": "Hyperextensions_With_No_Hyperextension_Bench",
+  "images": [
+    "Hyperextensions_With_No_Hyperextension_Bench/0.jpg",
+    "Hyperextensions_With_No_Hyperextension_Bench/1.jpg"
+  ]
+}

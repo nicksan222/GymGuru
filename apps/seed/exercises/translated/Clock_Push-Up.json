@@ -1,0 +1,28 @@
+{
+  "name": "Clock Push-Up",
+  "force": "spinta",
+  "level": "intermedio",
+  "mechanic": "combinato",
+  "equipment": "solo corpo",
+  "primaryMuscles": [
+    "petto"
+  ],
+  "secondaryMuscles": [
+    "spalle",
+    "tricipiti"
+  ],
+  "instructions": [
+    "Posizionarsi in posizione prona sul pavimento, sorreggendo il peso sulle mani e sulle punte dei piedi.",
+    "Le braccia dovrebbero essere completamente estese con le mani larghezza delle spalle. Mantenere il corpo diritto durante tutto il movimento. Questa sarà la tua posizione di partenza.",
+    "Scendere flettendo il gomito, abbassando il petto verso il suolo.",
+    "In fondo, invertire il movimento spingendoti verso l'alto attraverso l'estensione del gomito il più velocemente possibile fino a quando non sarai in aria. Cerca di 'saltare' di 12-18 pollici di lato.",
+    "Mentre acceleri verso l'alto, sposti il tuo piede esterno lontano dalla tua direzione di viaggio. Lasciando il terreno, sposti il tuo corpo di circa 30 gradi per la prossima ripetizione.",
+    "Torna alla posizione di partenza e ripeti l'esercizio, lavorando fino ad arrivare al punto di partenza."
+  ],
+  "category": "forza",
+  "images": [
+    "Clock_Push-Up/0.jpg",
+    "Clock_Push-Up/1.jpg"
+  ],
+  "id": "Clock_Push-Up"
+}

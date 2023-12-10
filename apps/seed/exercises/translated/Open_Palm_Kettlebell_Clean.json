@@ -1,0 +1,27 @@
+{
+  "name": "Clean del Kettlebell con Palmo Aperto",
+  "force": "trazione",
+  "level": "esperto",
+  "mechanic": "multi-articolare",
+  "equipment": "kettlebells",
+  "primaryMuscles": [
+    "ischiocrurali"
+  ],
+  "secondaryMuscles": [
+    "glutei",
+    "regione lombare",
+    "quadricipiti",
+    "spalle"
+  ],
+  "instructions": [
+    "Posiziona un kettlebell tra i piedi. Esegui il clean del kettlebell estendendo le gambe e i fianchi, portando il kettlebell verso le spalle.",
+    "Rilascia il kettlebell quando arriva in alto, facendolo girare in modo che la sfera del kettlebell cada sul palmo delle mani.",
+    "Rilascia il kettlebell davanti a te e afferra l'impugnatura con entrambe le mani. Abbassa il kettlebell alla posizione di partenza e ripeti."
+  ],
+  "category": "forza",
+  "images": [
+    "Open_Palm_Kettlebell_Clean/0.jpg",
+    "Open_Palm_Kettlebell_Clean/1.jpg"
+  ],
+  "id": "Open_Palm_Kettlebell_Clean"
+}

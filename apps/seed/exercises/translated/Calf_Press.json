@@ -1,0 +1,23 @@
+{
+  "name": "Stacco del vitello",
+  "force": "spingere",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "macchina",
+  "primaryMuscles": [
+    "polpacci"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Regola il sedile in modo che le gambe siano solo leggermente piegate nella posizione di partenza. Le punte dei piedi devono essere ben salde sulla piattaforma.",
+    "Seleziona un peso adeguato e afferra le maniglie. Questa sarà la tua posizione di partenza.",
+    "Raddrizza le gambe estendendo le ginocchia, alzando appena il peso dal carico. La caviglia deve essere completamente flessa, con le dita dei piedi rivolte verso l'alto. Esegui il movimento premendo verso il basso attraverso le punte dei piedi il più possibile.",
+    "Dopo una breve pausa, inverti il movimento e ripeti."
+  ],
+  "category": "forza",
+  "images": [
+    "Calf_Press/0.jpg",
+    "Calf_Press/1.jpg"
+  ],
+  "id": "Calf_Press"
+}

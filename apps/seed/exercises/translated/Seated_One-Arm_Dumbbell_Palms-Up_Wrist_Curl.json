@@ -1,0 +1,25 @@
+{
+  "name": "Curl palmi in su con manubrio per avambracci alla scrivania",
+  "force": "tirare",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "manubrio",
+  "primaryMuscles": [
+    "avambracci"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Siediti su una panca piatta con un manubrio nella tua mano destra.",
+    "Metti i piedi piatti sul pavimento, a una distanza leggermente maggiore della larghezza delle spalle.",
+    "Inclina in avanti e metti il tuo avambraccio destro sopra la tua coscia superiore con il palmo della mano in su. Suggerimento: Assicurati che la parte anteriore del polso giaccia sopra le ginocchia. Questa sarà la tua posizione di partenza.",
+    "Abbassa il manubrio il più possibile mantenendo una presa stretta su di esso. Inspira mentre esegui questo movimento.",
+    "Ora curl il manubrio il più possibile mentre contrai gli avambracci e mentre espiri. Mantieni la contrazione per un secondo prima di abbassarne di nuovo. Suggerimento: L'unico movimento dovrebbe avvenire al polso.",
+    "Esegui il numero raccomandato di ripetizioni, cambia braccia e ripeti il movimento."
+  ],
+  "category": "forza",
+  "images": [
+    "Seated_One-Arm_Dumbbell_Palms-Up_Wrist_Curl/0.jpg",
+    "Seated_One-Arm_Dumbbell_Palms-Up_Wrist_Curl/1.jpg"
+  ],
+  "id": "Seated_One-Arm_Dumbbell_Palms-Up_Wrist_Curl"
+}

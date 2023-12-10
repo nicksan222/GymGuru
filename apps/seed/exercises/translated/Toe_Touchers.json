@@ -1,0 +1,25 @@
+{
+  "name": "Tocco delle dita dei piedi",
+  "force": "tira",
+  "level": "principiante",
+  "mechanic": "isola",
+  "equipment": "solo il corpo",
+  "primaryMuscles": [
+    "addominali"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Per iniziare, sdraiati a terra o su un tappetino da esercizio con la schiena appoggiata a terra. Le braccia dovrebbero essere posizionate lungo i lati con i palmi rivolti verso il basso.",
+    "Le gambe dovrebbero toccarsi. Solleva lentamente le gambe verso l'alto fino a quando sono quasi perpendicolari al pavimento con una leggera piega alle ginocchia. I piedi dovrebbero essere paralleli al pavimento.",
+    "Muovi le braccia in modo che siano completamente allungate ad un angolo di 45 gradi dal pavimento. Questa è la posizione di partenza.",
+    "Mentre mantieni la parte bassa della schiena appoggiata a terra, solleva lentamente il busto e usa le mani per cercare di toccare le dita dei piedi. Ricorda di espirare mentre esegui questa parte dell'esercizio.",
+    "Inizia lentamente a abbassare il busto e le braccia alla posizione di partenza mentre inspiri. Ricorda di mantenere le braccia dritte a puntare verso le dita dei piedi.",
+    "Ripeti per il numero consigliato di ripetizioni."
+  ],
+  "category": "stretching",
+  "images": [
+    "Toe_Touchers/0.jpg",
+    "Toe_Touchers/1.jpg"
+  ],
+  "id": "Toe_Touchers"
+}

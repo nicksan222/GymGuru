@@ -1,0 +1,25 @@
+{
+  "name": "Serie di Artiglio in Movimento",
+  "force": null,
+  "level": "principiante",
+  "mechanic": "combinato",
+  "equipment": null,
+  "primaryMuscles": [
+    "muscoli posteriori della coscia"
+  ],
+  "secondaryMuscles": [
+    "polpacci",
+    "quadricipiti"
+  ],
+  "instructions": [
+    "Questo esercizio aiuta a preparare la forma di corsa per aiutarti ad eccellere nella velocità. Mentre corri, assicurati di flettere il ginocchio, puntando a colpire i glutei mentre il fianco si estende.",
+    "Ricarica il quadricipite mentre la gamba si muove in avanti, attaccando il suolo sul prossimo passo.",
+    "Assicurati che mentre corri, blocchi con le braccia, spingendo in un rapido movimento 1-2."
+  ],
+  "category": "pliometria",
+  "images": [
+    "Moving_Claw_Series/0.jpg",
+    "Moving_Claw_Series/1.jpg"
+  ],
+  "id": "Moving_Claw_Series"
+}

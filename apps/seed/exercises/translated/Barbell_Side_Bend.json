@@ -1,0 +1,29 @@
+{
+  "nome": "Barbell Side Bend",
+  "forza": "tirare",
+  "livello": "principiante",
+  "meccanica": "isolamento",
+  "attrezzatura": "barra",
+  "muscoliPrimari": [
+    "addominali"
+  ],
+  "muscoliSecondari": [
+    "parte bassa della schiena"
+  ],
+  "istruzioni": [
+    "Stai in piedi con una barra posizionata sulla schiena (leggermente sotto il collo). I piedi dovrebbero essere larghi quanto le spalle. Questa sarà la posizione di partenza.",
+    "Mentre tieni la schiena dritta e il mento alto, piegati solo alla vita verso destra il più possibile. Respira mentre ti pieghi su un lato. Poi tieni per un secondo e torna alla posizione di partenza espirando. Consiglio: Mantieni il resto del corpo fermo.",
+    "Ora ripeti il movimento ma piegandoti a sinistra invece. Tieni per un secondo e torna alla posizione di partenza.",
+    "Ripeti per il numero di ripetizioni consigliato."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Barbell_Side_Bend/0.jpg",
+    "Barbell_Side_Bend/1.jpg"
+  ],
+  "id": "Barbell_Side_Bend",
+  "images": [
+    "Barbell_Side_Bend/0.jpg",
+    "Barbell_Side_Bend/1.jpg"
+  ]
+}

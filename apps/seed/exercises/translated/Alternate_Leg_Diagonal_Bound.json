@@ -1,0 +1,33 @@
+{
+  "nome": "Alternate Leg Diagonal Bound",
+  "forza": "spingi",
+  "livello": "principiante",
+  "meccanica": "composta",
+  "attrezzatura": null,
+  "muscoliPrimari": [
+    "quadricipiti"
+  ],
+  "muscoliSecondari": [
+    "abduttori",
+    "adduttori",
+    "polpacci",
+    "glutei",
+    "muscoli posteriori della coscia"
+  ],
+  "istruzioni": [
+    "Assumi una posizione comoda con un piede leggermente avanti rispetto all'altro.",
+    "Inizia spingendo con la gamba anteriore, facendo avanzare il ginocchio opposto il più in alto possibile prima di atterrare. Cerca di coprire il maggior spazio possibile da un lato all'altro con ogni salto.",
+    "Può essere utile usare una linea sul suolo per calcolare la distanza da un lato all'altro.",
+    "Ripeti la sequenza con l'altra gamba."
+  ],
+  "categoria": "plyometria",
+  "immagini": [
+    "Alternate_Leg_Diagonal_Bound/0.jpg",
+    "Alternate_Leg_Diagonal_Bound/1.jpg"
+  ],
+  "id": "Alternate_Leg_Diagonal_Bound",
+  "images": [
+    "Alternate_Leg_Diagonal_Bound/0.jpg",
+    "Alternate_Leg_Diagonal_Bound/1.jpg"
+  ]
+}

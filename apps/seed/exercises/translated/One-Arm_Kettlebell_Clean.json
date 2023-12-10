@@ -1,0 +1,31 @@
+{
+  "nome": "One-Arm Kettlebell Clean",
+  "forza": "tirare",
+  "livello": "intermedio",
+  "meccanismo": "composto",
+  "attrezzatura": "chilrattore",
+  "muscoli primari": [
+    "bicipiti femorali"
+  ],
+  "muscoli secondari": [
+    "glutei",
+    "dorsali",
+    "spalle",
+    "trapezi"
+  ],
+  "istruzioni": [
+    "Posiziona il chilrattore tra i tuoi piedi. Mentre ti abbassi per afferrare il chilrattore, spingi indietro il tuo sedere e mantieni lo sguardo in avanti.",
+    "Esegui il sollevamento del chilrattore sulle spalle estendendo le gambe e i fianchi mentre sollevi il chilrattore verso la spalla. Il polso dovrebbe ruotare mentre lo fai.",
+    "Riporta il peso alla posizione di partenza."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "One-Arm_Kettlebell_Clean/0.jpg",
+    "One-Arm_Kettlebell_Clean/1.jpg"
+  ],
+  "id": "One-Arm_Kettlebell_Clean",
+  "images": [
+    "One-Arm_Kettlebell_Clean/0.jpg",
+    "One-Arm_Kettlebell_Clean/1.jpg"
+  ]
+}

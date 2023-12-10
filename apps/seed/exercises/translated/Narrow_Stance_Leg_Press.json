@@ -1,0 +1,28 @@
+{
+  "name": "Narrow Stance Leg Press",
+  "force": "spinta",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "macchina",
+  "primaryMuscles": [
+    "quadricipiti"
+  ],
+  "secondaryMuscles": [
+    "polpacci",
+    "glutei",
+    "femorali"
+  ],
+  "instructions": [
+    "Utilizzando una macchina per il leg press, sedersi sulla macchina e posizionare le gambe sulla piattaforma di fronte a te con una distanza inferiore alla larghezza delle spalle con le punte dei piedi leggermente rivolte in fuori. I tuoi piedi dovrebbero essere separati di circa 3 cm o meno. Consiglio: mantieni sempre la testa alta e la schiena appoggiata sulla pedana.",
+    "Abbassa le barre di sicurezza che tengono la piattaforma pesante in posizione e spingi la piattaforma fino a quando le gambe sono completamente estese di fronte a te. Consiglio: Assicurati di non bloccare le ginocchia. Il tuo torso e le gambe dovrebbero formare un angolo di 90 gradi. Questa sarà la tua posizione di partenza.",
+    "Mentre inspiri, abbassa lentamente la piattaforma fino a quando le gambe superiori e inferiori formano un angolo di 90 gradi.",
+    "Con spinta soprattutto sui talloni dei piedi e utilizzando i quadricipiti torna alla posizione di partenza mentre espiri.",
+    "Ripeti il numero consigliato di ripetizioni e assicurati di bloccare correttamente i perni di sicurezza una volta completato. Non vuoi che la pedana ti cada addosso mentre è completamente carica."
+  ],
+  "category": "forza",
+  "images": [
+    "Narrow_Stance_Leg_Press/0.jpg",
+    "Narrow_Stance_Leg_Press/1.jpg"
+  ],
+  "id": "Narrow_Stance_Leg_Press"
+}

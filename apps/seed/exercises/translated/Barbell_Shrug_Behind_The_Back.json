@@ -1,0 +1,30 @@
+{
+  "nome": "Barbell Shrug Dietro I Torna",
+  "forza": "trazione",
+  "livello": "principiante",
+  "meccanica": "isolamento",
+  "attrezzatura": "bilanciere",
+  "muscoliPrimari": [
+    "trapezi"
+  ],
+  "muscoliSecondari": [
+    "avambracci",
+    "dorsali"
+  ],
+  "istruzioni": [
+    "Stai dritto con i piedi alla larghezza delle spalle mentre tieni un bilanciere con entrambe le mani dietro la schiena con una presa pronata (palme rivolte verso il basso). Suggerimento: le mani dovrebbero essere un po' più larghe delle spalle. Puoi usare dei bendaggi per polso per questo esercizio per una presa migliore. Questa sarà la tua posizione di partenza.",
+    "Solleva le spalle il più in alto possibile mentre espiri e mantieni la contrazione per un secondo. Suggerimento: evita di cercare di sollevare il bilanciere usando i bicipiti. Le braccia dovrebbero rimanere sempre distese.",
+    "Torna lentamente alla posizione di partenza mentre inspiri.",
+    "Ripeti per il numero consigliato di ripetizioni."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Barbell_Shrug_Behind_The_Back/0.jpg",
+    "Barbell_Shrug_Behind_The_Back/1.jpg"
+  ],
+  "id": "Barbell_Shrug_Behind_The_Back",
+  "images": [
+    "Barbell_Shrug_Behind_The_Back/0.jpg",
+    "Barbell_Shrug_Behind_The_Back/1.jpg"
+  ]
+}

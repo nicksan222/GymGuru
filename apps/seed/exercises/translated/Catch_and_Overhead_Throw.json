@@ -1,0 +1,30 @@
+{
+  "nome": "Catch e Overhead Throw",
+  "forza": "spinta",
+  "livello": "principiante",
+  "meccanica": "composta",
+  "attrezzatura": "medicina sferica",
+  "muscoliPrimari": [
+    "lats"
+  ],
+  "muscoliSecondari": [
+    "addominali",
+    "petto",
+    "spalle"
+  ],
+  "istruzioni": [
+    "Iniziare in piedi di fronte a una parete o a un partner.",
+    "Usando entrambe le mani, posizionare la palla dietro la testa, stirando il più possibile, e lanciare la palla con forza in avanti.",
+    "Assicurarsi di seguire il lancio fino in fondo, essendo pronti a ricevere il rimbalzo dal lancio. Se si sta lanciando contro la parete, assicurarsi di stare abbastanza vicino alla parete per ricevere il rimbalzo, e puntare un po' più in alto rispetto a quanto si farebbe con un partner."
+  ],
+  "categoria": "pliometria",
+  "immagini": [
+    "Catch_and_Overhead_Throw/0.jpg",
+    "Catch_and_Overhead_Throw/1.jpg"
+  ],
+  "id": "Catch_and_Overhead_Throw",
+  "images": [
+    "Catch_and_Overhead_Throw/0.jpg",
+    "Catch_and_Overhead_Throw/1.jpg"
+  ]
+}

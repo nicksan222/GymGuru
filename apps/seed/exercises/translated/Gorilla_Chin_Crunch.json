@@ -1,0 +1,27 @@
+{
+  "name": "Scimmia Chin/Crunch",
+  "force": "tirare",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "solo corpo",
+  "primaryMuscles": [
+    "addominali"
+  ],
+  "secondaryMuscles": [
+    "bicipiti",
+    "dorsali"
+  ],
+  "instructions": [
+    "Aggrapparsi a una barra da chin-up utilizzando una presa a supinazione (mani rivolte verso di te) leggermente più larga delle spalle.",
+    "Piega le ginocchia a un angolo di 90 gradi in modo che i polpacci siano paralleli al pavimento mentre le cosce rimangano perpendicolari ad esso. Questa sarà la tua posizione di partenza.",
+    "Mentre espiri, tira verso l'alto mentre contemporaneamente accorci le ginocchia fino a quando saranno alla stessa altezza del petto. Smetterai di salire non appena il tuo naso sarà alla stessa altezza della barra. Consiglio: Quando arrivi a questo punto, dovresti anche finire la crunch nello stesso momento.",
+    "Inizia a inspirare lentamente mentre torni alla posizione di partenza.",
+    "Ripeti per il numero consigliato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": [
+    "Gorilla_Chin_Crunch/0.jpg",
+    "Gorilla_Chin_Crunch/1.jpg"
+  ],
+  "id": "Gorilla_Chin_Crunch"
+}

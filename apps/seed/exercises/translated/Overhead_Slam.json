@@ -1,0 +1,27 @@
+{
+  "nome": "Overhead Slam",
+  "forza": "tirare",
+  "livello": "principiante",
+  "meccanismo": "composto",
+  "attrezzatura": "palla medicinale",
+  "muscoliPrimari": [
+    "grandi dorsali"
+  ],
+  "muscoliSecondari": [],
+  "istruzioni": [
+    "Impugna la palla medicinale con entrambe le mani e fletti le ginocchia con i piedi distanti allargamento delle spalle. Questa è la posizione di partenza.",
+    "Inizia il movimento di contrazione sollevando la palla sopra la testa ed estendendo completamente il corpo.",
+    "Inverti il movimento, sbattendo la palla a terra di fronte a te con forza.",
+    "Ricevi la palla con entrambe le mani al rimbalzo e ripeti il movimento."
+  ],
+  "categoria": "pliometria",
+  "immagini": [
+    "Overhead_Slam/0.jpg",
+    "Overhead_Slam/1.jpg"
+  ],
+  "id": "Overhead_Slam",
+  "images": [
+    "Overhead_Slam/0.jpg",
+    "Overhead_Slam/1.jpg"
+  ]
+}

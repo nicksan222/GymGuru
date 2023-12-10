@@ -1,0 +1,27 @@
+{
+  "name": "Chest Push (risposta multipla)",
+  "force": "spingere",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "palla medicinale",
+  "primaryMuscles": [
+    "petto"
+  ],
+  "secondaryMuscles": [
+    "addominali",
+    "spalle",
+    "tricipiti"
+  ],
+  "instructions": [
+    "Inizia in posizione inginocchiata di fronte a un muro o utilizza un partner. Tieni la palla con entrambe le mani strette sul petto.",
+    "Esegui il passaggio esplodendo in avanti e verso l'esterno con i fianchi mentre spingi la palla più forte possibile.",
+    "Segui con un movimento in avanti, raccogliendoti con le mani.",
+    "Ritorna immediatamente in posizione eretta. Ripeti il numero desiderato di ripetizioni."
+  ],
+  "category": "pliometria",
+  "images": [
+    "Chest_Push_multiple_response/0.jpg",
+    "Chest_Push_multiple_response/1.jpg"
+  ],
+  "id": "Chest_Push_multiple_response"
+}

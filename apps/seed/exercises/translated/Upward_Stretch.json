@@ -1,0 +1,28 @@
+{
+  "nome": "Upward Stretch",
+  "forza": "statica",
+  "livello": "principiante",
+  "meccanica": null,
+  "attrezzatura": null,
+  "primaryMuscles": [
+    "spalle"
+  ],
+  "secondaryMuscles": [
+    "petto",
+    "lats"
+  ],
+  "istruzioni": [
+    "Estendi entrambe le mani diritte sulla testa, palme che si toccano.",
+    "Lentamente spingi le mani su e indietro, mantenendo la schiena dritta."
+  ],
+  "categoria": "stretching",
+  "immagini": [
+    "Upward_Stretch/0.jpg",
+    "Upward_Stretch/1.jpg"
+  ],
+  "id": "Upward_Stretch",
+  "images": [
+    "Upward_Stretch/0.jpg",
+    "Upward_Stretch/1.jpg"
+  ]
+}

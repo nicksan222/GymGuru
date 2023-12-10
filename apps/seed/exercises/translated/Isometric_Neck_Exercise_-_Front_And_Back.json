@@ -1,0 +1,24 @@
+{
+  "name": "Esercizio isometrico del collo - avanti e indietro",
+  "force": "statico",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "solo corpo",
+  "primaryMuscles": [
+    "collo"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Con la testa e il collo in posizione neutrale (posizione normale con la testa eretta rivolta in avanti), posiziona entrambe le mani sul lato anteriore della testa.",
+    "Ora spingi delicatamente in avanti mentre contrai i muscoli del collo, ma resistendo a qualsiasi movimento della testa. Inizia con una tensione lenta e aumenta lentamente. Continua a respirare normalmente mentre esegui questa contrazione.",
+    "Tieni la posizione per il numero consigliato di secondi.",
+    "Ora rilascia lentamente la tensione.",
+    "Riposa per il tempo consigliato e ripeti con le mani posizionate sul lato posteriore della testa."
+  ],
+  "category": "forza",
+  "images": [
+    "Isometric_Neck_Exercise_-_Front_And_Back/0.jpg",
+    "Isometric_Neck_Exercise_-_Front_And_Back/1.jpg"
+  ],
+  "id": "Isometric_Neck_Exercise_-_Front_And_Back"
+}

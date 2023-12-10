@@ -1,0 +1,23 @@
+{
+  "name": "Rope Straight-Arm Pulldown",
+  "force": "tirare",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "cavo",
+  "primaryMuscles": [
+    "lats"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Attacca un cavo a un'alta carrucola e fai la tua selezione di peso. Stai un paio di piedi indietro dalla carrucola con i piedi sfalsati e prendi il cavo con entrambe le mani. Piega in avanti i fianchi, mantenendo la schiena dritta, con le braccia estese in avanti. Questa sarà la tua posizione iniziale.",
+    "Mantenendo le braccia dritte, estendi la spalla per tirare il cavo fino alle tue cosce.",
+    "Pausa al fondo del movimento, stringendo i lats.",
+    "Torna alla posizione di partenza senza far riposare completamente il peso sulla pila."
+  ],
+  "categoria": "forza",
+  "images": [
+    "Rope_Straight-Arm_Pulldown/0.jpg",
+    "Rope_Straight-Arm_Pulldown/1.jpg"
+  ],
+  "id": "Rope_Straight-Arm_Pulldown"
+}

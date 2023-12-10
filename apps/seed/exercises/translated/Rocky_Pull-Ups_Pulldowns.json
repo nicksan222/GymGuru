@@ -1,0 +1,29 @@
+{
+  "name": "Rocky Tractioni/Svolti",
+  "force": "sollevare",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "altro",
+  "primaryMuscles": [
+    "adduttori"
+  ],
+  "secondaryMuscles": [
+    "bicipiti",
+    "dorsali medi",
+    "spalle"
+  ],
+  "instructions": [
+    "Afferrare la sbarra delle trazioni con le mani in avanti ed una presa ampia.",
+    "Con le braccia tese davanti a te e reggendo la sbarra con la larghezza di presa scelta, riporta il busto indietro di circa 30 gradi mentre crei una curvatura nella parte bassa della schiena e spingi il petto in fuori. Questa è la posizione di partenza.",
+    "Sollevare il busto fino a che la sbarra tocchi il tuo petto superiore, portando indietro e in basso le spalle ed i muscoli superiori delle braccia. Espira durante questa parte del movimento. Consiglio: Concentrati nel comprimere i muscoli delle schiena quando raggiungi la massima contrazione. Il busto dovrebbe restare fermo mentre le braccia si muovono. Gli avambracci non dovrebbero lavorare oltre a sostenere la sbarra.",
+    "Dopo un secondo in posizione contratta, inizia ad inspirare e porta lentamente il busto indietro nella posizione di partenza, quando le braccia sono completamente estese e gli adduttori sono completamente allungati.",
+    "Ora ripeti gli stessi movimenti descritti in precedenza, ma questa volta il busto rimarrà dritto mentre sali e la sbarra toccherà la parte posteriore del collo invece che il petto superiore. Consiglio: Usare la testa per inclinare leggermente in avanti, questo ti aiuterà ad eseguire correttamente questa parte dell'esercizio.",
+    "Una volta che hai abbassato il busto nella posizione di partenza, ripeti l'esercizio per il numero di ripetizioni prescritte dal tuo programma."
+  ],
+  "category": "resistenza",
+  "images": [
+    "Rocky_Pull-Ups_Pulldowns/0.jpg",
+    "Rocky_Pull-Ups_Pulldowns/1.jpg"
+  ],
+  "id": "Rocky_Pull-Ups_Pulldowns"
+}

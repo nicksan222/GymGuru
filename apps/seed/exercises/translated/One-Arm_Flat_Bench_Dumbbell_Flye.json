@@ -1,0 +1,30 @@
+{
+  "name": "Un braccio Piatto Capovolgere Dumbbell Flye",
+  "force": "spingere",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "manubrio",
+  "primaryMuscles": [
+    "petto"
+  ],
+  "secondaryMuscles": [],
+  "Istruzioni": [
+    "Sdraiarsi su una panca piatta con un manubrio in una mano che riposa sulla parte superiore della coscia. Il palmo della mano con il manubrio deve essere in presa neutra.",
+    "Usando le cosce per aiutarsi ad alzare il manubrio, pulire il manubrio in modo che tu posa tenerlo davanti a te con il braccio che solleva totalmente esteso. Ricorda di mantenere una presa neutra con questo esercizio. La mano non sollevante deve stare al fianco per un migliore sostegno. Questa sarà la tua posizione di partenza.",
+    "Il braccio con il peso deve avere una leggera flessione sul gomito per prevenire lo stress sui tendini del bicipite. Inizia abbassando il braccio con il peso in una larga arcata finché non senti lo stiramento sul petto. Inspira mentre esegui questa parte del movimento. Suggerimento: Ricorda che durante il movimento, il braccio sollevante dovrebbe rimanere fermo; il movimento dovrebbe avvenire solo alla spalla.",
+    "Riporta il braccio sollevante alla posizione di partenza mentre stringi i muscoli del petto e espiri. Suggerimento: Assicurati di utilizzare la stessa arcata di movimento utilizzata per abbassare i pesi.",
+    "Tieni per un secondo nella posizione contratta e ripeti il movimento per il numero prescritto di ripetizioni.",
+    "Cambia braccia e ripeti l'esercizio."
+  ],
+  "Categoria": "forza",
+  "Immagini": [
+    "Un_braccio_Piatto_Capovolgere_Dumbbell_Flye/0.jpg",
+    "Un_braccio_Piatto_Capovolgere_Dumbbell_Flye/1.jpg"
+  ],
+  "ID": "Un_braccio_Piatto_Capovolgere_Dumbbell_Flye",
+  "id": "One-Arm_Flat_Bench_Dumbbell_Flye",
+  "images": [
+    "One-Arm_Flat_Bench_Dumbbell_Flye/0.jpg",
+    "One-Arm_Flat_Bench_Dumbbell_Flye/1.jpg"
+  ]
+}

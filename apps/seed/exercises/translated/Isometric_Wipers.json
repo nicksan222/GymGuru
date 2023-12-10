@@ -1,0 +1,31 @@
+{
+  "nome": "Isometric Wipers",
+  "forza": "spinta",
+  "livello": "principiante",
+  "meccanico": "composto",
+  "attrezzatura": "solo corpo",
+  "muscoliPrimari": [
+    "petto"
+  ],
+  "muscoliSecondari": [
+    "addominali",
+    "spalle",
+    "tricipiti"
+  ],
+  "istruzioni": [
+    "Assumi una posizione di flessioni, sostenendo il tuo peso sulle mani e le punte dei piedi mantenendo il corpo dritto. Le mani dovrebbero essere leggermente al di fuori della larghezza delle spalle. Questa sarà la tua posizione di partenza.",
+    "Inizia spostando il tuo peso corporeo il più possibile da un lato, permettendo al gomito su quel lato di flettersi mentre abbassi il corpo.",
+    "Inverti il movimento estendendo il braccio flesso, spingendoti verso l'alto e poi cadendo dall'altro lato.",
+    "Ripeti per il numero desiderato di ripetizioni."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Isometric_Wipers/0.jpg",
+    "Isometric_Wipers/1.jpg"
+  ],
+  "id": "Isometric_Wipers",
+  "images": [
+    "Isometric_Wipers/0.jpg",
+    "Isometric_Wipers/1.jpg"
+  ]
+}

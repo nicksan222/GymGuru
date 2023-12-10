@@ -1,0 +1,30 @@
+{
+  "nome": "Buongiorno",
+  "forza": "spingi",
+  "livello": "intermedio",
+  "meccanismo": "composto",
+  "equipaggiamento": "bilanciere",
+  "muscoliPrimari": [
+    "muscoli posteriori della coscia"
+  ],
+  "muscoliSecondari": [
+    "addominali",
+    "glutei",
+    "dorso"
+  ],
+  "istruzioni": [
+    "Inizia con una barra su una scaffalatura all'altezza delle spalle. Posiziona la barra sulla schiena come per un power squat, non sulla parte superiore delle spalle. Mantieni la schiena dritta, le scapole unite e le ginocchia leggermente piegate. Allontanati dalla scaffalatura.",
+    "Inizia piegando le anche e portandole indietro mentre pieghi il busto fino ad arrivare a una posizione quasi parallela. Mantieni la schiena arcuata e la colonna vertebrale cervicale in posizione corretta.",
+    "Inverti il movimento estendendo le anche con i glutei e i muscoli posteriori della coscia. Continua fino a tornare alla posizione di partenza."
+  ],
+  "categoria": "powerlifting",
+  "immagini": [
+    "Buongiorno/0.jpg",
+    "Buongiorno/1.jpg"
+  ],
+  "id": "Good_Morning",
+  "images": [
+    "Good_Morning/0.jpg",
+    "Good_Morning/1.jpg"
+  ]
+}

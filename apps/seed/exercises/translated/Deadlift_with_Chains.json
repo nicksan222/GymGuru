@@ -1,0 +1,30 @@
+{
+  "name": "Deadlift con catene",
+  "force": "tirare",
+  "level": "esperto",
+  "mechanic": "composto",
+  "equipment": "bilanciere",
+  "primaryMuscles": [
+    "parte bassa della schiena"
+  ],
+  "secondaryMuscles": [
+    "avambracci",
+    "glutei",
+    "femorali",
+    "parte centrale della schiena",
+    "quadricipiti",
+    "trapezi"
+  ],
+  "instructions": [
+    "Puoi attaccare le catene alle estremità del bilanciere, oppure semplicemente appoggiarle sulla barra in modo che ci sia un aumento di peso maggiore mentre alzi il bilanciere.",
+    "Avvicinati alla barra in modo che sia centrata rispetto ai tuoi piedi. I piedi dovrebbero essere larghi circa quanto le anche. Piega all'anca per afferrare la barra a larghezza delle spalle, lasciando le scapole protese in avanti. Di solito, si utilizza una presa a mano aperta o una presa a mano aperta/sottosopra durante le serie più pesanti. Con i piedi e la presa fissati, fai un grande respiro e poi abbassa le anche e piega le ginocchia fino a toccare la barra con le tue tibie.",
+    "Guarda dritto avanti con la testa, mantieni il petto in alto ed il dorso arcuato, e inizia a spingere con i talloni per sollevare il peso. Dopo che la barra ha superato le ginocchia, tira la barra indietro in modo aggressivo, unendo le scapole della spalla mentre spingi le anche all'indietro nella barra.",
+    "Abbassa la barra piegando all'anca e guidala fino a terra."
+  ],
+  "category": "powerlifting",
+  "images": [
+    "Deadlift_with_Chains/0.jpg",
+    "Deadlift_with_Chains/1.jpg"
+  ],
+  "id": "Deadlift_with_Chains"
+}

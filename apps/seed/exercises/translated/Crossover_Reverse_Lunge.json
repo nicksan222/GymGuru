@@ -1,0 +1,27 @@
+{
+  "name": "Crosserover Reverse Lunge",
+  "force": "pull",
+  "level": "intermedio",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "schiena bassa"
+  ],
+  "secondaryMuscles": [
+    "addominali",
+    "adduttori",
+    "glutei",
+    "strectatori della coscia"
+  ],
+  "instructions": [
+    "esegui il movimento in piedi con i piedi alla larghezza delle spalle. questa sarà la posizione di partenza.",
+    "Esegui un affondo all'indietro con un piede e fletti i fianchi e il ginocchio anteriore. Mentre fai ciò, ruota il busto sulle gambe frontali.",
+    "Dopo una breve pausa, torna alla posizione di partenza e ripeti sul lato opposto, proseguendo in modo alternato."
+  ],
+  "category": "stretching",
+  "images": [
+    "Crossover_Reverse_Lunge/0.jpg",
+    "Crossover_Reverse_Lunge/1.jpg"
+  ],
+  "id": "Crossover_Reverse_Lunge"
+}

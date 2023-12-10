@@ -1,0 +1,27 @@
+{
+  "name": "Salto di Profondita' Lineare",
+  "force": "spinta",
+  "level": "intermedio",
+  "mechanic": "composta",
+  "equipment": "altro",
+  "primaryMuscles": [
+    "quadricipiti"
+  ],
+  "secondaryMuscles": [
+    "polpacci",
+    "glutei",
+    "femorali"
+  ],
+  "instructions": [
+    "Avrai bisogno di due scatole o panche distanziate tra loro di alcuni piedi. Inizia in piedi su una scatola rivolta verso l'altra piattaforma.",
+    "Per iniziare il movimento, scendere delicatamente sul terreno tra le due piattaforme, permettendo alle ginocchia e ai fianchi di flettersi.",
+    "Inverti il movimento, esploso estendendo anche ai fianchi, alle ginocchia e alle caviglie per saltare sull'altra piattaforma.",
+    "Atterra dolcemente, assorbendo l'impatto con le gambe."
+  ],
+  "category": "pliometria",
+  "images": [
+    "Linear_Depth_Jump/0.jpg",
+    "Linear_Depth_Jump/1.jpg"
+  ],
+  "id": "Linear_Depth_Jump"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Speed Box Squat",
+  "force": "spingere",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "bilanciere",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "polpacci",
+    "glutei",
+    "femorali"
+  ],
+  "instructions": [
+    "Attacca le bande al bilanciere e assicurati che siano ben fissate vicino a terra. Potrebbe essere necessario stringere le bande per ottenere la giusta tensione.",
+    "Scegli una scatola con l'altezza adatta per l'esercizio. Carica il bilanciere con un peso che richieda sforzo, ma che non sia così pesante da compromettere la velocità. Solitamente sarà tra il 50-70% della tua massima ripetizione.",
+    "Metti il bilanciere sulla schiena, le scapole retratte, la schiena arcuata e mantieni tutto ben stretto dalla testa ai piedi. Questa sarà la posizione di partenza.",
+    "Solleva il bilanciere dalla rastrelliera e posizionati davanti alla scatola. Siedi indietro con i fianchi fino a essere seduto sulla scatola, assicurandoti di scendere controllatamente e di non schiantarti sulla superficie.",
+    "Metti in pausa per un istante e poi spingi in alto dalla scatola, estendendo le anche e le ginocchia."
+  ],
+  "category": "sollevamento pesi",
+  "images": [
+    "Speed_Box_Squat/0.jpg",
+    "Speed_Box_Squat/1.jpg"
+  ],
+  "id": "Speed_Box_Squat"
+}

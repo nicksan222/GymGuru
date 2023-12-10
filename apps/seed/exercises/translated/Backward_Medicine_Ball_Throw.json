@@ -1,0 +1,23 @@
+{
+  "name": "Lancio a Palla Medica all'indietro",
+  "force": "spingi",
+  "level": "principiante",
+  "mechanic": "completo",
+  "equipment": "palla medicinale",
+  "primaryMuscles": [
+    "spalle"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Questo esercizio è meglio farlo con un partner. Se non hai un partner, la palla può essere lanciata e ripresa o lanciata contro un muro.",
+    "Inizia a stare in piedi a pochi metri di fronte al tuo partner, entrambi guardano nella stessa direzione. Inizia tenendo la palla tra le gambe.",
+    "Squat e poi inverte direzione con forza, arrivando a piena estensione e lanciando la palla sopra la testa al tuo partner.",
+    "Il tuo partner può quindi rimandarti la palla. Ripeti per il numero desiderato di ripetizioni."
+  ],
+  "category": "pliometria",
+  "images": [
+    "Backward_Medicine_Ball_Throw/0.jpg",
+    "Backward_Medicine_Ball_Throw/1.jpg"
+  ],
+  "id": "Backward_Medicine_Ball_Throw"
+}

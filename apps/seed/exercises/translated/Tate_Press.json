@@ -1,0 +1,27 @@
+{
+  "name": "Press Tate",
+  "force": "spinta",
+  "level": "intermedio",
+  "mechanic": "isolamento",
+  "equipment": "manubri",
+  "primaryMuscles": [
+    "tricipiti"
+  ],
+  "secondaryMuscles": [
+    "petto",
+    "spalle"
+  ],
+  "instructions": [
+    "Disteso su una panca piana con un manubrio in ogni mano sulle cosce. I palmi delle mani si guarderanno reciprocamente.",
+    "Usando le gambe per aiutare a sollevare i manubri, pulire i manubri un braccio alla volta in modo da poterli tenere di fronte a voi. Nota: quando si tengono i manubri di fronte a voi, assicuratevi che le braccia siano più larghe dalla larghezza delle spalle con una presa prona (palmi in avanti). Fate in modo che i gomiti si proiettino verso l'esterno. Questa è la posizione di partenza.",
+    "Tenendo le braccia superiori ferme, muovere lentamente i manubri in e giù in un movimento semicircolare fino a toccare la parte superiore del petto inspirando. Mantenere il pieno controllo sui manubri in ogni momento e non muovere le braccia superiori né poggiare i manubri sul petto.",
+    "Mentre espirate, muovere i manubri verso l'alto usando i tricipiti mantenendo lo stesso movimento semicircolare ma al contrario. Cercate di mantenere i manubri uniti mentre si muovono. Bloccare le braccia nella posizione contratta, mantenere per un secondo e poi ricominciare a scendere lentamente. Consiglio: dovrebbe impiegare almeno il doppio di tempo per scendere rispetto a quello impiegato per salire.",
+    "Ripetere il movimento per il numero prescritto di ripetizioni del vostro programma di allenamento."
+  ],
+  "category": "forza",
+  "images": [
+    "Tate_Press/0.jpg",
+    "Tate_Press/1.jpg"
+  ],
+  "id": "Tate_Press"
+}

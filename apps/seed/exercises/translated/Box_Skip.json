@@ -1,0 +1,34 @@
+{
+  "nome": "Box Skip",
+  "forzo": "push",
+  "livello": "principiante",
+  "meccanica": "complessa",
+  "attrezzatura": "altri",
+  "muscoli primari": [
+    "bicipiti femorali"
+  ],
+  "muscoli secondari": [
+    "abduzione",
+    "adduzione",
+    "polpacci",
+    "glutei",
+    "quadricipiti"
+  ],
+  "istruzioni": [
+    "Avere più scatole allineate ciascuna da 8 piedi di distanza.",
+    "Iniziare affacciandosi alla prima scatola con una gamba leggeramente più indietro dell'altra.",
+    "Stirare la gamba all'indietro, cercando di ottenere il massimo dell'altezza con i fianchi.",
+    "Immediatamente dopo aver atterrato sulla scatola, stirare l'altra gamba in avanti e in alto per ottenere altezza e distanza, saltando dalla scatola. Atterrare tra le prime due scatole con la gamba che è atterrata sulla prima scatola.",
+    "Poi, passare alla prossima scatola e ripetere."
+  ],
+  "categoria": "pliometria",
+  "immagini": [
+    "Box_Skip/0.jpg",
+    "Box_Skip/1.jpg"
+  ],
+  "id": "Box_Skip",
+  "images": [
+    "Box_Skip/0.jpg",
+    "Box_Skip/1.jpg"
+  ]
+}

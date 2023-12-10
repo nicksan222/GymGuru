@@ -1,0 +1,21 @@
+{
+  "name": "Quadricipiti-SMR",
+  "force": "static",
+  "level": "intermedio",
+  "mechanic": "isolamento",
+  "equipment": "foam roll",
+  "primaryMuscles": [
+    "quadricipiti"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sdraiarsi a pancia in giù sul pavimento con il peso sostenuto dalle mani o dagli avambracci. Posizionare un foam roll sotto una gamba sui quadricipiti, e mantenere il piede sollevato dal suolo. Assicurarsi di rilassare al massimo la gamba. Questa sarà la posizione di partenza.",
+    "Spostare il peso sulla gamba da allungare quanto possibile, rotolando il foam roll da sopra al ginocchio fino sotto all'anca, mantenendo i punti di tensione per 10-30 secondi. Cambiare lato."
+  ],
+  "category": "stretching",
+  "images": [
+    "Quadriceps-SMR/0.jpg",
+    "Quadriceps-SMR/1.jpg"
+  ],
+  "id": "Quadriceps-SMR"
+}

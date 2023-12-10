@@ -1,0 +1,28 @@
+{
+  "nome": "Dumbbell Lying Rear Lateral Raise",
+  "forza": "tirare",
+  "livello": "intermedio",
+  "meccanica": "isola",
+  "attrezzatura": "manubrio",
+  "muscoliPrimari": [
+    "spalle"
+  ],
+  "muscoliSecondari": [],
+  "istruzioni": [
+    "Mentre tieni un manubrio in ogni mano, sdraiati con il petto in basso su una panca regolabile leggermente inclinata (circa 15 gradi quando misurata dal pavimento).",
+    "Posiziona i palmi delle mani in modo neutrale (i palmi rivolti verso il tuo torace) mantenendo le braccia estese con i gomiti leggermente piegati. Questa sarà la tua posizione di partenza.",
+    "Solleva le braccia lateralmente finché i gomiti non raggiungono l'altezza delle spalle e le braccia sono approssimativamente parallele al pavimento mentre espiri. Suggerimento: Mantieni le braccia perpendicolari al torace mantenendole estese durante tutto il movimento. Inoltre, mantieni la contrazione in alto per un secondo.",
+    "Abbassa lentamente i manubri alla posizione di partenza mentre inspiri.",
+    "Ripeti per il numero consigliato di ripetizioni e passa poi all'altra braccio."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Dumbbell_Lying_Rear_Lateral_Raise/0.jpg",
+    "Dumbbell_Lying_Rear_Lateral_Raise/1.jpg"
+  ],
+  "id": "Dumbbell_Lying_Rear_Lateral_Raise",
+  "images": [
+    "Dumbbell_Lying_Rear_Lateral_Raise/0.jpg",
+    "Dumbbell_Lying_Rear_Lateral_Raise/1.jpg"
+  ]
+}

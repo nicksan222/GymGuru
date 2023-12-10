@@ -1,0 +1,29 @@
+{
+  "nome": "Dumbbell Rear Lunge",
+  "force": "push",
+  "livello": "intermedi",
+  "meccanica": "composta",
+  "attrezzatura": "manubrio",
+  "muscoliPrimari": [
+    "quadriceps"
+  ],
+  "muscoliSecondari": [
+    "polpacci",
+    "glutei",
+    "muscoli posteriori della coscia"
+  ],
+  "istruzione": [
+    "Stare in piedi con il busto dritto tenendo due manubri nelle mani sui lati. Questa sarà la tua posizione di partenza.",
+    "Ripeti con la gamba opposta."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Dumbbell_Rear_Lunge/0.jpg",
+    "Dumbbell_Rear_Lunge/1.jpg"
+  ],
+  "id": "Dumbbell_Rear_Lunge",
+  "images": [
+    "Dumbbell_Rear_Lunge/0.jpg",
+    "Dumbbell_Rear_Lunge/1.jpg"
+  ]
+}

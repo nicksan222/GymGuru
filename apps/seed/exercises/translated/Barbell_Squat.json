@@ -1,0 +1,34 @@
+{
+  "nome": "Barbell Squat",
+  "forza": "spingere",
+  "livello": "principiante",
+  "meccanica": "composta",
+  "attrezzatura": "barra",
+  "muscoli primari": [
+    "quadricipiti"
+  ],
+  "muscoli secondari": [
+    "polpacci",
+    "glutei",
+    "femorali",
+    "parte bassa della schiena"
+  ],
+  "istruzioni": [
+    "Questo esercizio è meglio eseguirlo all'interno di una particolare strutture chiama squat rack per motivi di sicurezza. Per iniziare, posizionare la barra di un rack un livello appena sotto quello delle spalle. Una volta scelta la giusta altezza della barra e caricata, mettetevi al di sotto della barra e appoggiate la schiena (leggermente sotto il collo) su di essa",
+    "Afferrate la barra con entrambe le braccia sui lati e sollevatela dal rack spingendo prima con le gambe e allo stesso tempo tenendo diritto il torso.",
+    "Allontanatevi dal rack e posizionate le gambe mantenendo una larghezza media delle spalle e le punte delle dita leggermente rivolte verso l'esterno. Mantenete sempre la testa alta e una schiena ben dritta. Questa sarà la vostra posizione iniziale. (Nota: Per scopi didattici, useremo la larghezza di spalle media descritta sopra poiché mira ad uno sviluppo generale; comunque potete scegliere qualunque delle tre ampiezze delle posizioni dei piedi descritte nella sezione delle posizioni dei piedi).",
+    "Cominciate a scendere lentamente con la barra piegando le ginocchia ed i fianchi mantenendo una postura diritta e con la testa alta. Continuate fino a quando l'angolo tra la parte superiore della gamba e polpacci diventa leggermente inferiore ai 90 gradi. Inalate mentre eseguite questa parte del movimento. Suggerimento: Se avete eseguito correttamente l'esercizio, la parte anteriore delle ginocchia dovrebbe creare una linea immaginaria dritta con le dita che è perpendicolare alla parte anteriore. Se le vostre ginocchia passano quella linea immaginaria (se passano le dita dei piedi) allora state mettendo una pressione troppo elevata sulle ginocchia e l'esercizio è stato eseguito in maniera sbagliata.",
+    "Cominciate ad alzare la barra espirando spingendo il pavimento con il tallone del piede mentre distendete le gambe di nuovo e ritornate nella posizione iniziale.",
+    "Ripetete per il numero di ripetizioni raccomandato."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Barbell_Squat/0.jpg",
+    "Barbell_Squat/1.jpg"
+  ],
+  "id": "Barbell_Squat",
+  "images": [
+    "Barbell_Squat/0.jpg",
+    "Barbell_Squat/1.jpg"
+  ]
+}

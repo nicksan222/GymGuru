@@ -1,0 +1,31 @@
+{
+  "nome": "London Bridges",
+  "forza": "tirare",
+  "livello": "intermedio",
+  "meccanismo": "composto",
+  "attrezzatura": "altro",
+  "muscoliPrimari": [
+    "lats"
+  ],
+  "muscoliSecondari": [
+    "bicipiti",
+    "avambracci",
+    "dorsali mediani"
+  ],
+  "istruzioni": [
+    "Fissa una corda da arrampicata a una trave o a un supporto trasversale. In basso, assicurati che la barra della macchina Smith sia bloccata con le sicure e non possa muoversi. In alternativa, potrebbe essere utilizzata una scatola sicura.",
+    "Stai sulla barra, usando la corda per bilanciarti. Questa sarà la tua posizione di partenza.",
+    "Mantenendo il corpo dritto, inclinati all'indietro e porta il corpo in basso lentamente andando  avanti e indietro con la corda. Continua fino a quando sei perpendicolare al suolo.",
+    "Mantieni il corpo dritto, inverte il movimento andando avanti e indietro con la corda fino alla posizione di partenza."
+  ],
+  "categoría": "forza",
+  "immagini": [
+    "London_Bridges/0.jpg",
+    "London_Bridges/1.jpg"
+  ],
+  "id": "London_Bridges",
+  "images": [
+    "London_Bridges/0.jpg",
+    "London_Bridges/1.jpg"
+  ]
+}

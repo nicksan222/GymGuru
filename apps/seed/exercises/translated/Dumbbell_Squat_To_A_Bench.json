@@ -1,0 +1,29 @@
+{
+  "name": "Squat con manubri su panca",
+  "force": "spingere",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "manubri",
+  "primaryMuscles": [
+    "quadriceps"
+  ],
+  "secondaryMuscles": [
+    "polpacci",
+    "glutei",
+    "femorali",
+    "parte bassa della schiena"
+  ],
+  "instructions": [
+    "Mantieniti in piedi dritto con una panca piatta dietro di te mentre stringi un manubrio in ogni mano (mani indirizzate verso il lato delle gambe)",
+    "Posiziona le gambe con una larghezza media delle spalle con le dita dei piedi leggermente puntate verso l'esterno. Mantieni la testa dritta in ogni momento, guardare in basso ti farà perdere l'equilibrio e mantieni anche la schiena dritta. Questa sarà la tua posizione di partenza. Nota: Per scopi di questa discussione useremo la posizione media descritta in precedenza che mira allo sviluppo generale; tuttavia puoi scegliere una delle tre posizioni discusse nella sezione delle posizioni dei piedi.",
+    "Inizia a abbassare lentamente il torace piegando le ginocchia mentre mantieni una postura dritta con la testa alta. Procedi con l'abbassamento fino a quando tocchi leggermente la panca dietro di te. Inala mentre esegui questa parte del movimento. Consiglio: Se hai eseguito correttamente l'esercizio, la parte anteriore delle ginocchia dovrebbe formare una linea immaginaria dritta con le dita dei piedi che è perpendicolare alla parte anteriore. Se le tue ginocchia sono oltre quella linea immaginaria (se sono oltre le dita dei piedi) allora stai mettendo troppo stress sulle ginocchia e l'esercizio è stato eseguito in modo scorretto.",
+    "Inizia a sollevare il manubrio espirando, spingendo il pavimento con il tallone del piede soprattutto mentre raddrizzi le gambe di nuovo e torni alla posizione di partenza.",
+    "Ripeti per il numero consigliato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": [
+    "Dumbbell_Squat_To_A_Bench/0.jpg",
+    "Dumbbell_Squat_To_A_Bench/1.jpg"
+  ],
+  "id": "Dumbbell_Squat_To_A_Bench"
+}

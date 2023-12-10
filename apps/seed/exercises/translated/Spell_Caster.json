@@ -1,0 +1,26 @@
+{
+  "name": "Lanciatore di incantesimi",
+  "force": "tirare",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "manubrio",
+  "primaryMuscles": [
+    "addominali"
+  ],
+  "secondaryMuscles": [
+    "glutei",
+    "spalle"
+  ],
+  "instructions": [
+    "Tieni un manubrio in ciascuna mano con una presa pronata. I piedi devono essere larghi con anche e ginocchia estesi. Questo sarà il tuo punto di partenza.",
+    "Inizia il movimento tirando entrambi i manubri verso un lato accanto all'anca, ruotando il tuo busto.",
+    "Mantenendo le braccia dritte e i manubri paralleli al suolo, ruota il busto per far oscillare i pesi sul lato opposto.",
+    "Continua ad alternare, ruotando da un lato all'altro fino al completamento del set."
+  ],
+  "category": "forza",
+  "images": [
+    "Spell_Caster/0.jpg",
+    "Spell_Caster/1.jpg"
+  ],
+  "id": "Spell_Caster"
+}

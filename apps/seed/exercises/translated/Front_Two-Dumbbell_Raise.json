@@ -1,0 +1,23 @@
+{
+  "name": "Elevazione Frontale con Manubri",
+  "force": "spinta",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "manubri",
+  "primaryMuscles": [
+    "spalle"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Scegli un paio di manubri e rimani in piedi con un tronco dritto e i manubri davanti alle cosce, alla lunghezza delle braccia, con i palmi delle mani rivolti alle cosce. Questa sarà la posizione di partenza.",
+    "Mentre mantieni il tronco immobile (senza oscillazioni), solleva i manubri verso il basso con una leggera flessione del gomito e i palmi delle mani che rimangono sempre rivolti verso il basso. Continua a salire fino a quando le braccia sono leggermente sopra il livello del pavimento. Espira mentre esegui questa parte del movimento e metti in pausa per un secondo in alto.",
+    "Inspirando, abbassa lentamente i manubri alla posizione di partenza.",
+    "Ripeti per il numero consigliato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": [
+    "Front_Two-Dumbbell_Raise/0.jpg",
+    "Front_Two-Dumbbell_Raise/1.jpg"
+  ],
+  "id": "Front_Two-Dumbbell_Raise"
+}

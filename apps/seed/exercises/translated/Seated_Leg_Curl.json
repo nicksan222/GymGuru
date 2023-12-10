@@ -1,0 +1,24 @@
+{
+  "name": "Curl per Gambe Seduto",
+  "force": "tirare",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "macchina",
+  "primaryMuscles": [
+    "bicipiti femorali"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Regolare la leva della macchina per adattarla alla tua altezza e sedersi sulla macchina con la schiena contro il cuscino di supporto.",
+    "Posizionare la parte posteriore della gamba inferiore sulla leva imbottita (a pochi centimetri sotto i polpacci) e fissare il pad di sicurezza sui fianchi, appena sopra le ginocchia. Quindi afferrare le maniglie laterali della macchina mentre si puntano i piedi dritti (o si può anche utilizzare una delle altre due posture) e assicurarsi che le gambe siano completamente dritte di fronte a voi. Questa sarà la posizione di partenza.",
+    "Mentre espiri, tirare la leva della macchina il più possibile verso la parte posteriore delle cosce flettendo le ginocchia. Mantenere il torso immobile in ogni momento. Tenere la posizione contratta per un secondo.",
+    "Tornare lentamente alla posizione di partenza mentre si inspira.",
+    "Ripetere per il numero consigliato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": [
+    "Seated_Leg_Curl/0.jpg",
+    "Seated_Leg_Curl/1.jpg"
+  ],
+  "id": "Seated_Leg_Curl"
+}

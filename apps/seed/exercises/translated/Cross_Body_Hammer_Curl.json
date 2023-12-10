@@ -1,0 +1,25 @@
+{
+  "name": "Curl martello Cross Body",
+  "force": "tirare",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "manubrio",
+  "primaryMuscles": [
+    "bicipiti"
+  ],
+  "secondaryMuscles": [
+    "avambracci"
+  ],
+  "instructions": [
+    "Piedi alla distanza delle spalle con un manubrio in ogni mano. Le mani devono essere in basso alla tua altezza con i palmi rivolti all'interno.",
+    "Mentre mantieni i palmi rivolti all'interno e senza torcere il braccio, solleva il manubrio del braccio destro verso il tuo spalla sinistra mentre espiri. Tocca la parte superiore del manubrio alla tua spalla e mantieni la contrazione per un secondo.",
+    "Abbassa lentamente il manubrio lungo lo stesso percorso mentre inspiri e ripeti il movimento per il braccio sinistro.",
+    "Continua ad alternare in questa maniera finché non viene eseguito il numero di ripetizioni consigliato per ogni braccio."
+  ],
+  "category": "forza",
+  "images": [
+    "Cross_Body_Hammer_Curl/0.jpg",
+    "Cross_Body_Hammer_Curl/1.jpg"
+  ],
+  "id": "Cross_Body_Hammer_Curl"
+}

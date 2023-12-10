@@ -1,0 +1,30 @@
+{
+  "nome": "Barbell Ab Rollout - Sulle Ginocchia",
+  "forza": "tirare",
+  "livello": "esperto",
+  "meccanismo": "composto",
+  "attrezzatura": "barra",
+  "muscoli primari": [
+    "addominali"
+  ],
+  "muscoli secondari": [
+    "parte bassa della schiena",
+    "spalle"
+  ],
+  "istruzioni": [
+    "Tieni una barra olimpica carica con 5-10lbs su ogni lato e inginocchiati sul pavimento.",
+    "Metti ora la barra a terra di fronte a te, in modo che tu sia sulle mani e sui ginocchia (come nella posizione di una flessione in ginocchio). Questa sarà la tua posizione di partenza.",
+    "Arrotola lentamente la barra in avanti, allungando il corpo in una posizione dritta. Suggerimento: scendi il più in basso possibile senza toccare il pavimento con il tuo corpo. Respira durante questa parte del movimento.",
+    "Dopo una pausa di un secondo nella posizione allungata, inizia a tirarti indietro nella posizione di partenza, mentre espiri. Suggerimento: vai lentamente e mantieni sempre gli addominali contratti."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Barbell_Ab_Rollout_-_On_Knees/0.jpg",
+    "Barbell_Ab_Rollout_-_On_Knees/1.jpg"
+  ],
+  "id": "Barbell_Ab_Rollout_-_On_Knees",
+  "images": [
+    "Barbell_Ab_Rollout_-_On_Knees/0.jpg",
+    "Barbell_Ab_Rollout_-_On_Knees/1.jpg"
+  ]
+}

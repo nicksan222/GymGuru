@@ -1,0 +1,28 @@
+{
+  "name": "Sospensione del Rastrelliere con Bande",
+  "force": "tirare",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "bilanciere",
+  "primaryMuscles": [
+    "parte bassa della schiena"
+  ],
+  "secondaryMuscles": [
+    "avambracci",
+    "glutei",
+    "femorali",
+    "quadriceps",
+    "trapezi"
+  ],
+  "instructions": [
+    "Posizionarsi in un rastrelliere con il bilanciere sui perni. I perni devono essere posizionati al punto desiderato: leggermente sotto le ginocchia, leggermente sopra o a livello delle cosce. Attaccare le bande alla base del rastrelliere o fissarle con manubri. Attaccare l'altra estremità al bilanciere. Potrebbe essere necessario stringere le bande per creare tensione.",
+    "Posizionarsi in posizione corretta per il sollevamento da terra, con i piedi sotto le anche, la presa larghezza spalle, la schiena arcuata e le anche all'indietro per coinvolgere i femorali. Poiché il peso è solitamente pesante, è possibile utilizzare una presa mista o un gancio, o utilizzare delle cinghie per aiutare a tenere il peso.",
+    "Con il collo dritto, estendersi attraverso le anche e le ginocchia, tirando il peso verso l'alto e verso l'indietro fino al bloccaggio. Assicurarsi di tirare indietro le spalle durante il movimento. Riportare il peso sui perni e ripetere."
+  ],
+  "category": "powerlifting",
+  "images": [
+    "Rack_Pull_with_Bands/0.jpg",
+    "Rack_Pull_with_Bands/1.jpg"
+  ],
+  "id": "Rack_Pull_with_Bands"
+}

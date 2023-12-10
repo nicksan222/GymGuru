@@ -1,0 +1,28 @@
+{
+  "nome": "Sollevamento manubri anteriori a braccia tese sopra la testa",
+  "forza": "spingere",
+  "livello": "intermedio",
+  "meccanismo": "isolamento",
+  "attrezzatura": "manubri",
+  "muscoliPrimari": [
+    "spalle"
+  ],
+  "muscoliSecondari": [],
+  "istruzioni": [
+    "Mantenere i manubri di fronte alle cosce, i palmi rivolti alle cosce.",
+    "Tieni le braccia diritte con una leggera piega ai gomiti ma tenendoli bloccati. Questa sarà la tua posizione di partenza.",
+    "Solleva i manubri in una semicirconferenza sopra la testa mentre espiri.",
+    "Torna lentamente alla posizione di partenza lungo lo stesso percorso mentre inspiri.",
+    "Ripeti per il numero consigliato di ripetizioni."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Sollevamento_Manubri_Anteriori_a_Braccia_Tese_Sopra_la_Test/Testa0.jpg",
+    "Sollevamento_Manubri_Anteriori_a_Braccia_Tese_Sopra_la_Test/Testa1.jpg"
+  ],
+  "id": "Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head",
+  "images": [
+    "Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head/0.jpg",
+    "Standing_Dumbbell_Straight-Arm_Front_Delt_Raise_Above_Head/1.jpg"
+  ]
+}

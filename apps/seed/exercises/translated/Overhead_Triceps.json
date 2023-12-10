@@ -1,0 +1,24 @@
+{
+  "name": "Overhead Triceps",
+  "force": "static",
+  "level": "expert",
+  "mechanic": null,
+  "equipment": "solo body",
+  "primaryMuscles": [
+    "tricipiti"
+  ],
+  "secondaryMuscles": [
+    "lats"
+  ],
+  "instructions": [
+    "Sedersi dritti sul pavimento con il partner dietro di voi. Sollevate un braccio diritto in alto, flettendo il gomito, cercando di toccare la mano sulla schiena. Il vostro partner dovrebbe tenere il gomito e il polso. Questa sarà la vostra posizione di partenza.",
+    "Prova ad estendere il braccio dritto in aria mentre il tuo partner ti impedisce di farlo.",
+    "Dopo 10-20 secondi, rilassa il braccio e permetti al tuo partner di allungare ulteriormente il tricipite applicando una leggera pressione al polso. Mantieni per 10-20 secondi, poi cambiare lato."
+  ],
+  "category": "stretching",
+  "images": [
+    "Overhead_Triceps/0.jpg",
+    "Overhead_Triceps/1.jpg"
+  ],
+  "id": "Overhead_Triceps"
+}

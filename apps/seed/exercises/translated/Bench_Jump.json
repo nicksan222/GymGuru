@@ -1,0 +1,28 @@
+{
+  "name": "Salto sul banco",
+  "force": "spingere",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "solo corpo",
+  "primaryMuscles": [
+    "quadricipiti"
+  ],
+  "secondaryMuscles": [
+    "polpacci",
+    "glutei",
+    "femorali"
+  ],
+  "instructions": [
+    "Inizia con una scatola o un banco a 1-2 piedi di distanza da te. Stai con i piedi alla larghezza delle spalle. Questa sarà la tua posizione di partenza.",
+    "Esegui uno squat breve in preparazione per il salto; fai oscillare le braccia dietro di te.",
+    "Rimbalza da questa posizione, estendendoti attraverso fianchi, ginocchia e caviglie per saltare il più alto possibile. Fai oscillare le braccia in avanti e in alto.",
+    "Salta sopra il banco, atterrando con le ginocchia piegate, assorbendo l'impatto attraverso le gambe.",
+    "Girati e guarda nella direzione opposta, poi salta di nuovo sopra il banco."
+  ],
+  "category": "pliometria",
+  "images": [
+    "Bench_Jump/0.jpg",
+    "Bench_Jump/1.jpg"
+  ],
+  "id": "Bench_Jump"
+}

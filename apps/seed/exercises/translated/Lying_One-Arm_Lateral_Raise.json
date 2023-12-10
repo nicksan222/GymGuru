@@ -1,0 +1,24 @@
+{
+  "name": "Sollevamento laterale con dumbbell a braccio unico",
+  "force": "tira",
+  "level": "intermedio",
+  "mechanic": "isolamento",
+  "equipment": "manubrio",
+  "primaryMuscles": [
+    "spalle"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Mentre tieni un manubrio in una mano, stendi il petto su una panca piatta. L'altra mano può essere utilizzata per appoggiarsi alla gamba della panca per mantenere l'equilibrio.",
+    "Posiziona il palmo della mano che tiene il manubrio in modo neutro (palmo rivolto verso il torso) mantenendo il braccio esteso con il gomito leggermente piegato. Questa sarà la posizione di partenza.",
+    "Alza il braccio con il manubrio lateralmente finché il gomito non raggiunge l'altezza delle spalle e il braccio non è approssimativamente parallelo al pavimento mentre espiri. Suggerimento: mantieni il braccio perpendicolare al torso e il braccio sempre esteso durante il movimento. Inoltre, mantieni la contrazione in alto per un secondo.",
+    "Abbassa lentamente il manubrio fino alla posizione di partenza mentre inspiri.",
+    "Ripeti il numero consigliato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": [
+    "Lying_One-Arm_Lateral_Raise/0.jpg",
+    "Lying_One-Arm_Lateral_Raise/1.jpg"
+  ],
+  "id": "Lying_One-Arm_Lateral_Raise"
+}

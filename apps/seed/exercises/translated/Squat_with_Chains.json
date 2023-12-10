@@ -1,0 +1,33 @@
+{
+  "nome": "Squat con Catene",
+  "forza": "spinta",
+  "livello": "intermedio",
+  "meccanica": "composto",
+  "equipaggiamento": "bilanciere",
+  "muscoliPrimari": [
+    "quadricipiti"
+  ],
+  "muscoliSecondari": [
+    "adduttori",
+    "polpacci",
+    "glutei",
+    "ischiocrurali",
+    "lombi"
+  ],
+  "istruzioni": [
+    "Per impostare le catene, inizia passando la catena principale sulle estremità del bilanciere. La catena pesante deve essere collegata utilizzando un moschettone. Regola la lunghezza della catena principale in modo che alcune maglie siano ancora a terra alla fine del movimento.",
+    "Inizia posizionandoti sotto il bilanciere e ponendolo sulla schiena delle spalle. Stringi le scapole insieme e ruota i gomiti in avanti, cercando di piegare il bilanciere sulle spalle. Rimuovi il bilanciere dal rack, creando un'arcata stretta nella parte bassa della schiena, e mettiti in posizione. Metti i piedi larghi per maggior enfasi sulla schiena, glutei, adduttori e ischiocrurali. Mantieni la testa rivolta in avanti.",
+    "Con la schiena, le spalle e gli addominali stretti, spingi fuori le ginocchia e i glutei e inizia la discesa. Siediti all'indietro con i fianchi il più possibile. Idealmente, le tue tibie dovrebbero essere perpendicolari al suolo. La posizione più bassa del bilanciere richiede una maggiore inclinazione del busto per mantenere il bilanciere sopra i talloni. Continua finché non superi la posizione parallela, che è definita come il piegamento dell'anca allineato con la parte superiore del ginocchio.",
+    "Mantenendo il peso sui talloni e spingendo fuori i piedi e le ginocchia, spingi verso l'alto conducendo il movimento con la testa. Continua verso l'alto, mantenendo la tensione dalla testa ai piedi, fino a quando non sei tornato alla posizione di partenza."
+  ],
+  "categoria": "powerlifting",
+  "immagini": [
+    "Squat_con_Catene/0.jpg",
+    "Squat_con_Catene/1.jpg"
+  ],
+  "id": "Squat_with_Chains",
+  "images": [
+    "Squat_with_Chains/0.jpg",
+    "Squat_with_Chains/1.jpg"
+  ]
+}

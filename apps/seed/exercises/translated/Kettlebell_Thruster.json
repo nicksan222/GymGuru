@@ -1,0 +1,30 @@
+{
+  "name": "Kettlebell Thruster",
+  "force": "spingere",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "manubri",
+  "primaryMuscles": [
+    "spalle"
+  ],
+  "secondaryMuscles": [
+    "quadricipiti",
+    "tricipiti"
+  ],
+  "instructions": [
+    "Pulire due manubri sulle spalle. Pulisci i manubri sulle spalle estendendo le gambe e le anche mentre tirare i manubri verso alle spalle. Fai ruotare i polsi mentre fai al così. Questa sarà tua posizione di partenza.",
+    "Inizio squat flessionando le anche e le ginocchia, abbassando le anche tra alle gambe. Mantieni una postura diritta e dritta mentre scendi cosi basso quanto puo fare.",
+    "Alla parte più bassa, cambia la direzione e squat estendendo le ginocchia e le anche, spingendo attraverso dei talloni. Mentre fai al così, premi entrambi i manubri sopra la testa estendendo le braccia in su, usando la quantita' da sotto per aiutarvoli guidare i pesi in su.",
+    "Mentre inizii la prossima ripetizione, ritorna dei pesi alle spalle."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Kettlebell_Thruster/0.jpg",
+    "Kettlebell_Thruster/1.jpg"
+  ],
+  "id": "Kettlebell_Thruster",
+  "images": [
+    "Kettlebell_Thruster/0.jpg",
+    "Kettlebell_Thruster/1.jpg"
+  ]
+}

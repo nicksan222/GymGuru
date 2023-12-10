@@ -1,0 +1,27 @@
+{
+  "name": "Pattinaggio",
+  "force": null,
+  "level": "intermedio",
+  "mechanic": null,
+  "equipment": "altro",
+  "primaryMuscles": [
+    "quadricipiti"
+  ],
+  "secondaryMuscles": [
+    "adduttori",
+    "abduttori",
+    "polpacci",
+    "glutei",
+    "ischiocrurali"
+  ],
+  "instructions": [
+    "Il pattinaggio è un'attività divertente che può essere efficace nel migliorare il fitness cardiorespiratorio e la resistenza muscolare. Richiede un buon equilibrio e coordinazione. È necessario imparare le basi del pattinaggio, compresa la svolta e la frenata, e indossare le protezioni per evitare possibili lesioni.",
+    "Puoi pattinare a un ritmo confortevole per 30 minuti consecutivi. Se vuoi una sfida cardio, fai il pattinaggio intervallato - pattina a velocità più elevate per due minuti ogni cinque minuti, utilizzando i restanti tre minuti per riprenderti. Una persona di 150 libbre brucerà in media circa 175 calorie in 30 minuti pattinando a un ritmo confortevole, simile ad una passeggiata "
+  ],
+  "category": "cardio",
+  "images": [
+    "Skating/0.jpg",
+    "Skating/1.jpg"
+  ],
+  "id": "Skating"
+}

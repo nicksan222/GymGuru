@@ -1,0 +1,30 @@
+{
+  "nome": "Chest Push with Run Release",
+  "forza": "spingere",
+  "livello": "principiante",
+  "meccanica": "composito",
+  "attrezzatura": "palla medicinale",
+  "muscoliPrimari": [
+    "pettorali"
+  ],
+  "muscoliSecondari": [
+    "addominali",
+    "spalle",
+    "tricipiti"
+  ],
+  "istruzioni": [
+    "Inizia in posizione atletica, con le ginocchia piegate, i fianchi indietro e la schiena piatta. Tieni la palla medicinale vicino alle gambe. Questa sarà la tua posizione di partenza.",
+    "Mentre fai il primo passo, porta la palla medicinale al petto.",
+    "Mentre fai il secondo passo, spingi la palla in avanti con un'esplosione, correre subito per 10 metri dopo il rilascio. Se sei molto veloce, puoi prendere la tua stessa passata!"
+  ],
+  "categoria": "pliometria",
+  "immagini": [
+    "Chest_Push_with_Run_Release/0.jpg",
+    "Chest_Push_with_Run_Release/1.jpg"
+  ],
+  "id": "Chest_Push_with_Run_Release",
+  "images": [
+    "Chest_Push_with_Run_Release/0.jpg",
+    "Chest_Push_with_Run_Release/1.jpg"
+  ]
+}

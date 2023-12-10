@@ -1,0 +1,22 @@
+{
+  "name": "Gomito al Ginocchio",
+  "force": "sollevamento",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "solo corpo",
+  "primaryMuscles": [
+    "addominali"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Distenditi sul pavimento, incrocia la tua gamba destra sopra il tuo ginocchio sinistro piegato. Incrocia le mani dietro la testa, con le tue scapole a terra. Questa sarà la posizione di partenza.",
+    "Esegui il movimento piegando la tua colonna vertebrale e ruotando il tuo torso per portare il gomito sinistro al ginocchio destro.",
+    "Ritorna alla posizione di partenza e ripeti il movimento per il numero desiderato di ripetizioni prima di cambiare lato."
+  ],
+  "category": "forza",
+  "images": [
+    "Elbow_to_Knee/0.jpg",
+    "Elbow_to_Knee/1.jpg"
+  ],
+  "id": "Elbow_to_Knee"
+}

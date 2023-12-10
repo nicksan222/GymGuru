@@ -1,0 +1,28 @@
+{
+  "name": "Salto di chiusura delle ginocchia",
+  "force": "spinta",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "solo corpo",
+  "primaryMuscles": [
+    "tendini"
+  ],
+  "secondaryMuscles": [
+    "adduttori",
+    "adduttori",
+    "polpacci",
+    "glutei",
+    "quadriceps"
+  ],
+  "instructions": [
+    "Inizia in una comoda posizione eretta con le ginocchia leggermente piegate. Tieni le mani davanti a te, palmo in giù con le dita unite all'altezza del petto. Questa sarà la tua posizione di partenza.",
+    "Rapidamente piega le ginocchia in una mezza accosciata e subito esplodi verso l'alto. Porta le ginocchia verso il petto, cercando di toccarle con i palmi delle mani.",
+    "Salta più in alto che puoi, alzando le ginocchia in alto, e poi assicura un buon atterraggio ri-estendendo le gambe, assorbendo l'impatto attraverso il permettere alle ginocchia di piegarsi nuovamente."
+  ],
+  "category": "pliometria",
+  "images": [
+    "Knee_Tuck_Jump/0.jpg",
+    "Knee_Tuck_Jump/1.jpg"
+  ],
+  "id": "Knee_Tuck_Jump"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Taglio di legno con cavo in piedi",
+  "force": "tirare",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "cavo",
+  "primaryMuscles": [
+    "addominali"
+  ],
+  "secondaryMuscles": [
+    "spalle"
+  ],
+  "instructions": [
+    "Connetti il manico standard ad una torre ed imposta il cavo alla posizione più alta della carrucola.",
+    "Standoti di fianco al cavo, afferra il manico con una mano e allontantati dalla torre. Dovresti essere a circa la lunghezza del braccio dalla carrucola con la tensione del peso sul cavo. Il tuo braccio disteso dovrebbe essere allineato con il cavo.",
+    "Con i piedi alla larghezza delle spalle, tendi in alto con l'altra mano e afferra il manico con entrambe le mani. I tuoi braccia dovrebbero ancora essere completamente estesi.",
+    "In un unico movimento, tira il manico giù e attraverso il corpo fino al ginocchio anteriore mentre ruoti il tuo torso.",
+    "Mantieni la schiena e le braccia dritte e il core in tensione mentre ruoti il piede dietro e pieghi le gambe per ottenere un'ampia escursione.",
+    "Mantieni la stessa posizione e le braccia dritte. Ritorna nella posizione neutra in modo lento e controllato.",
+    "Ripeti fino al fallimento.",
+    "In seguito, riposiziona e ripeti la stessa serie di movimenti sul lato opposto."
+  ],
+  "category": "forza",
+  "images": [
+    "Standing_Cable_Wood_Chop/0.jpg",
+    "Standing_Cable_Wood_Chop/1.jpg"
+  ],
+  "id": "Standing_Cable_Wood_Chop"
+}

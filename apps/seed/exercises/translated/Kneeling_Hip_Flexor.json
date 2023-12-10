@@ -1,0 +1,23 @@
+{
+  "name": "Kneeling Hip Flexor",
+  "force": "static",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "quadricipiti"
+  ],
+  "secondaryMuscles": [
+    "quadricipiti"
+  ],
+  "instructions": [
+    "Inginocchiati su un tappetino e porta il tuo ginocchio destro in alto in modo che la parte inferiore del piede sia sul pavimento ed estendi la tua gamba sinistra dietro di te in modo che la parte superiore del piede sia sul pavimento.",
+    "Sposta il tuo peso in avanti fino a sentire uno stiramento nell'anca. Mantieni la posizione per 15 secondi, poi ripeti dall'altro lato."
+  ],
+  "category": "stretching",
+  "images": [
+    "Kneeling_Hip_Flexor/0.jpg",
+    "Kneeling_Hip_Flexor/1.jpg"
+  ],
+  "id": "Kneeling_Hip_Flexor"
+}

@@ -1,0 +1,29 @@
+{
+  "nome": "Leverage High Row",
+  "forza": "tirare",
+  "livello": "principiante",
+  "meccanica": "composta",
+  "attrezzatura": "macchina",
+  "muscoliPrimari": [
+    "dorso medio"
+  ],
+  "muscoliSecondari": [
+    "lats"
+  ],
+  "istruzioni": [
+    "Caricare un peso adeguato sui pin e regolare l'altezza della seduta in modo da poter raggiungere le maniglie sopra di te. Regolare il pad del ginocchio per mantenerti giù. Afferra le maniglie con una presa pronata. Questa sarà la tua posizione di partenza.",
+    "Tira le maniglie verso il busto, retraendo le scapole mentre fletti il gomito.",
+    "Fai una pausa nella parte inferiore del movimento, quindi riporta lentamente le maniglie alla posizione di partenza.",
+    "Per più ripetizioni, evita di far tornare completamente il peso alle fermate per mantenere la tensione sui muscoli rimanenti in esercizio."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Leverage_High_Row/0.jpg ",
+    "Leverage_High_Row/1.jpg"
+  ],
+  "id": "Leverage_High_Row",
+  "images": [
+    "Leverage_High_Row/0.jpg",
+    "Leverage_High_Row/1.jpg"
+  ]
+}

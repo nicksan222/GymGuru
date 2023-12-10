@@ -1,0 +1,28 @@
+{
+  "nome": "Calf Raise su un manubrio",
+  "forza": "spingere",
+  "livello": "intermedio",
+  "meccanismo": "isolamento",
+  "attrezzatura": "manubrio",
+  "muscoliPrimari": [
+    "polpacci"
+  ],
+  "muscoliSecondari": [],
+  "istruzioni": [
+    "Aggrappati ad un oggetto stabile per mantenere l'equilibrio e sostieni il manubrio con le mani, preferibilmente con dei pesi rotondi in modo da farlo rotolare e costringerti così ad uno sforzo maggiore per mantenerti stabile; aumentando così l'efficacia dell'esercizio.",
+    "Ora porta leggermente avanti il piede in modo da ottenere un bello stiramento del polpaccio. Questa sarà la tua posizione di partenza.",
+    "Solleva il polpaccio mentre spingi il piede sopra il manubrio fino ad ottenere un'estensione completa. Espira durante l'esecuzione di questo movimento. Contrai il polpaccio alla massima estensione e mantieni la posizione per un secondo. Suggerimento: Mentre ti alzi, ruota leggermente indietro il manubrio.",
+    "Ora inspira mentre spingi leggermente avanti il manubrio e scendi per ottenere un migliore allungamento.",
+    "Ripeti per il numero consigliato di ripetizioni."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Calf_Raise_On_A_Dumbbell/0.jpg",
+    "Calf_Raise_On_A_Dumbbell/1.jpg"
+  ],
+  "id": "Calf_Raise_On_A_Dumbbell",
+  "images": [
+    "Calf_Raise_On_A_Dumbbell/0.jpg",
+    "Calf_Raise_On_A_Dumbbell/1.jpg"
+  ]
+}

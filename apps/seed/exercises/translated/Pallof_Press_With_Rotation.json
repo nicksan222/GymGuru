@@ -1,0 +1,36 @@
+{
+  "nome": "Esercizio di pallof con rotazione",
+  "forza": "tirare",
+  "livello": "principiante",
+  "meccanica": "completo",
+  "equipaggiamento": "cavo",
+  "muscoliPrimari": [
+    "addominali"
+  ],
+  "muscoliSecondari": [
+    "petto",
+    "spalle",
+    "tricipiti"
+  ],
+  "istruzioni": [
+    "Collega una maniglia normale a una torre e posiziona il cavo all'altezza delle spalle.",
+    "Con il fianco al cavo, afferra la maniglia con una mano e allontanati dalla torre. Dovresti essere a una lunghezza di braccio dalla carrucola, con la tensione del peso sul cavo. Allinea il braccio disteso con il cavo.",
+    "Con i piedi in posizione larghezza fianchi, tira il cavo al petto e afferra la maniglia con l'altra mano. Entrambe le mani dovrebbero essere sulla maniglia in questo momento.",
+    "Guardando in avanti, spingi il cavo lontano dal petto. Il tuo core dovrebbe essere teso e contratto.",
+    "Mantieni i fianchi dritti, ruota il busto lontano dalla carrucola fino a ottenere un completo quarto di rotazione.",
+    "Mantieni la tua postura rigida e le braccia dritte. Ritorna alla posizione neutra in modo lento e controllato. Le braccia dovrebbero essere estese davanti a te.",
+    "Con la tensione laterale ancora impegnata il core, porta le mani al petto e immediatamente spingi verso l'esterno fino a una posizione completamente estesa. Questo costituisce una ripetizione.",
+    "Ripeti fino al fallimento.",
+    "Quindi, riposiziona e ripeti la stessa serie di movimenti sul lato opposto."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Esercizio_di_Pallof_Con_Rotazione/0.jpg",
+    "Esercizio_di_Pallof_Con_Rotazione/1.jpg"
+  ],
+  "id": "Pallof_Press_With_Rotation",
+  "images": [
+    "Pallof_Press_With_Rotation/0.jpg",
+    "Pallof_Press_With_Rotation/1.jpg"
+  ]
+}

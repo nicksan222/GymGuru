@@ -1,0 +1,22 @@
+{
+  "name": "Allungamento del Vitello Gomiti Contro il Muro",
+  "force": "static",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscles": [
+    "polpacci"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stai di fronte a un muro a qualche metro di distanza.",
+    "Inclinati su il muro, mettendo il peso sui tuoi avambracci.",
+    "Cerca di mantenere i tuoi talloni a terra. Tieni per 10-20 secondi. Puoi muoverti più vicino o lontano dal muro, rendendolo più o meno difficile, rispettivamente."
+  ],
+  "category": "stretching",
+  "images": [
+    "Calf_Stretch_Elbows_Against_Wall/0.jpg",
+    "Calf_Stretch_Elbows_Against_Wall/1.jpg"
+  ],
+  "id": "Calf_Stretch_Elbows_Against_Wall"
+}

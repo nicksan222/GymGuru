@@ -1,0 +1,27 @@
+{
+  "nome": "Finger Curls",
+  "intensità": "pull",
+  "livello": "principiante",
+  "meccanico": "isolamento",
+  "attrezzatura": "barra",
+  "muscoliPrimari": [
+    "avambracci"
+  ],
+  "muscoliSecondari": [],
+  "istruzioni": [
+    "Prendere una barra con entrambe le mani, i palmi rivolti verso l'alto; mani distanziate di circa la larghezza delle spalle.",
+    "Mettere i piedi piatti a terra, a una distanza leggermente maggiore della larghezza delle spalle. Questa sarà la posizione di partenza.",
+    "Far scendere la barra il più in basso possibile estendendo le dita. Permettere alla barra di scivolare giù dalle mani, poi prendere la barra con l'ultima articolazione delle dita.",
+    "Sollevare la barra il più in alto possibile chiudendo le mani e espirando. Far mantenere la contrazione in alto."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Finger_Curls/0.jpg",
+    "Finger_Curls/1.jpg"
+  ],
+  "id": "Finger_Curls",
+  "images": [
+    "Finger_Curls/0.jpg",
+    "Finger_Curls/1.jpg"
+  ]
+}

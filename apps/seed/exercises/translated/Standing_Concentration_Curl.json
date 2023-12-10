@@ -1,0 +1,25 @@
+{
+  "name": "Standing Concentration Curl",
+  "force": "tira",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "manubrio",
+  "primaryMuscles": [
+    "bicipiti"
+  ],
+  "secondaryMuscles": [
+    "avambracci"
+  ],
+  "instructions": [
+    "Prendi un manubrio nella mano con cui stai lavorando e abbassati. Lascia che il braccio di lavoro pendere in modo perpendicolare a terra, con il gomito in fuori. Questa sarà la tua posizione di partenza.",
+    "Fletti il gomito per sollevare il peso, mantenendo il braccio superiore fermo. Alla fine della ripetizione agisci i bicipiti e attendi.",
+    "Abbassa il manubrio fino alla posizione di partenza.",
+    "Ripeti il movimento per il numero di ripetizioni prescritto."
+  ],
+  "category": "forza",
+  "images": [
+    "Standing_Concentration_Curl/0.jpg",
+    "Standing_Concentration_Curl/1.jpg"
+  ],
+  "id": "Standing_Concentration_Curl"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Curl Bicipiti Interno",
+  "force": "tira",
+  "level": "intermedio",
+  "mechanic": "isolamento",
+  "equipment": "manubrio",
+  "primaryMuscles": [
+    "bicipiti"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "In piedi, afferra un manubrio in ogni mano tenendolo a braccia distese. I gomiti dovrebbero essere vicini al torace. Le gambe dovrebbero essere allargate alla larghezza delle spalle.",
+    "Ruota i palmi delle mani in modo che siano rivolti verso l'interno in una posizione neutrale. Questa sarà la posizione di partenza.",
+    "Mentre tieni gli avambracci fermi, solleva i pesi contraggendo i bicipiti espirando. I polsi dovrebbero ruotare in modo che quando i pesi siano completamente sollevati, hai una presa supinata (mani rivolte verso l'alto).",
+    "Solo gli avambracci dovrebbero muoversi. Continua il movimento finché i bicipiti sono completamente contratti e i manubri sono alla altezza delle spalle. Consiglio: Mantieni gli avambracci allineati con i deltoidi esterni.",
+    "Mantieni la posizione contratta per un secondo mentre stringi i bicipiti.",
+    "Lentamente, inizia a riportare i manubri alla posizione di partenza inspirando. Ricorda di ruotare i polsi mentre abbassi il peso per tornare in una presa neutrale.",
+    "Ripeti per il numero di ripetizioni consigliato."
+  ],
+  "category": "forza",
+  "images": [
+    "Standing_Inner-Biceps_Curl/0.jpg",
+    "Standing_Inner-Biceps_Curl/1.jpg"
+  ],
+  "id": "Standing_Inner-Biceps_Curl"
+}

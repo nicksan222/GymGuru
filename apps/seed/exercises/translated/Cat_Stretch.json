@@ -1,0 +1,25 @@
+{
+  "name": "stiramento del gatto",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscles": [
+    "parte bassa della schiena"
+  ],
+  "secondaryMuscles": [
+    "parte centrale della schiena",
+    "trapezi"
+  ],
+  "instructions": [
+    "Posizionati a terra sulle mani e sulle ginocchia.",
+    "Tira dentro la pancia e arrotonda la schiena, la parte bassa della schiena, le spalle e il collo, lasciando cadere la testa.",
+    "Tieni la posizione per 15 secondi."
+  ],
+  "category": "stretching",
+  "images": [
+    "Cat_Stretch/0.jpg",
+    "Cat_Stretch/1.jpg"
+  ],
+  "id": "Cat_Stretch"
+}

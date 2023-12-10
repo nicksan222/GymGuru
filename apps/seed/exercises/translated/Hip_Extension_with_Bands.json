@@ -1,0 +1,29 @@
+{
+  "nome": "Esercizio di estensione dell'anca con bande",
+  "forza": "spinta",
+  "livello": "principiante",
+  "meccanismo": "composto",
+  "attrezzatura": "bande",
+  "muscoliPrimari": [
+    "glutei"
+  ],
+  "muscoliSecondari": [
+    "femorali"
+  ],
+  "istruzioni": [
+    "Assicurare un'estremità della banda alla parte inferiore di un palo e attaccare l'altra a una caviglia.",
+    "Guardando verso il punto di connessione della banda, prendere il sostegno della colonna per stabilizzarsi.",
+    "Tenendo in alto la testa e il petto, spostare la gamba resistente il più lontano possibile mantenendo il ginocchio dritto.",
+    "Riportare la gamba alla posizione di partenza."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Esercizio_di_estensione_dell'anca_con_band/0.jpg",
+    "Esercizio_di_estensione_dell'anca_con_band/1.jpg"
+  ],
+  "id": "Hip_Extension_with_Bands",
+  "images": [
+    "Hip_Extension_with_Bands/0.jpg",
+    "Hip_Extension_with_Bands/1.jpg"
+  ]
+}

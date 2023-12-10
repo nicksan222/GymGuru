@@ -1,0 +1,30 @@
+{
+  "nome": "Wide-Grip Decline Barbell Bench Press",
+  "forza": "push",
+  "livello": "intermedio",
+  "meccanica": "composta",
+  "attrezzatura": "barra",
+  "muscoliPrimari": [
+    "petto"
+  ],
+  "muscoliSecondari": [
+    "spalle",
+    "tricipiti"
+  ],
+  "istruzioni": [
+    "Sdraiati su una panca declinata con i piedi saldamente bloccati all'anteriore della panca. Usando una presa ampia, pronata (palmi in avanti) che sia circa 3 pollici più larga della larghezza delle spalle (per ogni mano), solleva la barra dal rack e tienila dritta sopra di te con le braccia bloccate. La barra sarà perpendicolare al torace e al pavimento. Questa sarà la tua posizione di partenza.",
+    "Quando inspiri, scendi lentamente finché non sentirai la barra sul tuo petto inferiore.",
+    "Dopo una pausa di un secondo, riporta la barra alla posizione di partenza mentre espiri e spingi la barra usando i tuoi muscoli pettorali. Blocca le braccia e stringi il petto nella posizione contratta, tieni per un secondo e poi inizia a scendere lentamente di nuovo. Suggerimento: Ci dovrebbe impiegare almeno il doppio del tempo per scendere che per risalire.",
+    "Ripeti il movimento per il numero prescritto di ripetizioni."
+  ],
+  "categoria": "forza",
+  "immagini": [
+    "Wide-Grip_Decline_Barbell_Bench_Press/0.jpg",
+    "Wide-Grip_Decline_Barbell_Bench_Press/1.jpg"
+  ],
+  "id": "Wide-Grip_Decline_Barbell_Bench_Press",
+  "images": [
+    "Wide-Grip_Decline_Barbell_Bench_Press/0.jpg",
+    "Wide-Grip_Decline_Barbell_Bench_Press/1.jpg"
+  ]
+}

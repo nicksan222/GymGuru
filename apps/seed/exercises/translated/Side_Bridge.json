@@ -1,0 +1,20 @@
+{
+  "name": "Side Bridge",
+  "force": "static",
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "solo corpo",
+  "primaryMuscles": [
+    "addominali"
+  ],
+  "secondaryMuscles": [
+    "spalle"
+  ],
+  "instructions": [],
+  "category": "forza",
+  "images": [
+    "Side_Bridge/0.jpg",
+    "Side_Bridge/1.jpg"
+  ],
+  "id": "Side_Bridge"
+}

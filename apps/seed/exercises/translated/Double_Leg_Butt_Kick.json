@@ -1,0 +1,29 @@
+{
+  "name": "Esericizio Doppia Gamba Calcio del Sedere",
+  "force": "spingere",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "solo corpo",
+  "primaryMuscles": [
+    "quadricipiti"
+  ],
+  "secondaryMuscles": [
+    "abduttori",
+    "adduttori",
+    "polpacci",
+    "glutei",
+    "femorali"
+  ],
+  "instructions": [
+    "Inizia in piedi con le ginocchia leggermente flesse.",
+    "Squat rapidamente per una breve distanza, flettendo anche i fianchi e le ginocchia, e subito estendi i muscoli per ottenere l'altezza massima verticale.",
+    "Mentre sali, piega i talloni flettendo le ginocchia, cercando di toccare i glutei.",
+    "Concludi il movimento atterrando con le ginocchia solo parzialmente piegate, sfruttando le gambe per assorbire l'impatto."
+  ],
+  "category": "pliometria",
+  "images": [
+    "Double_Leg_Butt_Kick/0.jpg",
+    "Double_Leg_Butt_Kick/1.jpg"
+  ],
+  "id": "Double_Leg_Butt_Kick"
+}

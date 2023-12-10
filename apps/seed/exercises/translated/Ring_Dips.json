@@ -1,0 +1,26 @@
+{
+  "name": "Ring Dips",
+  "force": "spingere",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "altro",
+  "primaryMuscles": [
+    "tricipiti"
+  ],
+  "secondaryMuscles": [
+    "petto",
+    "spalle"
+  ],
+  "instructions": [
+    "Afferrare un anello in ogni mano e prendere un piccolo salto per aiutarti a raggiungere la posizione di partenza con le braccia bloccate.",
+    "Inizia piegando il gomito, abbassando il corpo finché le braccia non superano i 90 gradi. Evitare di dondolare e mantenere una buona postura durante la discesa.",
+    "Invertire il movimento estendendo il gomito, spingendosi di nuovo verso l'alto nella posizione di partenza.",
+    "Ripetere per il numero desiderato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": [
+    "Ring_Dips/0.jpg",
+    "Ring_Dips/1.jpg"
+  ],
+  "id": "Ring_Dips"
+}

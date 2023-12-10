@@ -1,0 +1,30 @@
+{
+  "name": "Circus Bell",
+  "force": "spingere",
+  "level": "esperto",
+  "mechanic": "composto",
+  "equipment": "altro",
+  "primaryMuscles": [
+    "spalle"
+  ],
+  "secondaryMuscles": [
+    "avambracci",
+    "glutei",
+    "femorali",
+    "parte bassa della schiena",
+    "trapezi",
+    "tricipiti"
+  ],
+  "instructions": [
+    "Il campanello del circo è un manubrio extra-large con un manico spesso. Inizia con le manubri tra i piedi, e afferra il manubrio con entrambe le mani.",
+    "Pulisci il manubrio allungando anche le anche e le ginocchia per avere lo strumento sulla spalla desiderata, lasciando andare con un altra mano.",
+    "Assicurati di avere una delle teste del manubrio dietro alla spalla per evitare di essere sbilanciato. Per alzarlo sopra la testa, piega le ginocchia, ed allora spingi in alto anche il manubrio sopra la testa, inclinandoti da una parte mentre lo fai.",
+    "Guida attentamente il manubrio indietro a terra, tenendolo sotto il tuo controllo il più possibile. È meglio eseguire questo esercizio su un materasso di gomma spesso per evitare di danneggiare il pavimento."
+  ],
+  "category": "strongman",
+  "images": [
+    "Circus_Bell/0.jpg",
+    "Circus_Bell/1.jpg"
+  ],
+  "id": "Circus_Bell"
+}
