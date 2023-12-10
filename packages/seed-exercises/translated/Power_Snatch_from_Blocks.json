@@ -1,0 +1,31 @@
+{
+  "name": "Sollevamento potenza dai Blocchi",
+  "force": "tirare",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "bilanciere",
+  "primaryMuscle": ["quadricipiti"],
+  "secondaryMuscles": [
+    "polpacci",
+    "avambracci",
+    "glutei",
+    "femorali",
+    "lombare",
+    "spalle",
+    "trapezi",
+    "tricipiti"
+  ],
+  "instructions": [
+    "Inizia con un bilanciere carico su cassoni o supporti all'altezza desiderata. Afferra il bilanciere con una presa larga. I piedi dovrebbero essere direttamente sotto le anche, con i piedi girati verso l'esterno se necessario. Abbassa le anche, con il petto in alto e la testa rivolta in avanti. Le spalle dovrebbero essere leggermente davanti al bilanciere, con i gomiti rivolti verso l'esterno. Questa sarà la posizione di partenza.",
+    "Inizia il primo trazione spingendo attraverso la parte anteriore dei talloni, sollevando il bilanciere dai cassoni.",
+    "Passa al secondo trazione estendendoti attraverso le anche ginocchia e caviglie, spingendo il bilanciere in alto il più velocemente possibile. Il bilanciere dovrebbe essere vicino al corpo. Alla massima estensione, solleva le spalle e permetti ai gomiti di flettersi verso i lati.",
+    "Mentre sposti i piedi nella posizione di ricezione, ti solleverai con forza al di sotto del bilanciere mentre lo porti sopra la testa. I piedi dovrebbero muoversi appena al di fuori delle anche, girati verso l'esterno se necessario. Ricevi il bilanciere sopra un'accoglienza a profondo squat e con le braccia completamente estese sopra la testa.",
+    "Mantieni il bilanciere allineato sopra la parte anteriore dei talloni, la testa e il petto in alto, spingendo attraverso i talloni dei piedi per sollevarsi in posizione eretta. Con cura, riporta il peso sui cassoni."
+  ],
+  "category": "sollevamento pesi olimpico",
+  "images": [
+    "Power_Snatch_from_Blocks/0.jpg",
+    "Power_Snatch_from_Blocks/1.jpg"
+  ],
+  "id": "Power_Snatch_from_Blocks"
+}

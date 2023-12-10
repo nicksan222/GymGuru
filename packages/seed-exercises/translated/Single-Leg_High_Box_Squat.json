@@ -1,0 +1,20 @@
+{
+  "name": "Accovacciamento su cassetta alta ad un solo gamba",
+  "force": "spinta",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "altro",
+  "primaryMuscle": ["quadricipiti"],
+  "secondaryMuscles": ["glutei", "femori"],
+  "instructions": [
+    "Posiziona una cassetta in una grondaia. Fissa una banda o una corda sulla cassetta.",
+    "In piedi di fronte, sali sulla cassetta fino ad arrivare in piedi, mantenendo l'altro gamba senza supporto. Tieni la banda per mantenere l'equilibrio",
+    ". Continua a salire e scendere sulla stessa gamba prima di passare al lato opposto."
+  ],
+  "category": "forza",
+  "images": [
+    "Single-Leg_High_Box_Squat/0.jpg",
+    "Single-Leg_High_Box_Squat/1.jpg"
+  ],
+  "id": "Single-Leg_High_Box_Squat"
+}

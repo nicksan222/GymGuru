@@ -1,0 +1,19 @@
+{
+  "name": "Passaggio Kettlebell Tra Le Gambe",
+  "force": "tirare",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscle": ["addominali"],
+  "secondaryMuscles": ["glutei", "femorali", "spalle"],
+  "instructions": [
+    "Metti un kettlebell tra le gambe e assumi una posizione confortevole. Piega il busto in avanti spingendo fuori il sedere e mantenendo la schiena dritta.",
+    "Prendi un kettlebell e trasferiscilo all'altra mano tra le gambe, come se fosse una \"W\". Continua avanti e indietro per diverse ripetizioni."
+  ],
+  "category": "forza",
+  "images": [
+    "Kettlebell_Pass_Between_The_Legs/0.jpg",
+    "Kettlebell_Pass_Between_The_Legs/1.jpg"
+  ],
+  "id": "Kettlebell_Pass_Between_The_Legs"
+}

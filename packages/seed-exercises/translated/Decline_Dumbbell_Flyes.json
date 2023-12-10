@@ -1,0 +1,19 @@
+{
+  "name": "Decline Dumbbell Flyes",
+  "force": "spinta",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "manubrio",
+  "primaryMuscle": ["petto"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fissare le gambe all'estremità della panca declinata e sdraiarsi con un manubrio su ogni mano in cima alle cosce. I palmi delle mani saranno rivolti l'uno contro l'altro.",
+    "Una volta sdraiati, spostare i manubri di fronte a voi alla larghezza delle spalle. I palmi delle mani dovrebbero essere rivolti l'uno contro l'altro e le braccia dovrebbero essere perpendicolari al pavimento e completamente estese. Questa sarà la posizione di partenza.",
+    "Con una leggera flessione sui gomiti per evitare lo stress al tendine del bicipite, abbassare le braccia sui lati in un ampio arco fino a sentire uno stiramento sul petto. Inspirare mentre si esegue questa parte del movimento. Suggerimento: Tenere a mente che durante il movimento, le braccia dovrebbero rimanere immobili; il movimento dovrebbe avvenire solo all'articolazione della spalla.",
+    "Tornare le braccia alla posizione di partenza mentre si stringono i muscoli del petto e si espira. Suggerimento: Assicurarsi di utilizzare lo stesso arco di movimento utilizzato per abbassare i pesi.",
+    "Mantenere per un secondo la posizione contratta e ripetere il movimento per il numero prescritto di ripetizioni."
+  ],
+  "category": "forza",
+  "images": ["Decline_Dumbbell_Flyes/0.jpg", "Decline_Dumbbell_Flyes/1.jpg"],
+  "id": "Decline_Dumbbell_Flyes"
+}

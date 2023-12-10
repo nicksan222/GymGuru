@@ -1,0 +1,21 @@
+{
+  "name": "Kettlebell Arnold Press",
+  "forza": "spinta",
+  "level": "intermedio",
+  "meccanica": "composta",
+  "attrezzatura": "kettlebells",
+  "primaryMuscle": ["spalle"],
+  "secondaryMuscles": ["tricipiti"],
+  "instructions": [
+    "Pulire una kettlebell alla spalla. Pulire la kettlebell alla spalla estendendo le gambe e i fianchi mentre alzi la kettlebell verso la spalla. Il palmo dovrebbe essere rivolto verso l'interno.",
+    "Guardando dritto in avanti, premere la kettlebell fuori e sopra la testa, ruotando il polso in modo che il palmo sia rivolto in avanti in cima al movimento.",
+    "Ritornare la kettlebell alla posizione di partenza, con il palmo rivolto verso l'interno."
+  ],
+  "category": "forza",
+  "immagini": [
+    "Kettlebell_Arnold_Press/0.jpg",
+    "Kettlebell_Arnold_Press/1.jpg"
+  ],
+  "id": "Kettlebell_Arnold_Press",
+  "images": ["Kettlebell_Arnold_Press/0.jpg", "Kettlebell_Arnold_Press/1.jpg"]
+}

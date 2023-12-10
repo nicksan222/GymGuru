@@ -1,0 +1,30 @@
+{
+  "name": "Split Snatch",
+  "force": "tira",
+  "level": "esperto",
+  "mechanic": "composto",
+  "equipment": "bilanciere",
+  "primaryMuscle": ["femorali"],
+  "secondaryMuscles": [
+    "caviglie",
+    "avambracci",
+    "glutei",
+    "femorali",
+    "lombari",
+    "quadricipiti",
+    "spalle",
+    "trapezi",
+    "tricipiti"
+  ],
+  "instructions": [
+    "Inizia con un bilanciere carico sul pavimento. Il bilanciere dovrebbe essere vicino o toccare le caviglie e si dovrebbe afferrare con una presa larga. I piedi dovrebbero essere direttamente sotto i fianchi, con i piedi girati verso l'esterno se necessario. Abbassa i fianchi, con il petto dritto e la testa guardando in avanti. Le spalle dovrebbero essere appena davanti al bilanciere. Questa sarà la posizione di partenza.",
+    "Inizia la prima trazione spingendo attraverso la parte anteriore dei talloni, sollevando il bilanciere da terra. L'angolo della schiena dovrebbe rimanere lo stesso fino a quando il bilanciere non supera le ginocchia.",
+    "Passa alla seconda trazione estendendo attraverso anche, ginocchia e caviglie, spingendo il bilanciere il più velocemente possibile. Il bilanciere dovrebbe essere vicino al corpo. Al culmine dell'estensione, solleva le spalle e permetti ai gomiti di piegarsi verso il lato.",
+    "Man mano che muovi i piedi nella posizione di ricezione, tira con forza verso il basso sotto il bilanciere mentre elevi il bilanciere sopra la testa. I piedi dovrebbero muoversi con forza in una posizione divisa, un piede davanti e un piede dietro. Ricevi il bilanciere con il corpo il più in basso possibile e con le braccia completamente estese sopra la testa.",
+    "Mantenendo il bilanciere in linea sopra la parte anteriore dei talloni, la testa e il petto dritto, spingi attraverso i talloni dei piedi per alzarsi in piedi, riavvicinando i piedi.",
+    "Riposiziona con attenzione il peso sul pavimento."
+  ],
+  "category": "pesi olimpici",
+  "images": ["Split_Snatch/0.jpg", "Split_Snatch/1.jpg"],
+  "id": "Split_Snatch"
+}

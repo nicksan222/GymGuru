@@ -1,0 +1,24 @@
+{
+  "name": "Clean Deadlift",
+  "force": "tirare",
+  "level": "principiante",
+  "mechanic": "compound",
+  "equipment": "bilanciere",
+  "primaryMuscle": ["femorali"],
+  "secondaryMuscles": [
+    "avambracci",
+    "glutei",
+    "parte bassa della schiena",
+    "parte centrale della schiena",
+    "quadricipiti",
+    "muscoli della trapezia"
+  ],
+  "instructions": [
+    "Comincia in piedi con il bilanciere vicino alle caviglie. I piedi devono essere direttamente sotto l'anca con le punte dei piedi leggermente all'esterno. Afferra il bilanciere con una presa doppia con entrambe le mani o una presa ad auncino, a circa la larghezza delle spalle. Accovacciati verso il bilanciere, mantenendo la schiena in piena estensione con un angolo che mette le spalle davanti al bilanciere e la schiena il più verticale possibile.",
+    "Comincia spingendo attraverso il pavimento con la parte anteriore dei talloni. Mentre il bilanciere sale, mantieni un angolo costante della schiena. Allarga i ginocchi verso l'esterno per aiutare a tenerli fuori dalla traiettoria del bilanciere.",
+    "Dopo che il bilanciere passa le ginocchia, completa l'esercizio spingendo i fianchi verso il bilanciere fino a estendere ginocchia e fianchi."
+  ],
+  "category": "sollevamento pesi olimpico",
+  "images": ["Clean_Deadlift/0.jpg", "Clean_Deadlift/1.jpg"],
+  "id": "Clean_Deadlift"
+}

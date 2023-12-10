@@ -1,0 +1,21 @@
+{
+  "name": "Esercizio di flessione laterale con la palla pesata",
+  "force": "tirare",
+  "level": "intermedio",
+  "mechanic": "isolamento",
+  "equipment": "palla per esercizi",
+  "primaryMuscle": ["addominali"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Per cominciare, posizionati sulla palla per esercizi con il lato sinistro del torso (vita, fianchi e spalle) appoggiato contro la palla.",
+    "I piedi dovrebbero essere a terra con le gambe incrociate e penzolanti dalla palla. Tenete un piatto pesante con la mano destra direttamente sulla destra della vostra testa. Suggerimento: accertatevi che il lato liscio del piatto sia appoggiato sulla testa.",
+    "Mettete il braccio sinistro sopra il torso in modo che il palmo sia sui muscoli obliqui. Dovrebbe esserci un angolo retto tra l'avambraccio sinistro e il braccio superiore. Questa è la posizione di partenza.",
+    "Sollevate il lato del vostro torso lateralmente piegandovi in vita mentre esalate.",
+    "Tenete la contrazione per un secondo e lentamente tornate alla posizione di partenza mentre inalate.",
+    "Ripetete per il numero consigliato di ripetizioni.",
+    "Cambia lato e ripetete l'esercizio."
+  ],
+  "category": "forza",
+  "images": ["Weighted_Ball_Side_Bend/0.jpg", "Weighted_Ball_Side_Bend/1.jpg"],
+  "id": "Weighted_Ball_Side_Bend"
+}

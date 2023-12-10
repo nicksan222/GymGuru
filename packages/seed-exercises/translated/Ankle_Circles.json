@@ -1,0 +1,17 @@
+{
+  "name": "Circonferenze della Caviglia",
+  "force": "tira",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "null",
+  "primaryMuscle": ["polpacci"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Usa un oggetto resistente come una leggiera per sotenervi in posizione verticale.",
+    "Solleva la gamba del piede destro nell'aria (circa due centimetri dal pavimento) e fai un movimento circolare con il pollice. Fingi di disegnare un cerchio grande con esso. Suggerimento: Un cerchio equivale a 1 ripetizione. Respira normalmente mentre esegui il movimento.",
+    "Una volta finito con il piede destro, ripetere con il piede sinistro."
+  ],
+  "category": "stretching",
+  "images": ["Ankle_Circles/0.jpg", "Ankle_Circles/1.jpg"],
+  "id": "Ankle_Circles"
+}

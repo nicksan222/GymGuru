@@ -1,0 +1,20 @@
+{
+  "name": "Esercizio di corsa sprint a cono singolo",
+  "force": "push",
+  "level": "base",
+  "mechanic": null,
+  "equipment": "altro",
+  "primaryMuscle": ["quadricipiti"],
+  "secondaryMuscles": ["polpacci", "glutei", "femorali"],
+  "instructions": [
+    "Questo esercizio insegna l'azione veloce dei piedi. Necessiti di un singolo cono. Comincia stando in piedi accanto al cono con un braccio indietro e uno avanti.",
+    "Fai scorrere i piedi il più rapidamente possibile, bloccando con le braccia. Cerchia il cono, tieni le ginocchia alte, con un'azione violenta dei piedi.",
+    "Ferma dopo tre giri intorno al cono. "
+  ],
+  "category": "pliometria",
+  "images": [
+    "Single-Cone_Sprint_Drill/0.jpg",
+    "Single-Cone_Sprint_Drill/1.jpg"
+  ],
+  "id": "Single-Cone_Sprint_Drill"
+}

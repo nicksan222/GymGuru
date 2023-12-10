@@ -1,0 +1,16 @@
+{
+  "name": "Rotazione del Torso",
+  "force": "tirare",
+  "level": "principiante",
+  "mechanic": null,
+  "equipment": "palla per l'esercizio",
+  "primaryMuscle": ["addome"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stai in piedi tenendo una palla per l'esercizio con entrambe le mani. Estendi le braccia in modo che la palla sia dritta davanti a te. Questa sarà la tua posizione iniziale.",
+    "Ruota il tuo torso verso un lato, mantenendo gli occhi sulla palla durante il movimento. Ora, ruota nella direzione opposta. Ripeti per 10-20 ripetizioni."
+  ],
+  "category": "stretching",
+  "images": ["Torso_Rotation/0.jpg", "Torso_Rotation/1.jpg"],
+  "id": "Torso_Rotation"
+}

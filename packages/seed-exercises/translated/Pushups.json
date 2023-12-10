@@ -1,0 +1,18 @@
+{
+  "name": "Flessioni",
+  "force": "spinta",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "solo corpo",
+  "primaryMuscle": ["petto"],
+  "secondaryMuscles": ["spalle", "tricipiti"],
+  "instructions": [
+    "Sdraiati a terra a faccia in giù e metti le mani a circa 36 pollici di distanza, tenendo il tuo busto sollevato ad altezza braccia.",
+    "Successivamente, abbassati finché il tuo petto non tocca quasi il pavimento mentre inspiri.",
+    "Ora, espira e premetti indietro il tuo busto verso la posizione di partenza contrando il tuo petto.",
+    "Dopo una breve pausa nella posizione contratta di massimo, puoi ricominciare ad abbassarti per quante ripetizioni necessarie."
+  ],
+  "category": "forza",
+  "images": ["Pushups/0.jpg", "Pushups/1.jpg"],
+  "id": "Pushups"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Barbell Bench Press - Medium Grip",
+  "forza": "spingere",
+  "level": "principiante",
+  "meccanica": "combinato",
+  "attrezzatura": "bilanciere",
+  "primaryMuscle": ["petto"],
+  "secondaryMuscles": ["spalle", "tricipiti"],
+  "instructions": [
+    "Stendersi su una panca piatta. Utilizzando una presa di media ampiezza (una presa che crea un angolo di 90 gradi nel mezzo del movimento tra gli avambracci e le braccia superiori), sollevare la barra dalla griglia e tenerla dritta sopra di te con le braccia bloccate. Questa sarà la tua posizione di partenza.",
+    "Dalla posizione di partenza, inspirare ed iniziare a scendere lentamente finché la barra tocca il petto al centro.",
+    "Dopo una breve pausa, spingere la barra nuovamente nella posizione di partenza mentre espiri. Concentrati a spingere la barra utilizzando i tuoi muscoli pettorali. Blocca le braccia e contraendo il petto nella posizione contratta nella parte superiore del movimento, tieni per un secondo e inizia a scendere lentamente di nuovo. Suggerimento: Idealmente, abbassare il peso dovrebbe richiedere il doppio del tempo per sollevarlo.",
+    "Ripeti il movimento per il numero prescritto di ripetizioni.",
+    "Quando hai finito, rimetti la barra sulla griglia."
+  ],
+  "category": "forza",
+  "immagini": [
+    "Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+    "Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+  ],
+  "id": "Barbell_Bench_Press_-_Medium_Grip",
+  "images": [
+    "Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+    "Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+  ]
+}

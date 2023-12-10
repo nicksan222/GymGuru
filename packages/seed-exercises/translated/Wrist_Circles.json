@@ -1,0 +1,18 @@
+{
+  "name": "Wrist Circles",
+  "forza": "tirare",
+  "level": "principiante",
+  "meccanica": "isolamento",
+  "attrezzatura": "solo corpo",
+  "primaryMuscle": ["avambracci"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Inizia mettendoti in piedi dritto a una larghezza delle spalle l'una dall'altra. Solleva le braccia ai lati fino a quando sono completamente estese e parallele al pavimento ad un'altezza che è allineata alle tue spalle. Suggerimento: Il tuo torso e le braccia dovrebbero formare la lettera \"T\": Le tuo palme dovrebbero essere rivolte verso il basso. Questa è la posizione di partenza.",
+    "Mantendendo il tuo corpo intero fermo, tranne per i polsi, inizia a ruotare entrambi i polsi in avanti in un movimento circolare. Consiglio: Fingi di cercare di disegnare dei cerchi usando le tue mani come se fossero il pennello. Respira normalmente mentre fai questo esercizio.",
+    "Ripeti per il numero di ripetizioni consigliate."
+  ],
+  "category": "stretching",
+  "immagini": ["Wrist_Circles/0.jpg", "Wrist_Circles/1.jpg"],
+  "id": "Wrist_Circles",
+  "images": ["Wrist_Circles/0.jpg", "Wrist_Circles/1.jpg"]
+}

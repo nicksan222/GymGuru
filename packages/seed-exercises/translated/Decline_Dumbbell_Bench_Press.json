@@ -1,0 +1,27 @@
+{
+  "name": "Decline Dumbbell Bench Press",
+  "forza": "spinta",
+  "level": "principiante",
+  "meccanismo": "composto",
+  "attrezzatura": "manubrio",
+  "primaryMuscle": ["petto"],
+  "secondaryMuscles": ["spalle", "tricipiti"],
+  "instructions": [
+    "Fissa le tue gambe alla fine della panca declinata e distenditi con un manubrio in ogni mano sopra le tue cosce. I palmi delle tue mani saranno uno di fronte all'altro.",
+    "Una volta che ti sei sdraiato, sposta i manubri davanti a te alla larghezza delle spalle.",
+    "Una volta alla larghezza delle spalle, ruota i polsi in avanti in modo che i palmi delle tue mani siano rivolti verso l'esterno. Questa sarà la tua posizione di partenza.",
+    "Abbassa lentamente i pesi verso il tuo fianco mentre espiri. Mantieni il pieno controllo dei manubri in ogni momento. Suggerimento: Durante il movimento, gli avambracci dovrebbero sempre essere perpendicolari al pavimento.",
+    "Mentre espiri, spingi i manubri in su utilizzando i tuoi muscoli pettorali. Blocca le braccia nella posizione contratta, schiaccia il petto, mantieni per un secondo e poi inizia a scendere lentamente. Suggerimento: Ci vuole almeno il doppio del tempo per scendere che per salire.",
+    "Ripeti il movimento per il numero di ripetizioni prescritte dal tuo programma di allenamento."
+  ],
+  "category": "forza",
+  "immagini": [
+    "Decline_Dumbbell_Bench_Press/0.jpg",
+    "Decline_Dumbbell_Bench_Press/1.jpg"
+  ],
+  "id": "Decline_Dumbbell_Bench_Press",
+  "images": [
+    "Decline_Dumbbell_Bench_Press/0.jpg",
+    "Decline_Dumbbell_Bench_Press/1.jpg"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Step Mill",
+  "force": null,
+  "level": "intermedio",
+  "mechanic": null,
+  "equipment": "macchina",
+  "primaryMuscle": ["quadriceps"],
+  "secondaryMuscles": ["polpacci", "glutei", "bicipiti femorali"],
+  "instructions": [
+    "Per iniziare, sali sulla stepmill e seleziona l'opzione desiderata dal menu. Puoi scegliere una modalità manuale, o puoi selezionare un programma da eseguire. Tipicamente, puoi inserire la tua età e il tuo peso per stimare la quantità di calorie bruciate durante l'esercizio. Usa cautela per non inciampare mentre sali le scale. Si consiglia di mantenere la presa sulle maniglie per non cadere.",
+    "Le stepmill offrono comodità, benefici cardiovascolari e solitamente hanno un impatto inferiore rispetto alla corsa all'aperto, offrendo un tasso simile di calorie bruciate. Solitamente sono molto più difficili rispetto ad altri macchinari cardio. Una persona di 68 kg brucerà tipicamente oltre 300 calorie in 30 minuti, rispetto alle circa 175 calorie camminando."
+  ],
+  "category": "cardio",
+  "images": ["Step_Mill/0.jpg", "Step_Mill/1.jpg"],
+  "id": "Step_Mill"
+}

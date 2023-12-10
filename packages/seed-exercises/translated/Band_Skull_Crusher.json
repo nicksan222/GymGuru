@@ -1,0 +1,18 @@
+{
+  "name": "Band Skull Crusher",
+  "forza": "push",
+  "level": "beginner",
+  "meccanica": "isolation",
+  "attrezzatura": "bands",
+  "primaryMuscle": ["tricipiti"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fissare una banda alla base di un supporto o della panca. Distendersi sulla panca in modo che la banda sia allineata con la testa.",
+    "Afferrare la banda, sollevando i gomiti in modo che il braccio superiore sia perpendicolare al pavimento. Con il gomito flesso, la banda dovrebbe essere sopra la testa. Questa sarà la posizione di partenza.",
+    "Estendere il braccio attraverso il gomito per tendere il braccio, mantenendo il braccio superiore fermo. Pausa nella parte superiore del movimento e ritornare alla posizione di partenza."
+  ],
+  "category": "forza",
+  "immagini": ["Band_Skull_Crusher/0.jpg", "Band_Skull_Crusher/1.jpg"],
+  "id": "Band_Skull_Crusher",
+  "images": ["Band_Skull_Crusher/0.jpg", "Band_Skull_Crusher/1.jpg"]
+}

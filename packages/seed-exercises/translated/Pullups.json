@@ -1,0 +1,20 @@
+{
+  "name": "Tirate su",
+  "force": "tirare",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "solo il corpo",
+  "primaryMuscle": ["lats"],
+  "secondaryMuscles": ["bicipiti", "dorsali mddii"],
+  "instructions": [
+    "Afferrare la barra per i tiri su con le palme rivolte in avanti usando la presa prescritta. Nota sulle prese: Per una presa larga, le mani devono essere distanziati a una distanza maggiore della larghezza delle spalle. Per una presa media, le mani devono essere distanziati a una distanza uguale della larghezza delle spalle e per una presa stretta a una distanza inferiore della larghezza delle spalle.",
+    "Mentre chi escuti esteso in avanti avendo la barra alla larghezza della presa scelta, riportare il torace indietro di circa 30 gradi o più creando una curvatura sulla parte bassa della schiena e sporgendo il petto in avanti. Questa è la posizione di partenza.",
+    "Tirare il torace su fino a che la barra tocchi l'alto del petto portando le spalle e gli arti superiori in basso e indietro. Espirare mentre si fa questa parte del movimento. Suggerimento: Concentrarsi nel comprimere i muscoli della schiena quando si raggiunge la massima posizione di compressione. Il torace superiore dovrebbe rimanere stazionario mentre si muove attraverso lo spazio e solo gli arti dovrebbero muoversi. Gli avambracci non devono fare lavoro diverso di tenere la barra.",
+    "Dopo un secondo nella posizione di compressione, iniziare ad inspirare ed abbassare lentamente il torace fino alla posizione di partenza quando le braccia sono completamente estese e i lats sono completamente allungati.",
+    "Ripetere questo movimento per il numero prescritto di ripetizioni."
+  ],
+  "category": "forza",
+  "immagini": ["Tirate su/0.jpg", "Tirate su/1.jpg"],
+  "id": "Pullups",
+  "images": ["Pullups/0.jpg", "Pullups/1.jpg"]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Press Sit-Up",
+  "force": "pressione",
+  "level": "esperto",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscle": ["addominali"],
+  "secondaryMuscles": ["petto", "spalle", "tricipiti"],
+  "instructions": [
+    "Per iniziare, sdraiati su una panca con una barra a riposo sul petto. Posiziona le gambe in modo che siano sicure sull'estensione della panca addominale. Questa è la posizione di partenza.",
+    "Mentre inspiri, stringi gli addominali e i glutei. Contemporaneamente curva il tuo torso come faresti in una sit-up e spingi la barra in posizione sopra la testa mentre espiri. Suggerimento: Usa le braccia per spingere la barra mentre esegui questo esercizio, mantieni il focus sui muscoli addominali.",
+    "Abbassa la parte superiore del corpo fino alla posizione di partenza mentre riporti la barra indietro al petto. Ricorda di inspirare mentre abbassi il corpo.",
+    "Ripeti per il numero consigliato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": ["Press_Sit-Up/0.jpg", "Press_Sit-Up/1.jpg"],
+  "id": "Press_Sit-Up"
+}

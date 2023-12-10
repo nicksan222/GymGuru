@@ -1,0 +1,25 @@
+{
+  "name": "Speed Band Overhead Triceps",
+  "forza": "push",
+  "level": "principiante",
+  "meccanismo": "isolamento",
+  "attrezzatura": "bande",
+  "primaryMuscle": ["tricipiti"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Per questo esercizio, fissare una banda a terra. Abbiamo utilizzato una panca inclinata e fissato la banda alla base, stando in piedi sulla panca. In alternativa, questo esercizio può essere svolto stando in piedi sulla banda.",
+    "Per iniziare, portare la banda dietro la testa, tenendola con una presa pronata e tenendo i gomiti sollevati. Questa sarà la posizione di partenza.",
+    "Per eseguire il movimento, estendere il gomito per allungare le braccia, assicurandosi di mantenere il braccio superiore in posizione.",
+    "Pausa, e poi tornare alla posizione di partenza."
+  ],
+  "category": "forza",
+  "immagini": [
+    "Speed_Band_Overhead_Triceps/0.jpg",
+    "Speed_Band_Overhead_Triceps/1.jpg"
+  ],
+  "id": "Speed_Band_Overhead_Triceps",
+  "images": [
+    "Speed_Band_Overhead_Triceps/0.jpg",
+    "Speed_Band_Overhead_Triceps/1.jpg"
+  ]
+}

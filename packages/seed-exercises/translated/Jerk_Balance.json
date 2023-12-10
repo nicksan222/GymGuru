@@ -1,0 +1,17 @@
+{
+  "name": "Equilibro Impulso",
+  "force": "spingi",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscle": ["spalle"],
+  "secondaryMuscles": ["glutei", "femorali", "quadricipiti", "tricipiti"],
+  "instructions": [
+    "Questo esercizio ti aiuta a imparare a spingerti abbastanza in basso durante il jerk e corregge coloro che si muovono all'indietro durante il movimento. Comincia con la barra posizionata nella posizione del jerk, con le spalle in avanti, il busto eretto e i piedi divisi leggermente.",
+    "Avvia il movimento come faresti per un jerk normale, flettendo le ginocchia mantenendo il busto verticale e spingendoti in alto con forza, usando la forza di inerzia e non le braccia per sollevare il peso.",
+    "Mantieni il piede posteriore al suo posto, usando la sua forza per spingere il tuo corpo in avanti in una posizione di spaccata completa mentre sollevi il peso. Recuperando da questa posizione ponendo il peso sopra la testa."
+  ],
+  "category": "sollevamento pesi olimpico",
+  "images": ["Jerk_Balance/0.jpg", "Jerk_Balance/1.jpg"],
+  "id": "Jerk_Balance"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Tibiale Anteriore-SMR",
+  "force": "statico",
+  "level": "intermedio",
+  "mechanic": null,
+  "equipment": "altro",
+  "primaryMuscle": ["polpacci"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sedersi a terra con le gambe piegate e i piedi a terra.",
+    "Utilizzando un Muscle Roller o un mattarello, applicare pressione sui muscoli sul lato esterno delle tibie. Lavorare dalla parte sotto del ginocchio fino alla parte sopra alla caviglia, facendo pause nei punti di tensione per 10-30 secondi. Ripetere sull'altra gamba."
+  ],
+  "category": "stretching",
+  "images": ["Anterior_Tibialis-SMR/0.jpg", "Anterior_Tibialis-SMR/1.jpg"],
+  "id": "Anterior_Tibialis-SMR"
+}

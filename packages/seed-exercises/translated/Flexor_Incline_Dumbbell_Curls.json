@@ -1,0 +1,27 @@
+{
+  "name": "Flexor Incline Dumbbell Curls",
+  "forza": "tirata",
+  "level": "principiante",
+  "meccanismo": "isolamento",
+  "attrezzatura": "manubrio",
+  "primaryMuscle": ["bicipiti"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Tieni il manubrio dal lato più lontano da te in modo da avere più peso sul lato più vicino a te. (Questo può essere fatto per un buon effetto su tutti gli esercizi di manubri per bicipiti). Ora fai una normale curl con manubrio inclinata, ma mantieni i polsi il più indietro possibile per neutralizzare lo stress che viene posto su di essi.",
+    "Seduti su una panca inclinata a 45 gradi con un manubrio in ogni mano.",
+    "Lascia che le braccia penzolino ai lati, con i gomiti appoggiati e ruota i palmi delle mani in avanti con i pollici che puntano lontano dal corpo. Suggerimento: Mantieni questa posizione delle mani durante tutto il movimento, poiché non dovrebbero esserci rotazioni delle mani mentre salgono. Questa sarà la tua posizione di partenza.",
+    "Solleva i due manubri contemporaneamente finché i bicipiti non si contraggono completamente ed espira. Consiglio: Non muovere le braccia o usare la forza centrifuga. Mantieni un movimento controllato in ogni momento. Mantieni la posizione contratta per un secondo in cima.",
+    "Mentre inspiri, torna lentamente alla posizione di partenza.",
+    "Ripeti per il numero consigliato di ripetizioni."
+  ],
+  "category": "forza",
+  "immagini": [
+    "Flexor_Incline_Dumbbell_Curls/0.jpg",
+    "Flexor_Incline_Dumbbell_Curls/1.jpg"
+  ],
+  "id": "Flexor_Incline_Dumbbell_Curls",
+  "images": [
+    "Flexor_Incline_Dumbbell_Curls/0.jpg",
+    "Flexor_Incline_Dumbbell_Curls/1.jpg"
+  ]
+}

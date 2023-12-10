@@ -1,0 +1,18 @@
+{
+  "name": "Decline Push-Up",
+  "force": "spingere",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": null,
+  "primaryMuscle": ["petto"],
+  "secondaryMuscles": ["spalle", "tricipiti"],
+  "instructions": [
+    "Sdraiati a faccia in giù sul pavimento e metti le mani a circa 36 pollici di distanza tenendo il tuo toros in bilico. Muove i piedi su una scatola o una panchina. Questa sarà la tua posizione di partenza.",
+    "Successivamente, abbassa il corpo verso il basso finché il tuo petto quasi non tocca a terra mentre inspiri.",
+    "Ora espira e spingi il torace verso l'alto nella posizione di partenza mentre contrai il petto.",
+    "Dopo una breve pausa nella posizione contratta in alto, puoi iniziare ad abbassare il corpo nuovamente per quante ripetizioni necessarie."
+  ],
+  "category": "forza",
+  "images": ["Decline_Push-Up/0.jpg", "Decline_Push-Up/1.jpg"],
+  "id": "Decline_Push-Up"
+}

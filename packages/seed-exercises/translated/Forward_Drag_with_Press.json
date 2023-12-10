@@ -1,0 +1,27 @@
+{
+  "name": "Forward Drag con Press",
+  "forza": "spinta",
+  "level": "intermedio",
+  "meccanica": "composta",
+  "attrezzatura": "altro",
+  "primaryMuscle": ["petto"],
+  "secondaryMuscles": [
+    "polpacci",
+    "glutei",
+    "femorali",
+    "quadricipiti",
+    "spalle",
+    "tricipiti"
+  ],
+  "instructions": [
+    "Attacca una catena o un cavo con doppia maniglia alla slitta. Dovresti guardare lontano dalla slitta, tenendo una maniglia in ogni mano.",
+    "Inizia il movimento avanzando di un passo. Inclinandoti in avanti, estendi le gambe e i fianchi per muoverti, facendo una pausa con ogni passo per estendere i gomiti e spingere le mani in avanti. Fai un passo avanti finché torni alla posizione di partenza pronta per premere."
+  ],
+  "category": "forza maggiore",
+  "immagini": [
+    "Forward_Drag_with_Press/0.jpg",
+    "Forward_Drag_with_Press/1.jpg"
+  ],
+  "id": "Forward_Drag_with_Press",
+  "images": ["Forward_Drag_with_Press/0.jpg", "Forward_Drag_with_Press/1.jpg"]
+}

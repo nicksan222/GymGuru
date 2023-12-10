@@ -1,0 +1,24 @@
+{
+  "name": "Kettlebell Turkish Get-Up (stile affondo)",
+  "forza": "spinta",
+  "level": "intermedio",
+  "meccanismo": "combinato",
+  "attrezzatura": "manubri per kettlebell",
+  "primaryMuscle": ["spalle"],
+  "secondaryMuscles": ["addominali", "femorali", "quadricipiti", "tricipiti"],
+  "instructions": [
+    "Distendi sulla schiena a terra e spingi il manubrio per kettlebell in alto estendendo il gomito. Piega il ginocchio dallo stesso lato del manubrio per kettlebell.",
+    "Tenendo il manubrio per kettlebell sempre bloccato, ruota verso il lato opposto e usa il braccio non impegnato per aiutarti a spingere in avanti fino alla posizione di affondo. Usando la mano libera, spingiti in posizione seduta, poi procedi a un ginocchio.",
+    "Guardando il manubrio per kettlebell, alzati lentamente. Inverti il movimento tornando alla posizione di partenza e ripeti."
+  ],
+  "category": "forza",
+  "immagini": [
+    "Kettlebell_Turkish_Get-Up_Lunge_style/0.jpg",
+    "Kettlebell_Turkish_Get-Up_Lunge_style/1.jpg"
+  ],
+  "id": "Kettlebell_Turkish_Get-Up_Lunge_style",
+  "images": [
+    "Kettlebell_Turkish_Get-Up_Lunge_style/0.jpg",
+    "Kettlebell_Turkish_Get-Up_Lunge_style/1.jpg"
+  ]
+}

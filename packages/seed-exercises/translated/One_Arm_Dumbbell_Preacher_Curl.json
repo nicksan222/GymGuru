@@ -1,0 +1,26 @@
+{
+  "name": "One Arm Dumbbell Preacher Curl",
+  "forza": "tiro",
+  "level": "principiante",
+  "meccanica": "isolamento",
+  "attrezzatura": "manubrio",
+  "muscoli primari": ["bicipiti"],
+  "muscoli secondari": [],
+  "instructions": [
+    "Afferra un manubrio con il braccio destro e posiziona il braccio superiore sulla panca della prete o sulla panca inclinata. Il manubrio dovrebbe essere tenuto a lunghezza delle spalle. Questa sarà la tua posizione di partenza.",
+    "Mentre inspiri, abbassa lentamente il manubrio fino a quando il braccio superiore non è esteso e il bicipite non è completamente allungato.",
+    "Mentre espiri, usa i bicipiti per arricciare il peso fino a quando il bicipite non è completamente contratto e il manubrio è alla stessa altezza delle spalle. Ancora una volta, ricorda che per garantire la piena contrazione è necessario portare questo piccolo dito più in alto del pollice.",
+    "Spremi i bicipiti con forza per un secondo nella posizione contratta e ripeti per il numero consigliato di ripetizioni.",
+    "Cambia braccia e ripeti il movimento."
+  ],
+  "category": "forza",
+  "immagini": [
+    "One_Arm_Dumbbell_Preacher_Curl/0.jpg",
+    "One_Arm_Dumbbell_Preacher_Curl/1.jpg"
+  ],
+  "id": "One_Arm_Dumbbell_Preacher_Curl",
+  "images": [
+    "One_Arm_Dumbbell_Preacher_Curl/0.jpg",
+    "One_Arm_Dumbbell_Preacher_Curl/1.jpg"
+  ]
+}

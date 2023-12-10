@@ -1,0 +1,21 @@
+{
+  "name": "Advanced Kettlebell Windmill",
+  "force": "spingere",
+  "level": "intermedio",
+  "mechanic": "isola",
+  "equipment": "kettlebells",
+  "primaryMuscle": ["addominali"],
+  "secondaryMuscles": ["glutei", "femorali", "spalle"],
+  "instructions": [
+    "Pulisci e premi un kettlebell sopra la testa con un braccio.",
+    "Mantenendo il kettlebell sempre bloccato, spingi fuori il tuo sedere nella direzione del kettlebell bloccato. Tieni il braccio non utilizzato dietro la schiena e gira i piedi a un angolo di quarantacinque gradi rispetto al braccio con il kettlebell.",
+    "Abbassati il più possibile.",
+    "Metti in pausa per un secondo e inverte il movimento fino alla posizione di partenza."
+  ],
+  "category": "forza",
+  "images": [
+    "Advanced_Kettlebell_Windmill/0.jpg",
+    "Advanced_Kettlebell_Windmill/1.jpg"
+  ],
+  "id": "Advanced_Kettlebell_Windmill"
+}

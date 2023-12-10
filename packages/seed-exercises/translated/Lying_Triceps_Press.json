@@ -1,0 +1,19 @@
+{
+  "name": "Estensione French",
+  "force": "spinta",
+  "level": "intermedio",
+  "mechanic": "isolamento",
+  "equipment": "barra a C per bicipiti",
+  "primaryMuscle": ["primari"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Distendi su una panchina con una barra a C (preferita da me) o una barra dritta posta dietro la testa sul pavimento e con i piedi appoggiati al suolo.",
+    "Prendi la barra da dietro, alla larghezza delle spalle, e alza per portarla di fronte a te ad altezza braccia. Consiglio: le braccia devono essere perpendicolari al busto e al pavimento. Gomiti ben raccolti. Questa è la posizione di partenza.",
+    "Inspira ed abbassa lentamente il sovraccarico fino a far toccare al barra leggermente la fronte mantenendo le braccia e i gomiti immobili.",
+    "Da questo punto in poi utilizza i tricipiti per riportare il sovraccarico in posizione di partenza espirando.",
+    "Ripeti per il numero raccomandato di ripetizioni."
+  ],
+  "category": "potenza",
+  "images": ["Lying_Triceps_Press/0.jpg", "Lying_Triceps_Press/1.jpg"],
+  "id": "Lying_Triceps_Press"
+}

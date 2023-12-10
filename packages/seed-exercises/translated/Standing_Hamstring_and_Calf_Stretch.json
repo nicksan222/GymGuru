@@ -1,0 +1,24 @@
+{
+  "name": "Allungamento della coscia e del polpaccio in posizione eretta",
+  "forza": "statica",
+  "level": "principiante",
+  "meccanica": null,
+  "attrezzatura": "altro",
+  "muscoli primari": ["muscoli posteriori della coscia"],
+  "muscoli secondari": [],
+  "instructions": [
+    "Iniziare avvolgendo una cintura, una banda o una corda intorno al piede. In piedi, posizionare quel piede avanti.",
+    "Piega la gamba dietro tenendo dritta quella davanti. Alza le dita dei piedi del piede anteriore da terra e reclinati in avanti.",
+    "Usando la cintura, tira sulla cima del piede per aumentare lo stiramento del polpaccio. Mantieni la posizione per 10-20 secondi e ripeti con l'altro piede."
+  ],
+  "category": "stretching",
+  "immagini": [
+    "Standing_Hamstring_and_Calf_Stretch/0.jpg",
+    "Standing_Hamstring_and_Calf_Stretch/1.jpg"
+  ],
+  "id": "Standing_Hamstring_and_Calf_Stretch",
+  "images": [
+    "Standing_Hamstring_and_Calf_Stretch/0.jpg",
+    "Standing_Hamstring_and_Calf_Stretch/1.jpg"
+  ]
+}

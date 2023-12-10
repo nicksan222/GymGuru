@@ -1,0 +1,17 @@
+{
+  "name": "Foot-SMR",
+  "forza": "statica",
+  "level": "intermediate",
+  "meccanico": null,
+  "attrezzatura": "altro",
+  "primariMuscoli": ["polpacci"],
+  "secondariMuscoli": [],
+  "istruzione": [
+    "Questo esrcizio allunga la fascia dei muscoli nei piedi. Comincia sedendo con le scarpe tolte. Usando un roller per piedi o un oggetto simile, come una piccola sezione di tubo di pvc, metti il piede contro il roller attraverso la pianta del piede. Questa sarà la posizione di partenza.",
+    "Premi in modo deciso, muovendoti attraverso la pianta del piede. Tieni per 10-30 secondi, e poi cambia piede."
+  ],
+  "category": "stretching",
+  "immagini": ["Foot-SMR/0.jpg", "Foot-SMR/1.jpg"],
+  "id": "Foot-SMR",
+  "images": ["Foot-SMR/0.jpg", "Foot-SMR/1.jpg"]
+}

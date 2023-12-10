@@ -1,0 +1,29 @@
+{
+  "nameinitalian": "Suspended Split Squat",
+  "forceinitalian": "push",
+  "levelinitalian": "intermediate",
+  "mechanicinitalian": "compound",
+  "equipmentinitalian": "other",
+  "primaryMuscleinitalian": ["quadriceps"],
+  "secondaryMusclesinitalian": [
+    "abductors",
+    "adductors",
+    "calves",
+    "glutes",
+    "hamstrings"
+  ],
+  "instructionsinitalian": [
+    "Solleva le tue cinghie in modo che le maniglie siano a 45-76 cm dal pavimento.",
+    "Volti verso la configurazione, metti il tuo piede posteriore nella maniglia dietro di te. Mantieni la testa dritta e il petto in su, con il ginocchio leggermente piegato. Questa sarà la tua posizione di partenza.",
+    "Scendi flettendo il ginocchio e le anche, abbassando te stesso verso il terreno. Mantieni il peso sul tallone del piede e mantieni la postura durante tutto l'esercizio.",
+    "In fondo al movimento, inverti il movimento, estendendo l'anca e il ginocchio per tornare alla posizione di partenza."
+  ],
+  "categoryinitalian": "strength",
+  "imagesinitalian": [
+    "Suspended_Split_Squat/0.jpg",
+    "Suspended_Split_Squat/1.jpg"
+  ],
+  "idinitalian": "Suspended_Split_Squat",
+  "id": "Suspended_Split_Squat",
+  "images": ["Suspended_Split_Squat/0.jpg", "Suspended_Split_Squat/1.jpg"]
+}

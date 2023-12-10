@@ -1,0 +1,19 @@
+{
+  "name": "Allungamento dell'Estremità Superiore della Sedia",
+  "force": "statico",
+  "level": "principiante",
+  "mechanic": null,
+  "equipment": "altro",
+  "primaryMuscle": ["spalle"],
+  "secondaryMuscles": ["bicipiti", "petto"],
+  "instructions": [
+    "Sedersi sul bordo di una sedia, aggrappandosi allo schienale.",
+    "Tendere le braccia, mantenendo la schiena dritta, e tirare avanti la parte superiore del corpo fino a sentire uno stiramento. Per 20-30 secondi."
+  ],
+  "category": "stretching",
+  "images": [
+    "Chair_Upper_Body_Stretch/0.jpg",
+    "Chair_Upper_Body_Stretch/1.jpg"
+  ],
+  "id": "Chair_Upper_Body_Stretch"
+}

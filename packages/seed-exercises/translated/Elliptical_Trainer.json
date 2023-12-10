@@ -1,0 +1,16 @@
+{
+  "name": "Tapis roulant ellittico",
+  "force": null,
+  "level": "intermedio",
+  "mechanic": null,
+  "equipment": "macchina",
+  "primaryMuscle": ["quadricipiti"],
+  "secondaryMuscles": ["polpacci", "glutei", "femorali"],
+  "instructions": [
+    "Per iniziare, salite sul tapis roulant ellittico e selezionate l'opzione desiderata dal menu. La maggior parte degli ellittici ha una modalità manuale, oppure potete selezionare un programma da eseguire. Di solito, potete inserire età e peso per stimare la quantità di calorie bruciate durante l'esercizio. La pendenza può essere regolata per cambiare l'intensità dell'allenamento.",
+    "Le maniglie possono essere utilizzate per monitorare la vostra frequenza cardiaca e aiutarvi a mantenere un'intensità appropriata."
+  ],
+  "category": "cardio",
+  "images": ["Elliptical_Trainer/0.jpg", "Elliptical_Trainer/1.jpg"],
+  "id": "Elliptical_Trainer"
+}

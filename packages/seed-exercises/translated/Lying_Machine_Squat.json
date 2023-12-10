@@ -1,0 +1,23 @@
+{
+  "name": "Esercizio di Squat sulla Macchina per Mentire",
+  "category": "forza",
+  "level": "intermedio",
+  "meccanica": "composta",
+  "attrezzatura": "macchina",
+  "primaryMuscle": ["quadricipiti"],
+  "secondaryMuscles": ["polpacci", "glutei", "femorali"],
+  "instructions": [
+    "Aggiusta la macchina per le gambe ad un'altezza che ti consenta di entrare con le ginocchia piegate e le cosce leggermente sotto la parallela.",
+    "Una volta selezionato il peso, posizionati all'interno della macchina a pancia in su con le ginocchia piegate e le cosce leggermente sotto la parallela alla piattaforma. Assicurati che le ginocchia non vadano oltre le punte dei piedi. L'angolo creato tra i femorali e i polpacci dovrebbe essere leggermente inferiore a 90 gradi (dato che la tua posizione di partenza richiede di iniziare leggermente sotto la parallela). La tua schiena e la testa dovrebbero appoggiarsi sulla macchina mentre le spalle sono sotto i cuscinetti per le spalle.",
+    "Posiziona le mani sui maniglioni e i piedi leggermente rivolti verso l'esterno, alla larghezza delle spalle. Questa sarà la tua posizione di partenza.",
+    "Premendo con le palle dei piedi mentre espiri, rialzati facendo contrarre i quadricipiti. Mantieni la posizione contratta per un secondo. Suggerimento: dato che stai iniziando sotto la parallela, puoi optare per usare le mani per aiutarti a rialzarti, premendo sulle cosce solo sulla prima ripetizione.",
+    "Lentamente fletti le ginocchia mentre inspiri, ma invece di scendere completamente alla posizione di partenza, fermati quando le cosce sono parallele alla piattaforma. L'angolo tra femorali e polpacci dovrebbe essere di 90 gradi.",
+    "Ripeti per il numero di ripetizioni consigliato."
+  ],
+  "immagini": [
+    "Squat sulla Macchina per Mentire/0.jpg",
+    "Squat sulla Macchina per Mentire/1.jpg"
+  ],
+  "id": "Lying_Machine_Squat",
+  "images": ["Lying_Machine_Squat/0.jpg", "Lying_Machine_Squat/1.jpg"]
+}

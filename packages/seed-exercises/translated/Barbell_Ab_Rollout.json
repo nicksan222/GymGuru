@@ -1,0 +1,18 @@
+{
+  "name": "Barbell Ab Rollout",
+  "force": "tirare",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "barra",
+  "primaryMuscle": ["addominali"],
+  "secondaryMuscles": ["parte bassa della schiena", "spalle"],
+  "instructions": [
+    "Per questo esercizio dovete mettervi in posizione di pushup, ma invece che con le mani sul pavimento, dovreste afferrare una barra olimpica (caricata con 5-10 lbs da ogni lato) al suo posto. Questa sarà la posizione di partenza.",
+    "Mentre mantenete una leggera curvatura della schiena, sollevate i fianchi e rotolate la barra verso i piedi espirando. Suggerimento: Mentre eseguite il movimento, i glutei dovrebbero sollevarsi, dovreste mantenere gli addominali tesi e mantenere la postura della schiena in ogni momento. Inoltre, le braccia dovrebbero rimanere perpendicolari al pavimento durante il movimento. Se non lo fate, lavorerete di più sulle spalle e sulla schiena che sugli addominali.",
+    "Dopo una seconda contrazione in alto, iniziate a rotolare la barra nuovamente verso la posizione di partenza lentamente inspirando.",
+    "Ripetete per il numero consigliato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": ["Barbell_Ab_Rollout/0.jpg", "Barbell_Ab_Rollout/1.jpg"],
+  "id": "Barbell_Ab_Rollout"
+}

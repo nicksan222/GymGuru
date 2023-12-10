@@ -1,0 +1,13 @@
+{
+  "name": "Push Press",
+  "force": "spingere",
+  "level": "esperto",
+  "mechanic": "composto",
+  "equipment": "bilanciere",
+  "primaryMuscle": ["spalle"],
+  "secondaryMuscles": ["quadricipiti", "tricipiti"],
+  "instructions": [],
+  "category": "pesistica olimpica",
+  "images": ["Push_Press/0.jpg", "Push_Press/1.jpg"],
+  "id": "Push_Press"
+}

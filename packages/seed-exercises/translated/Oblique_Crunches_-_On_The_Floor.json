@@ -1,0 +1,22 @@
+{
+  "name": "Oblique Crunches - Sul Pavimento",
+  "force": "trascina",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "solo corpo",
+  "primaryMuscle": ["addominali"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Inizia sdraiandoti sul lato destro con le gambe una sopra l'altra. Assicurati che le ginocchia siano leggermente piegate.",
+    "Posiziona la mano sinistra dietro la testa.",
+    "Una volta in questa posizione di partenza, inizia muovendo il gomito sinistro verso l'alto come faresti per un normale crunch, ma questa volta l'accento principale è sui tuoi obliqui.",
+    "Fai un crunch il più in alto possibile, tieni la contrazione per un secondo e poi torna lentamente nella posizione di partenza.",
+    "Ricorda di respirare durante la parte eccentrica (abbassamento) dell'esercizio e di espirare durante la parte concentrica (sollevamento) dell'esercizio."
+  ],
+  "category": "forza",
+  "images": [
+    "Oblique_Crunches_-_On_The_Floor/0.jpg",
+    "Oblique_Crunches_-_On_The_Floor/1.jpg"
+  ],
+  "id": "Oblique_Crunches_-_On_The_Floor"
+}

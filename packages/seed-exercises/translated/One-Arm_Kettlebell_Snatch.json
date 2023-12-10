@@ -1,0 +1,20 @@
+{
+  "name": "One-Arm Kettlebell Snatch",
+  "force": "tirare",
+  "level": "esperto",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscle": ["spalle"],
+  "secondaryMuscles": ["polpacci", "glutei", "fianchi", "dorsali", "tricipiti"],
+  "instructions": [
+    "Posiziona il Kettlebell tra i tuoi piedi. Piegati le ginocchia e spingi fuori in dietro le tue braccia per assumere la corretta posizione iniziale.",
+    "Guarda dritto davanti a te e fai oscillare il Kettlebell dietro le tue gambe.",
+    "Subito dopo, inverti la direzione e spingi con i fianchi e le ginocchia, accelerando il Kettlebell verso l'alto. Quando il Kettlebell arriva alla tua spalla, ruota la tua mano e fai un pugno dritto verso l'alto, sfruttando la spinta per ricevere il peso bloccato sopra la testa."
+  ],
+  "category": "forza",
+  "images": [
+    "One-Arm_Kettlebell_Snatch/0.jpg",
+    "One-Arm_Kettlebell_Snatch/1.jpg"
+  ],
+  "id": "One-Arm_Kettlebell_Snatch"
+}

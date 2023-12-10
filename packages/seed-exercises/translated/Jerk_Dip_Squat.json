@@ -1,0 +1,17 @@
+{
+  "name": "Jerk Dip Squat",
+  "forza": "spingere",
+  "level": "intermedio",
+  "meccanica": "composta",
+  "attrezzatura": "bilanciere",
+  "primaryMuscle": ["quadriceps"],
+  "secondaryMuscles": ["addominali", "polpacci"],
+  "instructions": [
+    "Questo movimento rinforza la parte del dip (flessione delle braccia) dell'esercizio Jerk. Inizia con il bilanciere in posizione Jerk, con le spalle avanti per creare una base e il bilanciere che aderisce lievemente alla gola. I piedi dovrebbero essere direttamente sotto le anche, con i piedi girati verso l'esterno in base al comfort.",
+    "Mantieni il busto verticale, fletti le ginocchia per eseguire il dip, permettendo loro di muoversi in avanti e senza spostare le anche indietro. Il dip non dovrebbe essere eccessivo. Ritorna il peso alla posizione di partenza, spingendo vigorosamente attraverso i piedi."
+  ],
+  "category": "sollevamento pesi olimpico",
+  "immagini": ["Jerk_Dip_Squat/0.jpg", "Jerk_Dip_Squat/1.jpg"],
+  "id": "Jerk_Dip_Squat",
+  "images": ["Jerk_Dip_Squat/0.jpg", "Jerk_Dip_Squat/1.jpg"]
+}

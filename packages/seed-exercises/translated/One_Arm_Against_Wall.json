@@ -1,0 +1,20 @@
+{
+  "name": "Un Braccio Contro il Muro",
+  "forza": "statica",
+  "level": "principiante",
+  "meccanismo": "isolamento",
+  "attrezzatura": null,
+  "primaryMuscle": ["lats"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Da una posizione eretta, metti un braccio piegato contro un muro o una porta.",
+    "Inclinati lentamente verso il braccio fino a quando non senti uno stiramento dei lats."
+  ],
+  "category": "allungamento",
+  "immagini": [
+    "Un_Braccio_Contro_il_Muro/0.jpg",
+    "Un_Braccio_Contro_il_Muro/1.jpg"
+  ],
+  "id": "One_Arm_Against_Wall",
+  "images": ["One_Arm_Against_Wall/0.jpg", "One_Arm_Against_Wall/1.jpg"]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Decline Reverse Crunch",
+  "forza": "pull",
+  "level": "beginner",
+  "meccanico": "compound",
+  "attrezzatura": "body only",
+  "primaryMuscle": ["addominali"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sdraiati sulla schiena su una panca declinata e tieni i lati della panca con entrambe le mani. Non lasciare che il tuo corpo scivoli giù da questa posizione.",
+    "Mantieni le gambe parallele al pavimento usando gli addominali per mantenerle in quella posizione mentre tieni le ginocchia e i piedi uniti. Suggerimento: Le gambe dovrebbero essere completamente estese con una lieve piega sulle ginocchia. Questa sarà la posizione di partenza.",
+    "Mentre esali, porta le gambe verso il busto arrotolando il bacino indietro e sollevando i fianchi dalla panca. Alla fine di questo movimento le ginocchia si toccheranno il petto.",
+    "Mantieni la contrazione per un secondo e porta le gambe nuovamente nella posizione di partenza mentre inspiri.",
+    "Ripeti per il numero raccomandato di ripetizioni."
+  ],
+  "category": "forza",
+  "immagini": ["Decline_Reverse_Crunch/0.jpg", "Decline_Reverse_Crunch/1.jpg"],
+  "id": "Decline_Reverse_Crunch",
+  "images": ["Decline_Reverse_Crunch/0.jpg", "Decline_Reverse_Crunch/1.jpg"]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Sollevamento Spalla inclinato a Smith Incline",
+  "forza": "spingere",
+  "level": "principiante",
+  "meccanico": "isolation",
+  "attrezzatura": "bilanciere",
+  "muscoli primari": ["spalle"],
+  "muscoli secondari": ["petto"],
+  "instructions": [
+    "Posizionare una panca inclinata sotto il banco del smith. Posizionare il bilanciere ad un'altezza che si raggiunge quando si è sdraiati con le braccia quasi completamente estese. Una volta selezionato il peso di cui avete bisogno, sdraiatevi sulla panca inclinata e assicuratevi che le spalle siano allineate sotto il bilanciere.",
+    "Usando una presa pronata a larghezza delle spalle (palmi in avanti), sollevare il bilanciere dallo scaffale e tenerlo dritto sopra di voi con una leggera piega dei gomiti. Questa sarà la vostra posizione di partenza.",
+    "Mentre si espira, sollevare il bilanciere fino a quando le braccia sono completamente estese. Nota: La contrazione dovrebbe essere sentita intorno alle spalle.",
+    "Dopo una pausa di un secondo, riportare il bilanciere alla posizione di partenza mentre si inspira.",
+    "Ripetere il movimento per il numero prescritto di ripetizioni.",
+    "Quando avete finito, riporre il bilanciere nello scaffale."
+  ],
+  "category": "forza",
+  "immagini": [
+    "Smith_Incline_Shoulder_Raise/0.jpg",
+    "Smith_Incline_Shoulder_Raise/1.jpg"
+  ],
+  "id": "Smith_Incline_Shoulder_Raise",
+  "images": [
+    "Smith_Incline_Shoulder_Raise/0.jpg",
+    "Smith_Incline_Shoulder_Raise/1.jpg"
+  ]
+}

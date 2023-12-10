@@ -1,0 +1,22 @@
+{
+  "name": "Esercizio isometrico del collo - lati",
+  "force": "statico",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "solo corpo",
+  "primaryMuscle": ["collo"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Con la testa e il collo in una posizione neutra (posizione normale con la testa eretta rivolta in avanti), metti la mano sinistra sul lato sinistro della testa.",
+    "Ora spingi delicatamente verso sinistra mentre contraete i muscoli del collo sinistro ma resistendo a qualsiasi movimento della testa. Inizia con una tensione lenta e aumenta gradualmente. Continua a respirare normalmente mentre esegui questa contrazione.",
+    "Tieni la tensione per il numero di secondi consigliato.",
+    "Ora rilascia lentamente la tensione.",
+    "Riposa per il tempo consigliato e ripeti con la mano destra sul lato destro della testa."
+  ],
+  "category": "forza",
+  "images": [
+    "Isometric_Neck_Exercise_-_Sides/0.jpg",
+    "Isometric_Neck_Exercise_-_Sides/1.jpg"
+  ],
+  "id": "Isometric_Neck_Exercise_-_Sides"
+}

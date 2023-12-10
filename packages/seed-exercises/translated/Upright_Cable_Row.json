@@ -1,0 +1,22 @@
+{
+  "name": "Esercizio di trazion. verticale con il cavo",
+  "forza": "trazione",
+  "level": "intermedio",
+  "meccanica": "composto",
+  "attrezzatura": "cavo",
+  "primaryMuscle": ["trapezi"],
+  "secondaryMuscles": ["spalle"],
+  "instructions": [
+    "Afferra un attacco a barra dritta che è collegato a una puleggia bassa con una presa pronata (palme rivolte verso le tue cosce) che è leggermente meno larga delle spalle. La barra dovrebbe poggiare sulle tue cosce. I tuoi bracci dovrebbero essere estesi con una leggera flessione ai gomiti e la schiena dovrebbe essere dritta. Questa sarà la posizione di partenza.",
+    "Usa i tuoi trapezi laterali per sollevare la barra del cavo mentre espiri. La barra dovrebbe essere vicina al tuo corpo mentre la sollevi. Continua a sollevarla finché non toccherà quasi il tuo mento. Suggerimento: I tuoi gomiti dovrebbero guidare il movimento. Mentre sollevi la barra, i tuoi gomiti dovrebbero sempre essere più alti dei tuoi avambracci. Inoltre, mantieni il tuo torso fermo e metti in pausa per un secondo nella parte superiore del movimento.",
+    "Abbassa lentamente la barra fino alla posizione di partenza. Inspirando mentre esegui questa parte del movimento.",
+    "Ripeti per il numero di ripetizioni consigliato."
+  ],
+  "category": "forza",
+  "immagini": [
+    "Esercizio_di_trazione_verticale_cavo/0.jpg",
+    "Esercizio_di_trazione_verticale_cavo/1.jpg"
+  ],
+  "id": "Upright_Cable_Row",
+  "images": ["Upright_Cable_Row/0.jpg", "Upright_Cable_Row/1.jpg"]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Alzata monoarticolare lineare",
+  "force": "spingere",
+  "level": "intermedio",
+  "mechanic": "composito",
+  "equipment": "bilanciere",
+  "primaryMuscle": ["spalle"],
+  "secondaryMuscles": ["petto", "tricipiti"],
+  "instructions": [
+    "Posizionare il bilanciere in una landmine o fissarlo saldamente in un angolo. Caricare il bilanciere con un peso appropriato.",
+    "Sollevare il bilanciere da terra, portandolo sulle spalle con una o entrambe le mani. Adottare una posizione ampia. Questa sarà la posizione di partenza.",
+    "Eseguire il movimento estendendo il gomito, spingendo il peso in alto. Muoversi in modo esplosivo, estendendo completamente fianchi e ginocchia per produrre la massima forza.",
+    "Tornare alla posizione di partenza."
+  ],
+  "category": "forza",
+  "images": [
+    "Single-Arm_Linear_Jammer/0.jpg",
+    "Single-Arm_Linear_Jammer/1.jpg"
+  ],
+  "id": "Single-Arm_Linear_Jammer"
+}

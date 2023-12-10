@@ -1,0 +1,19 @@
+{
+  "name": "Sit-Up",
+  "force": "tirare",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "solo body",
+  "primaryMuscle": ["addominali"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sdraiati sul pavimento ponendo i piedi sotto qualcosa ro non si muoverà o facendo reggere da un partner. Le gambe devono essere piegate alle ginocchia.",
+    "Posiziona le mani dietro la testa e unitele insieme serrando le dita. Questa è la posizione di partenza.",
+    "Alzi la parte superiore del corpo in modo da creare una forma immaginaria a V con le cosce. Espira durante questa parte dell'esercizio.",
+    "Una volta sentita la contrazione per un secondo, abbassa la parte superiore del corpo nella posizione di partenza inspirando.",
+    "Ripeti per il numero consigliato di ripetizioni."
+  ],
+  "category": "resistenza",
+  "images": ["Sit-Up/0.jpg", "Sit-Up/1.jpg"],
+  "id": "Sit-Up"
+}

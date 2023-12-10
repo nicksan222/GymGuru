@@ -1,0 +1,19 @@
+{
+  "name": "Concentration Curls",
+  "force": "tiro",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "manubrio",
+  "primaryMuscle": ["bicipiti"],
+  "secondaryMuscles": ["avambracci"],
+  "instructions": [
+    "Sedersi su una panca piatta con un manubrio davanti tra le gambe. Le gambe dovrebbero essere divaricate con le ginocchia piegate e i piedi a terra.",
+    "Usare il braccio destro per sollevare il manubrio. Posizionare il retro del braccio superiore sul lato interno della coscia destra. Ruotare il palmo della mano fino a che non sia rivolto in avanti lontano dalla coscia. Suggerimento: Il vostro braccio dovrebbe essere esteso e il manubrio dovrebbe essere sopra il pavimento. Questa sarà la vostra posizione di partenza.",
+    "Mentre mantenete il braccio superiore ferm o, flettere il peso in avanti e contrarre i bicipiti mentre si espira. Solo gli avambracci dovrebbero muoversi. Continuare il movimento fino a che i bicipiti sono completamente contratti e i manubri sono a level delle spalle. Suggerimento: In cima al movimento assicurarsi che il mignolo del braccio sia più alto del pollice. Questo garantisce una buona contrazione. Mantenere la posizione contratta per un secondo, stringendo i bicipiti.",
+    "Lentamente iniziare a riportare i manubri alla posizione di partenza mentre si inspira. Attenzione: Evitare oscillazioni in qualsiasi momento.",
+    "Ripetere per il numero di ripetizioni raccomandate. Poi ripetere il movimento con il braccio sinistro."
+  ],
+  "category": "forza",
+  "images": ["Concentration_Curls/0.jpg", "Concentration_Curls/1.jpg"],
+  "id": "Concentration_Curls"
+}

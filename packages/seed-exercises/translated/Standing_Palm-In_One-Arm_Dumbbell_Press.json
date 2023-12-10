@@ -1,0 +1,24 @@
+{
+  "name": "Pressa con manubri a braccio singolo eseguita in piedi con palmo verso l'interno",
+  "force": "spingere",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "manubrio",
+  "primaryMuscle": ["spalle"],
+  "secondaryMuscles": ["tricipiti"],
+  "instructions": [
+    "Inizia tenendo un manubrio in una mano con il braccio completamente esteso sul lato con una presa neutra. Usa l'altra mano per tenere fissa una panca inclinata per mantenere l'equilibrio.",
+    "I tuoi piedi dovrebbero essere alla larghezza delle spalle l'uno dall'altro. Solleva lentamente il manubrio finché non crei un angolo di 90 gradi con il braccio. Nota: il tuo avambraccio dovrebbe essere perpendicolare al pavimento. Continua a mantenere una presa neutra durante tutto l'esercizio.",
+    "Solleva lentamente il manubrio fino a quando il braccio è completamente esteso. Questa è la posizione di partenza.",
+    "Mentre inspiri, porta il peso giù fino a quando il braccio non è di nuovo ad un angolo di 90 gradi.",
+    "Senti la contrazione per un secondo e poi solleva il peso di nuovo verso la posizione di partenza mentre espiri. Ricorda di tenere la panca inclinata per mantenere l'equilibrio durante l'esercizio.",
+    "Ripeti per il numero consigliato di ripetizioni.",
+    "Cambia braccia e ripeti l'esercizio."
+  ],
+  "category": "forza",
+  "images": [
+    "Standing_Palm-In_One-Arm_Dumbbell_Press/0.jpg",
+    "Standing_Palm-In_One-Arm_Dumbbell_Press/1.jpg"
+  ],
+  "id": "Standing_Palm-In_One-Arm_Dumbbell_Press"
+}

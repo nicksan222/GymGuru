@@ -1,0 +1,22 @@
+{
+  "name": "addominali obliqui",
+  "forza": "tirare",
+  "level": "principiante",
+  "meccanica": "isolamento",
+  "attrezzatura": "solo il corpo",
+  "muscoli primari": ["Addominali"],
+  "muscoli secondari": [],
+  "instructions": [
+    "Sdraiati sul pavimento con la schiena ben adagiata a terra. Per questo esercizio, è necessario posizionare una mano accanto alla testa e l'altra lateralmente contro il pavimento.",
+    "Assicurati che i tuoi piedi siano sollevati e riposino su una superficie piana",
+    "Solleva la spalla su cui la mano è in contatto con la testa",
+    "Semplicemente solleva la spalla e il corpo verso l'alto fino a toccare il ginocchio. Ad esempio, se hai la mano destra accanto alla testa, solleva il corpo verso l'alto fino a quando il gomito destro tocca il ginocchio sinistro. La stessa variazione può essere applicata invertendo e usando il gomito sinistro per toccare il ginocchio destro.",
+    "Dopo che il ginocchio ha toccato il gomito, abbassa il corpo fino a raggiungere la posizione di partenza.",
+    "Ricorda di inspirare durante la parte eccentrica (abbassamento) dell'esercizio e di espirare durante la parte concentrica (in alto).",
+    "Continua a alternare in questo modo fino a quando non sono stati completati tutti i rappezzamenti raccomandati per ogni lato."
+  ],
+  "category": "forza",
+  "immagini": ["Oblique_Crunches/0.jpg", "Oblique_Crunches/1.jpg"],
+  "id": "Oblique_Crunches",
+  "images": ["Oblique_Crunches/0.jpg", "Oblique_Crunches/1.jpg"]
+}

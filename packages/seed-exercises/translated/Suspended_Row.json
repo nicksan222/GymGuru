@@ -1,0 +1,18 @@
+{
+  "name": "Suspended Row",
+  "forza": "tirare",
+  "level": "principiante",
+  "meccanica": "composta",
+  "attrezzatura": "altro",
+  "primaryMuscle": ["dorsali mediali"],
+  "secondaryMuscles": ["bicipiti", "dorsi"],
+  "instructions": [
+    "Sospendi le tue cinghie a circa altezza del petto. Prendi una maniglia in ogni mano e inclinati all'indietro. Mantieni il tuo corpo eretto e la tua testa e il tuo petto in alto. Le tue braccia dovrebbero essere completamente estese. Questa sarà la tua posizione di partenza.",
+    "Inizia flettendo il gomito per dare inizio al movimento. Protendi le lame delle tue spalle mentre lo fai.",
+    "Alla fine del movimento, fai una pausa e poi torna alla posizione di partenza."
+  ],
+  "category": "forza",
+  "immagini": ["Suspended_Row/0.jpg", "Suspended_Row/1.jpg"],
+  "id": "Suspended_Row",
+  "images": ["Suspended_Row/0.jpg", "Suspended_Row/1.jpg"]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Cable Rope Overhead Triceps Extension",
+  "forza": "spingere",
+  "level": "principiante",
+  "meccanica": "isolamento",
+  "attrezzatura": "cavo",
+  "primaryMuscle": ["tricipiti"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Collegare una corda al carrello inferiore della macchina con carrucola.",
+    "Agganciando la corda con entrambe le mani, estendi le braccia con le mani direttamente sopra la testa utilizzando una presa neutra (palme rivolte l'una verso l'altra). I gomiti devono essere vicini alla testa e le braccia devono essere perpendicolari al pavimento con le nocche rivolte verso il soffitto. Questa sarà la tua posizione di partenza.",
+    "Abbassa lentamente la corda dietro la testa mentre mantieni ferme le braccia superiori. Inspira mentre esegui questo movimento e mettiti in pausa quando i tricipiti sono completamente tesi.",
+    "Torna alla posizione di partenza flettendo i tricipiti mentre espiri.",
+    "Ripeti per il numero consigliato di ripetizioni."
+  ],
+  "category": "forza",
+  "immagini": [
+    "Cable_Rope_Overhead_Triceps_Extension/0.jpg",
+    "Cable_Rope_Overhead_Triceps_Extension/1.jpg"
+  ],
+  "id": "Cable_Rope_Overhead_Triceps_Extension",
+  "images": [
+    "Cable_Rope_Overhead_Triceps_Extension/0.jpg",
+    "Cable_Rope_Overhead_Triceps_Extension/1.jpg"
+  ]
+}

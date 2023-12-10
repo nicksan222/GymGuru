@@ -1,0 +1,16 @@
+{
+  "name": "Triceps Portare",
+  "forza": "statico",
+  "level": "principiante",
+  "meccanismo": "isolamento",
+  "attrezzatura": null,
+  "primaryMuscle": ["triceps"],
+  "secondaryMuscles": ["lats"],
+  "instructions": [
+    "Raggiungi la mano dietro la testa, afferra il gomito e tirare delicatamente. Tenere per 10-20 secondi, poi cambiate lato."
+  ],
+  "category": "stretching",
+  "immagini": ["Triceps_Stretch/0.jpg", "Triceps_Stretch/1.jpg"],
+  "id": "Triceps_Stretch",
+  "images": ["Triceps_Stretch/0.jpg", "Triceps_Stretch/1.jpg"]
+}

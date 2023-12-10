@@ -1,0 +1,23 @@
+{
+  "name": "Dumbbell Prone Incline Curl",
+  "force": "tiro",
+  "level": "intermedio",
+  "mechanic": "isolamento",
+  "equipment": "manubrio",
+  "primaryMuscle": ["bicipiti"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Prendi un manubrio su ogni mano e giace a faccia in giù su una panca inclinata con le spalle vicino alla parte superiore dell'inclinazione. Le ginocchia possono riposarsi sul sedile o le gambe possono essere aperte lateralmente (il mio modo preferito).",
+    "Lascia che le braccia si estendano e pendano naturalmente di fronte a te in modo che siano perpendicolari al pavimento.",
+    "Ora mantieni i gomiti vicini al corpo e lascia le palme delle mani rivolte in avanti. Questa sarà la posizione di partenza.",
+    "Solleva i manubri contrarre i bicipiti fino ad arrivare alla massima flessione delle braccia. Espira mentre fai questo movimento e assicurati che solo gli avambracci si muovano. I bracci superiori dovrebbero rimanere fermi in ogni momento.",
+    "Abbassa i manubri fino ad arrivare alla massima estensione delle braccia.",
+    "Ripeti per il numero raccomandato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": [
+    "Dumbbell_Prone_Incline_Curl/0.jpg",
+    "Dumbbell_Prone_Incline_Curl/1.jpg"
+  ],
+  "id": "Dumbbell_Prone_Incline_Curl"
+}

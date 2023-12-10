@@ -1,0 +1,27 @@
+{
+  "name": "inclinazione Flyes manubrio - con una svolta",
+  "forza": "spingere",
+  "level": "principiante",
+  "meccanico": "complesso",
+  "attrezzatura": "manubrio",
+  "primaryMuscle": ["petto"],
+  "secondaryMuscles": ["spalle"],
+  "instructions": [
+    "Tenere un manubrio in ogni mano e sdraiarsi su una panca inclinata a un angolo di inclinazione non superiore a 30 gradi.",
+    "Estendi le braccia sopra di te con una leggera piega ai gomiti.",
+    "Ora ruota i polsi in modo che i palmi delle mani ti guardino. Suggerimento: le dita mignolo dovrebbero essere vicine una all'altra. Questo sarà il tuo punto di partenza.",
+    "Mentre inspiri, inizia a abbassare lentamente le braccia ai lati mantenendo le braccia allungate e ruotando i polsi fino a che i palmi delle mani si guardano l'un l'altro. Tip: alla fine del movimento, le braccia saranno ai lati con i palmi rivolti verso il soffitto.",
+    "Quando espiri inizia a riportare i manubri alla posizione di partenza rovesciando il movimento e ruotando le mani in modo che le dita mignolo siano nuovamente vicine l'una all'altra. Suggerimento: tieni presente che il movimento avverrà solo all'articolazione della spalla e del polso. Non c'è alcun movimento che avviene all'articolazione del gomito.",
+    "Ripeti per il numero consigliato di ripetizioni."
+  ],
+  "category": "forza",
+  "immagini": [
+    "Incline_Dumbbell_Flyes_-_With_A_Twist/0.jpg",
+    "Incline_Dumbbell_Flyes_-_With_A_Twist/1.jpg"
+  ],
+  "id": "Incline_Dumbbell_Flyes_-_With_A_Twist",
+  "images": [
+    "Incline_Dumbbell_Flyes_-_With_A_Twist/0.jpg",
+    "Incline_Dumbbell_Flyes_-_With_A_Twist/1.jpg"
+  ]
+}

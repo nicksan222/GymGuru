@@ -1,0 +1,23 @@
+{
+  "name": "Alternate Heel Touchers",
+  "forza": "tiro",
+  "level": "principiante",
+  "meccanismo": "isolamento",
+  "equipaggiamento": "solo il corpo",
+  "primaryMuscle": ["addominali"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stendersi a terra con le ginocchia piegate e i piedi a circa 45-60 cm di distanza l'uno dall'altro. Le braccia devono essere estese lungo i lati del corpo. Questa sarà la posizione di partenza.",
+    "Contrarre i muscoli addominali e sollevarsi di circa 7-10 cm ruotando il busto verso destra e toccando il tallone destro. Espirare durante questo movimento.",
+    "Ritornare lentamente alla posizione di partenza inspirando.",
+    "Dopodiché contrarre i muscoli addominali e sollevarsi di circa 7-10 cm ruotando il busto verso sinistra e toccando il tallone sinistro. Espirare durante questo movimento e ritornare alla posizione di partenza inspirando. Toccando entrambi i talloni si completa una ripetizione.",
+    "Continuare a alternare lateralmente in questa maniera fino al completamento del numero di ripetizioni prescritte."
+  ],
+  "category": "forza",
+  "immagini": [
+    "Alternate_Heel_Touchers/0.jpg",
+    "Alternate_Heel_Touchers/1.jpg"
+  ],
+  "id": "Alternate_Heel_Touchers",
+  "images": ["Alternate_Heel_Touchers/0.jpg", "Alternate_Heel_Touchers/1.jpg"]
+}

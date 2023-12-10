@@ -1,0 +1,24 @@
+{
+  "name": "Alzata con spinta di prelievo",
+  "force": "spinta",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "bilanciere",
+  "primaryMuscle": ["quadricipiti"],
+  "secondaryMuscles": [
+    "addominali",
+    "avambracci",
+    "glutei",
+    "bicipiti femorali",
+    "spalle",
+    "tricipiti"
+  ],
+  "instructions": [
+    "Questo esercizio ti aiuta a imparare lo snatch. Inizia tenendo un peso leggero sulla parte posteriore delle spalle. I tuoi piedi dovrebbero essere leggermente più larghi della larghezza dei fianchi con i piedi girati, la stessa posizione in cui eseguiresti uno squat.",
+    "Inizia immergendoti leggermente con le ginocchia e riempiendo nuovamente brevemente la barra. Guidati sotto la barra, elevala sopra la testa mentre scendi in una full squat.",
+    "Torna in piedi."
+  ],
+  "category": "sollevamento pesi olimpico",
+  "images": ["Heaving_Snatch_Balance/0.jpg", "Heaving_Snatch_Balance/1.jpg"],
+  "id": "Heaving_Snatch_Balance"
+}

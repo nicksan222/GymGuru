@@ -1,0 +1,23 @@
+{
+  "name": "Esercizi per la Tricipite Estensione del Bilanciere sopra la testa con Presa Stretta",
+  "force": "spingere",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "bilanciere",
+  "primaryMuscle": ["tricipiti"],
+  "secondaryMuscles": ["spalle"],
+  "instructions": [
+    "Con un bilanciere in mano e la palma rivolta verso la parte superiore della testa, portate le caviglie piegate e il busto avanti, piegando la vita, mantenendo la schiena dritta fino a quando è quasi parallela al pavimento. Assicurarsi che la testa sia alta.",
+    "Il braccio superiore deve essere vicino al busto e parallelo al pavimento mentre l'avambraccio è rivolto verso il pavimento mentre la mano tiene il peso. Consiglio: Ci dovrebbe essere un angolo di 90 gradi tra l'avambraccio e il braccio superiore. Questa è la tua posizione di partenza.",
+    "Tenendo fermi i braccia superiori, usa i tricipiti per sollevare i pesi mentre espiri fino a quando gli avambracci sono paralleli al pavimento e tutto il braccio è esteso. Come molti altri esercizi per le braccia, solo l'avambraccio si muove.",
+    "Dopo una seconda contrazione in alto, abbassa lentamente il bilanciere fino alla posizione di partenza mentre inspiri.",
+    "Ripeti il movimento per il numero prescritto di ripetizioni.",
+    "Cambia braccia e ripeti l'esercizio."
+  ],
+  "category": "forza",
+  "images": [
+    "Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension/0.jpg",
+    "Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension/1.jpg"
+  ],
+  "id": "Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension"
+}

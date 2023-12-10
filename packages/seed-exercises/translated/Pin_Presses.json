@@ -1,0 +1,20 @@
+{
+  "name": "Pin Stampa",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "bilanciere",
+  "primaryMuscle": ["tricipiti"],
+  "secondaryMuscles": ["petto", "avicoli", "braccia", "dorsali", "spalle"],
+  "instructions": [
+    "La pin press esclude la fase eccentrica della panca, sviluppando la forza iniziale. Ti permette anche di allenarti in una specifica gamma di movimento.",
+    "La panca dovrebbe essere sistemata in un power rack. Imposta i pioli al punto della tua gamma di movimento prescelta, dal momento che può essere il blocco o un pollice sopra lo sterno. Il bilanciere dovrebbe essere posizionato sui pioli e pronto per l'allenamento.",
+    "Inizia sdraiandoti sulla panca, con il bilanciere direttamente sopra il punto di contatto durante la tua normale panca piana. Piegati i piedi sotto il corpo e fletti la schiena. Usa il bilanciere per supportare il peso, solleva le spalle dalla panca e ritraile, stringendo le scapole insieme. Usa i piedi per spingere le tue trappole sulla panca. Mantieni questa posizione corporea serrata durante tutto il movimento.",
+    "Puoi prendere una presa standard per la panca o a larghezza delle spalle per concentrati sui tricipiti. Il bilanciere, i polsi e gli gomiti dovrebbero rimanere allineati in ogni momento. Concentrati nello stringere il bilanciere e provare a dividerlo con le mani.",
+    "Spingi il bilanciere con tutta la forza possibile. I gomiti dovrebbero essere tenuti stretti fino alla massima estensione.",
+    "Riposizionare il bilanciere sui pioli, facendo una pausa prima di iniziare la prossima ripetizione."
+  ],
+  "category": "powerlifting",
+  "images": ["Pin_Presses/0.jpg", "Pin_Presses/1.jpg"],
+  "id": "Pin_Presses"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "One-Arm Kettlebell Clean and Jerk",
+  "forza": "spingere",
+  "level": "intermedio",
+  "meccanismo": "composto",
+  "attrezzatura": "manubri",
+  "muscoli primari": ["spalle"],
+  "muscoli secondari": [],
+  "instructions": [
+    "Tieni un manubrio dalla maniglia.",
+    "Pulisci il manubrio sulla spalla estendendo le gambe e i fianchi mentre tiri il manubrio verso la spalla. Ruota il polso mentre lo fai, in modo che la mano sia rivolta in avanti.",
+    "Piega il corpo piegando le ginocchia, mantenendo il busto eretto.",
+    "Rovescia immediatamente la direzione, spingendo attraverso i talloni, essenzialmente saltando per creare slancio. Mentre lo fai, spingi il manubrio sopra la testa fino al bloccaggio allungando le braccia, usando il momento del corpo per muovere il peso.",
+    "Ricevi il peso sopra la testa tornando in una posizione accovacciata sotto il peso.",
+    "Mantenendo il peso sopra la testa, torna in posizione eretta. Abbassa il peso a terra per eseguire la prossima ripetizione."
+  ],
+  "category": "forza",
+  "immagini": [
+    "One-Arm_Kettlebell_Clean_and_Jerk/0.jpg",
+    "One-Arm_Kettlebell_Clean_and_Jerk/1.jpg"
+  ],
+  "id": "One-Arm_Kettlebell_Clean_and_Jerk",
+  "images": [
+    "One-Arm_Kettlebell_Clean_and_Jerk/0.jpg",
+    "One-Arm_Kettlebell_Clean_and_Jerk/1.jpg"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Cable Crunch",
+  "force": "tiro",
+  "level": "principiante",
+  "mechanic": "isolasione",
+  "equipment": "cavo",
+  "primaryMuscle": ["addominali"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Inginocchiati sotto una puleggia alta che contiene un'attacco a corda.",
+    "Afferra l'attacco a corda del cavo e abbassa la corda fino a che le mani sono accanto al viso.",
+    "Fletti leggermente i fianchi e permetti alla parte bassa della schiena di iperestendersi. Questa sarà la posizione di partenza.",
+    "Con i fianchi fermi, fletti la vita mentre contrai gli addominali in modo che i gomiti si muovano verso il centro delle cosce. Espira durante questa parte del movimento e mantieni la contrazione per un secondo.",
+    "Ritorna lentamente alla posizione di partenza mentre inspiri. Consiglio: Assicurati di mantenere costante tensione sugli addominali durante tutto il movimento. Inoltre, non scegliere un peso così pesante che la parte bassa della schiena faccia la maggior parte del lavoro.",
+    "Ripeti per il numero raccomandato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": ["Cable_Crunch/0.jpg", "Cable_Crunch/1.jpg"],
+  "id": "Cable_Crunch"
+}

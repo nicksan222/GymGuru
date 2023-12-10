@@ -1,0 +1,25 @@
+{
+  "name": "Tecnica di partenza a 3 parti",
+  "forza": "spingere",
+  "level": "principiante",
+  "meccanica": "composto",
+  "attrezzatura": null,
+  "muscoli primari": ["bicipiti femorali"],
+  "muscoli secondari": ["polpacci", "quadricipiti"],
+  "instructions": [
+    "Questo esercizio ti aiuta ad accelerare il più velocemente possibile in una corsa da una partenza ferma. Aiuta utilizzare una linea di partenza. Inizia con entrambi i piedi sulla linea. Posiziona il tuo piede sinistro con il dito accanto alla caviglia destra. Metti il piede destro 4-6 pollici dietro a sinistra.",
+    "Metti la tua mano destra sulla linea, e poi porta il tuo naso vicino al ginocchio sinistro.",
+    "Squat abbassati mentre ti pieghi in avanti, la testa deve essere più bassa rispetto alle anche e il tuo peso carica sulla gamba sinistra. Questa sarà la posizione di partenza.",
+    "Porta la tua mano sinistra in su in modo che sia parallela a terra, puntando indietro, ed esplodi quando sei pronto."
+  ],
+  "category": "pliometria",
+  "immagini": [
+    "Tecnica di partenza a 3 parti/0.jpg",
+    "Tecnica di partenza a 3 parti/1.jpg"
+  ],
+  "id": "Linear_3-Part_Start_Technique",
+  "images": [
+    "Linear_3-Part_Start_Technique/0.jpg",
+    "Linear_3-Part_Start_Technique/1.jpg"
+  ]
+}

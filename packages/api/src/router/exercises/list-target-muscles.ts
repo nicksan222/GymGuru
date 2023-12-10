@@ -1,16 +1,11 @@
 import { protectedProcedure } from "../../trpc";
+import { MuscleTarget } from "@acme/db";
 
-const listTargetMuscles = protectedProcedure.query(async ({ ctx }) => {
-  return ctx.prisma.exercise.findMany({
-    where: {
-      trainerId: ctx.auth.userId,
-    },
-    select: {
-      primaryMuscles: true,
-      secondaryMuscles: true,
-    },
-    distinct: ["primaryMuscles", "secondaryMuscles"],
-  });
+const listTargetMuscles = protectedProcedure.query(async ({}) => {
+  const response = Object.values(MuscleTarget).filter(
+    (v) => typeof v === "string",
+  );
+  return response as string[];
 });
 
 export default listTargetMuscles;

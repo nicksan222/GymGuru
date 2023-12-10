@@ -1,0 +1,18 @@
+{
+  "name": "Dumbbell Floor Press",
+  "forza": "spingere",
+  "level": "intermedio",
+  "meccanico": "composto",
+  "attrezzatura": "manubrio",
+  "primaryMuscle": ["tricipiti"],
+  "secondaryMuscles": ["petto", "spalle"],
+  "instructions": [
+    "Sdraiati a terra con i manubri nelle mani. I tuoi ginocchia possono essere piegate. Inizia con i pesi completamente estesi sopra di te.",
+    "Abbassa i pesi fino a quando il tuo braccio superiore entra in contatto con il pavimento. Puoi tizzare i gomiti per enfatizzare la dimensione e la forza dei tricipiti, o per concentrarti sull'angolo del petto tira le braccia ai lati.",
+    "Pausa in fondo, e poi riporta il peso unito in alto estendendo attraverso i gomiti."
+  ],
+  "category": "powerlifting",
+  "immagini": ["Dumbbell_Floor_Press/0.jpg", "Dumbbell_Floor_Press/1.jpg"],
+  "id": "Dumbbell_Floor_Press",
+  "images": ["Dumbbell_Floor_Press/0.jpg", "Dumbbell_Floor_Press/1.jpg"]
+}

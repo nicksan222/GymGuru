@@ -1,0 +1,22 @@
+{
+  "name": "One-Arm Dumbbell Row",
+  "forza": "tirare",
+  "level": "principiante",
+  "meccanica": "composta",
+  "attrezzatura": "manubrio",
+  "primaryMuscle": ["dorso medio"],
+  "secondaryMuscles": ["bicipiti", "dorso largo", "spalle"],
+  "instructions": [
+    "Scegli una panca piana e posiziona un manubrio su ogni lato.",
+    "Metti la gamba destra sopra l'estremità della panca, piega il tuo busto in avanti dalla vita fino a quando il tuo corpo superiore è parallelo al pavimento e poggia la tua mano destra sull'altra estremità della panca per il supporto.",
+    "Usa la mano sinistra per prendere il manubrio dal pavimento e tieni il peso tenendo la tua parte bassa della schiena dritta. Il palmo della mano deve essere rivolto verso il busto. Questa sarà la tua posizione di partenza.",
+    "Tira la resistenza dritta fino al lato del tuo petto, mantenendo il braccio superiore vicino al tuo lato e mantenendo il busto fermo. Respira mentre esegui questo passaggio. Suggerimento: concentra la tua attenzione sulla contrazione dei muscoli del dorso una volta raggiunta la posizione contratta completa. Inoltre, assicurati che la forza sia eseguita con i muscoli del dorso e non con le braccia. Infine, il busto superiore dovrebbe rimanere fermo e solo le braccia dovrebbero muoversi. Gli avambracci non dovrebbero fare altro lavoro se non tenere il manubrio; quindi non cercare di alzare il manubrio usando gli avambracci.",
+    "Abbassa la resistenza dritta nella posizione di partenza. Inspira mentre esegui questo passaggio.",
+    "Ripeti il movimento per il numero specificato di ripetizioni.",
+    "Cambia lato e ripeti nuovamente con l'altra braccio."
+  ],
+  "category": "forza",
+  "immagini": ["One-Arm_Dumbbell_Row/0.jpg", "One-Arm_Dumbbell_Row/1.jpg"],
+  "id": "One-Arm_Dumbbell_Row",
+  "images": ["One-Arm_Dumbbell_Row/0.jpg", "One-Arm_Dumbbell_Row/1.jpg"]
+}

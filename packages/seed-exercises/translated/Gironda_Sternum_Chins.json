@@ -1,0 +1,29 @@
+{
+  "name": "Gironda Sternum Chins",
+  "force": "tirare",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "altro",
+  "primaryMuscle": [
+    {
+      "primari-muscoli": ["lats"]
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "secondari-muscoli": ["bicipiti", "dorso medio"]
+    }
+  ],
+  "instructions": [
+    "Afferrare la sbarra del pull-up con una presa sottile.",
+    "Ora appenditi con le braccia completamente estese e spingi il petto in fuori e inclinati all'indietro. Suggerimento: Rimani inclinato all'indietro durante l'intero movimento. Questa sarà la tua posizione di partenza.",
+    "Inizia a tirare verso la barra con la tua colonna vertebrale arcuata per tutto il movimento e la tua testa inclinata all'indietro il più lontano possibile dalla barra. Espira mentre esegui questa porzione del movimento. Suggerimento: All'estremità superiore del movimento, i tuoi fianchi e le tue gambe saranno circa a un angolo di 45 gradi dal pavimento.",
+    "Continua a tirare finché la tua clavicola non supera la barra e il tuo petto inferiore o la zona dello sterno non la tocca. Mantieni quella contrazione per un secondo. Suggerimento: Alla fine di questa parte del movimento, la tua testa sarà parallela al pavimento.",
+    "Inizia lentamente a tornare alla posizione di partenza mentre inspiri.",
+    "Ripeti per la quantità raccomandata di ripetizioni."
+  ],
+  "category": "forza",
+  "immagini": ["Gironda_Sternum_Chins/0.jpg", "Gironda_Sternum_Chins/1.jpg"],
+  "id": "Gironda_Sternum_Chins",
+  "images": ["Gironda_Sternum_Chins/0.jpg", "Gironda_Sternum_Chins/1.jpg"]
+}

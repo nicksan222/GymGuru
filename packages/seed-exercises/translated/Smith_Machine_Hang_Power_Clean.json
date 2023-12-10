@@ -1,0 +1,29 @@
+{
+  "name": "Allenamento in Smith Machine Hang Power Clean",
+  "force": "tirare",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "macchina",
+  "primaryMuscle": ["muscoli posteriori della coscia"],
+  "secondaryMuscles": [
+    "glutei",
+    "dorso basso",
+    "quadriceps",
+    "spalle",
+    "trapezi"
+  ],
+  "instructions": [
+    "Posizionare la barra alla altezza del ginocchio e caricarla di un peso adeguato.",
+    "Assumi una presa pronata sulla barra al di fuori della larghezza delle spalle e stacca la barra dalla macchina. Le braccia dovrebbero essere completamente estese con la testa e il petto in avanti. I gomiti dovrebbero essere rivolti all'esterno con le spalle indietro e giù. I fianchi dovrebbero essere all'indietro, caricando la tensione nei muscoli posteriori della coscia. Questa sarà la tua posizione di partenza.",
+    "Inizia il movimento estendendo con forza fianchi e ginocchia, accelerando verso la barra. Assicurati di mantenere le braccia dritte durante questa parte del movimento.",
+    "Alla piena estensione, ripiega i fianchi e le ginocchia per abbassare la posizione di ricezione.",
+    "Il permettere alle braccia di flettersi in questo punto, ruotando i gomiti intorno alla barra per riceverla sulle spalle.",
+    "Estendi i fianchi e le ginocchia per arrivare in posizione eretta con la barra in posizione sulla spalla per completare il movimento."
+  ],
+  "category": "forza",
+  "images": [
+    "Smith_Machine_Hang_Power_Clean/0.jpg",
+    "Smith_Machine_Hang_Power_Clean/1.jpg"
+  ],
+  "id": "Smith_Machine_Hang_Power_Clean"
+}

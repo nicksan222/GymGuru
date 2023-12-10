@@ -1,0 +1,22 @@
+{
+  "name": "Sollevamento cavo in piedi",
+  "force": "tirare",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "cavo",
+  "primaryMuscle": ["addominali"],
+  "secondaryMuscles": ["spalle"],
+  "instructions": [
+    "Collegare un manico standard su un cavalletto e spostare il cavo nella posizione più bassa della puleggia.",
+    "Con il lato rivolto verso il cavo, afferrare il manico con una mano e allontanarsi dal cavalletto. Dovresti essere a distanza di un braccio dalla puleggia, con la tensione del peso sul cavo. Il braccio disteso dovrebbe essere allineato al cavo.",
+    "Con i piedi posizionati alla larghezza delle spalle, accovacciarsi e afferrare il manico con entrambe le mani. I braccia dovrebbero essere ancora completamente distese.",
+    "In un unico movimento, tirare il manico verso l'alto e attraverso il corpo fino a che le braccia sono in posizione completamente distesa sopra la testa.",
+    "Mantieni la schiena dritta e le braccia vicine al corpo mentre ruoti il piede dietro e estendi le gambe per ottenere una completa gamma di movimento.",
+    "Ritrarre le braccia e poi il corpo. Torna alla posizione neutra in modo lento e controllato.",
+    "Ripetere fino allo sforzo massimo.",
+    "Poi, rimettersi in posizione e ripetere la stessa serie di movimenti sul lato opposto."
+  ],
+  "category": "forza",
+  "images": ["Standing_Cable_Lift/0.jpg", "Standing_Cable_Lift/1.jpg"],
+  "id": "Standing_Cable_Lift"
+}

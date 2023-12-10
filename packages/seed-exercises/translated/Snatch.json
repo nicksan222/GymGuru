@@ -1,0 +1,29 @@
+{
+  "name": "Strappo",
+  "force": "tirare",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "bilanciere",
+  "primaryMuscle": ["quadriceps"],
+  "secondaryMuscles": [
+    "bicipiti",
+    "glutei",
+    "femorali",
+    "lombare",
+    "spalle",
+    "trapezio",
+    "tricipiti"
+  ],
+  "instructions": [
+    "Posiziona i piedi alla larghezza delle spalle con il bilanciere appoggiato proprio sopra la connessione tra le dita dei piedi e il resto del piede.",
+    "Con la presa delle mani rivolta verso il basso, piegati alle ginocchia mantenendo la schiena dritta e afferra il bilanciere con una presa più ampia rispetto alle spalle. Porta i fianchi in giù e assicurati che il corpo scenda come se stessi per sederti su una sedia. Questa sarà la posizione di partenza.",
+    "Inizia a spingere il pavimento come se fosse una piattaforma mobile con i piedi e contemporaneamente inizia a sollevare il bilanciere mantenendolo vicino alle gambe.",
+    "Quando il bilanciere raggiunge la metà delle cosce, spingi il pavimento con le gambe e solleva il corpo fino a una completa estensione in un movimento esplosivo.",
+    "Solleva le spalle in un movimento di trazione mentre sollevi i gomiti lateralmente e mantenendoli sopra il bilanciere il più a lungo possibile.",
+    "Ora in un movimento molto rapido ma potente, devi portare il corpo sotto il bilanciere quando ha raggiunto un punto abbastanza alto da poter essere controllato e lasciarlo cadere mentre blocchi le braccia e tieni il bilanciere sopra la testa assumendo una posizione di squat.",
+    "Completa il movimento alzandoti dalla posizione di squat per terminare il sollevamento. Alla fine del sollevamento entrambi i piedi dovrebbero essere allineati e le braccia completamente estese tenendo il bilanciere sopra la testa."
+  ],
+  "category": "sollevamento pesi olimpico",
+  "images": ["Snatch/0.jpg", "Snatch/1.jpg"],
+  "id": "Snatch"
+}

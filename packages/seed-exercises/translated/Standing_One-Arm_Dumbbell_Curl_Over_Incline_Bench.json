@@ -1,0 +1,23 @@
+{
+  "name": "Una sola mano Curl inclinato con manubrio sopra la panchina",
+  "force": "tirare",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "manubrio",
+  "primaryMuscle": ["bicipiti"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stai sul retro di una panca inclinata come se stessi per essere un assistente per qualcuno. Tieni in una mano un manubrio e appoggialo sulla panchina inclinata con una presa supinata (palme verso l'alto).",
+    "Posiziona la mano non sollevante all'angolo o sul lato della panchina inclinata. Il petto dovrebbe essere premuto sulla parte superiore dell'inclinazione e i piedi dovrebbero essere premuti contro il pavimento in una posizione ampia. Questa è la posizione di partenza.",
+    "Tenendo fermo il braccio superiore, fai salire il manubrio verso l'alto contrarre i bicipiti mentre espiri. Solo gli avambracci dovrebbero muoversi. Continua il movimento fino a quando i bicipiti non sono completamente contratti e il manubrio è al level delle spalle. Mantieni la posizione contratta per un secondo.",
+    "Inizia lentamente a riportare i manubri alla posizione di partenza mentre inspiri.",
+    "Ripeti per il numero consigliato di ripetizioni.",
+    "Cambia braccio mentre esegui questo esercizio."
+  ],
+  "category": "forza",
+  "images": [
+    "Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench/0.jpg",
+    "Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench/1.jpg"
+  ],
+  "id": "Standing_One-Arm_Dumbbell_Curl_Over_Incline_Bench"
+}

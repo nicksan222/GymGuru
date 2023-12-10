@@ -1,0 +1,26 @@
+{
+  "name": "Scale di Potenza",
+  "force": "tirare",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "altro",
+  "primaryMuscle": ["muscoli posteriori della coscia"],
+  "secondaryMuscles": [
+    "adduttori",
+    "polpacci",
+    "glutei",
+    "fianchi",
+    "quadricipiti",
+    "spalle",
+    "trapezi"
+  ],
+  "instructions": [
+    "Nelle scale di potenza, gli attrezzi vengono spostati su di una scala. Per allenarsi, possono essere eseguite con una gomma o una scatola.",
+    "Iniziare prendendo l'attrezzo con entrambe le mani. Mettere i piedi larghi, con la testa e il petto in alto. Spingere attraverso il terreno con i talloni, estendendo le ginocchia e le anche per sollevare il peso dal terreno.",
+    "Mentre si piega indietro, cercare di dondolare il peso sulla scala, che è solitamente di circa 16-18 pollici di altezza. Si può usare le gambe per aiutare a spingere il peso sulla scala.",
+    "Ripetere per 3-5 ripetizioni, e continuare con un peso più pesante, muovendosi il più velocemente possibile."
+  ],
+  "category": "strongman",
+  "images": ["Power_Stairs/0.jpg", "Power_Stairs/1.jpg"],
+  "id": "Power_Stairs"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Wide-Grip Rear Pull-Up",
+  "forza": "tira",
+  "level": "intermedio",
+  "meccanica": "composto",
+  "attrezzatura": "solo corpo",
+  "primaryMuscle": ["lats"],
+  "secondaryMuscles": ["bicipiti", "dorso medio", "spalle"],
+  "instructions": [
+    "Afferra la barra per trazioni con i palmi rivolti in avanti usando una presa larga.",
+    "Mentre hai entrambe le braccia estese davanti a te che tengono la barra, porta il busto in avanti e la testa in modo che ci sia una linea immaginaria dalla barra per trazioni alla parte posteriore del collo. Questa è la tua posizione di partenza.",
+    "Tira il busto su finché la barra non è vicino alla parte posteriore del collo. Per fare ciò, solleva le spalle e la parte superiore delle braccia verso il basso e all'indietro mentre inclini leggermente la testa in avanti. Espira mentre esegui questa parte del movimento. Suggerimento: Concentrati su stringere i muscoli della schiena una volta raggiunta la posizione contratta completa. Il torace superiore dovrebbe rimanere fermo mentre si muove nello spazio e solo le braccia dovrebbero muoversi. Avambracci non dovrebbe fare altro lavoro che tenere dalla barra.",
+    "Dopo un secondo in posizione contratta, inizia ad inspirare e lentamente abbassa il busto fino alla posizione di partenza quando le braccia sono completamente estese e i lats sono completamente allungati.",
+    "Ripeti questo movimento per il numero prescritto di ripetizioni."
+  ],
+  "category": "forza",
+  "immagini": ["Wide-Grip_Rear_Pull-Up/0.jpg", "Wide-Grip_Rear_Pull-Up/1.jpg"],
+  "id": "Wide-Grip_Rear_Pull-Up",
+  "images": ["Wide-Grip_Rear_Pull-Up/0.jpg", "Wide-Grip_Rear_Pull-Up/1.jpg"]
+}

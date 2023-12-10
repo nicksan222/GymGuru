@@ -1,0 +1,19 @@
+{
+  "name": "Rope_Crunch",
+  "force": "tirare",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "cavo",
+  "primaryMuscle": ["addominali"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Inginocchiali da 1 a 2 piedi davanti ad un sistema di cavi con una corda attaccata.",
+    "Dopo aver selezionato un peso adeguato, afferrare la corda con entrambe le mani sopra la testa. Il torso dovrebbe essere eretto nella posizione di partenza.",
+    "Per iniziare, flettere la colonna vertebrale cercando di portare il torace alle gambe mentre si tira il cavo verso il basso.",
+    "Sospendere il movimento alla fine e poi tornare lentamente alla posizione di partenza.",
+    "Questi possono essere fatti con torsioni o di lato per colpire gli obliqui."
+  ],
+  "category": "forza",
+  "images": ["Rope_Crunch/0.jpg", "Rope_Crunch/1.jpg"],
+  "id": "Rope_Crunch"
+}

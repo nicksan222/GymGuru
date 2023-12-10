@@ -1,0 +1,25 @@
+{
+  "name": "Estensione Bicipite con Bilanciere sopra la Testa",
+  "forza": "spinta",
+  "level": "principiante",
+  "meccanica": "isolamento",
+  "attrezzi": "bilanciere",
+  "primaryMuscle": ["tricipiti"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Con un bilanciere in ogni mano e le palme rivolte verso il torso, piega leggermente le ginocchia e piega il busto in avanti, piegando i fianchi mantenendo la schiena dritta finché è quasi parallela al pavimento. Assicurati di mantenere la testa in su. I muscoli superiori dovrebbero essere vicini al torso e paralleli al pavimento mentre le braccia sono rivolte verso il basso tenendo i pesi. Suggerimento: Dovrebbe esserci un angolo di 90 gradi tra le braccia superiori e il braccio superiore. Questa è la posizione di partenza.",
+    "Tengono i muscoli superiori ferme, usa i tricipiti per sollevare i pesi mentre espiri fino a quando i muscoli inferiori sono paralleli al pavimento e entrambe le braccia sono estese. Come molti altri esercizi per le braccia, si muove solo l'avambraccio.",
+    "Dopo una contrazione di un secondo in alto, abbassa lentamente i bilancieri alla posizione di partenza mentre inspiri.",
+    "Ripeti il movimento per il numero di ripetizioni prescritte."
+  ],
+  "category": "forza",
+  "immagini": [
+    "Estensione_Bicipite_con_Bilanciere_sopra_la_Testa/0.jpg",
+    "Estensione_Bicipite_con_Bilanciere_sopra_la_Testa/1.jpg"
+  ],
+  "id": "Standing_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension",
+  "images": [
+    "Standing_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension/0.jpg",
+    "Standing_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension/1.jpg"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Two-Arm Kettlebell Jerk",
+  "forza": "spingi",
+  "level": "intermedio",
+  "meccanica": "complesso",
+  "attrezzatura": "kettlebells",
+  "muscoliantprimari": ["spalle"],
+  "muscolisecundari": ["polpacci", "quadricipiti", "tricipiti"],
+  "instructions": [
+    "Pulire due kettlebells sulle spalle",
+    "Pulire i kettlebells sulle spalle estendendo le gambe e i fianchi mentre si spingono i kettlebells verso le spalle",
+    "Ruotate i polsi mentre fate ciò, in modo che le palme siano rivolte in avanti",
+    "Squat giù di qualche pollice e invertire rapidamente il movimento spingendo entrambi i kettlebells in alto",
+    "Immediatamente dopo la prima spinta, squat di nuovo e mettersi sotto i kettlebells",
+    "Una volta bloccati i kettlebells, stare in piedi per completare l'esercizio"
+  ],
+  "category": "forza",
+  "immagini": [
+    "Two-Arm_Kettlebell_Jerk/0.jpg",
+    "Two-Arm_Kettlebell_Jerk/1.jpg"
+  ],
+  "id": "Two-Arm_Kettlebell_Jerk",
+  "images": ["Two-Arm_Kettlebell_Jerk/0.jpg", "Two-Arm_Kettlebell_Jerk/1.jpg"]
+}

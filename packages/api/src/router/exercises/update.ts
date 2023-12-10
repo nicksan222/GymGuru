@@ -1,26 +1,18 @@
 import { protectedProcedure } from "../../trpc";
 import { z } from "zod";
+import { updateExerciseInput } from "./types";
 
 const updateExercise = protectedProcedure
-  .input(
-    z.object({
-      exerciseId: z.string(),
-      name: z.string(),
-      description: z.string(),
-      primaryMuscles: z.string(),
-      secondaryMuscles: z.string().optional(),
-      videoUrl: z.string().optional(),
-      imageUrl: z.string().optional(),
-      category: z.string(),
-    }),
-  )
+  .input(updateExerciseInput)
   .mutation(async ({ ctx, input }) => {
     return ctx.prisma.exercise.updateMany({
       where: {
-        AND: [{ id: input.exerciseId }, { trainerId: ctx.auth.userId }],
+        AND: [{ id: input.id }, { trainerId: ctx.auth.userId }],
       },
       data: {
+        trainerId: ctx.auth.userId,
         ...input,
+        imageUrl: (input.imageUrl || []).join(","),
       },
     });
   });

@@ -1,0 +1,20 @@
+{
+  "name": "Cable Iron Cross",
+  "force": "spingere",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "attrezzatura": "cavo",
+  "primaryMuscle": ["petto"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Inizia muovendo le pulegge nella posizione alta, scegli la resistenza da utilizzare e prendi una maniglia in ogni mano.",
+    "Stai in piedi tra le due pulegge con le braccia estese ai lati. La testa e il petto dovrebbero essere sollevati mentre le braccia formano una â€œTâ€. Questa sarà la tua posizione di partenza.",
+    "Mantieni i gomiti estesi e tira le braccia dritte ai lati.",
+    "Torna alle braccia alla posizione di partenza dopo una pausa alla massima contrazione.",
+    "Continua il movimento per il numero prescritto di ripetizioni."
+  ],
+  "category": "forza",
+  "immagini": ["Cable_Iron_Cross/0.jpg", "Cable_Iron_Cross/1.jpg"],
+  "id": "Cable_Iron_Cross",
+  "images": ["Cable_Iron_Cross/0.jpg", "Cable_Iron_Cross/1.jpg"]
+}

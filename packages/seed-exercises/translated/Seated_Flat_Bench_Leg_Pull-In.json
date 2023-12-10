@@ -1,0 +1,25 @@
+{
+  "name": "Seated Flat Bench Leg Pull-In",
+  "forza": "tirare",
+  "level": "principiante",
+  "meccanica": "composito",
+  "attrezzatura": "solo corpo",
+  "primaryMuscle": ["addominali"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sedersi su una panca con le gambe stese di fronte a te leggermente sotto il level del pavimento e le braccia aggrappate ai lati della panca. Il tuo torso dovrebbe essere inclinato all'indietro di circa 45 gradi dalla panca. Questa sarà la tua posizione di partenza.",
+    "Porta le ginocchia verso di te mentre muovi il tuo torso più vicino a esse allo stesso tempo. Espira mentre esegui questo movimento.",
+    "Dopo una pausa di un secondo, torna alla posizione di partenza inspirando.",
+    "Ripeti per il numero di ripetizioni consigliato."
+  ],
+  "category": "forza",
+  "immagini": [
+    "Seated_Flat_Bench_Leg_Pull-In/0.jpg",
+    "Seated_Flat_Bench_Leg_Pull-In/1.jpg"
+  ],
+  "id": "Seated_Flat_Bench_Leg_Pull-In",
+  "images": [
+    "Seated_Flat_Bench_Leg_Pull-In/0.jpg",
+    "Seated_Flat_Bench_Leg_Pull-In/1.jpg"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Lying High Bench Barbell Curl",
+  "forza": "tirare",
+  "level": "intermedio",
+  "meccanica": "isolamento",
+  "attrezzatura": "bilanciere",
+  "muscoliprincipali": ["bicipiti"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Disteso a faccia in avanti su una panca piatta alta tenendo un bilanciere con una presa supinata (palme rivolte verso l'alto). Suggerimento: se tieni un bilanciere, afferralo con una presa larga circa la larghezza delle spalle e se usi una barra E-Z, afferrala sulle impugnature interne. La parte superiore del tuo corpo dovrebbe essere posizionata in modo che il petto superiore sia oltre la fine della panca e il bilanciere sia appeso di fronte a te con le braccia estese e perpendicolari al pavimento. Questa sarà la tua posizione di partenza.",
+    "Mantieni i gomiti e le braccia superiori immobile, fletti il peso in un movimento semicircolare mentre contrai i bicipiti ed espiri. Mantieni la posizione in alto per un secondo.",
+    "Mentre inspiri, torna lentamente alla posizione di partenza. Consiglio: mantieni sempre il pieno controllo del peso e evita qualunque oscillazione. Ricorda, solo gli avambracci dovrebbero muoversi durante il movimento.",
+    "Ripeti per il numero consigliato di ripetizioni."
+  ],
+  "category": "forza",
+  "immagini": [
+    "Lying_High_Bench_Barbell_Curl/0.jpg",
+    "Lying_High_Bench_Barbell_Curl/1.jpg"
+  ],
+  "id": "Lying_High_Bench_Barbell_Curl",
+  "images": [
+    "Lying_High_Bench_Barbell_Curl/0.jpg",
+    "Lying_High_Bench_Barbell_Curl/1.jpg"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Board Press",
+  "force": "spinta",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "bilanciere",
+  "primaryMuscle": ["tricipiti"],
+  "secondaryMuscles": ["petto", "avambracci", "dorso", "spalle"],
+  "instructions": [
+    "Inizia sdraiandoti sulla panca, cercando di tenere la testa oltre la barra se possibile. Uno o cinque blocchi, realizzati con tavole di legno da 2x6, possono essere avvitati insieme e mantenuti in posizione da un compagno di allenamento o da bande elastiche, o semplicemente infilati sotto la maglietta.",
+    "Posiziona i piedi sotto di te e fletti la schiena. Con il bilanciere che ti aiuta a sostenere il tuo peso, solleva le spalle dalla panca e retrai le scapole, stringendole insieme. Usa i piedi per spingere i tuoi muscoli trapezi verso la panca. Mantieni questa posizione corporea rigida durante tutto il movimento.",
+    "Puoi adottare una presa normale o più stretta a spalla per concentrarti sui tricipiti. Tira fuori il bilanciere dallo scaffale senza protendere le spalle. La barra, il polso e il gomito dovrebbero rimanere allineati in ogni momento. Focalizzati sullo stringere la barra e provare a dividerla in due.",
+    "Abbassa la barra sui blocchi, e poi spingila verso l'alto con tutta la forza possibile. I gomiti dovrebbero rimanere vicini al corpo fino al bloccaggio finale."
+  ],
+  "category": "powerlifting",
+  "images": ["Board_Press/0.jpg", "Board_Press/1.jpg"],
+  "id": "Board_Press"
+}

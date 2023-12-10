@@ -1,0 +1,19 @@
+{
+  "name": "Un braccio Kettlebell Isolato",
+  "forza": "traino",
+  "level": "intermedio",
+  "meccanico": "composto",
+  "attrezzatura": "kettlebells",
+  "primaryMuscle": ["schiena", "media"],
+  "secondaryMuscles": ["bicipiti", "lats"],
+  "instructions": [
+    "Posiziona un kettlebell davanti ai tuoi piedi. Piega leggermente le ginocchia e poi spingi fuori il tuo sedere il più possibile mentre ti pieghi per assumere la posizione di partenza. Afferra il kettlebell e tiralo verso lo stomaco, retrai le tue scapole e fletti il gomito. Mantieni la schiena dritta. Abbassa e ripeti."
+  ],
+  "category": "forza",
+  "immagini": [
+    "Un_braccio_Kettlebell_Isolato/0.jpg",
+    "Un_braccio_Kettlebell_Isolato/1.jpg"
+  ],
+  "id": "One-Arm_Kettlebell_Row",
+  "images": ["One-Arm_Kettlebell_Row/0.jpg", "One-Arm_Kettlebell_Row/1.jpg"]
+}

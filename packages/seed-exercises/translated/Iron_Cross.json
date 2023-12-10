@@ -1,0 +1,21 @@
+{
+  "name": "Iron Cross",
+  "forza": "spinta",
+  "level": "intermedio",
+  "meccanica": "composito",
+  "attrezzatura": "manubrio",
+  "primaryMuscle": ["spalle"],
+  "secondaryMuscles": [
+    "petto",
+    "glutei",
+    "fianchi",
+    "parte bassa della schiena",
+    "quadricipiti",
+    "trapezi"
+  ],
+  "instructions": [],
+  "category": "forza",
+  "immagini": ["Iron_Cross/0.jpg", "Iron_Cross/1.jpg"],
+  "id": "Iron_Cross",
+  "images": ["Iron_Cross/0.jpg", "Iron_Cross/1.jpg"]
+}

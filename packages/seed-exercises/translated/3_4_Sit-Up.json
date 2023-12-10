@@ -1,0 +1,19 @@
+{
+  "name": "3/4 Sit-Up",
+  "force": "tirare",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "solo corpo",
+  "primaryMuscle": ["addominali"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sdraiati sul pavimento e posiziona i piedi in modo sicuro. Le gambe devono essere piegate alle ginocchia.",
+    "Posiziona le mani dietro o ai lati della testa. Inizia con la schiena a terra. Questa sarà la tua posizione di partenza.",
+    "Fletti le anche e la schiena per sollevare il busto verso le ginocchia.",
+    "In cima alla contrazione, il busto dovrebbe essere perpendicolare al suolo. Inverti il movimento, tornando solo a ¾ della strada giù.",
+    "Ripeti per il numero consigliato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": ["3_4_Sit-Up/0.jpg", "3_4_Sit-Up/1.jpg"],
+  "id": "3_4_Sit-Up"
+}

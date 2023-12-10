@@ -1,0 +1,18 @@
+{
+  "name": "Sled Row",
+  "forza": "tira",
+  "level": "beginner",
+  "meccanica": "composito",
+  "attrezzatura": "altro",
+  "muscoliPrincipali": ["middle back"],
+  "secondaryMuscles": ["biceps", "lats"],
+  "instructions": [
+    "Attacca doppie maniglie a una slitta collegata da una corda o catena. Carica la slitta con un peso appropriato. Fai fronte alla slitta, retrocedendo finché non c è una certa tensione nella linea.",
+    "Con una maniglia in mano, piega leggermente le ginocchia, tiene la testa e il petto in alto, e inizia con le braccia estese.",
+    "Per avviare il movimento, flessa il gomito e ritira le scapole, tirando la slitta verso di te.",
+    "Fai uno o due passi indietro per ottenere tensione nella linea e ripeti."
+  ],
+  "category": "forza",
+  "images": ["Sled_Row/0.jpg", "Sled_Row/1.jpg"],
+  "id": "Sled_Row"
+}

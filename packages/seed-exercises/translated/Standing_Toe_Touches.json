@@ -1,0 +1,16 @@
+{
+  "name": "Posizione in Piedi delle Punta delle Dita",
+  "force": "static",
+  "level": "principiante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscle": ["muscoli posteriori della coscia"],
+  "secondaryMuscles": ["polpacci"],
+  "instructions": [
+    "Stai in piedi lasciando dello spazio davanti e dietro di te.",
+    "Piega la vita, mantenendo le gambe dritte, finché puoi rilassarti e lasciare che la parte superiore del corpo si pieghi in avanti. Lascia che le braccia e le mani pendano naturalmente. Mantieni la posizione per 10-20 secondi."
+  ],
+  "category": "stretching",
+  "images": ["Standing_Toe_Touches/0.jpg", "Standing_Toe_Touches/1.jpg"],
+  "id": "Standing_Toe_Touches"
+}

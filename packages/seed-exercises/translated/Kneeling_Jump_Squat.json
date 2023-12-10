@@ -1,0 +1,19 @@
+{
+  "name": "Kneeling Jump Squat",
+  "forza": "push",
+  "level": "expert",
+  "mechanico": "compound",
+  "attrezzatura": "barbell",
+  "muscoli primari": ["glutei"],
+  "muscoli secondari": ["polpacci", "femorali", "quadricipiti"],
+  "instructions": [
+    "Comincia inginocchiandoti sul pavimento con una barra appoggiata sulle spalle, oppure puoi usare il tuo peso per questo esercizio. Può essere fatto all'interno di un power rack per facilitare lo sfilare.",
+    "Siediti all'indietro con i tuoi fianchi finché i tuoi glutei non tocchino i tuoi piedi, mantenendo la tua testa e il tuo petto in alto.",
+    "Esplodi in alto con i tuoi fianchi, generando abbastanza potenza per atterrare con i piedi piatti sul pavimento.",
+    "Continua con lo squat guidando attraverso i tuoi talloni ed estendendo le ginocchia per raggiungere la posizione eretta."
+  ],
+  "category": "sollevamento pesi olimpico",
+  "immagini": ["Kneeling_Jump_Squat/0.jpg", "Kneeling_Jump_Squat/1.jpg"],
+  "id": "Kneeling_Jump_Squat",
+  "images": ["Kneeling_Jump_Squat/0.jpg", "Kneeling_Jump_Squat/1.jpg"]
+}

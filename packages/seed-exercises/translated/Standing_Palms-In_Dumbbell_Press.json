@@ -1,0 +1,25 @@
+{
+  "name": "Standing Palms-In Dumbbell Press",
+  "forza": "spinta",
+  "level": "intermedio",
+  "meccanica": "composta",
+  "attrezzo": "manubrio",
+  "primaryMuscle": ["spalle"],
+  "secondaryMuscles": ["tricipiti"],
+  "instructions": [
+    "Inizia con un manubrio in ogni mano con il braccio completamente esteso con la mano neutra. I tuoi piedi dovrebbero essere larghi quanto le spalle. Alza lentamente i manubri fino a creare un angolo di 90 gradi con le braccia. Nota: Avanguardia delle braccia devono essere perpendicolari al pavimento. Questa è la posizione di partenza.",
+    "Continua a mantenere una presa neutra per l'intero esercizio. Solleva lentamente i manubri finchè le braccia saranno completamente estese.",
+    "Inspirando, abbassa i pesi fino a quando il braccio non è di nuovo all'angolo di 90 gradi.",
+    "Ripeti per il numero consigliato di ripetizioni."
+  ],
+  "category": "forza",
+  "immagini": [
+    "Standing_Palms-In_Dumbbell_Press/0.jpg",
+    "Standing_Palms-In_Dumbbell_Press/1.jpg"
+  ],
+  "id": "Standing_Palms-In_Dumbbell_Press",
+  "images": [
+    "Standing_Palms-In_Dumbbell_Press/0.jpg",
+    "Standing_Palms-In_Dumbbell_Press/1.jpg"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Farfalla",
+  "force": "Trazione",
+  "level": "Principiante",
+  "mechanic": "Isolamento",
+  "equipment": "Macchina",
+  "primaryMuscle": ["Pettorali"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sedersi sulla macchina con la schiena dritta sul cuscinetto.",
+    "Afferrare le maniglie. Suggerimento: Le braccia superiori dovrebbero essere posizionate parallelamente al pavimento; regolare la macchina di conseguenza. Questa sarà la tua posizione di partenza.",
+    "Spingere lentamente le maniglie insieme mentre stringi il petto al centro. Espirare durante questa parte del movimento e mantenere la contrazione per un secondo.",
+    "Tornare lentamente alla posizione di partenza inspirando finché i muscoli pettorali non sono completamente stirati.",
+    "Ripetere per il numero di ripetizioni consigliato."
+  ],
+  "category": "Forza",
+  "images": ["Butterfly/0.jpg", "Butterfly/1.jpg"],
+  "id": "Butterfly"
+}

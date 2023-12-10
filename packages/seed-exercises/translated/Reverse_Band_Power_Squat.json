@@ -1,0 +1,27 @@
+{
+  "name": "Reverse Band Power Squat",
+  "force": "spinta",
+  "level": "esperto",
+  "mechanic": "composto",
+  "equipment": "bilanciere",
+  "primaryMuscle": ["quadricipiti"],
+  "secondaryMuscles": [
+    "adduttori",
+    "polpacci",
+    "glutei",
+    "femorali",
+    "parte bassa della schiena"
+  ],
+  "instructions": [
+    "Inizia in un power rack con le barre e il bilanciere impostati all'altezza adeguata. Dopo aver caricato il bilanciere, attacca le bande alla parte superiore del rack, usando picchetti o la struttura stessa. Attacca l'altra estremità delle bande al bilanciere.",
+    "Inizia posizionandoti sotto il bar e mettendolo sulla parte superiore delle spalle. Contrai le scapole e ruota i gomiti in avanti, cercando di piegare il bilanciere sulle spalle. Rimuovi il bilanciere dal rack, creando una stretta arcata nella parte bassa della schiena, e torna alla posizione di partenza. Metti i piedi più larghi per mettere maggiormente l'accento sulla schiena, i glutei, gli adduttori e i femorali.",
+    "Tieni la testa rivolta in avanti. Con schiena, spalle e addome solide, spingi fuori le ginocchia e il sedere quando inizi la discesa. Metti indietro il bacino il più possibile. Idealmente, le tue caviglie dovrebbero essere perpendicolari al terreno. Una posizione più bassa del bilanciere comporta una maggiore inclinazione del busto per mantenere il bilanciere sui talloni. Continua fino a quando non superi la parallel. cioè quando la parte piegata dell'anca è in linea con la parte superiore del ginocchio.",
+    "Mantenendo i piedi e le ginocchia tese e spingendo fuori con i piedi, spingi si verso l'alto guidando il movimento con la testa. Continua verso l'alto, mantenendo la tensioe da testa a piedi, finché non torni alla posizione di partenza."
+  ],
+  "category": "sollevamento pesi",
+  "images": [
+    "Reverse_Band_Power_Squat/0.jpg",
+    "Reverse_Band_Power_Squat/1.jpg"
+  ],
+  "id": "Reverse_Band_Power_Squat"
+}

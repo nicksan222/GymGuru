@@ -1,0 +1,32 @@
+{
+  "name": "Pulizia e Stampa",
+  "force": "spingere",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "bilanciere",
+  "primaryMuscle": ["spalle"],
+  "secondaryMuscles": [
+    "addominali",
+    "polpacci",
+    "glutei",
+    "femorali",
+    "parte bassa della schiena",
+    "parte media della schiena",
+    "quadricipiti",
+    "spalle",
+    "trapezi",
+    "tricipiti"
+  ],
+  "instructions": [
+    "Assumi una posizione a larghezza delle spalle, con le ginocchia all'interno delle braccia. Mantieni la schiena dritta, piegati alle ginocchia e all'anca in modo da poter afferrare il bilanciere con le braccia completamente estese e una presa pronata leggermente più ampia della larghezza delle spalle. Puntare i gomiti verso l'esterno. Il bilanciere dovrebbe essere vicino ai polpacci. Posiziona le spalle sopra o leggermente davanti al bilanciere. Mantieni una postura con la schiena dritta. Questa sarà la tua posizione di partenza.",
+    "Inizia a tirare il bilanciere estendendo le ginocchia. Muovi i fianchi in avanti e alza le spalle allo stesso ritmo mantenendo costante l'angolo della schiena; continua a sollevare il bilanciere verso l'alto mantenendolo vicino al tuo corpo.",
+    "Man mano che il bilanciere supera il ginocchio, estendi contemporaneamente le caviglie, le ginocchia e i fianchi con forza, simile ad un salto. Mentre lo fai, continua a guidare il bilanciere con le mani, sollevando le spalle e utilizzando il momento del tuo movimento per sollevare il bilanciere il più in alto possibile. Il bilanciere dovrebbe viaggiare vicino al tuo corpo, e dovresti tenere le gomiti aperti.",
+    "All'altezza massima, i tuoi piedi dovrebbero lasciare il pavimento e dovresti iniziare a tirarti sotto il bilanciere. La meccanica di questo può variare leggermente a seconda del peso usato. Dovresti scendere in una posizione di squat mentre ti tirto sotto il bilanciere.",
+    "Quando il bilanciere raggiunge l'altezza terminale, ruota i gomiti intorno e sotto il bilanciere. Posiziona il bilanciere sulla parte anteriore delle spalle mantenendo il busto eretto e flettendo i fianchi e le ginocchia per assorbire il peso del bilanciere.",
+    "Alza alla posizione completa, tenendo il bilanciere nella posizione di pulizia.",
+    "Senza muovere i piedi, spingi il bilanciere sopra la testa mentre esali. Abbassa il bilanciere controllatamente."
+  ],
+  "category": "forza",
+  "images": ["Clean_and_Press/0.jpg", "Clean_and_Press/1.jpg"],
+  "id": "Clean_and_Press"
+}

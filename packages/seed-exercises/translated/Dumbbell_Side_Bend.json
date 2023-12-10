@@ -1,0 +1,22 @@
+{
+  "name": "Allenamento Laterale con Manubri",
+  "force": "tira",
+  "level": "principiante",
+  "mechanic": "isolata",
+  "eqipaggimento": "manubrio",
+  "primaryMuscle": ["addominali"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stai in piedi diritto tenendo un manubrio nella mano sinistra (palme rivolte al torace) mentre la mano destra tiene la vita. I piedi devono essere posizionati alla larghezza delle spalle. Questa sarà la posizione iniziale.",
+    "Tenendo la schiena dritta e la testa alta, piegarsi solo in vita verso destra il più possibile. Inspira mentre ti pieghi di lato. Quindi tieni premuto per un secondo e torna nella posizione di partenza espirando. Suggerimento: Mantieni tutto il resto del corpo fermo.",
+    "Ora ripeti il movimento piegandoti invece a sinistra. Tieni premuto per un secondo e torna alla posizione di partenza.",
+    "Ripeti per il numero consigliato di ripetizioni e poi cambia le mani."
+  ],
+  "category": "forza",
+  "immagini": [
+    "Allenamento_Laterale_con_Manubri/0.jpg",
+    "Allenamento_Laterale_con_Manubri/1.jpg"
+  ],
+  "id": "Dumbbell_Side_Bend",
+  "images": ["Dumbbell_Side_Bend/0.jpg", "Dumbbell_Side_Bend/1.jpg"]
+}

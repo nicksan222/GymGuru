@@ -1,0 +1,22 @@
+{
+  "name": "Ricciolo interno della bicipite Incline",
+  "force": null,
+  "level": "principiante",
+  "mechanic": "isolation",
+  "equipment": "manubrio",
+  "primaryMuscle": ["bicipiti"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Tenete in mano un manubrio in ogni mano e sdraiati su una panca inclinata.",
+    "I manubri dovrebbero essere alla lunghezza delle braccia e appesi ai tuoi lati, mentre i tuoi palmi dovrebbero essere rivolti verso l'esterno. Questa sarà la tua posizione di partenza.",
+    "Ora, mentre espiri, fai un ricciolo muovendo il peso verso l'esterno e verso l'alto, mantenendo i tuoi avambracci allineati con i tuoi deltoidi laterali. Continua il ricciolo finché i manubri non saranno all'altezza delle spalle e ai lati dei tuoi deltoidi. Suggerimento: La fine del movimento dovrebbe assomigliare alla posa della doppia bicipite.",
+    "Dopo una contrazione di un secondo nella parte superiore del movimento, inizia a inspirare e abbassa lentamente i pesi alla posizione di partenza seguendo lo stesso percorso usato per portarli su.",
+    "Ripeti per il numero consigliato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": [
+    "Incline_Inner_Biceps_Curl/0.jpg",
+    "Incline_Inner_Biceps_Curl/1.jpg"
+  ],
+  "id": "Incline_Inner_Biceps_Curl"
+}

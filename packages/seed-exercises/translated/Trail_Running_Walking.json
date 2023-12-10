@@ -1,0 +1,16 @@
+{
+  "name": "Corsa/Camminata su sentiero",
+  "force": null,
+  "level": "principiante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscle": ["quadriceps"],
+  "secondaryMuscles": ["calves", "glutes", "hamstrings"],
+  "instructions": [
+    "Correre o camminare sui sentieri farà circolare il sangue e farà battere il cuore quasi immediatamente. Assicurati di avere delle buone scarpe. Mentre utilizzi i muscoli dei polpacci e dei glutei per tirarsi su una collina, le ginocchia, le articolazioni e le caviglie assorbono la maggior parte dei colpi quando scendi. Fai passi più piccoli mentre cammini in discesa, piega le ginocchia per ridurre l'impatto e rallenta per evitare di cadere.",
+    "Una persona di 68 kg può bruciare oltre 200 calorie per 30 minuti camminando in salita, rispetto alle 175 su una superficie piana. Se correre sul sentiero, una persona di 68 kg può bruciare ben oltre 500 calorie in 30 minuti."
+  ],
+  "category": "cardio",
+  "images": ["Trail_Running_Walking/0.jpg", "Trail_Running_Walking/1.jpg"],
+  "id": "Trail_Running_Walking"
+}

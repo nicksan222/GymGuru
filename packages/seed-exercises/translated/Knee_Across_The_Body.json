@@ -1,0 +1,16 @@
+{
+  "name": "Ginocchio dall'altro lato",
+  "force": "statico",
+  "level": "principiante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscle": ["glutei"],
+  "secondaryMuscles": ["adduttori", "parte inferiore della schiena"],
+  "instructions": [
+    "Sdraiati sul pavimento con la gamba destra distesa. Piega la gamba sinistra e abbassala dall'altro lato del corpo, tenendo il ginocchio verso il basso verso il pavimento con la mano destra. (Il ginocchio non deve toccare il pavimento se sei rigido.)",
+    "Posiziona il braccio sinistro comodamente accanto a te e gira la testa verso sinistra. Immagina di avere un peso legato al tuo coccige. Lascia che il coccige cada verso il pavimento mentre il petto si allunga nella direzione opposta per allungare la parte inferiore della schiena. Cambia lato."
+  ],
+  "category": "stretching",
+  "images": ["Knee_Across_The_Body/0.jpg", "Knee_Across_The_Body/1.jpg"],
+  "id": "Knee_Across_The_Body"
+}

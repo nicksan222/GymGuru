@@ -1,0 +1,18 @@
+{
+  "name": "Sled Reverse Flye",
+  "force": "trascina",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "altro",
+  "primaryMuscle": ["spalle"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Attaccare le due maniglie a una slitta collegata da una corda o catena. Caricare la slitta con un peso leggero.",
+    "Affronta la slitta, retrocedendo finché non si genera una certa tensione nella corda. Prendi entrambe le maniglie con le braccia allunagte circa alla tua vita. Piega leggermente le ginocchia e tieni il petto e la testa in alto. Questa sarà la tua posizione iniziale.",
+    "Senza flettere il gomito, trai le maniglie verso l'alto e indietro, eseguendo una reverse fly con una certa rotazione esterna. Le tue maniche dovrebbero essere rivolte in avanti mentre lo fai.",
+    "Torna alla posizione iniziale, facendo alcuni passi indietro per eliminare la tensione dalla corda."
+  ],
+  "category": "forza",
+  "images": ["Sled_Reverse_Flye/0.jpg", "Sled_Reverse_Flye/1.jpg"],
+  "id": "Sled_Reverse_Flye"
+}

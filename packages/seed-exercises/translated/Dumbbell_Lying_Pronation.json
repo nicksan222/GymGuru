@@ -1,0 +1,24 @@
+{
+  "name": "Dumbbell Lying Pronation",
+  "forza": "tirare",
+  "level": "intermedio",
+  "meccanica": "isolamento",
+  "attrezzatura": "manubrio",
+  "primaryMuscle": ["avambracci"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stirati a faccia in giù su una panca piatta con un braccio che tiene un manubrio e l'altra mano sopra la panca piegata così da poter appoggiare la testa.",
+    "Piega i gomiti del braccio che tiene il manubrio in modo tale che creino un angolo di 90 gradi tra il braccio superiore e l'avambraccio.",
+    "Alza ora il braccio superiore così che l'avambraccio sia perpendicolare al pavimento e il braccio superiore sia perpendicolare al tuo busto. Consiglio: il braccio superiore dovrebbe essere parallelo al pavimento e creare un angolo di 90 gradi anche con il tuo busto. Questa sarà la tua posizione di partenza.",
+    "Mentre inspiri, ruota esternamente l'avambraccio così che il manubrio si sollevi in avanti mantenendo il piegamento di 90 gradi tra i braccio superiori e l'avambraccio. Continuerai questa rotazione esterna fino a quando l'avambraccio sarà parallelo al pavimento. A questo punto manterrai la contrazione per un secondo.",
+    "Mentre espiri, torna lentamente alla posizione di partenza.",
+    "Ripeti per il numero raccomandato di ripetizioni."
+  ],
+  "category": "forza",
+  "immagini": [
+    "Dumbbell_Lying_Pronation/0.jpg",
+    "Dumbbell_Lying_Pronation/1.jpg"
+  ],
+  "id": "Dumbbell_Lying_Pronation",
+  "images": ["Dumbbell_Lying_Pronation/0.jpg", "Dumbbell_Lying_Pronation/1.jpg"]
+}

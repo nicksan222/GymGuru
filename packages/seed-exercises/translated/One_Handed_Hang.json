@@ -1,0 +1,15 @@
+{
+  "name": "One Handed Hang",
+  "force": "static",
+  "level": "principiante",
+  "mechanic": null,
+  "equipment": "altro",
+  "primaryMuscle": ["lats"],
+  "secondaryMuscles": ["biceps"],
+  "instructions": [
+    "Afferrare una sbarra orizzontale con una mano, usando una presa supinata. Mantenere i piedi a terra o su un gradino. Consenti alla maggior parte del tuo peso di pendere da quella mano, mantenendo i piedi a terra. Tenere per 10-20 secondi e cambiare lato."
+  ],
+  "category": "stretching",
+  "images": ["One_Handed_Hang/0.jpg", "One_Handed_Hang/1.jpg"],
+  "id": "One_Handed_Hang"
+}

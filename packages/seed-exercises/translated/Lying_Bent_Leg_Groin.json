@@ -1,0 +1,17 @@
+{
+  "name": "Menomazione",
+  "force": "statico",
+  "level": "esperto",
+  "mechanic": null,
+  "equipment": "altro",
+  "primaryMuscle": ["adduttori"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sdraiato sulla schiena con le ginocchia piegate (verso l'addome) e le piante dei piedi premute una contro l'altra. Il tuo partner dovra' bloccare le tue ginocchia. Questa sara' la tua posizione di partenza.",
+    "Cerca di stringere le ginocchia insieme, mentre il tuo partner impedisce qualsiasi movimento.",
+    "Dopo 10-20 secondi, rilassa i muscoli mentre il tuo partner spinge dolcemente le ginocchia verso il pavimento. Assicurati di informare il tuo aiutante quando lo stiramento è sufficiente per evitare lesioni o troppo stiramento."
+  ],
+  "category": "stiramento",
+  "images": ["Lying_Bent_Leg_Groin/0.jpg", "Lying_Bent_Leg_Groin/1.jpg"],
+  "id": "Lying_Bent_Leg_Groin"
+}

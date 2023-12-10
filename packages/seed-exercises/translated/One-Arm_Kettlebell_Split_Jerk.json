@@ -1,0 +1,22 @@
+{
+  "name": "Jerks singoli con kettlebell strappati",
+  "force": "spingere",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "kettlebell",
+  "primaryMuscle": ["spalle"],
+  "secondaryMuscles": ["glutei", "femorali", "quadricipiti", "tricipiti"],
+  "instructions": [
+    "Prendere in mano una kettlebell per la maniglia. Pulire la kettlebell alla spalla, estendendo gambe e anca mentre si tira la kettlebell verso la spalla. Ruotare il polso allo stesso tempo, in modo tale che il palmo sia rivolto in avanti. Questa sarà la posizione di partenza.",
+    "Flettere le ginocchia e abbassare il corpo, mantenendo il busto eretto.",
+    "Rovesciare immediatamente la direzione, spingendo sui talloni, in sostanza facendo un salto per creare slancio. Mentre si fa ciò, spingere la kettlebell sopra la testa estendendo le braccia, usando lo slancio del corpo per muovere il peso.",
+    "Accogliere il peso sopra la testa tornando in posizione di squat sotto il peso, posizionando una gamba davanti e una dietro.",
+    "Mantenendo il peso sopra la testa, tornare in posizione eretta e avvicinare i piedi. Abbassare il peso per eseguire la prossima ripetizione."
+  ],
+  "category": "forza",
+  "images": [
+    "One-Arm_Kettlebell_Split_Jerk/0.jpg",
+    "One-Arm_Kettlebell_Split_Jerk/1.jpg"
+  ],
+  "id": "One-Arm_Kettlebell_Split_Jerk"
+}

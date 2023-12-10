@@ -1,0 +1,20 @@
+{
+  "name": "Esercizio di Pressa Toracica Decubito",
+  "force": "spinta",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "macchina",
+  "primaryMuscle": ["petto"],
+  "secondaryMuscles": ["spalle", "tricipiti"],
+  "instructions": [
+    "Caricare un peso appropriato sui pioli e regolare l'altezza della seduta in base alla propria altezza. Le maniglie dovrebbero essere vicino alla base dei pettorali all'inizio del movimento. Il petto e la testa dovrebbero essere sollevati e le scapole sopraelevate. Questa sarà la posizione di partenza.",
+    "Spingere le maniglie in avanti estendendo il gomito.",
+    "Dopo una breve pausa in cima, riportare il peso appena sopra la posizione iniziale, mantenendo la tensione sui muscoli senza far tornare il peso agli arresti finché la serie non è completata."
+  ],
+  "category": "forza",
+  "images": [
+    "Leverage_Decline_Chest_Press/0.jpg",
+    "Leverage_Decline_Chest_Press/1.jpg"
+  ],
+  "id": "Leverage_Decline_Chest_Press"
+}

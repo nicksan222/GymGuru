@@ -1,0 +1,17 @@
+{
+  "name": "Neck-SMR",
+  "force": "static",
+  "level": "intermedio",
+  "mechanic": null,
+  "equipment": "altro",
+  "primaryMuscle": ["collo"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Utilizzando un rullo muscolare o un matterello, posiziona il rullo dietro la testa e contro il collo. Assicurati che il rullo non sia posizionato direttamente sulla colonna vertebrale, ma leggermente girato in modo che il rullo sia premuto contro i muscoli ai lati della colonna vertebrale. Questa sarà la tua posizione di partenza.",
+    "Partendo dalla parte superiore del collo, scivola lentamente lungo i muscoli del collo, facendo pause nei punti di tensione per 10-30 secondi."
+  ],
+  "category": "stretching",
+  "immagini": ["Neck-SMR/0.jpg", "Neck-SMR/1.jpg"],
+  "id": "Neck-SMR",
+  "images": ["Neck-SMR/0.jpg", "Neck-SMR/1.jpg"]
+}

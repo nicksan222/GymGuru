@@ -1,0 +1,19 @@
+{
+  "name": "Sollevamento Rumeno",
+  "force": "tirare",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "bilanciere",
+  "primaryMuscle": ["femorali"],
+  "secondaryMuscles": ["polpacci", "glutei", "parte bassa della schiena"],
+  "instructions": [
+    "Metti un bilanciere davanti a te a terra e afferralo con una presa pronata (mani rivolte verso il basso) leggermente più ampia della larghezza delle spalle. Suggerimento: A seconda del peso usato, potresti aver bisogno di imbottiture per polsi per eseguire l'esercizio e anche di una piattaforma rialzata per consentire un migliore arco di movimento.",
+    "Piega leggermente le ginocchia e tieni le tibie verticali, i fianchi indietro e la schiena dritta. Questa sarà la tua posizione di partenza.",
+    "Mantieni la schiena e le braccia completamente dritte in ogni momento, usa i fianchi per sollevare il bilanciere mentre espiri. Suggerimento: Il movimento non dovrebbe essere veloce ma costante e sotto controllo.",
+    "Una volta che sei in piedi completamente dritto, abbassa il bilanciere spingendo i fianchi all'indietro, piegando leggermente le ginocchia, a differenza di quando fai squat. Suggerimento: Fai un respiro profondo all'inizio del movimento e mantieni il petto sollevato. Tieni il respiro mentre scendi e espira quando completi il movimento.",
+    "Ripeti per il numero di ripetizioni consigliato."
+  ],
+  "category": "forza",
+  "images": ["Romanian_Deadlift/0.jpg", "Romanian_Deadlift/1.jpg"],
+  "id": "Romanian_Deadlift"
+}

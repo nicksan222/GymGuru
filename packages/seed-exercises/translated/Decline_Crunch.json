@@ -1,0 +1,20 @@
+{
+  "name": "Decline Crunch",
+  "force": "trazione",
+  "level": "intermedio",
+  "mechanic": "isolamento",
+  "equipment": "solo corpo",
+  "primaryMuscle": ["addominali"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fissare le gambe alla fine della panca declinata e distendersi.",
+    "Adesso mettere le mani leggermente su ogni lato della testa mantenendo i gomiti vicini. Suggerimento: Non bloccare le dita dietro la testa.",
+    "Premendo sulla parte bassa della schiena nella panca per isolare meglio i muscoli addominali, iniziare a alzare le spalle da essa.",
+    "Continuare a spingere verso il basso il più forte possibile con la parte bassa della schiena come si contraggono i muscoli addominali ed espirare. Le spalle dovrebbero alzarsi solo di circa quattro pollici e la parte bassa della schiena dovrebbe rimanere a terra. Nella parte superiore del movimento, contrarre gli addominali a lungo e mantenere la contrazione per un secondo. Suggerimento: Concentrarsi su un movimento lento e controllato - non barare utilizzando la fomentum.",
+    "Dopo la contrazione di un secondo, iniziare a scendere lentamente di nuovo alla posizione di partenza inspirando.",
+    "Ripetere per il numero di ripetizioni consigliato."
+  ],
+  "category": "forza",
+  "images": ["Decline_Crunch/0.jpg", "Decline_Crunch/1.jpg"],
+  "id": "Decline_Crunch"
+}

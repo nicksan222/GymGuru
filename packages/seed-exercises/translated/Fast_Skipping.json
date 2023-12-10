@@ -1,0 +1,23 @@
+{
+  "name": "Salto veloce",
+  "force": "spingere",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "solo corpo",
+  "primaryMuscle": ["quadriceps"],
+  "secondaryMuscles": [
+    "abbductors",
+    "adduttori",
+    "polpacci",
+    "glutei",
+    "femorali"
+  ],
+  "instructions": [
+    "Inizia in una posizione rilassata con una gamba leggermente avanti. Questa sarà la tua posizione di partenza.",
+    "Fai un salto eseguendo un movimento di passo-hop da destra-destra-passo a sinistra-sinistra-passo, e così via, alternando avanti e indietro.",
+    "Esegui salti veloci mantenendo un contatto stretto con il terreno e riducendo al minimo il tempo in aria, muovendoti il più velocemente possibile."
+  ],
+  "category": "pliometria",
+  "images": ["Fast_Skipping/0.jpg", "Fast_Skipping/1.jpg"],
+  "id": "Fast_Skipping"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Dumbbell Incline Shoulder Raise",
+  "force": "spinta",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "manubrio",
+  "primaryMuscle": ["spalle"],
+  "secondaryMuscles": ["tricipiti"],
+  "instructions": [
+    "Sedersi su una panca inclinata tenendo un manubrio in mano su ogni coscia.",
+    "Solleva le gambe per portare i pesi alle spalle e inclinarti all'indietro. Posiziona i manubri sopra le spalle con le braccia estese. Le braccia dovrebbero essere perpendicolari al pavimento con i palmi rivolti in avanti e le nocche puntate verso il soffitto. Questa sarà la tua posizione di partenza.",
+    "Mantenendo le braccia dritte e bloccate, solleva i manubri sollevando le spalle dalla panca mentre espiri.",
+    "Torna alla posizione di partenza mentre inspiri.",
+    "Ripeti per il numero consigliato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": [
+    "Dumbbell_Incline_Shoulder_Raise/0.jpg",
+    "Dumbbell_Incline_Shoulder_Raise/1.jpg"
+  ],
+  "id": "Dumbbell_Incline_Shoulder_Raise"
+}

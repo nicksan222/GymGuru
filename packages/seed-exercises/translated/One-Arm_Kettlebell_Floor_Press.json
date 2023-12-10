@@ -1,0 +1,20 @@
+{
+  "name": "Pressa sul pavimento con manubrio ad un braccio",
+  "force": "push",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "manubri",
+  "primaryMuscle": ["petto"],
+  "secondaryMuscles": ["tricipiti"],
+  "instructions": [
+    "Sdraiati sul pavimento tenendo un manubrio con una mano, con il braccio superiore sostenuto dal pavimento. Il palmo dovrebbe essere rivolto verso l'interno.",
+    "Premi il manubrio in linea retta verso il soffitto, ruotando il polso.",
+    "Abbassa il manubrio alla posizione di partenza e ripeti."
+  ],
+  "category": "forza",
+  "images": [
+    "One-Arm_Kettlebell_Floor_Press/0.jpg",
+    "One-Arm_Kettlebell_Floor_Press/1.jpg"
+  ],
+  "id": "One-Arm_Kettlebell_Floor_Press"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Estensioni Tricipiti con Presa Stretta sulla Barra Curl",
+  "force": "spinta",
+  "level": "intermedio",
+  "mechanic": "isolamento",
+  "equipment": "barra curl e-z",
+  "primaryMuscle": ["tricipiti"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Mentre tieni una barra o una barra EZ Curl con una presa pronata (palmi rivolti in avanti), sdraiati sulla schiena su una panca piatta con la testa fuori dalla panca. Suggerimento: se tieni una barra, afferrala con una presa larga quanto le spalle e se usi una barra E-Z, afferrala sulle maniglie interne.",
+    "Estendi le braccia davanti a te mentre tieni la barra sopra il petto. Le braccia dovrebbero essere perpendicolari al tuo torace (angolo di 90 gradi). Questa sarà la tua posizione di partenza.",
+    "Mentre inspiri, abbassa la barra in un movimento semicircolare piegando i gomiti e mantenendo il braccio superiore fermo e i gomiti incollati al corpo. Continua ad abbassare la barra finché non toccherà leggermente il mento.",
+    "Mentre espiri, riporta la barra alla posizione di partenza spingendola verso l'alto in un movimento semicircolare. Contrai forte i tricipiti nella parte alta del movimento per un secondo. Suggerimento: ancora una volta, solo gli avambracci dovrebbero muoversi. I bracci superiori dovrebbero rimanere fermi in ogni momento.",
+    "Ripeti per il numero di ripetizioni consigliato."
+  ],
+  "category": "forza",
+  "images": [
+    "Lying_Close-Grip_Barbell_Triceps_Press_To_Chin/0.jpg",
+    "Lying_Close-Grip_Barbell_Triceps_Press_To_Chin/1.jpg"
+  ],
+  "id": "Lying_Close-Grip_Barbell_Triceps_Press_To_Chin"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Cable Deadlifts",
+  "forza": "Tirare",
+  "level": "principiante",
+  "meccanismo": "Complesso",
+  "attrezzatura": "Cavo",
+  "muscoli primari": ["quadricipiti"],
+  "muscoli secondari": ["avambracci", "glutei", "femorali", "dorso"],
+  "instructions": [
+    "Muovi i cavi sulla parte inferiore delle torri e seleziona un peso adeguato. Stand direttamente tra le torri.",
+    "Per iniziare, accovacciati piegando i fianchi e le ginocchia finché puoi raggiungere le maniglie.",
+    "Dopo averle afferrate, inizia la tua risalita. Spingendoti con i talloni estendi i fianchi e le ginocchia mantenendo le mani appese al fianco. Tieni la testa e il petto sollevati durante tutto il movimento.",
+    "Dopo aver raggiunto una posizione eretta, torna alla posizione di partenza e ripeti."
+  ],
+  "category": "Forza",
+  "immagini": ["Cable_Deadlifts/0.jpg", "Cable_Deadlifts/1.jpg"],
+  "id": "Cable_Deadlifts",
+  "images": ["Cable_Deadlifts/0.jpg", "Cable_Deadlifts/1.jpg"]
+}

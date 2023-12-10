@@ -1,0 +1,20 @@
+{
+  "name": "Side to Side Box Shuffle",
+  "force": "spinta",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "altro",
+  "primaryMuscle": ["quadricipiti"],
+  "secondaryMuscles": ["abduttori", "adduttori", "polpacci", "femorali"],
+  "instructions": [
+    "In piedi, posizionati su un lato della casella con il piede sinistro al centro.",
+    "Per iniziare, salta sopra alla casella arrivando sul lato opposto, atterrando con il piede destro sulla casella e il sinistro a terra. Fai oscillare le braccia per aiutare il movimento.",
+    "Continua a fare shuffle andando avanti e indietro sopra alla casella."
+  ],
+  "category": "pliometria",
+  "images": [
+    "Side_to_Side_Box_Shuffle/0.jpg",
+    "Side_to_Side_Box_Shuffle/1.jpg"
+  ],
+  "id": "Side_to_Side_Box_Shuffle"
+}

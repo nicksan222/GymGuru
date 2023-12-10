@@ -1,0 +1,22 @@
+{
+  "name": "Barbell Guillotine Bench Press",
+  "force": "spingere",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "bilanciere",
+  "primaryMuscle": ["petto"],
+  "secondaryMuscles": ["spalle", "tricipiti"],
+  "instructions": [
+    "Utilizzando una presa media (una presa che crea un angolo di 90 gradi nel centro del movimento tra gli avambracci e i muscoli delle braccia), solleva la barra dal rack e tienila dritta sopra il collo con le braccia bloccate. Questa sarà la posizione di partenza.",
+    "Mentre respiri, porta la barra lentamente verso il basso fino a circa 1 pollice dal collo.",
+    "Dopo una pausa di un secondo, riporta la barra alla posizione di partenza espirando e spingendo la barra utilizzando i muscoli del petto. Blocca le braccia e stringi il petto nella posizione contratta, mantieni per un secondo e poi inizia a scendere di nuovo lentamente. Dovrebbe impiegare almeno il doppio del tempo per scendere che per salire.",
+    "Ripeti il movimento per il numero prescritto di ripetizioni.",
+    "Quando hai finito, riposiziona la barra nel rack."
+  ],
+  "category": "forza",
+  "images": [
+    "Barbell_Guillotine_Bench_Press/0.jpg",
+    "Barbell_Guillotine_Bench_Press/1.jpg"
+  ],
+  "id": "Barbell_Guillotine_Bench_Press"
+}

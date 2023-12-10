@@ -1,0 +1,19 @@
+{
+  "name": "Plie Squatt con Manubrio",
+  "force": "pressa",
+  "level": "principiante",
+  "mechanic": "mischia",
+  "equipment": "manubrio",
+  "primaryMuscle": ["quadricipiti"],
+  "secondaryMuscles": ["addominali", "polpacci", "glutei", "femorali"],
+  "instructions": [
+    "Tieni un manubrio alla base con entrambe le mani e tieniti in piedi. Muovi le gambe in modo che siano più larghe della larghezza delle spalle l'una dall'altra con le ginocchia leggermente flesse.",
+    "Le punte dei piedi devono essere rivolte verso l'esterno. Nota: Le braccia devono rimanere ferme durante l'esercizio. Questa è la posizione di partenza.",
+    "Piegati lentamente le ginocchia e abbassa le gambe fino a quando le cosce non sono parallele al pavimento. Assicurati di inspirare, poiché questo è la parte eccentrica dell'esercizio.",
+    "Premi principalmente con il tallone del piede per tornare alla posizione di partenza mentre espiri.",
+    "Ripeti per il numero consigliato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": ["Plie_Dumbbell_Squat/0.jpg", "Plie_Dumbbell_Squat/1.jpg"],
+  "id": "Plie_Dumbbell_Squat"
+}

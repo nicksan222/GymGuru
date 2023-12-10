@@ -1,0 +1,25 @@
+{
+  "name": "Cablata sul Torace in Piedi",
+  "forza": "spinta",
+  "level": "principiante",
+  "meccanismo": "composta",
+  "attrezzatura": "cavo",
+  "primaryMuscle": ["petto"],
+  "secondaryMuscles": ["spalle", "tricipiti"],
+  "instructions": [
+    "Posizionare i doppi puleggi a altezza petto e selezionare un peso adeguato. Stare un piede o due di fronte ai cavi, tenendo uno in ogni mano. Potete alterare la vostra postura per una maggiore stabilità.",
+    "Posizionare il braccio superiore ad un angolo di 90 gradi con le scapole unite. Questa sarà la vostra posizione di partenza.",
+    "Mantenendo il resto del corpo fermo, estendere attraverso i gomiti per spingere le maniglie in avanti, avvicinandole davanti a voi.",
+    "Mantenere la posizione in alto del movimento e tornare alla posizione di partenza."
+  ],
+  "category": "forza",
+  "immagini": [
+    "Cablata_sul_Torace_in_Piedi/0.jpg",
+    "Cablata_sul_Torace_in_Piedi/1.jpg"
+  ],
+  "id": "Standing_Cable_Chest_Press",
+  "images": [
+    "Standing_Cable_Chest_Press/0.jpg",
+    "Standing_Cable_Chest_Press/1.jpg"
+  ]
+}

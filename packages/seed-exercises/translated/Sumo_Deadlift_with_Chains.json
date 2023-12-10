@@ -1,0 +1,36 @@
+{
+  "name": "Sumo Deadlift con Catene",
+  "forza": "trazione",
+  "level": "intermedio",
+  "meccanica": "composta",
+  "equipaggiamento": "bilanciere",
+  "primaryMuscle": ["femorali"],
+  "secondaryMuscles": [
+    "flessori",
+    "fascia abduttrice",
+    "fascia adduttrice",
+    "avambracci",
+    "glutei",
+    "lombare",
+    "dorso",
+    "quadricipiti",
+    "trapezi"
+  ],
+  "instructions": [
+    "Puoi attaccare le catene alle estremità del bilanciere, oppure appoggiare il centro del bilanciere sopra le catene per ottenere una maggiore variazione di peso durante l'alzata. Cerca di mantenere gli estremi delle catene lontano dai pesi in modo da non urtarli durante la discesa.",
+    "Posizionati accanto al bilanciere con i piedi abbastanza larghi, vicino ai morsetti. Piega i fianchi per afferrare il bilanciere. Le braccia dovrebbero essere diritte sotto le spalle, all'interno delle gambe, e puoi utilizzare una presa pronata, mista o ad uncino. Rilassa le spalle, che in effetti allungano le braccia.",
+    "Fai un respiro e poi abbassa i fianchi, guardando dritto avanti con la testa e il petto in alto. Spingi contro il pavimento, allargando i piedi, con il peso sulla parte posteriore dei piedi. Estendi i fianchi e le ginocchia.",
+    "Mentre il bilanciere passa attraverso le ginocchia, indietreggia e spingi i fianchi contro il bilanciere, unendo tra loro le scapole.",
+    "Ritorna il peso a terra piegando i fianchi e controllando il peso durante la discesa."
+  ],
+  "category": "powerlifting",
+  "immagini": [
+    "Sumo_Deadlift_con_Catene/0.jpg",
+    "Sumo_Deadlift_con_Catene/1.jpg"
+  ],
+  "id": "Sumo_Deadlift_with_Chains",
+  "images": [
+    "Sumo_Deadlift_with_Chains/0.jpg",
+    "Sumo_Deadlift_with_Chains/1.jpg"
+  ]
+}

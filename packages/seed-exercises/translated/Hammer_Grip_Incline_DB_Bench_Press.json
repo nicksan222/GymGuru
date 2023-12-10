@@ -1,0 +1,28 @@
+{
+  "name": "Hammer Grip Incline DB Bench Press",
+  "forza": "spinta",
+  "level": "principiante",
+  "meccanismo": "composto",
+  "attrezzatura": "manubrio",
+  "primaryMuscle": ["petto"],
+  "secondaryMuscles": ["spalle", "tricipiti"],
+  "instructions": [
+    "Distenditi su una panca inclinata con un manubrio su ogni mano sulle cosce. I palmi delle mani saranno rivolti l'uno verso l'altro.",
+    "Utilizzando le cosce per aiutarti a sollevare i manubri, pulisci i manubri un braccio alla volta in modo da poterli tenere alla larghezza delle spalle.",
+    "Una volta alla larghezza delle spalle, mantieni i palmi delle mani con una presa neutra (palme rivolte l'una verso l'altra). Mantieni i gomiti allargati con i braccioli in linea con le spalle (perpendicolari al torso) e i gomiti piegati creando un angolo di 90 gradi tra il braccio superiore e l'avambraccio. Questa sarà la tua posizione di partenza.",
+    "Ora porta giù i pesi lentamente verso il lato mentre respiri. Mantieni il pieno controllo dei manubri in ogni momento.",
+    "Mentre espiri, spingi i manubri in alto usando i muscoli pettorali. Blocca le braccia nella posizione contratta, tieni per un secondo e poi inizia a scendere lentamente. Suggerimento: Ci dovrebbe volere almeno il doppio del tempo per scendere rispetto a quello per salire.",
+    "Ripeti il movimento per il numero prescritto di ripetizioni.",
+    "Quando hai finito, metti i manubri di nuovo sulle cosce e poi sul pavimento. Questo è il modo più sicuro per disporre dei manubri."
+  ],
+  "category": "forza",
+  "immagini": [
+    "Hammer_Grip_Incline_DB_Bench_Press/0.jpg",
+    "Hammer_Grip_Incline_DB_Bench_Press/1.jpg"
+  ],
+  "id": "Hammer_Grip_Incline_DB_Bench_Press",
+  "images": [
+    "Hammer_Grip_Incline_DB_Bench_Press/0.jpg",
+    "Hammer_Grip_Incline_DB_Bench_Press/1.jpg"
+  ]
+}

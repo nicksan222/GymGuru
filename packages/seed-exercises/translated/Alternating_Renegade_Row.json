@@ -1,0 +1,26 @@
+{
+  "name": "Alternating Renegade Row",
+  "force": "tirare",
+  "level": "esperto",
+  "mechanic": "composto",
+  "equipment": "kettlebells",
+  "primaryMuscle": ["dorsali"],
+  "secondaryMuscles": [
+    "addominali",
+    "bicipiti",
+    "pettorali",
+    "deltoidi posteriori",
+    "tricipiti"
+  ],
+  "instructions": [
+    "Posiziona due kettlebell sul pavimento, a una distanza di circa la larghezza delle spalle. Mettiti in punta dei piedi e con le mani come se stessi facendo una flessione, con il corpo dritto e allungato. Usa i manici delle kettlebell per sostenere il tuo corpo superiore. Potresti dover allargare i piedi per avere un maggiore supporto.",
+    "Spingi una delle due kettlebell verso il pavimento e alza l'altra kettlebell, retrarre le scapole del lato che sta lavorando mentre fletti il gomito, tirando la kettlebell al fianco.",
+    "Poi abbassa la kettlebell sul pavimento e prendi la kettlebell con l'altra mano. Ripeti per alcune ripetizioni."
+  ],
+  "category": "forza",
+  "images": [
+    "Alternating_Renegade_Row/0.jpg",
+    "Alternating_Renegade_Row/1.jpg"
+  ],
+  "id": "Alternating_Renegade_Row"
+}

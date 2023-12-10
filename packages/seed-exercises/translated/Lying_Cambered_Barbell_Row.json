@@ -1,0 +1,21 @@
+{
+  "name": "Lying Cambered Barbell Row",
+  "force": "tirare",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "bilanciere",
+  "primaryMuscle": ["dorsali"],
+  "secondaryMuscles": ["bicipiti", "deltoidi", "tronco"],
+  "instructions": [
+    "Posizionare un bilanciere curvo sotto una panca per esercizi.",
+    "Distendersi a faccia in giù sulla panca e afferrare il bilanciere con un'impugnatura a palmo verso il basso (pronata) più larga delle spalle. Questa sarà la posizione di partenza.",
+    "Mentre espirate, tirate il bilanciere verso l'alto mantenendo i gomiti vicini al corpo: portatelo al petto per mirare alla parte superiore della schiena, o allo stomaco se volete mirare ai lats.",
+    "Dopo una breve pausa in alto, tornate lentamente alla posizione di partenza mentre inspirate."
+  ],
+  "category": "forza",
+  "images": [
+    "Lying_Cambered_Barbell_Row/0.jpg",
+    "Lying_Cambered_Barbell_Row/1.jpg"
+  ],
+  "id": "Lying_Cambered_Barbell_Row"
+}

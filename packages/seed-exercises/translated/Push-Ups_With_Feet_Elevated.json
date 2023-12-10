@@ -1,0 +1,22 @@
+{
+  "name": "Push-Ups Con Piedi Sollevati",
+  "force": "spinta",
+  "level": "principiante",
+  "mechanic": "compound",
+  "equipment": "solo il corpo",
+  "primaryMuscle": ["petto"],
+  "secondaryMuscles": ["spalle", "tricipiti"],
+  "instructions": [
+    "Sdraiati a faccia in giù e posiziona le mani a circa 36 pollici di distanza tra di loro, mantenendo il busto sollevato a distanza di braccia.",
+    "Metti le dita dei piedi sulla parte superiore di una panca piatta. Ciò permetterà al tuo corpo di essere sollevato. Nota: Più alta è l'elevazione della panca piatta, maggiore sarà la resistenza dell'esercizio.",
+    "Abbassati fino a toccare quasi il pavimento con il petto mentre inspiri.",
+    "Con i muscoli pettorali, spingi il tuo busto verso l'alto fino alla posizione di partenza e stringi il petto. Esegui l'espirazione durante questo passaggio.",
+    "Dopo una pausa di un secondo nella posizione contratta, ripeti il movimento per il numero di ripetizioni previste."
+  ],
+  "category": "forza",
+  "images": [
+    "Push-Ups_With_Feet_Elevated/0.jpg",
+    "Push-Ups_With_Feet_Elevated/1.jpg"
+  ],
+  "id": "Push-Ups_With_Feet_Elevated"
+}

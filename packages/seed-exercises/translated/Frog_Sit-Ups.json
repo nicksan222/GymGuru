@@ -1,0 +1,21 @@
+{
+  "name": "Frog Sit-Ups",
+  "force": "tiro",
+  "level": "intermedio",
+  "mechanic": "isolamento",
+  "equipment": "solo corpo",
+  "primaryMuscle": ["addominali"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stenditi con la schiena piatta sul pavimento (o tappetino per esercizi) e le gambe estese davanti a te.",
+    "Ora piega le ginocchia e metti le cosce esterne per terra (o sul tappetino) mentre fai toccare le piante dei piedi fra di loro.",
+    "Ora prova a spingere entrambe le piante e portarle il più vicino possibile a te mentre mantieni le cosce esterne a terra (o almeno quasi a toccarla). Suggerimento: In questa posizione le gambe dovrebbero formare una forma di diamante.",
+    "Ora incrocia le braccia davanti a te toccando le spalle opposte. Questa sarà la tua posizione di partenza.",
+    "Mentre espiri, appiattisci la schiena bassa sul pavimento mentre arricci il busto in alto. Suggerimento: Questo sarà come effettuare il primo movimento di 1/4 di un sit up. Tieni la posizione in alto per un secondo.",
+    "Mentre inspiri, abbassa lentamente fino alla posizione di partenza.",
+    "Ripeti per la quantità raccomandata di ripetizioni."
+  ],
+  "category": "forza",
+  "images": ["Frog_Sit-Ups/0.jpg", "Frog_Sit-Ups/1.jpg"],
+  "id": "Frog_Sit-Ups"
+}

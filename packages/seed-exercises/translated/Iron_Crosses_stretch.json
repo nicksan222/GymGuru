@@ -1,0 +1,18 @@
+{
+  "name": "Iron Crosses (stiro)",
+  "forza": "trazione",
+  "level": "intermedio",
+  "meccanica": "composta",
+  "attrezzatura": null,
+  "muscoli primari": ["quadricipiti"],
+  "muscoli secondari": [],
+  "instructions": [
+    "Stendersi a pancia sotto sul pavimento, con le braccia estese ai lati, le mani pressate a terra. Questa sarà la posizione di partenza.",
+    "Per iniziare, flettere un ginocchio e portare quella gamba dietro il corpo, cercando di toccare il pavimento vicino alla mano opposta.",
+    "Riprendere immediatamente la gamba alla posizione di partenza e ripetere rapidamente con l'altra gamba. Continuare ad alternare per 10-20 ripetizioni."
+  ],
+  "category": "stretching",
+  "immagini": ["Iron_Crosses_stretch/0.jpg", "Iron_Crosses_stretch/1.jpg"],
+  "id": "Iron_Crosses_stretch",
+  "images": ["Iron_Crosses_stretch/0.jpg", "Iron_Crosses_stretch/1.jpg"]
+}

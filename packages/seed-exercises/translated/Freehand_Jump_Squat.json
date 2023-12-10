@@ -1,0 +1,20 @@
+{
+  "name": "Saltarello sui tacchi a mani libere",
+  "force": "spinta",
+  "level": "intermedio",
+  "mechanic": "componimento",
+  "equipment": "solo corpo",
+  "primaryMuscle": ["quadricipiti"],
+  "secondaryMuscles": ["polpacci", "glutei", "femori"],
+  "instructions": [
+    "Incrocia le braccia sul petto.",
+    "Con la testa alta e la schiena dritta, posiziona i piedi alla larghezza delle spalle.",
+    "Mantieni la schiena dritta e il petto in alto, fletti le ginocchia inspirando finché le cosce superiori non sono parallele o più basse rispetto al pavimento.",
+    "Ora, con i talloni, salta in verticale il più alto possibile, usando i quadricipiti come molle. Espira durante questa parte del movimento.",
+    "Quando tocchi di nuovo il pavimento, fletti immediatamente le ginocchia e salta di nuovo.",
+    "Ripeti per il numero raccomandato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": ["Freehand_Jump_Squat/0.jpg", "Freehand_Jump_Squat/1.jpg"],
+  "id": "Freehand_Jump_Squat"
+}

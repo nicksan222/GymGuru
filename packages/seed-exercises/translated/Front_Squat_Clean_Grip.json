@@ -1,0 +1,18 @@
+{
+  "name": "Front Squat (Clean Grip)",
+  "force": "spingere",
+  "level": "intermediario",
+  "mechanic": "composto",
+  "equipment": "biliancia",
+  "primaryMuscle": ["quadricepiti"],
+  "secondaryMuscles": ["addominali", "glutei", "femorali"],
+  "instructions": [
+    "Per iniziare, primo imposta la stang dentro un supporto leggermente sotto il level delle spalle. Appoggia la stang in cima ai deltoidi, spingendo verso le clavicole e premendo leggermente la gola. Le mani dovrebbero essere posizionate in una pulizia solida, toccando la barra solo con le dita per aiutare a mantenerla in posizione.",
+    "Solleva la stang dal supporto spingendo prima con le gambe e contemporaneamente allungando il corpo. Allontanati dal supporto e posiziona le gambe mantenendo una larghezza delle spalle media e con le punte dei piedi leggermente rivolte verso l'esterno. Mantieni la testa in alto e i gomiti sollevati in ogni momento. Questa sarà la tua posizione di partenza.",
+    "Piegati alle ginocchia, sedendoti tra le gambe. Continua finché i tuoi femorali sono sui polpacci. Mantieni le ginocchia allineate con i piedi consapevolmente usando i tuoi abduttori per spingere le ginocchia verso l'esterno durante la fase di squat.",
+    "Inizia a sollevare la stang mentre espiri spingendo principalmente attraverso la pianta del piede o la parte centrale del piede mentre raddrizzi le gambe di nuovo e torni alla posizione di partenza."
+  ],
+  "category": "forza",
+  "images": ["Front_Squat_Clean_Grip/0.jpg", "Front_Squat_Clean_Grip/1.jpg"],
+  "id": "Front_Squat_Clean_Grip"
+}

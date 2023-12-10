@@ -1,0 +1,18 @@
+{
+  "name": "Cable Shoulder Press",
+  "force": "spinta",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "cavo",
+  "primaryMuscle": ["spalle"],
+  "secondaryMuscles": ["tricipiti"],
+  "instructions": [
+    "Sposta i cavi alla base delle torri e seleziona un peso adeguato.",
+    "Sta' al centro tra le colonne. Afferra i cavi e tienili al level delle spalle, con i palmi delle mani rivolti in avanti. Questa è la tua posizione di partenza.",
+    "Mantieni testa e petto sollevati, estendi il gomito per spingere le maniglie direttamente sopra la testa.",
+    "Dopo una pausa in alto, ritorna alla posizione di partenza e ripeti."
+  ],
+  "category": "forza",
+  "images": ["Cable_Shoulder_Press/0.jpg", "Cable_Shoulder_Press/1.jpg"],
+  "id": "Cable_Shoulder_Press"
+}

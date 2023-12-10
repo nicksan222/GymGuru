@@ -1,0 +1,18 @@
+{
+  "name": "Sollevamenti con manubri",
+  "force": "spinta",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "manubrio",
+  "primaryMuscle": ["quadricipiti"],
+  "secondaryMuscles": ["polpacci", "glutei", "femorali"],
+  "instructions": [
+    "Stai dritto mentre tieni un manubrio in ogni mano (con le palme rivolte verso il lato delle tue gambe).",
+    "Posiziona il piede destro sulla piattaforma elevata. Salta sulla piattaforma estendendo il fianco e il ginocchio della gamba destra. Usa principalmente il tallone per sollevare il resto del corpo e posiziona il piede della gamba sinistra sulla piattaforma. Espira mentre esegui la forza necessaria per alzarti.",
+    "Scendi con la gamba sinistra flettendo il fianco e il ginocchio della gamba destra mentre inspiri. Torna alla posizione iniziale con i piedi affiancati.",
+    "Ripeti con la gamba destra per il numero consigliato di ripetizioni e poi esegui con la gamba sinistra."
+  ],
+  "category": "resistenza",
+  "images": ["Dumbbell_Step_Ups/0.jpg", "Dumbbell_Step_Ups/1.jpg"],
+  "id": "Dumbbell_Step_Ups"
+}

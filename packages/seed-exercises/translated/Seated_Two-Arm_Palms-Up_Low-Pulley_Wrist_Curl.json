@@ -1,0 +1,30 @@
+{
+  "name": "Curl per il polso a un braccio seduto con le mani verso l'alto con il polpaccio basso",
+  "forza": "trazione",
+  "level": "principiante",
+  "meccanica": "isolamento",
+  "attrezzatura": "cavo",
+  "primaryMuscle": ["avambracci"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Posiziona una panca di fronte a una macchina con un polpaccio o un attacco EZ Curl.",
+    "Posiziona la panca abbastanza lontano in modo che quando porti la maniglia in cima alle tue cosce si crei tensione sul cavo a causa del peso che sale.",
+    "Ora afferra la maniglia con entrambe le mani, palme verso l'alto, usando una presa larga.",
+    "Retrocedi e siediti sulla panca con i piedi ben saldi sul pavimento.",
+    "Piega in avanti e posiziona gli avambracci sulle cosce con la schiena dei polsi sulle ginocchia. Questa sarà la tua posizione di partenza.",
+    "Abbassa la barra il più possibile, inspirando e mantenendo una stretta presa.",
+    "Quindi solleva la barra il più alto possibile, contrarre gli avambracci. Suggerimento: solo il polso dovrebbe muoversi, non gli avambracci.",
+    "Dopo una seconda contrazione in cima, torna alla posizione di partenza mentre inspiri.",
+    "Ripeti per il numero raccomandato di ripetizioni."
+  ],
+  "category": "forza",
+  "immagini": [
+    "Curl_per_il_polso_a_un_braccio_seduto_con_le_mani_verso_l'alto/0.jpg",
+    "Curl_per_il_polso_a_un_braccio_seduto_con_le_mani_verso_l'alto/1.jpg"
+  ],
+  "id": "Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl",
+  "images": [
+    "Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl/0.jpg",
+    "Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl/1.jpg"
+  ]
+}

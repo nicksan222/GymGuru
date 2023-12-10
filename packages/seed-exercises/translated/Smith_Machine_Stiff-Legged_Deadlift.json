@@ -1,0 +1,22 @@
+{
+  "name": "Sollevamento della gamba rigida sulla macchina Smith",
+  "force": "trazione",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "macchina",
+  "primaryMuscle": ["muscoli posteriori della coscia"],
+  "secondaryMuscles": ["glutei", "parte bassa della schiena"],
+  "instructions": [
+    "Per iniziare, posiziona la barra sulla macchina smith ad un'altezza che sia circa a metà delle tue cosce. Una volta scelta l'altezza corretta e caricata la barra, afferra la barra con una presa pronata (mano rivolta in avanti) impostata alla larghezza delle spalle. Potresti aver bisogno di fasce per i polsi se usi un peso significativo.",
+    "Solleva la barra estendendo completamente le braccia mantenendo la schiena dritta. Stai in piedi con il busto dritto e le gambe divaricate con una larghezza delle spalle o più stretta. I ginocchi dovrebbero essere leggermente piegati. Questa è la tua posizione di partenza.",
+    "Mantieni i ginocchi fermi, abbassa la barra fino sopra la punta dei tuoi piedi piegando la vita mantenendo la schiena dritta. Continua a muoverti in avanti come se stessi prendendo qualcosa dal pavimento finché non senti uno stiramento sui muscoli posteriori della coscia. Espirare durante questo movimento.",
+    "Inizia a riportare il busto in posizione dritta non appena senti che lo stiramento sui muscoli posteriori della coscia estendendo i fianchi e la vita finché non sei tornato nella posizione di partenza. Inspirare durante questo movimento.",
+    "Ripeti per il numero consigliato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": [
+    "Smith_Machine_Stiff-Legged_Deadlift/0.jpg",
+    "Smith_Machine_Stiff-Legged_Deadlift/1.jpg"
+  ],
+  "id": "Smith_Machine_Stiff-Legged_Deadlift"
+}

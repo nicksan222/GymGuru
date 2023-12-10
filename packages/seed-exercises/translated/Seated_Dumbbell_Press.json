@@ -1,0 +1,20 @@
+{
+  "name": "Pressa su panca con manubri seduti",
+  "force": "spinta",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "manubrio",
+  "primaryMuscle": ["spalle"],
+  "secondaryMuscles": ["tricipiti"],
+  "instructions": [
+    "Prendi un paio di manubri e siediti su una panca per la pressa militare o una panca multiuso che abbia uno schienale di supporto mentre posizioni i manubri in piedi sulle tue cosce.",
+    "Pulisci i manubri uno alla volta utilizzando le tue cosce per portarli all'altezza delle spalle su ogni lato.",
+    "Ruota i polsi in modo che i palmi delle mani siano rivolti in avanti. Questa è la tua posizione di partenza.",
+    "Mentre espiri, spingi i manubri verso l'alto fino a farli toccare in cima.",
+    "Dopo una pausa di un secondo, scendi lentamente nella posizione di partenza mentre inspiri.",
+    "Ripeti per il numero raccomandato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": ["Seated_Dumbbell_Press/0.jpg", "Seated_Dumbbell_Press/1.jpg"],
+  "id": "Seated_Dumbbell_Press"
+}

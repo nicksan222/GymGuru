@@ -1,0 +1,25 @@
+{
+  "name": "Linear Acceleration Wall Drill",
+  "forza": null,
+  "level": "principiante",
+  "meccanica": "composta",
+  "attrezzatura": null,
+  "primaryMuscle": ["ischiocrurali"],
+  "secondaryMuscles": ["polpacci", "glutei", "quadricipiti"],
+  "instructions": [
+    "Inclinarsi a circa 45 gradi contro un muro. I piedi devono essere uniti, glutei contratti.",
+    "Inizia sollevando il ginocchio destro rapidamente, facendo una pausa, e poi tirandolo diritto in giù.",
+    "Cambia gamba, sollevando il ginocchio opposto e poi attaccando il terreno diritto in giù.",
+    "Ripeti ancora una volta con la gamba destra, e non appena il piede destro tocca il terreno martellali rapidamente, alternando sinistra e destra il più velocemente possibile."
+  ],
+  "category": "pliometria",
+  "immagini": [
+    "Linear_Acceleration_Wall_Drill/0.jpg",
+    "Linear_Acceleration_Wall_Drill/1.jpg"
+  ],
+  "id": "Linear_Acceleration_Wall_Drill",
+  "images": [
+    "Linear_Acceleration_Wall_Drill/0.jpg",
+    "Linear_Acceleration_Wall_Drill/1.jpg"
+  ]
+}

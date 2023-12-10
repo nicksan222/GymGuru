@@ -1,0 +1,21 @@
+{
+  "name": "Pressa a Spalla con cavo",
+  "force": "spinta",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "cavo",
+  "primaryMuscle": ["spalle"],
+  "secondaryMuscles": ["tricipiti"],
+  "instructions": [
+    "Regolare il peso in un'ammontare adeguata e sedersi, afferrando le maniglie. I tuoi bracci dovrebbero essere a circa 90 gradi rispetto al corpo, con la testa e il petto sollevati. I gomiti dovrebbero essere anch'essi piegati a circa 90 gradi. Questa sarà la posizione di partenza.",
+    "Inizia estendendo il gomito, spingendo le maniglie sopra la testa.",
+    "Dopo una pausa in alto, riporta le maniglie alla posizione di partenza. Assicurati di mantenere tensione sui cavi.",
+    "Puoi anche eseguire questo movimento con la schiena staccata dal sostegno e alternare le mani."
+  ],
+  "category": "resistenza",
+  "images": [
+    "Seated_Cable_Shoulder_Press/0.jpg",
+    "Seated_Cable_Shoulder_Press/1.jpg"
+  ],
+  "id": "Seated_Cable_Shoulder_Press"
+}

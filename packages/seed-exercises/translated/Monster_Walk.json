@@ -1,0 +1,18 @@
+{
+  "name": "Monster Walk",
+  "forza": "tira",
+  "level": "principiante",
+  "meccanica": "composta",
+  "equipaggiamento": "fasce",
+  "muscoli primari": ["adduttori"],
+  "muscoli secondari": [],
+  "instructions": [
+    "Metti una fascia attorno alla caviglia sinistra e un'altra attorno al ginocchio sinistro e mettine un'altra attorno alla caviglia destra e un'altra attorno al ginocchio destro. La tensione deve essere tale che le fasce siano aderenti quando i piedi sono larghi quanto le spalle.",
+    "Per cominciare, fai passi corti in avanti alternando il piede sinistro e il piede destro.",
+    "Dopo diversi passi, fai il contrario e cammina indietro fino al punto di partenza."
+  ],
+  "category": "forza",
+  "immagini": ["Monster_Walk/0.jpg", "Monster_Walk/1.jpg"],
+  "id": "Monster_Walk",
+  "images": ["Monster_Walk/0.jpg", "Monster_Walk/1.jpg"]
+}

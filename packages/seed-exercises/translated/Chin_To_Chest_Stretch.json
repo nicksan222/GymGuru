@@ -1,0 +1,16 @@
+{
+  "name": "Esercizio di allungamento con mento verso torace",
+  "force": "statico",
+  "level": "principiante",
+  "mechanic": null,
+  "equipment": null,
+  "primaryMuscle": ["collo"],
+  "secondaryMuscles": ["trapezio"],
+  "instructions": [
+    "Sedersi sul pavimento.",
+    "Posizionare entrambe le mani dietro la testa, incrociando le dita, con i pollici rivolti verso il basso e i gomiti dritti avanti. Lentamente tirare la testa verso il petto. Mantenere la posizione per 20-30 secondi."
+  ],
+  "category": "allungamento",
+  "images": ["Chin_To_Chest_Stretch/0.jpg", "Chin_To_Chest_Stretch/1.jpg"],
+  "id": "Chin_To_Chest_Stretch"
+}

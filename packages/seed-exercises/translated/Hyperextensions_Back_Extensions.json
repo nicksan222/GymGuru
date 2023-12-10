@@ -1,0 +1,27 @@
+{
+  "name": "iperestensioni (back estensioni)",
+  "forza": "tirare",
+  "level": "principiante",
+  "meccanico": "isolamento",
+  "attrezzatura": "altro",
+  "muscoli primari": ["parte bassa della schiena"],
+  "muscoli secondari": ["glutei", "cosce"],
+  "instructions": [
+    "Sdraiati a pancia in giù su una panca per iperestensioni, sistemando saldamente le caviglie sotto i pedali.",
+    "Regola il cuscino superiore, se possibile, in modo che le tue cosce superiori si adagino sulla panca larga e lasciano abbastanza spazio per piegarti in vita senza alcuna restrizione.",
+    "Con il corpo dritto, incrocia le braccia davanti a te (la mia preferenza) o dietro la testa. Questa sarà la posizione di partenza. Suggerimento: Puoi anche tenere una piastra pesante per una resistenza extra davanti a te sotto le braccia incrociate.",
+    "Inizia a piegarti in avanti lentamente in vita quanto più possibile mantenendo la schiena dritta. Inspirando mentre esegui questo movimento. Continua ad inclinarti in avanti fino a sentire uno stretching piacevole sui muscoli posteriori della coscia e non puoi più andare avanti senza arrotondare la schiena. Suggerimento: Non arrotondare mai la schiena mentre esegui questo esercizio. Inoltre, alcune persone possono arrivare più lontano di altre. La cosa importante è che arrivi fin dove il tuo corpo te lo permette, senza arrotondare la schiena.",
+    "Lentamente alza il busto alla posizione iniziale inspirando. Suggerimento: evita la tentazione di arcuare la schiena oltre una linea dritta. Inoltre, non dondolare il busto in nessun momento, per proteggere la schiena da eventuali infortuni.",
+    "Ripeti per il numero raccomandato di ripetizioni."
+  ],
+  "category": "forza",
+  "immagini": [
+    "Hyperextensions_Back_Extensions / 0.jpg",
+    "Hyperextensions_Back_Extensions / 1.jpg"
+  ],
+  "id": "Hyperextensions_Back_Extensions",
+  "images": [
+    "Hyperextensions_Back_Extensions/0.jpg",
+    "Hyperextensions_Back_Extensions/1.jpg"
+  ]
+}

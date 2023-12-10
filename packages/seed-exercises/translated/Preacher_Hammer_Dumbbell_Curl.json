@@ -1,0 +1,25 @@
+{
+  "name": "Preacher Hammer Dumbbell Curl",
+  "forza": "tirare",
+  "level": "principiante",
+  "meccanica": "isolamento",
+  "attrezzatura": "manubri",
+  "primaryMuscle": ["bicipiti"],
+  "secondaryMuscles": ["avambracci"],
+  "instructions": [
+    "Posiziona la parte superiore di entrambe le braccia sulla panca del preacher mentre tieni un manubrio in ogni mano con i palmi rivolti uno verso l'altro (preso neutro).",
+    "Mentre inspiri, abbassa lentamente i manubri fino a che il braccio superiore è esteso e il bicipite è completamente allungato.",
+    "Mentre espiri, usa i bicipiti per arricciare il peso fino a che il bicipite è completamente contratto e i manubri sono alla altezza delle spalle.",
+    "Stringi forte i bicipiti per un secondo nella posizione contratta e ripeti per il numero consigliato di ripetizioni."
+  ],
+  "category": "forza",
+  "immagini": [
+    "Preacher_Hammer_Dumbbell_Curl/0.jpg",
+    "Preacher_Hammer_Dumbbell_Curl/1.jpg"
+  ],
+  "id": "Preacher_Hammer_Dumbbell_Curl",
+  "images": [
+    "Preacher_Hammer_Dumbbell_Curl/0.jpg",
+    "Preacher_Hammer_Dumbbell_Curl/1.jpg"
+  ]
+}

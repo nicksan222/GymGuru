@@ -1,0 +1,17 @@
+{
+  "name": "Dynamic Chest Stretch",
+  "forza": "tirare",
+  "level": "principiante",
+  "meccanismo": null,
+  "equipaggiamento": null,
+  "muscoli primari": ["petto"],
+  "muscoli secondari": ["dorso medio"],
+  "instructions": [
+    "Piedi solidi con mani unite e braccia estese di fronte a te, questa è la posizione di partenza.",
+    "Mantenere le braccia dritte, muovere rapidamente le braccia all'indietro il più possibile e poi di nuovo avanti, in modo simile al movimento esagerato di un applauso. Ripetere 5-10 volte, aumentando la velocità man mano che si procede."
+  ],
+  "category": "stretching",
+  "immagini": ["Dynamic_Chest_Stretch/0.jpg", "Dynamic_Chest_Stretch/1.jpg"],
+  "id": "Dynamic_Chest_Stretch",
+  "images": ["Dynamic_Chest_Stretch/0.jpg", "Dynamic_Chest_Stretch/1.jpg"]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Zottman Preacher Curl",
+  "force": "tiro",
+  "level": "intermedio",
+  "mechanic": "isolamento",
+  "equipment": "manubrio",
+  "primaryMuscle": ["bicipite"],
+  "secondaryMuscles": ["avambracci"],
+  "instructions": [
+    "Afferra un manubrio in ogni mano e posiziona i tuoi bracci superiori sulla panca del preacher o sulla panca inclinata. I manubri dovrebbero essere tenuti alla altezza delle spalle e i gomiti dovrebbero essere piegati. Tieni i manubri con i palmi delle mani rivolti verso il basso. Questa sarà la tua posizione di partenza.",
+    "Mentre inspiri, abbassa lentamente i manubri tenendo i palmi rivolti verso il basso fino a quando il tuo braccio superiore è esteso e i tuoi bicipiti sono completamente allungati.",
+    "Ora ruota i tuoi polsi una volta che sei alla base del movimento in modo che i palmi delle mani siano rivolti verso l'alto.",
+    "Mentre espiri, usa i tuoi bicipiti per arricciare i pesi fino a quando sono completamente contratti e i manubri sono alla altezza delle spalle. Ricorda ancora una volta che per garantire una piena contrazione è necessario portare questo piccolo dito più in alto del pollice.",
+    "Spremi i bicipiti per un secondo nella posizione contratta e ruota i polsi in modo che i palmi siano di nuovo rivolti verso il basso.",
+    "Ripeti per il numero raccomandato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": ["Zottman_Preacher_Curl/0.jpg", "Zottman_Preacher_Curl/1.jpg"],
+  "id": "Zottman_Preacher_Curl"
+}

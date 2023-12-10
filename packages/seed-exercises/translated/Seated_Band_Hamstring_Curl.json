@@ -1,0 +1,21 @@
+{
+  "name": "Curl ischiocrurali a banda seduta",
+  "force": "tirare",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "altro",
+  "primaryMuscle": ["ischiocrurali"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Fissa una banda vicino al terreno e posiziona una panca a due o tre piedi di distanza da essa.",
+    "Siediti sulla panca e fissa la banda dietro alle tue caviglie, partendo con le gambe dritte. Questa sarà la tua posizione di partenza.",
+    "Fletti le ginocchia, portando i piedi verso la panca. Potresti dover inclinarti leggermente indietro per evitare che i piedi tocchino il pavimento.",
+    "Fermati al termine del movimento e poi ritorna lentamente alla posizione di partenza."
+  ],
+  "category": "forza",
+  "images": [
+    "Seated_Band_Hamstring_Curl/0.jpg",
+    "Seated_Band_Hamstring_Curl/1.jpg"
+  ],
+  "id": "Seated_Band_Hamstring_Curl"
+}

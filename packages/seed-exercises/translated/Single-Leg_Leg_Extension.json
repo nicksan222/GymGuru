@@ -1,0 +1,21 @@
+{
+  "name": "Estensione della gamba su una sola gamba",
+  "force": "spinta",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "macchina",
+  "primaryMuscle": ["quadriceps"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Posizionati sulla macchina e regolati in modo da essere correttamente posizionato. Il cuscino deve essere contro la parte inferiore dello stinco ma non a contatto con la caviglia. Regola la sedia in modo che il punto di rotazione sia in linea con il tuo ginocchio. Seleziona un peso appropriato per le tue capacità.",
+    "Mantieni una buona postura, estendi completamente una gamba, facendo una pausa nella parte superiore del movimento.",
+    "Torna alla posizione di partenza senza far fermare il peso, mantenendo la tensione sul muscolo.",
+    "Ripeti per il numero desiderato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": [
+    "Single-Leg_Leg_Extension/0.jpg",
+    "Single-Leg_Leg_Extension/1.jpg"
+  ],
+  "id": "Single-Leg_Leg_Extension"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Affondo laterale con bilanciere",
+  "force": "spingere",
+  "level": "principiante",
+  "meccanismo": "composto",
+  "attrezzatura": "bilanciere",
+  "muscoli primari": ["quadricipiti"],
+  "muscoli secondari": ["polpacci", "femori", "lombi"],
+  "instructions": [
+    "Stai in piedi tenendo un bilanciere appoggiato sulla schiena (leggermente sotto il collo). I piedi devono essere posizionati larghi con il piede della gamba anteriore ruotato lateralmente. Questa sarà la tua posizione di partenza.",
+    "Abbassa il corpo verso il lato del piede angolato, piegando il ginocchio e l'anca della gamba anteriore e mantenendo la gamba opposta leggermente piegata. Inspirare mentre abbassi il corpo.",
+    "Torna alla posizione di partenza estendendo l'anca e il ginocchio della gamba anteriore. Espirare mentre esegui questo movimento.",
+    "Dopo aver completato il numero raccomandato di ripetizioni, ripeti il movimento con la gamba opposta."
+  ],
+  "category": "forza",
+  "immagini": [
+    "Affondo_laterale_con_bilanciere/0.jpg",
+    "Affondo_laterale_con_bilanciere/1.jpg"
+  ],
+  "id": "Barbell_Side_Split_Squat",
+  "images": ["Barbell_Side_Split_Squat/0.jpg", "Barbell_Side_Split_Squat/1.jpg"]
+}

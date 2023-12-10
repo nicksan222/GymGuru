@@ -1,0 +1,20 @@
+{
+  "name": "Arnold Dumbbell Press",
+  "forza": "pressa",
+  "level": "intermedio",
+  "meccanica": "composta",
+  "attrezzatura": "manubrio",
+  "muscoli primari": ["spalle"],
+  "muscoli secondari": ["tricipiti"],
+  "instructions": [
+    "Siediti su una panca e appoggia la schiena. Tieni due manubri di fronte, a level del petto, con i palmi delle mani rivolti verso il corpo e i gomiti piegati. I tuoi braccia dovrebbero essere vicini al torace. La posizione di partenza dovrebbe assomigliare alla fase contratta di un curl con i manubri.",
+    "Per eseguire il movimento, alza i manubri e ruota i palmi delle mani fino a che non siano rivolti in avanti.",
+    "Continua ad alzare i manubri fino a che le braccia sono completamente estese sopra di te. Espira durante questa parte del movimento.",
+    "Dopo una pausa di un secondo, inizia ad abbassare i manubri nella posizione iniziale ruotandoli verso di te. L'arto sinistro si muoverà in senso antiorario mentre quello destro in senso orario. Inspira durante questa parte del movimento.",
+    "Ripeti il numero raccomandato di ripetizioni."
+  ],
+  "category": "forza",
+  "immagini": ["Arnold_Dumbbell_Press/0.jpg", "Arnold_Dumbbell_Press/1.jpg"],
+  "id": "Arnold_Dumbbell_Press",
+  "images": ["Arnold_Dumbbell_Press/0.jpg", "Arnold_Dumbbell_Press/1.jpg"]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Sledgehammer Swings",
+  "forza": "tiro",
+  "level": "principiante",
+  "meccanismo": "composito",
+  "attrezzatura": "altro",
+  "primaryMuscle": ["addominali"],
+  "secondaryMuscles": [
+    "polpacci",
+    "avambracci",
+    "grandi dorsali",
+    "dorso medio",
+    "spalle"
+  ],
+  "instructions": [
+    "Ti serviranno una gomma e un martello per questo esercizio.",
+    "Se sei destro, la tua mano sinistra dovrebbe essere in fondo al manico e la tua mano destra dovrebbe stringere più in alto vicino alla testa.",
+    "Mentre sollevi il martello, la tua mano destra scivola verso la testa; mentre scendi, la tua mano destra scivolerà verso il basso per unirsi alla tua mano sinistra. Picchialo sul pneumatico il più forte che puoi. Controlla il rimbalzo del martello sul pneumatico.",
+    "Ripeti dall'altro lato."
+  ],
+  "category": "pliometria",
+  "immagini": ["Sledgehammer_Swings/0.jpg", "Sledgehammer_Swings/1.jpg"],
+  "id": "Sledgehammer_Swings",
+  "images": ["Sledgehammer_Swings/0.jpg", "Sledgehammer_Swings/1.jpg"]
+}

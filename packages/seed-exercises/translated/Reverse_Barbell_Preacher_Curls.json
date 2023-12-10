@@ -1,0 +1,26 @@
+{
+  "name": "Reverse Barbell Preacher Curls",
+  "forza": "tirare",
+  "level": "intermedio",
+  "meccanica": "isolamento",
+  "attrezzatura": "barra ad asta curva",
+  "muscoli primari": ["bicipiti"],
+  "muscoli secondari": ["avambracci"],
+  "instructions": [
+    "Afferra una EZ-bar con una presa di larghezza spalla e le mani verso il basso (pronate).",
+    "Ora metti la parte superiore di entrambe le braccia sopra la panca del predicatore e tieni le braccia estese. Questo sarà la tua posizione di partenza.",
+    "Mentre esali, usa i bicipiti per arricciare il peso fino a quando i bicipiti sono completamente contratti e la barra è alla altezza delle spalle. Spremi i bicipiti forte per un secondo nella posizione contratta.",
+    "Mentre inspiri, abbassa lentamente la barra fino a quando le braccia superiori sono estese e i bicipiti sono completamente allungati.",
+    "Ripeti per il numero raccomandato di ripetizioni."
+  ],
+  "category": "forza",
+  "immagini": [
+    "Reverse_Barbell_Preacher_Curls/0.jpg",
+    "Reverse_Barbell_Preacher_Curls/1.jpg"
+  ],
+  "id": "Reverse_Barbell_Preacher_Curls",
+  "images": [
+    "Reverse_Barbell_Preacher_Curls/0.jpg",
+    "Reverse_Barbell_Preacher_Curls/1.jpg"
+  ]
+}

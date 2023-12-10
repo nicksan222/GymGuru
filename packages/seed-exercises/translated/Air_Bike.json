@@ -1,0 +1,21 @@
+{
+  "name": "Air Bike",
+  "Forza": "tiro",
+  "level": "principiante",
+  "meccanica": "composto",
+  "attrezzatura": "solo corpo",
+  "Muscoli primari": ["addominali"],
+  "Muscoli secondari": [],
+  "instructions": [
+    "Distendersi piatto a terra con la schiena premuta a terra. Per questo esercizio, è necessario mettere le mani accanto alla testa. Tuttavia fare attenzione a non sforzare il collo mentre lo si esegue. Ora alza le spalle nella posizione di crunch.",
+    "Porta le ginocchia dove sono perpendicolari al pavimento, con le gambe inferiori parallele al pavimento. Questa sarà la tua posizione di partenza.",
+    "Ora, contemporaneamente, vai attraverso un ciclismo di movimento pedalando in avanti con la gamba destra e portando il ginocchio della gamba sinistra. Porta il tuo gomito destro vicino al ginocchio sinistro facendo a crunch lateralmente, mentre espiri.",
+    "Torna alla posizione iniziale mentre respiri.",
+    "A Crunchverso l'altra parte mentre pedali le gambe e ti avvicini il gomito sinistro al ginocchio destro ed espiri.",
+    "Continua ad alternare in questo modo fino a quando non sono state completate tutte le ripetizioni consigliate per ogni lato."
+  ],
+  "category": "potenza",
+  "immagini": ["Air_Bike/0.jpg", "Air_Bike/1.jpg"],
+  "id": "Air_Bike",
+  "images": ["Air_Bike/0.jpg", "Air_Bike/1.jpg"]
+}

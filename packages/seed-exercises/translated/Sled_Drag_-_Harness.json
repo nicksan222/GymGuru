@@ -1,0 +1,17 @@
+{
+  "name": "Sled Drag - Harness",
+  "forza": "spingere",
+  "level": "principiante",
+  "meccanica": "composta",
+  "attrezzatura": "altro",
+  "primaryMuscle": ["quadricipiti"],
+  "secondaryMuscles": ["polpacci", "glutei", "femorali"],
+  "instructions": [
+    "Per iniziare, carica la slitta con il peso desiderato e attacca la cinghia di traino. Puoi tirare con le maniglie, usare una imbracatura o attaccare la cinghia di traino a una cintura pesante.",
+    "Che tu tiri in avanti o indietro, piegati nella direzione di avanzamento e progredisci estendendo attraverso i fianchi e le ginocchia."
+  ],
+  "category": "strongman",
+  "immagini": ["Sled_Drag_-_Harness/0.jpg", "Sled_Drag_-_Harness/1.jpg"],
+  "id": "Sled_Drag_-_Harness",
+  "images": ["Sled_Drag_-_Harness/0.jpg", "Sled_Drag_-_Harness/1.jpg"]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Stampa a Pavimento Alternata",
+  "force": "spingere",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "manubri",
+  "primaryMuscle": ["petto"],
+  "secondaryMuscles": ["addominali", "spalle", "tricipiti"],
+  "instructions": [
+    "Stendersi a terra con due manubri accanto alle spalle.",
+    "Posiziona uno in posizione sopra il petto e poi un altro, impugnando i manubri sulla maniglia con i palmi rivolti in avanti.",
+    "Estendi entrambe le braccia, in modo che i manubri vengano tenuti sopra il petto. Abbassa un manubrio, portandolo sul petto e girando il polso nella direzione del manubrio bloccato.",
+    "Solleva il manubrio e ripeti sul lato opposto."
+  ],
+  "category": "forza",
+  "images": ["Alternating_Floor_Press/0.jpg", "Alternating_Floor_Press/1.jpg"],
+  "id": "Alternating_Floor_Press"
+}

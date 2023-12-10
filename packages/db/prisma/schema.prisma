@@ -43,18 +43,38 @@ model WorkoutPlan {
     trainerId String
 }
 
+enum MuscleTarget {
+    Addominali
+    Bicipiti
+    Deltoidi
+    Dorsali
+    Quadricipiti
+    Femorali
+    Glutei
+    Pettorali
+    Polpacci
+    Spalle
+    Tricipiti
+    Trapezio
+    Avambracci
+    Adduttori
+    Abduttori
+    Flessori
+    Estensori
+}
+
 model Exercise {
-    id               String   @id @default(cuid())
+    id               String       @id @default(cuid())
     name             String
     description      String?
     videoUrl         String?
     imageUrl         String?
-    primaryMuscles   String
-    secondaryMuscles String?
+    primaryMuscle    MuscleTarget
+    secondaryMuscles String
     instructions     String?
     category         String
-    createdAt        DateTime @default(now())
-    updatedAt        DateTime @updatedAt
+    createdAt        DateTime     @default(now())
+    updatedAt        DateTime     @updatedAt
     trainerId        String
 }
 

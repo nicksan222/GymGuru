@@ -1,0 +1,21 @@
+{
+  "name": "Overhead Cable Curl",
+  "forza": "tirare",
+  "level": "intermedio",
+  "meccanica": "isolamento",
+  "attrezzatura": "cavo",
+  "primaryMuscle": ["bicipite"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Per iniziare, imposta un peso confortevole su ciascun lato della macchina a carrucole. Nota: Assicurati che la quantità di peso selezionata sia la stessa su ciascun lato.",
+    "Ora regola l'altezza delle carrucole su ciascun lato e assicurati che siano posizionate ad un'altezza superiore rispetto alle spalle.",
+    "Piantati nel mezzo di entrambi i lati e usa una presa sottosopra (palme rivolte verso il soffitto) per afferrare ogni maniglia. Le braccia devono essere completamente estese e parallele al pavimento con i piedi posizionati a larghezza delle spalle l'uno dall'altro. Il tuo corpo dovrebbe essere allineato in modo uniforme alle maniglie. Questa è la posizione di partenza.",
+    "Mentre espiri, stringi lentamente i bicipiti su entrambi i lati finché i tuoi avambracci e bicipiti non si toccano.",
+    "Mentre inspiri, torna i tuoi avambracci alla posizione di partenza. Nota: Tutto il tuo corpo è fermo durante questo esercizio tranne gli avambracci.",
+    "Ripeti per il numero di ripetizioni consigliate nel tuo programma."
+  ],
+  "category": "forza",
+  "immagini": ["Overhead_Cable_Curl/0.jpg", "Overhead_Cable_Curl/1.jpg"],
+  "id": "Overhead_Cable_Curl",
+  "images": ["Overhead_Cable_Curl/0.jpg", "Overhead_Cable_Curl/1.jpg"]
+}

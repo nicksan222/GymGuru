@@ -1,0 +1,29 @@
+{
+  "name": "Tirare dalle Casse",
+  "forza": "sfilare",
+  "level": "esperto",
+  "meccanica": "complesso",
+  "attrezzatura": "bilanciere",
+  "muscoliPrincipali": ["quadricipiti"],
+  "secondaryMuscles": [
+    "polpacci",
+    "avambracci",
+    "glutei",
+    "femorali",
+    "lombi",
+    "spalle",
+    "trapezi",
+    "tricipiti"
+  ],
+  "instructions": [
+    "Iniziare con un bilanciere carico su casse o supporti all'altezza desiderata. Afferrare il bilanciere con una presa ampia. I piedi devono essere direttamente sotto i fianchi, con i piedi girati come necessario. Abbassare i fianchi, con il petto in su e la testa rivolta in avanti. Le spalle dovrebbero essere appena davanti il bilanciere, con i gomiti puntati verso l'esterno. Questa sarà la posizione di partenza.",
+    "Iniziare il primo movimento tirando attraverso la parte anteriore dei talloni, sollevando il bilanciere dalle casse.",
+    "Passare al secondo movimento estendendosi attraverso flessione delle anche, ginocchia e caviglie, spingendo il bilanciere verso l'alto il più velocemente possibile. Il bilanciere dovrebbe essere vicino al corpo. Al massimo estensione, sollevare le spalle e permettere ai gomiti di piegarsi sui lati.",
+    "Mentre porti i piedi nella posizione di ricezione, tirati sotto al bilanciere mentre lo sollevi sopra la testa. I piedi dovrebbero muoversi appena fuori dai fianchi, girati come necessario. Ricevi il bilanciere con il corpo il più in basso possibile e le braccia estese sopra la testa.",
+    "Mantieni il bilanciere allineato sulla parte anteriore dei talloni, la testa e il petto in su, spingendo attraverso i talloni dei piedi per alzarsi in piedi. Riposiziona con attenzione il peso sulle casse."
+  ],
+  "category": "sollevamento pesi olimpico",
+  "immagini": ["Tirare_dalle_Casse/0.jpg", "Tirare_dalle_Casse/1.jpg"],
+  "id": "Snatch_from_Blocks",
+  "images": ["Snatch_from_Blocks/0.jpg", "Snatch_from_Blocks/1.jpg"]
+}

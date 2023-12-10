@@ -1,0 +1,23 @@
+{
+  "name": "Dumbbell Lying Supination",
+  "force": "trazione",
+  "level": "intermedio",
+  "mechanic": "isolamento",
+  "equipment": "manubrio",
+  "primaryMuscle": ["avambracci"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sdraiarsi di fianco su una panca piatta con un braccio che tiene un manubrio e l'altro sulla parte superiore della panca piegato in modo da poter appoggiare la testa.",
+    "Piega i gomiti del braccio che tiene il manubrio in modo da creare un angolo di 90 gradi tra il braccio superiore e l'avambraccio.",
+    "Solleva il braccio superiore in modo che l'avambraccio sia parallelo al pavimento e perpendicolare al tuo torace (Suggerimento: L'avambraccio sarà direttamente di fronte a te). Il braccio superiore sarà fermo vicino al tuo torace e dovrebbe essere parallelo al pavimento (allineato con il tuo torace in tutto momento). Questa sarà la tua posizione di partenza.",
+    "Mentre espiri, ruota esternamente il tuo avambraccio in modo che il manubrio sia sollevato in una movimento di semicerchio mentre mantieni l' angolo di 90 gradi tra i braccia superiori e l'avambraccio. Continuerai questa rotazione esterna fino a quando l'avambraccio sarà perpendicolare al pavimento e il torace sarà rivolto verso il soffitto. A questo punto, manterrai la contrazione per un secondo.",
+    "Mentre inspiri, torna lentamente alla posizione di partenza.",
+    "Ripeti per il numero di ripetizioni consigliate e poi passa all'altro braccio."
+  ],
+  "category": "forza",
+  "images": [
+    "Dumbbell_Lying_Supination/0.jpg",
+    "Dumbbell_Lying_Supination/1.jpg"
+  ],
+  "id": "Dumbbell_Lying_Supination"
+}

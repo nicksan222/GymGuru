@@ -1,0 +1,17 @@
+{
+  "name": "Single-Leg Stride Jump",
+  "force": "spinta",
+  "level": "principiante",
+  "mechanic": "Composto",
+  "equipment": "Altro",
+  "primaryMuscle": ["quadricipiti"],
+  "secondaryMuscles": ["adduttori", "fianchi", "polpacci", "femori"],
+  "instructions": [
+    "Stai accanto ad una scatola con il piede interno sopra di essa, vicino al bordo.",
+    "Inizia spingendo le braccia verso l'alto mentre spingi con la gamba superiore, saltando il più in alto possibile. Cerca di sollevare il ginocchio opposto.",
+    "Atterra nella stessa posizione in cui hai iniziato, usando la gamba interna per rallentare l'impatto."
+  ],
+  "category": "Pliometria",
+  "images": ["Single-Leg_Stride_Jump/0.jpg", "Single-Leg_Stride_Jump/1.jpg"],
+  "id": "Single-Leg_Stride_Jump"
+}

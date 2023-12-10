@@ -1,0 +1,22 @@
+{
+  "name": "allungamento sovrainteso seduto",
+  "forza": "statico",
+  "level": "principiante",
+  "meccanismo": "isolamento",
+  "attrezzatura": null,
+  "primaryMuscle": ["addominali"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sedersi in modo corretto su un tappetino da esercizio.",
+    "Tocca le piante dei piedi insieme con i piedi a sei centimetri di distanza dalle tue anche.",
+    "Posizionare una mano sul pavimento accanto a te e l'altra dietro la testa.",
+    "Solleva il tuo gomito verso il soffitto mentre inclini il tuo torace verso l'altro lato. Tieni la posizione per 10-20 secondi, poi cambia lato."
+  ],
+  "category": "stretching",
+  "immagini": [
+    "Seated_Overhead_Stretch/0.jpg",
+    "Seated_Overhead_Stretch/1.jpg"
+  ],
+  "id": "Seated_Overhead_Stretch",
+  "images": ["Seated_Overhead_Stretch/0.jpg", "Seated_Overhead_Stretch/1.jpg"]
+}

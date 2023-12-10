@@ -1,0 +1,18 @@
+{
+  "name": "Sollevamento bilanciere",
+  "force": "tirare",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "bilanciere",
+  "primaryMuscle": ["trapezi"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stare in piedi con i piedi alla larghezza delle spalle tenendo un bilanciere con entrambe le mani di fronte con una presa pronata (palme rivolte verso le cosce). Suggerimento: Le mani dovrebbero essere un po' più larghe delle spalle. Si possono utilizzare delle fascette per i polsi per eseguire l'esercizio con una presa migliore. Questa sarà la vostra posizione di partenza.",
+    "Sollevare le spalle il più in alto possibile espirando e mantenere la contrazione per un secondo. Suggerimento: Evitare di sollevare il bilanciere usando i bicipiti.",
+    "Tornare lentamente alla posizione di partenza inspirando.",
+    "Ripetere per il numero raccomandato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": ["Barbell_Shrug/0.jpg", "Barbell_Shrug/1.jpg"],
+  "id": "Barbell_Shrug"
+}

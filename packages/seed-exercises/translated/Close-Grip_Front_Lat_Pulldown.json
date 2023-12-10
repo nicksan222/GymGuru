@@ -1,0 +1,27 @@
+{
+  "name": "Close-Grip Front Lat Pulldown",
+  "forza": "tirare",
+  "level": "principiante",
+  "meccanica": "composta",
+  "attrezzatura": "cavo",
+  "primaryMuscle": ["dorsali"],
+  "secondaryMuscles": ["bicipiti", "dorsale medio", "spalle"],
+  "instructions": [
+    "Siediti su una macchina per il pull-down con una barra larga fissata alla puleggia superiore. Assicurati di regolare il tappeto per il ginocchio della macchina per adattarlo alla tua altezza. Questi tappeti impediranno che il tuo corpo venga sollevato dalla resistenza attaccata alla barra.",
+    "Afferra la barra con le mani rivolte in avanti usando l'impugnatura prescritta. Nota sulle impugnature: Per una presa larga, le mani devono essere distanziate a una distanza maggiore rispetto alla larghezza delle spalle. Per una presa media, le mani devono essere distanziate a una distanza uguale alla larghezza delle spalle e per una presa ravvicinata a una distanza inferiore alla larghezza delle spalle.",
+    "Mentre hai entrambe le braccia estese di fronte a te - tenendo la barra alla larghezza di presa scelta - porta il tuo torso all'indietro di circa 30 gradi creando una curvatura sulla tua parte bassa della schiena e sporgendo il tuo torace. Questa è la tua posizione di partenza.",
+    "Mentre espiri, porta la barra giù fino a toccare il tuo petto superiore portando le spalle e le braccia superiori verso il basso e indietro. Suggerimento: Concentrati nel stringere i muscoli della schiena una volta raggiunta la piena posizione contratta. Il torso superiore dovrebbe rimanere immobile (solo le braccia dovrebbero muoversi). Gli avambracci non dovrebbero fare alcun altro lavoro tranne che mantenere la barra; pertanto non cercare di tirare la barra giù usando gli avambracci.",
+    "Dopo un secondo nella posizione contratta, mentre stringi le scapole insieme, solleva lentamente la barra fino alla posizione di partenza quando le braccia sono completamente estese e i dorsali sono completamente allungati. Inspirare durante questa parte del movimento.",
+    "6. Ripeti questo movimento per il numero prescritto di ripetizioni."
+  ],
+  "category": "forza",
+  "immagini": [
+    "Close-Grip_Front_Lat_Pulldown/0.jpg",
+    "Close-Grip_Front_Lat_Pulldown/1.jpg"
+  ],
+  "id": "Close-Grip_Front_Lat_Pulldown",
+  "images": [
+    "Close-Grip_Front_Lat_Pulldown/0.jpg",
+    "Close-Grip_Front_Lat_Pulldown/1.jpg"
+  ]
+}

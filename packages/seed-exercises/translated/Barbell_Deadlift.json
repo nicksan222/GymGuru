@@ -1,0 +1,33 @@
+{
+  "name": "Sollevamento Pesi con Bilanciere Morto",
+  "force": "tira",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "bilanciere",
+  "primaryMuscle": ["parte bassa della schiena"],
+  "secondaryMuscles": [
+    "polpacci",
+    "avambracci",
+    "glutei",
+    "muscoli posteriori della coscia",
+    "fascia lombare",
+    "grande dorsale",
+    "addominali",
+    "trapezio"
+  ],
+  "instructions": [
+    "Stai davanti a un bilanciere carico.",
+    "Mantieni la schiena più dritta possibile, piega le ginocchia, piega il busto in avanti e afferra il bilanciere con una presa media (larghezza delle spalle) sopra.",
+    "Questa sarà la posizione di partenza dell'esercizio.",
+    "Suggerimento: se è difficile tenere il bilanciere con questa presa, alterna la presa o usa le cinghie per i polsi.",
+    "Mentre tieni il bilanciere, inizia sollevando le gambe e contemporaneamente porta il busto in posizione verticale mentre espiri.",
+    "In posizione verticale, sporgi il petto e contrai la schiena portando le scapole indietro.",
+    "Pensa a come appaiono i soldati nell'esercito quando stanno in posizione di attenzione.",
+    "Torna alla posizione di partenza piegando le ginocchia e contemporaneamente inclinando il busto in avanti mentre mantieni la schiena dritta.",
+    "Quando i pesi sul bilanciere toccano il pavimento sei tornato alla posizione di partenza e sei pronto per eseguire un'altra ripetizione.",
+    "Esegui il numero di ripetizioni prescritte dal programma."
+  ],
+  "category": "forza",
+  "images": ["Barbell_Deadlift/0.jpg", "Barbell_Deadlift/1.jpg"],
+  "id": "Barbell_Deadlift"
+}

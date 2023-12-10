@@ -1,0 +1,29 @@
+{
+  "name": "Pulisci",
+  "force": "tirare",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "astina",
+  "primaryMuscle": ["bicipiti femorali"],
+  "secondaryMuscles": [
+    "polpacci",
+    "avambracci",
+    "glutei",
+    "lombi",
+    "quadricipiti",
+    "spalle",
+    "trapezi"
+  ],
+  "instructions": [
+    "Con un'astina sul pavimento vicino alle caviglie, assumere una presa in overhand (o gancio) appena fuori dalle gambe. Abbassa i fianchi con il peso concentrato sui talloni, schiena dritta, testa in avanti, petto in su, con le spalle appena davanti alla barra. Questa sarà la tua posizione iniziale.",
+    "",
+    "Inizia il primo tiro spingendo attraverso i talloni, estendendo le ginocchia. L'angolo della tua schiena dovrebbe rimanere lo stesso e le braccia dovrebbero rimanere dritte. Sposta il peso con controllo mentre continui verso l'alto alle ginocchia.",
+    "Segue il secondo tiro, la principale fonte di accelerazione per la pulizia. Man mano che la barra si avvicina alla posizione della metà coscia, inizia ad estenderti attraverso i fianchi. In un movimento di salto, accelera estendendo i fianchi, le ginocchia e le caviglie, usando la velocità per muovere la barra verso l'alto. Non dovrebbe esserci bisogno di tirare attivamente con le braccia per accelerare il peso; alla fine del secondo tiro, il corpo dovrebbe essere completamente esteso, piegato leggermente all'indietro, con le braccia ancora estese.",
+    "Successivamente, raggiunto il massimo della estensione, passare al terzo tiro tirando energicamente le spalle e flettendo le braccia con le gomiti in alto e all'esterno. Al raggiungimento dell'estensione massima, tirarsi giù energicamente, ruotando i gomiti sotto la barra mentre si fa così. Ricevi la barra in una posizione di squat frontale, la profondità del quale dipende dall'altezza della barra alla fine del terzo tiro. La barra dovrebbe essere inclinata sulle spalle proiettate, toccando leggermente la gola con le mani rilassate. Continua a scendere fino alla posizione di squat inferiore, che aiuterà nella riscossione.",
+    "Riprendi immediatamente spingendo attraverso i talloni, mantenendo il busto dritto e i gomiti alzati. Continuare fino a quando non si è arrivati ​​a una posizione eretta."
+  ],
+  "category": "sollevamento pesi olimpico",
+  "immagini": ["Clean/0.jpg", "Clean/1.jpg"],
+  "id": "Clean",
+  "images": ["Clean/0.jpg", "Clean/1.jpg"]
+}

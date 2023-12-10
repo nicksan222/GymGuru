@@ -1,0 +1,16 @@
+{
+  "name": "Tricep Side Stretch",
+  "forza": "statica",
+  "level": "principiante",
+  "meccanica": null,
+  "attrezzature": null,
+  "principalimuscoli": ["tricipiti"],
+  "muscoli secondari": ["spalle"],
+  "instructions": [
+    "Porta il braccio destro attraverso il corpo e sopra la spalla sinistra, tenendo il gomito con la mano sinistra, fino a quando senti uno stiramento nel tricipite. Quindi ripeti per l'altro braccio."
+  ],
+  "category": "stretching",
+  "immagini": ["Tricep_Side_Stretch/0.jpg", "Tricep_Side_Stretch/1.jpg"],
+  "id": "Tricep_Side_Stretch",
+  "images": ["Tricep_Side_Stretch/0.jpg", "Tricep_Side_Stretch/1.jpg"]
+}

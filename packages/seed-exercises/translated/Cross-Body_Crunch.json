@@ -1,0 +1,21 @@
+{
+  "name": "Cross-Body Crunch",
+  "force": "tirare",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "solo corpo",
+  "primaryMuscle": ["addominali"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Stendi piatto sulla schiena e piega le ginocchia di circa 60 gradi.",
+    "Tieni i piedi piatti a terra e metti le mani dietro la testa in modo rilassato. Questa sarà la posizione di partenza.",
+    "Ora sollevati e porta il tuo gomito destro e la spalla attraverso il corpo mentre porti il ginocchio sinistro verso la spalla sinistra allo stesso tempo",
+    "Raggiungi con il gomito e cerca di toccare il ginocchio. Espira mentre esegui questo movimento. Suggerimento: Prova a portare la spalla verso l'alto verso il ginocchio anziché solo il gomito e ricorda che la chiave è contrarre gli addominali mentre esegui il movimento; non solo muovere il gomito.",
+    "Ora torna alla posizione di partenza mentre inspiri e ripeti con il gomito sinistro e il ginocchio destro.",
+    "Continua alternandoti in questa maniera fino a completare tutte le ripetizioni prescritte."
+  ],
+  "category": "forza",
+  "immagini": ["Cross-Body_Crunch/0.jpg", "Cross-Body_Crunch/1.jpg"],
+  "id": "Cross-Body_Crunch",
+  "images": ["Cross-Body_Crunch/0.jpg", "Cross-Body_Crunch/1.jpg"]
+}

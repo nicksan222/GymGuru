@@ -1,0 +1,17 @@
+{
+  "name": "Front Leg Raises",
+  "forza": "presa",
+  "level": "principiante",
+  "meccanico": null,
+  "attrezzatura": "solo corpo",
+  "muscoli primari": ["flessibili"],
+  "muscoli secondari": [],
+  "instructions": [
+    "Stai accanto a una sedia o altro sostegno, tenendoti con una mano.",
+    "Solleva la gamba in avanti, tenendo la gamba dritta. Continua con un movimento verso il basso, portando la gamba indietro quanto la tua flessibilità lo permette. Ripeti 5-10 volte, quindi cambia gamba."
+  ],
+  "category": "allungamento",
+  "immagini": ["Front_Leg_Raises/0.jpg", "Front_Leg_Raises/1.jpg"],
+  "id": "Front_Leg_Raises",
+  "images": ["Front_Leg_Raises/0.jpg", "Front_Leg_Raises/1.jpg"]
+}

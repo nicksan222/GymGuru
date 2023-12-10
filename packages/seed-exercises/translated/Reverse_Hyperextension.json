@@ -1,0 +1,19 @@
+{
+  "name": "Iperestensioni Reverse",
+  "force": "tiro",
+  "level": "intermedio",
+  "mechanic": null,
+  "equipment": "macchina",
+  "primaryMuscle": ["femorali"],
+  "secondaryMuscles": ["polpacci", "glutei"],
+  "instructions": [
+    "Posiziona i piedi tra le pedane dopo aver caricato un peso adeguato. Posati sulla pedana superiore, permettendo alle anca di sporgere al di fuori del retro, mentre afferrare le maniglie per mantenere la tua posizione.",
+    "Per iniziare il movimento, fletti l'anca, tirando le gambe in avanti.",
+    "Riversa il movimento estendendo l'anca, tirando la gamba indietro. È molto importante non iper-estendere l'anca in questo movimento, fermandoti prima della tua piena escursione di movimento a disposizione.",
+    "Torna flettendo l'anca, tirando il carrello in avanti il più possibile.",
+    "Ripeti per il numero desiderato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": ["Reverse_Hyperextension/0.jpg", "Reverse_Hyperextension/1.jpg"],
+  "id": "Reverse_Hyperextension"
+}

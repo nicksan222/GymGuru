@@ -1,0 +1,23 @@
+{
+  "name": "On Your Side Quad Stretch",
+  "forza": "static",
+  "level": "beginner",
+  "meccanica": "isolamento",
+  "attrezzatura": null,
+  "primaryMuscle": ["quadricipiti"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Inizia sdraiandoti sul lato destro, con il ginocchio destro piegato ad un angolo di 90 gradi e poggiato a terra davanti a te (questo stabilizza il torso).",
+    "Piega il ginocchio sinistro dietro di te e tieni il piede sinistro con la mano sinistra. Per allungare il flessore dell'anca, spingi il fianco sinistro in avanti mentre spingi indietro il piede sinistro nella tua mano. Cambia lato."
+  ],
+  "category": "stretching",
+  "immagini": [
+    "On_Your_Side_Quad_Stretch/0.jpg",
+    "On_Your_Side_Quad_Stretch/1.jpg"
+  ],
+  "id": "On_Your_Side_Quad_Stretch",
+  "images": [
+    "On_Your_Side_Quad_Stretch/0.jpg",
+    "On_Your_Side_Quad_Stretch/1.jpg"
+  ]
+}

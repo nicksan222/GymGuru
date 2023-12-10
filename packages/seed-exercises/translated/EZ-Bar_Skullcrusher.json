@@ -1,0 +1,18 @@
+{
+  "name": "EZ-Bar Skullcrusher",
+  "force": "spingere",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "e-z curl bar",
+  "primaryMuscle": ["tricipiti"],
+  "secondaryMuscles": ["avambracci"],
+  "instructions": [
+    "Usando una presa ravvicinata, sollevare la barra EZ e tenerla con i gomiti mentre si è sdraiati sulla panchina. Le braccia dovrebbero essere perpendicolari al pavimento. Questa sarà la posizione di partenza.",
+    "Mantenendo le braccia superiori ferme, abbassare la barra permettendo ai gomiti di flettersi. Inalare durante la fase di movimento. Fermarsi una volta che la barra è direttamente sopra la fronte.",
+    "Sollevare la barra per tornare alla posizione di partenza estendendo il gomito ed esalando.",
+    "Ripetere."
+  ],
+  "category": "forza",
+  "images": ["EZ-Bar_Skullcrusher/0.jpg", "EZ-Bar_Skullcrusher/1.jpg"],
+  "id": "EZ-Bar_Skullcrusher"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Exercise Ball Pull-In",
+  "forzamento": "tirare",
+  "level": "principiante",
+  "meccanismo": "composto",
+  "attrezzo": "palla da esercizio",
+  "muscoli primari": ["addominali"],
+  "muscoli secondari": [],
+  "instructions": [
+    "Posiziona una palla da esercizio nelle vicinanze e sdraiatidevi sul pavimento davanti ad essa con le mani appoggiate a terra alla larghezza delle spalle in posizione di push-up.",
+    "Ora metti le caviglie inferiori sulla palla da esercizio. Suggerimento: A questo punto le gambe dovrebbero essere completamente estese con le caviglie sopra la palla e la parte superiore del corpo dovrebbe essere in posizione di push-up, sostenuta dalle due braccia estese di fronte a te. Questa sarà la tua posizione di partenza.",
+    "Mantenendo la schiena completamente dritta e il corpo superiore fermo, porta le ginocchia verso il petto espirando, permettendo alla palla di rotolare in avanti sotto le caviglie. Spremi gli addominali e mantieni quella posizione per un secondo.",
+    "Ora lentamente raddrizza le gambe, facendo rotolare la palla indietro fino alla posizione di partenza mentre inspiri.",
+    "Ripeti per il numero consigliato di ripetizioni."
+  ],
+  "category": "forza",
+  "immagini": ["Exercise_Ball_Pull-In/0.jpg", "Exercise_Ball_Pull-In/1.jpg"],
+  "id": "Exercise_Ball_Pull-In",
+  "images": ["Exercise_Ball_Pull-In/0.jpg", "Exercise_Ball_Pull-In/1.jpg"]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Salto con cassetta avanti",
+  "force": "spinta",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "altro",
+  "primaryMuscle": ["muscoli posteriori della coscia"],
+  "secondaryMuscles": [
+    "muscoli abduttori",
+    "muscoli adduttori",
+    "polpacci",
+    "muscoli glutei",
+    "muscoli quadricipiti"
+  ],
+  "instructions": [
+    "Inizia con una cassetta a un'altezza appropriata di 1-2 piedi di fronte a te. Stai in piedi con i piedi alla larghezza delle spalle. Questa sarà la tua posizione di partenza.",
+    "Fai una piccola accosciata in preparazione per il salto, facendo oscillare le braccia dietro di te.",
+    "Scatta da questa posizione, estendendo fianchi, ginocchia e caviglie per saltare il più in alto possibile. Fai oscillare le braccia in avanti e in alto.",
+    "Atterra sulla cassetta con le ginocchia piegate, assorbendo l'impatto con le gambe. Puoi saltare dalla cassetta a terra, o preferibilmente scendere con una gamba alla volta."
+  ],
+  "category": "pliometria",
+  "images": ["Front_Box_Jump/0.jpg", "Front_Box_Jump/1.jpg"],
+  "id": "Front_Box_Jump"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Push-Ups Con I Piedi Su Una Palla Per Esercizi",
+  "force": "spingere",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "palla da esercizi",
+  "primaryMuscle": ["petto"],
+  "secondaryMuscles": ["spalle", "tricipiti"],
+  "instructions": [
+    "Stenditi a terra a pancia in giù e posiziona le mani a una distanza di circa 36 pollici l'una dall'altra, tenendo il tuo torace sollevato a braccia tese.",
+    "Metti i tuoi piedi sopra una palla da esercizi. Questo permetterà al tuo corpo di essere sollevato.",
+    "Abbassati fino a che il torace quasi tocchi il pavimento mentre inspiri.",
+    "Utilizzando i muscoli pettorali, spingi il tuo corpo verso l'alto fino alla posizione di partenza e stringi il petto. Esegui questa fase espirando.",
+    "Dopo una breve pausa nella posizione contratta, ripeti il movimento per il numero di ripetizioni prescritto."
+  ],
+  "category": "forza",
+  "images": [
+    "Push-Ups_With_Feet_On_An_Exercise_Ball/0.jpg",
+    "Push-Ups_With_Feet_On_An_Exercise_Ball/1.jpg"
+  ],
+  "id": "Push-Ups_With_Feet_On_An_Exercise_Ball"
+}

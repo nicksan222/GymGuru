@@ -1,0 +1,21 @@
+{
+  "name": "Alza manubri alternati in piedi",
+  "force": "spinta",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "manubrio",
+  "primaryMuscle": ["spalle"],
+  "secondaryMuscles": ["tricipiti"],
+  "instructions": [
+    "In piedi, con un manubrio in ogni mano. Sollevare i manubri alle spalle con le palme delle mani rivolte in avanti e i gomiti all'esterno. Questa sarà la posizione di partenza.",
+    "Estendere un braccio per premere il manubrio verso l'alto, mantenendo l'altra mano ferma. Non inclinare o strappare il peso durante il movimento.",
+    "Dopo una breve pausa, tornare al punto di partenza.",
+    "Ripetere per il lato opposto, continuando ad alternare tra i due braccia."
+  ],
+  "category": "forza",
+  "images": [
+    "Standing_Alternating_Dumbbell_Press/0.jpg",
+    "Standing_Alternating_Dumbbell_Press/1.jpg"
+  ],
+  "id": "Standing_Alternating_Dumbbell_Press"
+}

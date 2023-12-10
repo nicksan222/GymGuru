@@ -1,0 +1,18 @@
+{
+  "name": "Weighted Sissy Squat",
+  "force": "spinta",
+  "level": "esperto",
+  "mechanic": "composta",
+  "equipment": "bilanciere",
+  "primaryMuscle": ["quadricipiti"],
+  "secondaryMuscles": ["polpacci", "glutei", "femorali"],
+  "instructions": [
+    "In piedi, con i piedi alla larghezza delle spalle e le dita alzate, usa una mano per aggrapparti alle travi di uno squat rack e l'altra braccio per tenere una piastra sopra il petto. Questa è la tua posizione di partenza.",
+    "Mentre usi un braccio per sostenerti, piega le ginocchia e abbassa lentamente il torso verso il terreno portando il bacino e le ginocchia in avanti. Inspira mentre scendi e fermati quando le gambe superiori e inferiori creano quasi un angolo di 90 gradi. Tieni la posizione di stiramento per un secondo.",
+    "Dopo la pausa di un secondo, usa i muscoli delle cosce per riportare il tuo torso alla posizione di partenza. Espira mentre ti alzi.",
+    "Ripeti per il numero consigliato di volte."
+  ],
+  "category": "forza",
+  "images": ["Weighted_Sissy_Squat/0.jpg", "Weighted_Sissy_Squat/1.jpg"],
+  "id": "Weighted_Sissy_Squat"
+}

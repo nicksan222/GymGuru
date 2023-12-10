@@ -1,0 +1,18 @@
+{
+  "name": "Reverse Machine Flyes",
+  "force": "tirare",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "macchina",
+  "primaryMuscle": ["spalle"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Regolare le maniglie in modo che siano completamente all'indietro. Fare una selezione di peso appropriata e regolare l'altezza della sedia in modo che le maniglie siano al level delle spalle. Afferrare le maniglie con le mani rivolte verso l'interno. Questa sarà la posizione di partenza.",
+    "In un movimento semicircolare, tirare le mani verso il lato e indietro, contrarre i deltoidi posteriori.",
+    "Mantenere le braccia leggermente piegate durante il movimento, con tutta la movimentazione che avviene all'articolazione della spalla.",
+    "Sostare in posizione di massima contrazione finale, e lentamente riportare il peso alla posizione di partenza."
+  ],
+  "category": "forza",
+  "images": ["Reverse_Machine_Flyes/0.jpg", "Reverse_Machine_Flyes/1.jpg"],
+  "id": "Reverse_Machine_Flyes"
+}

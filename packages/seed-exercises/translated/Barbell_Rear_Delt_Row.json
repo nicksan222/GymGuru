@@ -1,0 +1,20 @@
+{
+  "name": "Barbell Rear Delt Row",
+  "forza": "trazione",
+  "level": "principiante",
+  "meccanica": "composto",
+  "attrezzatura": "bilancere",
+  "muscoli primari": ["spalle"],
+  "muscoli secondari": ["bicipiti", "lats", "dorsali medi"],
+  "instructions": [
+    "mantieni la posizione eretta mentre tieni un bilancere con una presa larga (superiore alla larghezza delle spalle) e con le mani in pronazione (le palme rivolte verso il tuo corpo).",
+    "Piega leggermente le ginocchia e inclinati in avanti mantenendo l'arco naturale della schiena. Lascia che le braccia pendano davanti a te mentre tengono il bilanciere. Una volta che il tuo torace è parallelo al pavimento, solleva i gomiti verso l'esterno e lontano dal tuo corpo. Suggerimento: il tuo busto e le tue braccia dovrebbero assomigliare alla lettera \"T\". Ora sei pronto per iniziare l'esercizio.",
+    "Mentre mantieni le braccia superiori perpendicolari al busto, tira il bilanciere verso il petto superiore mentre stringi i deltoidi posteriori e respira fuori. Suggerimento: quando viene eseguito correttamente, questo esercizio dovrebbe assomigliare a una panca in senso inverso. Inoltre, evitare di usare i bicipiti per fare il lavoro. Concentrati nel mirare i deltoidi posteriori; le braccia dovrebbero agire solo come ganci.",
+    "Ritorna lentamente alla posizione iniziale mentre inspiri.",
+    "Ripeti per il numero di ripetizioni consigliate."
+  ],
+  "category": "forza",
+  "immagini": ["Barbell_Rear_Delt_Row/0.jpg", "Barbell_Rear_Delt_Row/1.jpg"],
+  "id": "Barbell_Rear_Delt_Row",
+  "images": ["Barbell_Rear_Delt_Row/0.jpg", "Barbell_Rear_Delt_Row/1.jpg"]
+}

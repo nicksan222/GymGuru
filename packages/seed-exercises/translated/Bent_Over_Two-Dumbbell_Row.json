@@ -1,0 +1,21 @@
+{
+  "name": "Bent Over Two-Dumbbell Row",
+  "force": "tiro",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "manubrio",
+  "primaryMuscle": ["dorsi medio"],
+  "secondaryMuscles": ["bicipiti", "lats", "spalle"],
+  "instructions": [
+    "Con un manubrio in ogni mano (palmi rivolti verso il tuo torso), piega leggermente le ginocchia e porta il tuo corpo in avanti piegandoti in vita; mentre ti abbassi assicurati di mantenere la schiena dritta finché non sarà quasi parallela a terra. Suggerimento: assicurati di tenere la testa alta. I pesi dovrebbero essere davanti a te mentre le braccia sono perpendicolari a terra e al tuo torso. Questa è la tua posizione di partenza.",
+    "Mentre mantieni il torace immobile, alza i manubri di lato (mentre espiri), mantenendo i gomiti vicino al corpo (non esercitare alcuna forza con l'avambraccio se non per tenere i pesi). In alto, nella posizione contratta, contrai i muscoli della schiena e tieni premuto per un secondo.",
+    "Abbassa lentamente il peso nella posizione di partenza, mentre inspiri.",
+    "Ripeti il numero consigliato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": [
+    "Bent_Over_Two-Dumbbell_Row/0.jpg",
+    "Bent_Over_Two-Dumbbell_Row/1.jpg"
+  ],
+  "id": "Bent_Over_Two-Dumbbell_Row"
+}

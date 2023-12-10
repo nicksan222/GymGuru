@@ -1,0 +1,17 @@
+{
+  "name": "Salto della Corda",
+  "forza": null,
+  "level": "intermedio",
+  "meccanismo": null,
+  "attrezzatura": "altra",
+  "primaryMuscle": ["quadricipiti"],
+  "secondaryMuscles": ["polpacci", "femorali"],
+  "instructions": [
+    "Prendi un'estremità della corda in ogni mano. Posiziona la corda dietro di te a terra. Alza le braccia e gira la corda sopra la testa portandola giù davanti a te. Quando arriva a terra, salta sopra di essa. Trova un buon ritmo di girata che può essere mantenuto. Diverse velocità e tecniche possono essere usate per introdurre variazioni.",
+    "Saltare la corda è eccitante, sfida la coordinazione e richiede molta energia. Una persona di 150 libbre brucerà circa 350 calorie saltando la corda per 30 minuti, rispetto alle oltre 450 calorie correndo."
+  ],
+  "category": "cardio",
+  "immagini": ["Salto_della_Corda/0.jpg", "Salto_della_Corda/1.jpg"],
+  "id": "Rope_Jumping",
+  "images": ["Rope_Jumping/0.jpg", "Rope_Jumping/1.jpg"]
+}

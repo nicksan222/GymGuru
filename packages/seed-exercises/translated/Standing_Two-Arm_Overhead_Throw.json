@@ -1,0 +1,20 @@
+{
+  "name": "Lancio a braccia tese sopra la testa in piedi",
+  "force": "tirare",
+  "level": "principiante",
+  "mechanic": "composito",
+  "equipment": "palla medica",
+  "primaryMuscle": ["spalle"],
+  "secondaryMuscles": ["petto", "larghezza della schiena"],
+  "instructions": [
+    "Stare in piedi con i piedi larghi quanto le spalle, tenendo una palla medica in entrambe le mani. Per cominciare, portare la palla medica dietro la testa mentre si piegano leggermente le ginocchia e si estende il busto all'indietro.",
+    "Gettare violentemente la palla in avanti, flettendo i fianchi e usando tutto il corpo per completare il movimento.",
+    "La palla medica può essere lanciata a un partner o a una parete, ricevendola quando rimbalza indietro."
+  ],
+  "category": "pliometria",
+  "images": [
+    "Standing_Two-Arm_Overhead_Throw/0.jpg",
+    "Standing_Two-Arm_Overhead_Throw/1.jpg"
+  ],
+  "id": "Standing_Two-Arm_Overhead_Throw"
+}

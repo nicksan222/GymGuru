@@ -1,0 +1,25 @@
+{
+  "name": "Alternating Hang Clean",
+  "force": "tirare",
+  "level": "intermedio",
+  "meccanismo": "composito",
+  "attrezzatura": "manubri",
+  "muscoli primari": ["bicipiti"],
+  "muscoli secondari": [
+    "bicipiti",
+    "polpacci",
+    "avambracci",
+    "glutei",
+    "parte bassa della schiena",
+    "trapezi"
+  ],
+  "instructions": [
+    "Posiziona due manubri tra i piedi. Per assumere la posizione di partenza, spingi il tuo sedere verso indietro e guarda dritto davanti a te.",
+    "Pulisci un manubrio sulla spalla e tieni l'altro manubrio in una posizione pendente. Pulisci il manubrio sulla spalla estendendo le gambe e i fianchi mentre tiri il manubrio verso le spalle. Ruota il polso mentre lo fai.",
+    "Abbassa il manubrio pulito in una posizione pendente e pulisci il manubrio alternato. Ripeti."
+  ],
+  "category": "forza",
+  "immagini": ["Alternating_Hang_Clean/0.jpg", "Alternating_Hang_Clean/1.jpg"],
+  "id": "Alternating_Hang_Clean",
+  "images": ["Alternating_Hang_Clean/0.jpg", "Alternating_Hang_Clean/1.jpg"]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Remiera, stazionaria",
+  "force": null,
+  "level": "intermedio",
+  "mechanic": null,
+  "equipment": "strumento",
+  "primaryMuscle": ["quadricipiti"],
+  "secondaryMuscles": [
+    "bicipiti",
+    "polpacci",
+    "glutei",
+    "femori",
+    "regione lombare",
+    "regione dorsale"
+  ],
+  "instructions": [
+    "Per cominciare, siediti sulla remiera. Assicurati che i tuoi talloni siano appoggiati comodamente contro la base dei pedali e che le cinghie siano ben fissate. Se applicabile, seleziona il programma che desideri utilizzare. Resta seduto dritto e piegati in avanti alle anche.",
+    "Ci sono tre fasi di movimento quando si utilizza una remiera. La prima fase è quando ti avvicini alla remiera. Le ginocchia sono piegate e contro il petto. La parte superiore del corpo è leggermente inclinata in avanti mantenendo comunque una buona postura. Successivamente, spingi contro i pedali delle gambe e estendi le gambe mentre porti le mani all'altezza della parte superiore dell'addome, stringendo le spalle indietro mentre lo fai. Per evitare di sforzare la schiena, utilizza principalmente i muscoli delle gambe e dell'anca.",
+    "La fase di recupero consiste semplicemente nel mantenere i gomiti dritti, piegare le ginocchia e portare nuovamente il corpo in avanti durante la transizione verso la prima fase."
+  ],
+  "category": "cardio",
+  "images": ["Rowing_Stationary/0.jpg", "Rowing_Stationary/1.jpg"],
+  "id": "Rowing_Stationary"
+}

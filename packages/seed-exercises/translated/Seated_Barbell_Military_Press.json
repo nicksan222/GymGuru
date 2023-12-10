@@ -1,0 +1,22 @@
+{
+  "name": "Military Press con manubrio seduto",
+  "force": "spingere",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "manubrio",
+  "primaryMuscle": ["spalle"],
+  "secondaryMuscles": ["tricipiti"],
+  "instructions": [
+    "Sedetevi su una panca per Military Press con un manubrio dietro la testa e chiedete ad un amico di darvi il manubrio (in questo modo sarà migliore per la cuffia dei rotatori) o prendetelo voi stessi con cautela impugnandolo normalmente (mani rivolte in avanti). Suggerimento: La presa dovrebbe essere più larga delle spalle e creare un angolo di 90 gradi tra l'avambraccio e il braccio mentre il manubrio scende.",
+    "Una volta che avete il manubrio con la giusta impugnatura, sollevatelo sopra la testa bloccando le braccia. Tenete il manubrio a level delle spalle e leggermente davanti alla testa. Questa è la posizione di partenza.",
+    "Abbassate il manubrio lentamente fino alla clavicola mentre inspirate.",
+    "Sollevate il manubrio nuovamente fino alla posizione di partenza mentre espirate.",
+    "Ripetete per il numero consigliato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": [
+    "Seated_Barbell_Military_Press/0.jpg",
+    "Seated_Barbell_Military_Press/1.jpg"
+  ],
+  "id": "Seated_Barbell_Military_Press"
+}

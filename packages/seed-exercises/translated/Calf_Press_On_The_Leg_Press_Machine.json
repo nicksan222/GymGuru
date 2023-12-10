@@ -1,0 +1,26 @@
+{
+  "name": "Pressa per vitelli sulla Macchina Presa Gambe",
+  "forza": "spinta",
+  "level": "principiante",
+  "meccanismo": "isolamento",
+  "attrezzatura": "macchina",
+  "muscoli primari": ["vitielli"],
+  "muscoli secondari": [],
+  "instructions": [
+    "Utilizzando una macchina per gli allungamenti, sedetevi sulla macchina e posizionate le gambe sulla piattaforma di fronte a voi, in una posizione media (larghezza delle spalle).",
+    "Abbassate le sbarre di sicurezza che tengono la piattaforma pesata in posizione e spingete la piattaforma verso l'alto fino a che le gambe si estendono completamente di fronte a voi senza bloccare le ginocchia (Nota: In alcune macchine per gli allungamenti è possibile lasciare le sbarre di sicurezza per maggiore sicurezza. Se la vostra macchina per gli allungamenti lo consente, questa è il metodo preferito per eseguire l'esercizio). Il busto e le gambe devono formare un angolo perfetto a 90 gradi. Ora posizionate attenzionatamente le dita dei piedi e le palle dei piedi sulla parte inferiore della piattaforma, con i talloni fuori. Le dita dei piedi dovrebbero essere rivolte in avanti, verso l'esterno o verso l'interno come descritto all'inizio del capitolo. Questa sarà la posizione di partenza.",
+    "Sollevatevi sulla piattaforma spingendo i talloni in alto mentre espirate, estendendo le caviglie il più possibile e flettendo i vitielli. Assicuratevi di mantenere il ginocchio immobile in ogni momento. Non ci deve essere flessione in alcun momento. Mantenete la posizione contratta per un secondo prima di iniziare a tornare indietro.",
+    "Tornate lentamente alla posizione di partenza mentre inspirate, abbassando i talloni e piegando le caviglie finché i vitelli si allungano.",
+    "Ripetere per il numero raccomandato di ripetizioni."
+  ],
+  "category": "forza",
+  "immagini": [
+    "Pressa_per_Vitelli_sulla_Macchina_Presa_Gambe/0.jpg",
+    "Pressa_per_Vitelli_sulla_Macchina_Presa_Gambe/1.jpg"
+  ],
+  "id": "Calf_Press_On_The_Leg_Press_Machine",
+  "images": [
+    "Calf_Press_On_The_Leg_Press_Machine/0.jpg",
+    "Calf_Press_On_The_Leg_Press_Machine/1.jpg"
+  ]
+}

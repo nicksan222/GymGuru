@@ -1,0 +1,20 @@
+{
+  "name": "Incline Cable Flye",
+  "force": "spinta",
+  "level": "intermedio",
+  "mechanic": "isolamento",
+  "equipment": "cavo",
+  "primaryMuscle": ["petto"],
+  "secondaryMuscles": ["spalle"],
+  "instructions": [
+    "Per posizionarsi nella posizione di partenza, impostare le carrucole al level del pavimento (al level più basso possibile sulla macchina che si trova sotto il tuo torso).",
+    "Posiziona una panca inclinata (regolata a 45 gradi) tra le carrucole, seleziona un peso su ciascuna e afferra una carrucola su ogni mano.",
+    "Con una maniglia su ciascuna mano, sdraiati sulla panca inclinata e porta le mani insieme a braccia tese di fronte al tuo viso. Questa sarà la tua posizione iniziale.",
+    "Con una leggera flessione dei gomiti (per prevenire lo stress sul tendine del bicipite), abbassare le braccia su entrambi i lati in un ampio arco fino a sentire uno stiramento sul petto. Inspira mentre esegui questa parte del movimento. Suggerimento: ricorda che durante il movimento, le braccia dovrebbero rimanere ferme. Il movimento dovrebbe avvenire solo all'articolazione della spalla.",
+    "Ritorna le braccia alla posizione di partenza mentre contrai i muscoli del petto e espira. Mantieni la posizione contratta per un secondo. Suggerimento: assicurati di utilizzare lo stesso arco di movimento utilizzato per abbassare i pesi.",
+    "Ripeti il movimento per il numero prescritto di ripetizioni."
+  ],
+  "category": "forza",
+  "images": ["Incline_Cable_Flye/0.jpg", "Incline_Cable_Flye/1.jpg"],
+  "id": "Incline_Cable_Flye"
+}

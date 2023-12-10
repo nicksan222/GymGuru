@@ -1,0 +1,19 @@
+{
+  "name": "Cable Sotto Pushdown",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolazione",
+  "equipment": "filo",
+  "primaryMuscle": ["lats"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Posizionati su una panca inclinata con la schiena rivolta nella direzione di una macchina ad alto cavo che abbia un attacco a barra dritta.",
+    "Afferra l'attacco a barra dritta sopra la testa con una presa pronata (sopra; palme verso il basso) della larghezza delle spalle e estendi le braccia di fronte a te. La barra dovrebbe trovarsi a circa 2 pollici di distanza dalle tue coscie superiori. Questa sarà la tua posizione di partenza.",
+    "Tenendo fermi i braccia superiori, solleva le braccia in avanti in un semicerchio fino a quando la barra è dritta sopra la testa. Respira durante questa parte del movimento.",
+    "Torna lentamente alla posizione di partenza usando i tuoi lats e mantieni la contrazione una volta raggiunta la posizione di partenza. Espira durante l'esecuzione di questo movimento.",
+    "Ripeti per il numero consigliato di ripetizioni."
+  ],
+  "category": "resistenza",
+  "images": ["Cable_Incline_Pushdown/0.jpg", "Cable_Incline_Pushdown/1.jpg"],
+  "id": "Cable_Incline_Pushdown"
+}

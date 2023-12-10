@@ -1,0 +1,26 @@
+{
+  "name": "Smith Machine Bench Press",
+  "forza": "spingere",
+  "level": "principiante",
+  "meccanica": "composta",
+  "equipaggiamento": "macchina",
+  "muscoli primari": ["petto"],
+  "muscoli secondari": ["spalle", "tricipiti"],
+  "instructions": [
+    "Posizionare una panca piatta sotto la macchina Smith. Poi posizionare la barra ad un'altezza che si possa raggiungere quando ci si sdraia e le braccia sono quasi completamente estese. Una volta selezionato il peso necessario, sdraiarsi sulla panca piatta. Utilizzando una presa prona più larga della larghezza delle spalle, sbloccare la barra dal supporto e tenerla dritta sopra con le braccia bloccate. Questa sarà la posizione di partenza.",
+    "Mentre inspirate, scendere lentamente fino a sentire la barra sul petto medio.",
+    "Dopo una pausa di un secondo, riportare la barra alla posizione di partenza espirando e spingendo la barra con i muscoli del petto. Bloccare le braccia nella posizione contratta, tenere per un secondo e poi iniziare a scendere lentamente di nuovo. Suggerimento: Ci dovrebbe mettere almeno due volte più tempo a scendere rispetto a salire.",
+    "Ripetere il movimento per il numero prescritto di ripetizioni.",
+    "Quando hai finito, blocca di nuovo la barra nel supporto."
+  ],
+  "category": "forza",
+  "immagini": [
+    "Smith_Machine_Bench_Press/0.jpg",
+    "Smith_Machine_Bench_Press/1.jpg"
+  ],
+  "id": "Smith_Machine_Bench_Press",
+  "images": [
+    "Smith_Machine_Bench_Press/0.jpg",
+    "Smith_Machine_Bench_Press/1.jpg"
+  ]
+}

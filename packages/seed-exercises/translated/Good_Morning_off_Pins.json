@@ -1,0 +1,16 @@
+{
+  "name": "Buongiorno Dai Spilli",
+  "force": "Push",
+  "level": "Intermedia",
+  "mechanic": "Composto",
+  "equipment": "barra",
+  "primaryMuscle": ["muscoli posteriori della coscia"],
+  "secondaryMuscles": ["addominali", "glutei", "parte bassa della schiena"],
+  "instructions": [
+    "Inizia con una barra su di un supporto a circa la stessa altezza dello stomaco. Piega il corpo sotto la barra e sistemala sulle spalle posteriori come faresti con uno squat, non sulla parte superiore delle spalle. Alla giusta altezza, dovresti essere quasi parallelo al pavimento quando sei piegato. Tieni la schiena tesa, le scapole unite e le ginocchia leggermente flesse. Tieni la schiena curva e la colonna cervicale in posizione corretta.",
+    "Inizia il movimento estendendoti attraverso le anche con i glutei e i muscoli posteriori della coscia, e poi alzati con il peso. Abbassa lentamente il peso fino ai supporti, tornando alla posizione di partenza."
+  ],
+  "category": "Powerlifting",
+  "images": ["Good_Morning_off_Pins/0.jpg", "Good_Morning_off_Pins/1.jpg"],
+  "id": "Good_Morning_off_Pins"
+}

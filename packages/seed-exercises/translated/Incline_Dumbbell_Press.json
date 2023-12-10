@@ -1,0 +1,22 @@
+{
+  "name": "Pressa di dumbbell inclinata",
+  "potenza": "spingere",
+  "level": "principiante",
+  "meccanico": "composto",
+  "attrezzatura": "dumbbell",
+  "primarioMuscoli": ["petto"],
+  "secondariMuscoli": ["spalle", "tricipiti"],
+  "instructions": [
+    "Sdraiati su una panca inclinata con un manubrio in ogni mano in cima alle cosce. I palmi delle tue mani saranno rivolti l'uno verso l'altro.",
+    "Poi, usando le tue cosce per aiutare a spingere i manubri su, solleva i manubri uno alla volta in modo da poterli tenere alla larghezza delle spalle.",
+    "Una volta sollevati i manubri alla larghezza delle spalle, ruota i polsi in avanti in modo che i palmi delle mani si trovino lontano da te. Questa sarà la tua posizione di partenza.",
+    "Assicurati di mantenere il pieno controllo dei manubri in ogni momento. Poi espira e spingi i manubri su con il petto.",
+    "Blocca le braccia in cima, tieni per un secondo, e poi inizia a abbassare lentamente il peso. Consiglio Idealmente, abbassare i pesi dovrebbe richiedere circa il doppio del tempo necessario per sollevarli.",
+    "Ripeti il movimento per il numero prescritto di ripetizioni.",
+    "Quando hai finito, posiziona i manubri di nuovo sulle cosce e poi sul pavimento. Questo è il modo più sicuro per rilasciare i manubri."
+  ],
+  "category": "forza",
+  "immagini": ["Incline_Dumbbell_Press/0.jpg", "Incline_Dumbbell_Press/1.jpg"],
+  "id": "Incline_Dumbbell_Press",
+  "images": ["Incline_Dumbbell_Press/0.jpg", "Incline_Dumbbell_Press/1.jpg"]
+}

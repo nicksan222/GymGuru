@@ -1,0 +1,20 @@
+{
+  "name": "Decline Smith Press",
+  "forza": "spingere",
+  "level": "principiante",
+  "meccanico": "composto",
+  "attrezzatura": "macchina",
+  "primaryMuscle": ["petto"],
+  "secondaryMuscles": ["spalle", "tricipiti"],
+  "instructions": [
+    "Posizionare una panca declinata sotto la macchina Smith. Inserire la barra a un'altezza a cui si possa raggiungere quando si è sdraiati e le braccia sono quasi completamente estese. Utilizzando una presa pronunciata più larga della larghezza delle spalle, sbloccare la barra dal rack e tenerla dritta sopra di voi con le braccia estese. Questa sarà la vostra posizione iniziale.",
+    "Mentre si inspira, abbassare la barra sotto controllo consentendo ai gomiti di flettersi, toccando leggermente il torso.",
+    "Dopo una breve pausa, riportare la barra alla posizione di partenza estendendo i gomiti, espirando mentre si fa ciò.",
+    "Ripetere il movimento per il numero di ripetizioni prescritte.",
+    "Quando la serie è completa, reinserire la barra nel rack."
+  ],
+  "category": "forza",
+  "immagini": ["Decline_Smith_Press/0.jpg", "Decline_Smith_Press/1.jpg"],
+  "id": "Decline_Smith_Press",
+  "images": ["Decline_Smith_Press/0.jpg", "Decline_Smith_Press/1.jpg"]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Allungamento tricipiti estensione con manubrio su un braccio",
+  "force": "spingere",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": "manubrio",
+  "primaryMuscle": ["tricipiti"],
+  "secondaryMuscles": ["petto", "spalle"],
+  "instructions": [
+    "Per iniziare, ti rialzi con un manubrio in una mano. I piedi devono essere distanziati sulla larghezza delle spalle. Ora tendi completamente il braccio con il manubrio sopra la testa. Suggerimento: il mignolo della tua mano deve essere rivolto verso il soffitto e il palmo della mano deve essere rivolto in avanti. Il manubrio deve essere sopra la testa.",
+    "Questo sarà la tua posizione di partenza.",
+    "Mantieni il braccio superiore vicino alla testa (gomiti all'interno) e perpendicolare al pavimento, abbassa la resistenza in un movimento semicircolare dietro la testa fino a quando l'avambraccio tocca il bicipite. Consiglio: il braccio superiore deve rimanere fermo e solo l'avambraccio deve muoversi. Respira durante questa fase.",
+    "Torna alla posizione di partenza usando i tricipiti per sollevare il manubrio. Espira durante questa fase.",
+    "Ripeti per il numero di ripetizioni raccomandato.",
+    "Cambia braccia e ripeti l'esercizio."
+  ],
+  "category": "forza",
+  "images": [
+    "Standing_One-Arm_Dumbbell_Triceps_Extension/0.jpg",
+    "Standing_One-Arm_Dumbbell_Triceps_Extension/1.jpg"
+  ],
+  "id": "Standing_One-Arm_Dumbbell_Triceps_Extension"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Sollevamenti Laterali Laterali per Sollevamento Frontale",
+  "sforza": "spinta",
+  "level": "principiante",
+  "meccanico": "isolamento",
+  "attrezzatura": "manubri",
+  "primaryMuscle": ["spalle"],
+  "secondaryMuscles": ["trappole"],
+  "instructions": [
+    "In piedi, tenere un paio di manubri sur un latéral.",
+    "Questo sarà il tuo angolo di partenza.",
+    "Mantenere i gomiti leggermente piegati, sollevare i pesi direttamente di fronte a te fino all'altezza delle spalle, evitando di osciller o imbrogliare.",
+    "In cima all'esercizio spostare i pesi in avanti di fronte a te, mantenendo le braccia estese.",
+    "Abbassare i pesi con un movimento controllato.",
+    "Sulla prossima ripetizione, sollevare i pesi di fronte a te fino all'altezza delle spalle prima di spostare i pesi lateralmente ai lati.",
+    "Abbassare i pesi alla posizione di partenza."
+  ],
+  "category": "forza",
+  "immagini": [
+    "Sollevamenti_Laterali_Laterali_per_Sollevamento_Frontale/0.jpg",
+    "Sollevamenti_Laterali_Laterali_per_Sollevamento_Frontale/1.jpg"
+  ],
+  "id": "Side_Laterals_to_Front_Raise",
+  "images": [
+    "Side_Laterals_to_Front_Raise/0.jpg",
+    "Side_Laterals_to_Front_Raise/1.jpg"
+  ]
+}

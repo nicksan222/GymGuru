@@ -1,0 +1,20 @@
+{
+  "name": "Machine Preacher Curls",
+  "forza": "pull",
+  "level": "beginner",
+  "meccanico": "isolamento",
+  "attrezzatura": "macchina",
+  "primaryMuscle": ["bicipiti"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Siediti sulla macchina per i curl con i presbiteri e seleziona il peso.",
+    "Posiziona la parte posteriore dei tuoi arti superiori (i tuoi tricipiti) sul cuscino del presbitero fornito e afferra le maniglie con una presa sotto mano (palme rivolte verso l'alto). Suggerimento: Assicurati che quando posizioni le braccia sul cuscino mantieni i gomiti. Questa sarà la tua posizione di partenza.",
+    "Solleva le maniglie mentre espiri e contrai i bicipiti. In cima alla posizione assicurati di mantenere la contrazione per un secondo. Suggerimento: Solo gli avambracci dovrebbero muoversi. Gli arti superiori dovrebbero rimanere fermi e sul cuscino tutto il tempo.",
+    "Abbassa lentamente le maniglie fino alla posizione di partenza mentre inspiri.",
+    "Ripeti per il numero consigliato di ripetizioni."
+  ],
+  "category": "forza",
+  "immagini": ["Machine_Preacher_Curls/0.jpg", "Machine_Preacher_Curls/1.jpg"],
+  "id": "Machine_Preacher_Curls",
+  "images": ["Machine_Preacher_Curls/0.jpg", "Machine_Preacher_Curls/1.jpg"]
+}

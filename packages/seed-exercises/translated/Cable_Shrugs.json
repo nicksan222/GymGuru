@@ -1,0 +1,20 @@
+{
+  "name": "Sollevamento cavi",
+  "resistenza": "trazione",
+  "level": "principianti",
+  "meccanismo": "isolamento",
+  "attrezzattura": "cavo",
+  "primaryMuscle": ["trapezi"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Aggrappati ad un'attacco a cavo attaccato ad un polipo basso con un'impugnatura in avanti con le palme rivolte in basso.",
+    "Stai in posizione eretta vicino al polipo con le braccia estese davanti a te che tengono la barra. Questa sarà la tua posizione iniziale.",
+    "Solleva la barra alzando le spalle il più in alto possibile mentre esaliamo. Mantieni la contrazione in alto per un secondo. Consiglio: Le braccia dovrebbero rimare estese in ogni momento. Evita di utilizzare il bicipite per aiutare a sollevare la barra. Solo le spalle dovrebbero muoversi su e giù.",
+    "Abbassa la barra nella posizione originale.",
+    "Ripeti il numero raccomandato di ripetizioni."
+  ],
+  "category": "potenziamento muscolare",
+  "immagini": ["Sollevamento_cavi/0.jpg", "Sollevamento_cavi/1.jpg"],
+  "id": "Cable_Shrugs",
+  "images": ["Cable_Shrugs/0.jpg", "Cable_Shrugs/1.jpg"]
+}

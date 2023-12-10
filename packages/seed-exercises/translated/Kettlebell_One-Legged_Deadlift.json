@@ -1,0 +1,20 @@
+{
+  "name": "Sollevamento deadizzato con Kettlebell su una gamba",
+  "force": "trazione",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "Kettlebell",
+  "primaryMuscle": ["muscoli posteriori della coscia"],
+  "secondaryMuscles": ["glutei", "muscoli lombari"],
+  "instructions": [
+    "Afferra un Kettlebell con una mano dalla maniglia. Stai su una gamba, dalla stessa parte in cui tieni il Kettlebell.",
+    "Mantieni leggermente flessa questa gamba e compi un deadlift con gamba rigida piegando l'anca, tenendo l'altra gamba tesa dietro per mantenere l'equilibrio.",
+    "Continua a abbassare il Kettlebell fino ad arrivare al level del pavimento, e poi torna in posizione eretta."
+  ],
+  "category": "forza",
+  "images": [
+    "Kettlebell_One-Legged_Deadlift/0.jpg",
+    "Kettlebell_One-Legged_Deadlift/1.jpg"
+  ],
+  "id": "Kettlebell_One-Legged_Deadlift"
+}

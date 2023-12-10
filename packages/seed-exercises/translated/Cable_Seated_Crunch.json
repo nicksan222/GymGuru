@@ -1,0 +1,20 @@
+{
+  "name": "Cable Seated Crunch",
+  "forza": "tirare",
+  "level": "principiante",
+  "meccanismo": "isolamento",
+  "attrezzatura": "cavo",
+  "muscoli primari": ["addominali"],
+  "muscoli secondari": [],
+  "instructions": [
+    "Sedersi su una panca piatta con la schiena rivolta verso un alto blocco.",
+    "Afferrare l'attacco a cavo con entrambe le mani (con i palmi delle mani rivolti l'uno verso l'altro) e posizionare le mani in modo sicuro sopra le spalle. Suggerimento: Permettere al peso di iperestendere leggermente la parte bassa della schiena. Questa sarà la posizione di partenza.",
+    "Con l'anca ferma, flettere la vita in modo che i gomiti si avvicinino all'anca. Espirare durante questa fase.",
+    "Mentre inspiri, torna lentamente alla posizione iniziale.",
+    "Ripetere per il numero raccomandato di ripetizioni."
+  ],
+  "category": "forza",
+  "immagini": ["Cable_Seated_Crunch/0.jpg", "Cable_Seated_Crunch/1.jpg"],
+  "id": "Cable_Seated_Crunch",
+  "images": ["Cable_Seated_Crunch/0.jpg", "Cable_Seated_Crunch/1.jpg"]
+}

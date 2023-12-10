@@ -1,0 +1,21 @@
+{
+  "name": "Double Kettlebell Snatch",
+  "intensità": "tirare",
+  "level": "esperto",
+  "meccanico": "composto",
+  "equipaggiamento": "palle",
+  "muscoli primari": ["spalle"],
+  "muscoli secondari": ["glutei", "femorali", "quadriceps"],
+  "instructions": [
+    "Posiziona due palle dietro i piedi. Piegati le ginocchia e siediti indietro per raccogliere le palle.",
+    "Sferzare le palle tra le gambe con forza e invertire la direzione.",
+    "Lungi attraverso con i fianchi e blocca le palline sopra la testa in un solo movimento ininterrotto."
+  ],
+  "category": "forza",
+  "immagini": [
+    "Double_Kettlebell_Snatch/0.jpg",
+    "Double_Kettlebell_Snatch/1.jpg"
+  ],
+  "id": "Double_Kettlebell_Snatch",
+  "images": ["Double_Kettlebell_Snatch/0.jpg", "Double_Kettlebell_Snatch/1.jpg"]
+}

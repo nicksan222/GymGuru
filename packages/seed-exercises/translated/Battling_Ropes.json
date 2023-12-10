@@ -1,0 +1,19 @@
+{
+  "name": "Battling Ropes",
+  "forza": "push",
+  "level": "beginner",
+  "meccanico": "compound",
+  "attrezzatura": "altro",
+  "muscoli primari": ["spalle"],
+  "muscoli secondari": ["petto", "avambracci"],
+  "instructions": [
+    "Per questo esercizio avrai bisogno di una fune pesante ancorata al centro a una distanza di 15-20 piedi. In piedi davanti alla fune, prendi un'estremità in ogni mano con le braccia distese lungo il fianco. Questa sarà la tua posizione di partenza.",
+    "Inizia il movimento alzando rapidamente un braccio fino al level delle spalle il più velocemente possibile.",
+    "Mentre lasci che quell' braccio cada nella posizione di partenza, alza il lato opposto.",
+    "Continua ad alternare i tuoi braccia sinistra e destra, frustando le funi su e giù più velocemente possibile."
+  ],
+  "category": "forza",
+  "immagini": ["Battling_Ropes/0.jpg", "Battling_Ropes/1.jpg"],
+  "id": "Battling_Ropes",
+  "images": ["Battling_Ropes/0.jpg", "Battling_Ropes/1.jpg"]
+}

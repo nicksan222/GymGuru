@@ -1,0 +1,27 @@
+{
+  "name": "Low Cable Triceps Extension",
+  "forza": "spingere",
+  "level": "principiante",
+  "meccanica": "isolamento",
+  "attrezzatura": "cavo",
+  "primaryMuscle": ["tricipiti"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Seleziona il peso desiderato e sdraiati a faccia in su sulla panchina di una macchina per le fila seduta alla quale è collegata una corda. La tua testa dovrebbe essere rivolta verso l'attacco.",
+    "Afferra gli esterni delle estremità della corda con le palme rivolte l'una verso l'altra (presa neutra).",
+    "Posiziona i tuoi gomiti in modo che siano piegati ad un angolo di 90 gradi e le tue braccia superiori siano perpendicolari (angolo di 90 gradi) al tuo busto. Suggerimento: Mantieni i gomiti dentro e assicurati che le braccia superiori puntino verso il soffitto mentre gli avambracci puntano verso la puleggia sopra la tua testa. Questa sarà la tua posizione di partenza.",
+    "Mentre espiri, estendi i tuoi avambracci fino a quando sono dritti e verticali. Le braccia superiori e i gomiti rimangono immobili durante il movimento. Solo gli avambracci dovrebbero muoversi. Contrai i tricipiti forte per un secondo.",
+    "Mentre inspiri lentamente ritorna alla posizione di partenza.",
+    "Ripeti per il numero consigliato di ripetizioni."
+  ],
+  "category": "forza",
+  "immagini": [
+    "Low_Cable_Triceps_Extension/0.jpg",
+    "Low_Cable_Triceps_Extension/1.jpg"
+  ],
+  "id": "Low_Cable_Triceps_Extension",
+  "images": [
+    "Low_Cable_Triceps_Extension/0.jpg",
+    "Low_Cable_Triceps_Extension/1.jpg"
+  ]
+}

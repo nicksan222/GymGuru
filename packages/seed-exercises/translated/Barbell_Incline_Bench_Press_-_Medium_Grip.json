@@ -1,0 +1,22 @@
+{
+  "name": "Sollevamento manubri inclinato panca - Presa Media",
+  "force": "spingere",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "manubri",
+  "primaryMuscle": ["petto"],
+  "secondaryMuscles": ["spalle", "tricipiti"],
+  "instructions": [
+    "Sdraiato su una panca inclinata. Utilizzando una presa di larghezza media (una presa che crea un angolo di 90 gradi nel mezzo del movimento tra l'avambraccio e la parte superiore del braccio), solleva la barra dal rack e tienila dritta sopra di te con le braccia bloccate. Questa sarà la tua posizione di partenza.",
+    "Mentre inspiri, scendi lentamente fino a sentire la barra sul petto superiore.",
+    "Dopo una pausa di un secondo, riporta la barra alla posizione di partenza mentre espiri e spingi la barra utilizzando i muscoli del petto. Blocca le braccia in posizione contratta, stringi il petto, tieni per un secondo e inizia di nuovo a scendere lentamente. Suggerimento: impiegherai almeno il doppio del tempo per scendere che per salire.",
+    "Ripeti il movimento per il numero prescritto di ripetizioni.",
+    "Quando hai finito, riponi la barra nel rack."
+  ],
+  "category": "forza",
+  "images": [
+    "Barbell_Incline_Bench_Press_-_Medium_Grip/0.jpg",
+    "Barbell_Incline_Bench_Press_-_Medium_Grip/1.jpg"
+  ],
+  "id": "Barbell_Incline_Bench_Press_-_Medium_Grip"
+}

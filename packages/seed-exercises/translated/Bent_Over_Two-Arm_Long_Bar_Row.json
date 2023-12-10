@@ -1,0 +1,27 @@
+{
+  "name": "Bent Over Two-Arm Long Bar Row",
+  "force": "tire",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "barbell",
+  "primaryMuscle": ["mesottoil back"],
+  "secondaryMuscles": ["bicipiti", "lati"],
+  "instructions": [
+    "Metti il peso su uno dei lati di una bilancia olimpica.Asegúrate di colocar l'altro estremo della bilancia nell'angolo di due pareti oppure metti un oggetto pesante sul pavimento in modo tale che la bilancia non possa scivolare all'indietro.",
+    "Chinarsi all'indietro finché il busto non è il più vicino possibile al piano del pavimento e tenere le ginocchia leggermente flesse.",
+    "Ora afferra la barra con entrambe le braccia subito dietro i dischi sul lato in cui è stato collocato il peso e posa l'altra mano sul ginocchio. Questa sarà la tua posizione iniziale.",
+    "Tirare la barra dritta su con i gomiti (per massimizzare gli stimoli della schiena) fino a quando i dischi toccano il petto inferiore. Stringere i muscoli della schiena quando si solleva il peso e mantenere per un secondo in cima al movimento. Espirare mentre si solleva il peso. Suggerimento: utilizzare un aggancio per summite o doppia impugnatura attacco in filo agganciandolo sotto la fine della barra.",
+    "Abbassare lentamente la barra alla posizione di partenza ottenendo un'ottima distensione dei lati. Suggerimento: non lasciare che i dischi tocchino il pavimento. Per garantire il miglior arco di movimento, consiglio di utilizzare piastre più piccole (di 25 libbre) anziché piastre più grandi (come quelle da 35-45 libbre).",
+    "Ripetere per il numero di ripetizioni consigliate."
+  ],
+  "category": "forte",
+  "immobili": [
+    "Bent_Over_Two-Arm_Long_Bar_Row / 0.jpg",
+    "Bent_Over_Two-Arm_Long_Bar_Row / 1.jpg"
+  ],
+  "id": "Bent_Over_Two-Arm_Long_Bar_Row",
+  "images": [
+    "Bent_Over_Two-Arm_Long_Bar_Row/0.jpg",
+    "Bent_Over_Two-Arm_Long_Bar_Row/1.jpg"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Barbell Hip Thrust",
+  "forza": "spinta",
+  "level": "intermedio",
+  "meccanismo": "composto",
+  "attrezzatura": "bilanciere",
+  "muscoli primari": ["glutei"],
+  "muscoli secondari": ["polpacci", "femorali"],
+  "instructions": [
+    "Inizia seduto a terra con una panca direttamente alle spalle. Poggia un bilanciere carico sulle tue gambe. L'utilizzo di un bilanciere più grosso o un cuscinetto sul bilanciere può ridurre notevolmente il fastidio causato da questo esercizio.",
+    "Fai rotolare il bilanciere in modo che sia direttamente sopra le anche e appoggiati alla panca in modo che le ossa delle spalle siano vicine alla parte superiore.",
+    "Inizia il movimento spingendo con i piedi, estendendo le anche verticalmente attraverso il bilanciere. Il tuo peso dovrebbe essere sostenuto dalle ossa delle spalle e dai piedi. Estendi il più possibile, quindi inverti il movimento per tornare alla posizione di partenza."
+  ],
+  "category": "powerlifting",
+  "immagini": ["Barbell_Hip_Thrust/0.jpg", "Barbell_Hip_Thrust/1.jpg"],
+  "id": "Barbell_Hip_Thrust",
+  "images": ["Barbell_Hip_Thrust/0.jpg", "Barbell_Hip_Thrust/1.jpg"]
+}

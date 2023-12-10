@@ -1,0 +1,16 @@
+{
+  "name": "Allungamento Laterale del Collo",
+  "force": "static",
+  "level": "principiante",
+  "mechanic": "isolamento",
+  "equipment": null,
+  "primaryMuscle": ["collo"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Inizia con le spalle rilassate, inclina dolcemente la testa verso una spalla.",
+    "Assisti lo stretching con una delicata trazione sul lato della testa."
+  ],
+  "category": "allungamento",
+  "images": ["Side_Neck_Stretch/0.jpg", "Side_Neck_Stretch/1.jpg"],
+  "id": "Side_Neck_Stretch"
+}

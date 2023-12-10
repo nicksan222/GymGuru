@@ -1,0 +1,21 @@
+{
+  "name": "Elevazione del polpaccio con manubri in posizione eretta",
+  "force": "spinta",
+  "level": "intermedio",
+  "mechanic": "isolamento",
+  "equipment": "manubrio",
+  "primaryMuscle": ["polpacci"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Sta in piedi con il busto eretto e tieni due manubri in mano sui fianchi. Appoggia la palla del piede su una superficie solida e stabile (che sia alta circa 2-3 pollici) mentre i talloni toccano il pavimento. Questa sarà la posizione di partenza.",
+    "Con le dita dei piedi orientate dritte (per colpire tutte le parti in modo uniforme), verso l'interno (per enfasi sulla parte esterna) o verso l'esterno (per enfasi sulla parte interna), solleva i talloni da terra espirando, contraendo i polpacci. Mantieni la contrazione in alto per un secondo.",
+    "Inspira mentre torni alla posizione di partenza abbassando lentamente i talloni.",
+    "Ripeti per il numero raccomandato di volte."
+  ],
+  "category": "forza",
+  "images": [
+    "Standing_Dumbbell_Calf_Raise/0.jpg",
+    "Standing_Dumbbell_Calf_Raise/1.jpg"
+  ],
+  "id": "Standing_Dumbbell_Calf_Raise"
+}

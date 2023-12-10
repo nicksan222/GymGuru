@@ -1,0 +1,16 @@
+{
+  "name": "Corsa, Tapis Roulant",
+  "force": null,
+  "level": "beginner",
+  "mechanic": null,
+  "equipment": "macchina",
+  "primaryMuscle": ["quadricipiti"],
+  "secondaryMuscles": ["polpacci", "glutei", "femorali"],
+  "instructions": [
+    "Per iniziare, salire sul tapis roulant e selezionare l'opzione desiderata dal menu. La maggior parte dei tapis roulant ha una modalità manuale o puoi selezionare un programma di allenamento. Di solito, puoi inserire la tua età e il tuo peso per stimare il numero di calorie bruciate durante l'esercizio. Puoi regolare l'elevazione per cambiare l'intensità dell'allenamento.",
+    "I tapis roulant offrono comodità, benefici cardiovascolari e solitamente hanno meno impatto rispetto alla corsa all'aperto. Una persona di 150 libbre brucerà oltre 450 calorie correndo a 8 miglia all'ora per 30 minuti. Mantenere una postura corretta durante la corsa e tenere le maniglie solo quando necessario, ad esempio quando si scende o si controlla il battito cardiaco."
+  ],
+  "category": "cardio",
+  "images": ["Running_Treadmill/0.jpg", "Running_Treadmill/1.jpg"],
+  "id": "Running_Treadmill"
+}

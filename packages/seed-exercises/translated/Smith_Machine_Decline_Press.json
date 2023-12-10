@@ -1,0 +1,22 @@
+{
+  "name": "Pressa declinata della macchina di Smith",
+  "force": null,
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "macchina",
+  "primaryMuscle": ["pettorali"],
+  "secondaryMuscles": ["spalle", "tricipiti"],
+  "instructions": [
+    "Posiziona una panca declinata nel supporto in modo che la barra sia sopra il petto. Carica un peso adeguato e prendi posto sulla panca.",
+    "Ruota la barra per sganciarla dal supporto ed estendi completamente le braccia. La tua schiena dovrebbe essere leggermente arcuata e le scapole retratte. Questa sarà la tua posizione di partenza.",
+    "Inizia il movimento flettendo le braccia, abbassando la barra sul petto.",
+    "Fai una breve pausa, quindi estendi le braccia per spingere il peso verso la posizione di partenza.",
+    "Dopo aver completato il numero desiderato di ripetizioni, ruota la barra per posizionare il peso nel supporto."
+  ],
+  "category": "forza",
+  "images": [
+    "Smith_Machine_Decline_Press/0.jpg",
+    "Smith_Machine_Decline_Press/1.jpg"
+  ],
+  "id": "Smith_Machine_Decline_Press"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Crucifisso",
+  "force": "statica",
+  "level": "principiante",
+  "meccanico": "isolamento",
+  "equipaggiamento": "altro",
+  "primaryMuscle": ["spalle"],
+  "secondaryMuscles": ["avambracci"],
+  "instructions": [
+    "Nel crucifisso, devi tenere staticamente i pesi ai lati per un determinato tempo. Mentre l'esercizio può essere fatto con i manubri, è meglio utilizzare uno dei diversi strumenti utilizzati, come ad esempio asce e martelli, poiché si sente diverso.",
+    "Inizia stando in piedi, alza le braccia ai lati tenendo gli strumenti. Le braccia dovrebbero essere parallele al suolo. In gara, i giudici o i sensori vengono utilizzati per avvertirti quando si rompe la parallela. Tieni premuto per tutto il tempo che puoi. Di solito, i pesi dovrebbero essere abbastanza pesanti da far fallire in 30-60 secondi."
+  ],
+  "category": "strongman",
+  "images": ["Crucifix/0.jpg", "Crucifix/1.jpg"],
+  "id": "Crucifix"
+}

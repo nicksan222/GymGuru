@@ -1,0 +1,19 @@
+{
+  "name": "Sospeso Fallout",
+  "force": "tirare",
+  "level": "intermedio",
+  "mechanic": "isolamento",
+  "equipment": "altro",
+  "primaryMuscle": ["addominali"],
+  "secondaryMuscles": ["petto", "parte bassa della schiena", "spalle"],
+  "instructions": [
+    "Regola le cinghie in modo che le maniglie siano ad un'altezza appropriata, sotto il level della vita.",
+    "Inizia in piedi e afferrando le maniglie. Piega il corpo verso le cinghie, assumendo una posizione simile a quella delle flessioni inclinate. Questa sarà la tua posizione di partenza.",
+    "Mantieni le braccia tese e piega il corpo ulteriormente verso le cinghie, portando il corpo più vicino al suolo, permettendo alle spalle di estendersi, alzando le braccia sopra la testa.",
+    "Mantieni la colonna vertebrale neutra e il resto del corpo dritto, permettendo alle spalle di essere le uniche articolazioni in movimento.",
+    "In pausa durante il picco di contrazione, quindi torna alla posizione di partenza."
+  ],
+  "category": "forza",
+  "images": ["Suspended_Fallout/0.jpg", "Suspended_Fallout/1.jpg"],
+  "id": "Suspended_Fallout"
+}

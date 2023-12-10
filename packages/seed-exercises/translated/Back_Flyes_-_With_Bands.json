@@ -1,0 +1,20 @@
+{
+  "name": "Back Flyes - Con fasce",
+  "force": "trazione",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "fasce",
+  "primaryMuscle": ["spalle"],
+  "secondaryMuscles": ["dorso medio", "tricipiti"],
+  "instructions": [
+    "Fila una banda attorno ad un palo stazionario come quello di una squat rack.",
+    "Impugna la banda per le maniglie e posizionati indietro in modo che la tensione nella banda aumenti.",
+    "Estendi e solleva le braccia dritte davanti a te. Consiglio: Le braccia dovrebbero essere dritte e parallele al pavimento mentre perpendicolari al tuo torso. I tuoi piedi dovrebbero essere fermamente piantati al suolo allargati alla larghezza delle spalle. Questa sarà la tua posizione di partenza.",
+    "Mentre espiri, muovi le braccia sui lati e indietro. Mantieni le braccia estese e parallele al pavimento. Continua il movimento finché le braccia sono estese di fianco.",
+    "Dopo una pausa, torna alla posizione originale mentre inspiri.",
+    "Ripeti per il numero consigliato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": ["Back_Flyes_-_With_Bands/0.jpg", "Back_Flyes_-_With_Bands/1.jpg"],
+  "id": "Back_Flyes_-_With_Bands"
+}

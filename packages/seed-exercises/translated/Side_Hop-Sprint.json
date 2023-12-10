@@ -1,0 +1,17 @@
+{
+  "name": "Side Hop-Sprint",
+  "force": "a spingere",
+  "level": "beginner",
+  "mechanic": "composto",
+  "equipment": "altro",
+  "primaryMuscle": ["quadriceps"],
+  "secondaryMuscles": ["adduttori", "abDuttori", "polpacci", "femorali"],
+  "instructions": [
+    "Stazionati al lato di un cono o una barriera.",
+    "Inizia ad eseguire questo esercizio saltando di lato sopra l'ostacolo, rimbalzando con la tua atterraggio per tornare al punto di partenza.",
+    "Fai questa esercizio per un numero prescritto di volte il più velocemente possibile, e finisci questo esercizio correndo per una distanza breve dopo l'ultimo salto."
+  ],
+  "category": "pliometria",
+  "images": ["Side_Hop-Sprint/0.jpg", "Side_Hop-Sprint/1.jpg"],
+  "id": "Side_Hop-Sprint"
+}

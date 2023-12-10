@@ -1,0 +1,18 @@
+{
+  "name": "Drag Curl",
+  "force": "trai",
+  "level": "intermedio",
+  "mechanic": "composto",
+  "equipment": "bilanciere",
+  "primaryMuscle": ["bicipiti"],
+  "secondaryMuscles": ["avambraccio"],
+  "instructions": [
+    "Prendi un bilanciere con una presa supinata (mani verso l'esterno) e avvicina i gomiti al tuo torso e alla schiena. Questa sarà la tua posizione di partenza.",
+    "Mentre espiri, solleva il bilanciere tenendo i gomiti indietro e facendo scorrere il bilanciere \"trainare\" il tuo torso. Consiglio: come vedi, non dovrai mantenere i gomiti stretti ai fianchi, ma li sposterai indietro. Inoltre, non sollevare le spalle.",
+    "Torna lentamente alla posizione di partenza mantenendo il bilanciere a contatto con il tuo torso tutto il tempo.",
+    "Ripeti per il numero consigliato di ripetizioni."
+  ],
+  "category": "forza",
+  "images": ["Drag_Curl/0.jpg", "Drag_Curl/1.jpg"],
+  "id": "Drag_Curl"
+}

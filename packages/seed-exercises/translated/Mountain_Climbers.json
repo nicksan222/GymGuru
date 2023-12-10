@@ -1,0 +1,18 @@
+{
+  "name": "Mountain Climbers",
+  "forza": "tiro",
+  "level": "principiante",
+  "meccanica": "composto",
+  "attrezzatura": null,
+  "primaryMuscle": ["quadricipiti"],
+  "secondaryMuscles": ["petto", "femori", "spalle"],
+  "instructions": [
+    "Iniziare in una posizione a flessioni, con il peso supportato dalle mani e dalle dita dei piedi. Flettendo il ginocchio e l'anca, portare una gamba finché il ginocchio si trova approssimativamente sotto l'anca. Questa sarà la vostra posizione di partenza.",
+    "Invertire rapidamente la posizione delle gambe, estendendo la gamba piegata finché la gamba è dritta e supportata dal dito del piede, e portando l'altra gamba con l'anca e il ginocchio flessi. Ripetere in modo alternato per 20-30 secondi."
+  ],
+  "category": "pliometria",
+  "immagini": ["Mountain_Climbers/0.jpg", "Mountain_Climbers/1.jpg"],
+  "identificatore": "Mountain_Climbers",
+  "id": "Mountain_Climbers",
+  "images": ["Mountain_Climbers/0.jpg", "Mountain_Climbers/1.jpg"]
+}

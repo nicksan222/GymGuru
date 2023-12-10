@@ -1,0 +1,19 @@
+{
+  "name": "Anti-Gravity Press",
+  "forza": "push",
+  "level": "inizio",
+  "meccanica": "composta",
+  "attrezzatura": "bilanciere",
+  "primaryMuscle": ["spalle"],
+  "secondaryMuscles": ["schiena media", "trapezio", "tricipiti"],
+  "instructions": [
+    "Posiziona una barra sul pavimento dietro la testa di una panca inclinata.",
+    "Stenditi sulla panca a faccia in giù. Con una presa supinata, solleva il bilanciere da terra. Fletti i gomiti, eseguendo un ricciolo inverso per portare il bilanciere vicino al petto. Questa sarà la tua posizione di partenza.",
+    "Per iniziare, premi il bilanciere in avanti dalla tua testa, estendendo i gomiti. Mantieni le braccia parallele al suolo durante tutto il movimento.",
+    "Ritorna alla posizione di partenza e ripeti per completare la serie."
+  ],
+  "category": "forza",
+  "immagini": ["Anti-Gravity_Press/0.jpg", "Anti-Gravity_Press/1.jpg"],
+  "id": "Anti-Gravity_Press",
+  "images": ["Anti-Gravity_Press/0.jpg", "Anti-Gravity_Press/1.jpg"]
+}

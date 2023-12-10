@@ -1,0 +1,26 @@
+{
+  "name": "Triceps Pushdown - Rope Attachment",
+  "force": "spingere",
+  "level": "principiante",
+  "Meccanica": "Isolamento",
+  "attrezzatura": "cavo",
+  "muscoli primari": ["tricipiti"],
+  "muscoli-seconndari": [],
+  "instructions": [
+    "Attach a rope attachment to a high pulley and grab with a neutral grip (palms facing each other).",
+    "Stando in posizione eretta, mantieni il tronco diritto con una leggera inclinazione in avanti, porta i gomiti vicino al corpo e perpendicolari al pavimento. Gli avambracci devono proseguire in su verso il cavo con le mani in posizione neutra l'una rispetto all'altra. Questa è la posizione di partenza.",
+    "Usando i tricipiti, porta il cavo verso il basso portando ogni lato delle corde ai lati delle cosce. Alla fine del movimento le braccia dovrebbero essere completamente estese e perpendicolari al pavimento. I gomiti dovrebbero rimanere fermi vicino al torso e solo gli avambracci si muovono. Espira durante questo movimento.",
+    "Dopo aver mantenuto la posizione contratta per un secondo, porta lentamente il cavo in su fino alla posizione di partenza. Inspira durante questa fase.",
+    "Ripeti per il numero consigliato di ripetizioni."
+  ],
+  "category": "forza",
+  "immagini": [
+    "Triceps_Pushdown_-_Rope_Attachment/0.jpg",
+    "Triceps_Pushdown_-_Rope_Attachment/1.jpg"
+  ],
+  "id": "Triceps_Pushdown_-_Rope_Attachment",
+  "images": [
+    "Triceps_Pushdown_-_Rope_Attachment/0.jpg",
+    "Triceps_Pushdown_-_Rope_Attachment/1.jpg"
+  ]
+}

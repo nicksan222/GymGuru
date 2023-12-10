@@ -1,0 +1,18 @@
+{
+  "name": "Single Dumbbell Raise",
+  "forza": null,
+  "level": "beginner",
+  "meccanico": "isolamento",
+  "attrezzatura": "manubrio",
+  "primaryMuscle": ["spalle"],
+  "secondaryMuscles": ["avambracci", "trapezi"],
+  "instructions": [
+    "Con una postura ampia, tieni un manubrio con entrambe le mani, afferrando la testa del manubrio anziché la maniglia. Le braccia dovrebbero essere estese e pendenti alla vita. Questa sarà la tua posizione di partenza.",
+    "Solleva il peso finché non è sopra il level delle spalle, mantenendo le braccia estese. Il tuo torso e i fianchi dovrebbero rimanere fermi durante tutta la procedura.",
+    "Torna alla posizione di partenza e ripeti per il numero raccomandato di ripetizioni."
+  ],
+  "category": "forza",
+  "immagini": ["Single_Dumbbell_Raise/0.jpg", "Single_Dumbbell_Raise/1.jpg"],
+  "id": "Single_Dumbbell_Raise",
+  "images": ["Single_Dumbbell_Raise/0.jpg", "Single_Dumbbell_Raise/1.jpg"]
+}

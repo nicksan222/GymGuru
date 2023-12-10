@@ -1,0 +1,26 @@
+{
+  "name": "Standing Dumbbell Triceps Extension",
+  "forza": "spinta",
+  "level": "principiante",
+  "meccanica": "isolamento",
+  "attrezzatura": "manubrio",
+  "muscoliPrincipali": ["tricipiti"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Per iniziare, mettiti in piedi con un manubrio tenuto con entrambe le mani. I tuoi piedi dovrebbero essere separati l'uno dall'altro alla larghezza delle spalle. Usa lentamente entrambe le mani per afferrare il manubrio e sollevarlo sopra la testa finché entrambe le braccia sono completamente estese.",
+    "La resistenza dovrebbe poggiare nel palmo delle tue mani con le dita intorno ad essa. Il palmo delle mani dovrebbe essere rivolto verso l'alto verso il soffitto. Questa sarà la tua posizione di partenza.",
+    "Mantieni i tuoi bracci superiori vicini alla testa con i gomiti aderenti e perpendicolari al pavimento, abbassa la resistenza in un movimento semicircolare dietro la testa fino a quando gli avambracci toccheranno i tricipiti. Suggerimento: i bracci superiori dovrebbero rimanere fermi e solo gli avambracci dovrebbero muoversi. Respira mentre esegui questo passaggio.",
+    "Torna alla posizione di partenza usando i tricipiti per sollevare il manubrio. Respira mentre esegui questo passaggio.",
+    "Ripeti per il numero consigliato di ripetizioni."
+  ],
+  "category": "forza",
+  "immagini": [
+    "Standing_Dumbbell_Triceps_Extension/0.jpg",
+    "Standing_Dumbbell_Triceps_Extension/1.jpg"
+  ],
+  "id": "Standing_Dumbbell_Triceps_Extension",
+  "images": [
+    "Standing_Dumbbell_Triceps_Extension/0.jpg",
+    "Standing_Dumbbell_Triceps_Extension/1.jpg"
+  ]
+}

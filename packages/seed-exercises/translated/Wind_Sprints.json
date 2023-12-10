@@ -1,0 +1,19 @@
+{
+  "name": "Wind Sprints",
+  "forza": "tirare",
+  "level": "principiante",
+  "meccanica": "completa",
+  "attrezzatura": "solo il corpo",
+  "primaryMuscle": ["addominali"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Agganciati a una barra per trazioni con una presa pronata. Le braccia e le gambe dovrebbero essere estese. Questa sarà la tua posizione di partenza.",
+    "Inizia alzando rapidamente un ginocchio il più in alto possibile. Non dondolare il corpo o le gambe. 3",
+    "Inverti immediatamente il movimento, riportando quella gamba alla posizione di partenza. Allo stesso tempo, solleva il ginocchio opposto il più in alto possibile.",
+    "Continua ad alternare tra le gambe fino al completamento della serie."
+  ],
+  "category": "forza",
+  "immagini": ["Wind_Sprints/0.jpg", "Wind_Sprints/1.jpg"],
+  "id": "Wind_Sprints",
+  "images": ["Wind_Sprints/0.jpg", "Wind_Sprints/1.jpg"]
+}

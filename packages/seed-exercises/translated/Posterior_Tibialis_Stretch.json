@@ -1,0 +1,19 @@
+{
+  "name": "Allungamento dei muscoli tibialis posteriori",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": null,
+  "equipment": "altro",
+  "primaryMuscle": ["Polpacci"],
+  "secondaryMuscles": [],
+  "instructions": [
+    "In posizione seduta, passa una cintura, una corda o una banda intorno a un piede. Questa sarà la tua posizione di partenza.",
+    "Con la gamba estesa e il tallone sollevato da terra, tira sulla cintura in modo che il piede si capovolga, con il lato esterno del piede che viene tirato verso di te. Tieni premuto per 10-20 secondi, poi cambia lato."
+  ],
+  "category": "stretching",
+  "images": [
+    "Posterior_Tibialis_Stretch/0.jpg",
+    "Posterior_Tibialis_Stretch/1.jpg"
+  ],
+  "id": "Posterior_Tibialis_Stretch"
+}

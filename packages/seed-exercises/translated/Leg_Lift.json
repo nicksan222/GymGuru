@@ -1,0 +1,20 @@
+{
+  "name": "Leg Lift",
+  "forza": "spingere",
+  "level": "principiante",
+  "meccanico": "isolamento",
+  "attrezzatura": "solo corpo",
+  "primaryMuscle": ["glutei"],
+  "secondaryMuscles": ["ischiocrurali"],
+  "instructions": [
+    "Mentre stai in piedi dritto con entrambi i piedi accanto l'uno all'altro a circa la larghezza delle spalle, afferrare una superficie robusta come i lati di uno squat rack o la cima di una sedia per stare in equilibrio e mantenere l'equilibrio.",
+    "Con o senza un peso alla caviglia, sollevare una gamba dietro di te come se stessi facendo un leg curl ma in piedi mantenendo l'altra gamba dritta. Espirare mentre si esegue questo movimento.",
+    "Portare lentamente la gamba sollevata a terra mentre si inspira.",
+    "Ripetere per il numero raccomandato di ripetizioni.",
+    "Ripetere il movimento con la gamba opposta."
+  ],
+  "category": "forza",
+  "immagini": ["Leg_Lift / 0.jpg", "Leg_Lift / 1.jpg"],
+  "id": "Leg_Lift",
+  "images": ["Leg_Lift/0.jpg", "Leg_Lift/1.jpg"]
+}

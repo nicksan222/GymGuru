@@ -1,0 +1,19 @@
+{
+  "name": "Push Up to Side Plank",
+  "force": "spingere",
+  "level": "principiante",
+  "mechanic": "composto",
+  "equipment": "body only",
+  "primaryMuscle": ["petto"],
+  "secondaryMuscles": ["addominali", "spalle", "tricipiti"],
+  "instructions": [
+    "Mettiti in posizione da push-up sulle punte dei piedi con le mani leggermente fuori dalla larghezza delle spalle.",
+    "Esegui una flessione consentendo ai gomiti di piegarsi. Mentre scendi, mantieni il corpo dritto.",
+    "Fai una flessione e mentre ti alzi, sposta il peso sul lato sinistro del corpo, ruota di lato portando il braccio destro verso il soffitto in una plank laterale.",
+    "Abbassa il braccio di nuovo a terra per un'altra flessione e poi ruota dall'altro lato.",
+    "Ripeti la serie, alternando ogni lato, per 10 o più ripetizioni."
+  ],
+  "category": "forza",
+  "images": ["Push_Up_to_Side_Plank/0.jpg", "Push_Up_to_Side_Plank/1.jpg"],
+  "id": "Push_Up_to_Side_Plank"
+}
