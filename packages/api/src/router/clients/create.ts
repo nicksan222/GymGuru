@@ -1,17 +1,8 @@
 import { protectedProcedure } from "../../trpc";
-import { z } from "zod";
+import { createClientInput } from "./types";
 
 const createClient = protectedProcedure
-  .input(
-    z.object({
-      firstName: z.string().min(2, { message: "First name is too short" }),
-      lastName: z.string().min(2, { message: "Last name is too short" }),
-      email: z.string().email(),
-      phone: z.string().optional(),
-      birthDate: z.date(),
-      medicalHistory: z.string().optional(),
-    }),
-  )
+  .input(createClientInput)
   .mutation(async ({ ctx, input }) => {
     return ctx.prisma.client.create({
       data: {

@@ -8,7 +8,7 @@ import listPlans from "./list";
 import updatePlan from "./update";
 import updateExercise from "./updateExercise";
 
-export const exercisesRouter = router({
+export const plansRouter = router({
   createPlan,
   deletePlan,
   getPlan,

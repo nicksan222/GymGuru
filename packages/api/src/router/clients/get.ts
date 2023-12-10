@@ -1,8 +1,8 @@
 import { protectedProcedure } from "../../trpc";
-import { z } from "zod";
+import { getClientInput } from "./types";
 
 const getClient = protectedProcedure
-  .input(z.object({ id: z.string() }))
+  .input(getClientInput)
   .query(async ({ ctx, input }) => {
     return ctx.prisma.client.findFirst({
       where: {
