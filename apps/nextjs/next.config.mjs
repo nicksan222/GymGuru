@@ -14,6 +14,14 @@ const config = {
   eslint: {
     ignoreDuringBuilds: !!process.env.CI,
   },
+  images: {
+    remotePatterns: [
+      {
+        hostname: "**",
+        protocol: "https",
+      },
+    ],
+  },
 };
 
 export default config;

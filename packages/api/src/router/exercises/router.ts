@@ -3,6 +3,7 @@ import createExercise from "./create";
 import deleteExercise from "./delete";
 import getExercise from "./get";
 import listExercises from "./list";
+import listExerciseCategories from "./list-exercise-categories";
 import listTargetMuscles from "./list-target-muscles";
 import updateExercise from "./update";
 
@@ -13,4 +14,5 @@ export const exercisesRouter = router({
   getExercise,
   listTargetMuscles,
   listExercises,
+  listExerciseCategories,
 });

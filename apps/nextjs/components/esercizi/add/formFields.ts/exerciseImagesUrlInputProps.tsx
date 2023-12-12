@@ -17,10 +17,8 @@ interface ExerciseImagesUrlInputProps {
   form: UseFormReturn<z.infer<typeof createExerciseInput>>;
 }
 
-type ExerciseImagesFormValues = z.infer<typeof createExerciseInput>["imageUrl"];
-
 const ExerciseImagesUrlInput = ({ form }: ExerciseImagesUrlInputProps) => {
-  const { getValues, setValue } = form;
+  const { getValues, setValue, watch } = form;
 
   return (
     <>
@@ -29,7 +27,7 @@ const ExerciseImagesUrlInput = ({ form }: ExerciseImagesUrlInputProps) => {
 
       {getValues().imageUrl.length > 0 && (
         <div className="mt-4">
-          {getValues().imageUrl.map((image, index) => {
+          {watch().imageUrl.map((image, index) => {
             return (
               <FormField
                 key={index}
@@ -46,6 +44,7 @@ const ExerciseImagesUrlInput = ({ form }: ExerciseImagesUrlInputProps) => {
                           onChange={field.onChange}
                         />
                         <Button
+                          type="button"
                           className="ml-4"
                           onClick={() =>
                             setValue(
@@ -68,9 +67,9 @@ const ExerciseImagesUrlInput = ({ form }: ExerciseImagesUrlInputProps) => {
         </div>
       )}
       <Button
-        type="submit"
         className="mt-4"
-        variant="outline"
+        variant={"secondary"}
+        type="button"
         onClick={() => setValue("imageUrl", [...getValues().imageUrl, ""])}
       >
         Add Image URL
