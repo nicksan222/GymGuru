@@ -1,5 +1,5 @@
 import { SidebarSectionProps } from "./types";
-import { FiClock, FiDollarSign, FiHeart, FiList, FiPlus } from "react-icons/fi";
+import { FiClock, FiDollarSign, FiList, FiPlus } from "react-icons/fi";
 
 export const sidebarConfig: SidebarSectionProps[] = [
   {
