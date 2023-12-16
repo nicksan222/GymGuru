@@ -1,6 +1,6 @@
 import { protectedProcedure } from "../../trpc";
-import { z } from "zod";
 import { updateExerciseInput } from "./types";
+import { MuscleTarget } from "@acme/db";
 
 const updateExercise = protectedProcedure
   .input(updateExerciseInput)
@@ -11,8 +11,14 @@ const updateExercise = protectedProcedure
       },
       data: {
         trainerId: ctx.auth.userId,
-        ...input,
+        id: input.id,
+        category: input.category,
+        name: input.name,
+        description: input.description,
+        videoUrl: input.videoUrl,
+        secondaryMuscles: input.secondaryMuscles,
         imageUrl: (input.imageUrl || []).join(","),
+        primaryMuscle: input.primaryMuscle as MuscleTarget,
       },
     });
   });

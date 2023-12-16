@@ -9,11 +9,11 @@ import {
 import { Input } from "#/components/ui/input";
 import { Button } from "#/components/ui/button";
 import * as z from "zod";
-import { createExerciseInput } from "@acme/api/src/router/exercises/types";
+import { updateExerciseInput } from "@acme/api/src/router/exercises/types";
 import { FiDelete } from "react-icons/fi";
 
 interface ExerciseImagesUrlInputProps {
-  form: UseFormReturn<z.infer<typeof createExerciseInput>>;
+  form: UseFormReturn<z.infer<typeof updateExerciseInput>>;
 }
 
 const ExerciseImagesUrlInput = ({ form }: ExerciseImagesUrlInputProps) => {
@@ -24,9 +24,9 @@ const ExerciseImagesUrlInput = ({ form }: ExerciseImagesUrlInputProps) => {
       <FormLabel>Immagini</FormLabel>
       <br />
 
-      {watch().imageUrl.length > 0 && (
+      {(watch().imageUrl?.length ?? 0) > 0 && (
         <div className="mt-4">
-          {watch().imageUrl.map((image, index) => {
+          {watch().imageUrl?.map((image, index) => {
             return (
               <FormField
                 key={index}
@@ -48,7 +48,7 @@ const ExerciseImagesUrlInput = ({ form }: ExerciseImagesUrlInputProps) => {
                           onClick={() =>
                             setValue(
                               "imageUrl",
-                              getValues().imageUrl.filter(
+                              getValues().imageUrl?.filter(
                                 (_, i) => i !== index,
                               ),
                             )
@@ -69,7 +69,9 @@ const ExerciseImagesUrlInput = ({ form }: ExerciseImagesUrlInputProps) => {
         className="mt-4"
         variant={"secondary"}
         type="button"
-        onClick={() => setValue("imageUrl", [...getValues().imageUrl, ""])}
+        onClick={() =>
+          setValue("imageUrl", [...(getValues().imageUrl ?? []), ""])
+        }
       >
         Add Image URL
       </Button>

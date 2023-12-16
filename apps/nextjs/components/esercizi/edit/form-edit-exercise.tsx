@@ -1,6 +1,9 @@
 import { Form } from "#/components/ui/form";
 import { trpc } from "#/src/utils/trpc";
-import { createExerciseInput } from "@acme/api/src/router/exercises/types";
+import {
+  createExerciseInput,
+  updateExerciseInput,
+} from "@acme/api/src/router/exercises/types";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { useForm } from "react-hook-form";
 import * as z from "zod";
@@ -12,29 +15,53 @@ import ExerciseCategorySelect from "./formFields.ts/exerciseType";
 import { Separator } from "#/components/ui/separator";
 import ExerciseImagesUrlInput from "./formFields.ts/exerciseImagesUrlInputProps";
 import { Button } from "#/components/ui/button";
+import { toast } from "#/components/ui/use-toast";
 import { Toaster } from "#/components/ui/toaster";
+import { useEffect } from "react";
+import { Exercise } from "@acme/db";
 
 interface Props {
-  onSubmit(values: z.infer<typeof createExerciseInput>): void;
+  onSubmit(values: z.infer<typeof updateExerciseInput>): void;
+  exercise: Exercise;
 }
 
-export default function FormAddExercise({ onSubmit }: Props) {
+export default function FormEditExercise({ onSubmit, exercise }: Props) {
   const muscleGroups = trpc.exercisesRouter.listTargetMuscles.useQuery();
   const exerciseTypes = trpc.exercisesRouter.listExerciseCategories.useQuery();
+  const mutation = trpc.exercisesRouter.updateExercise.useMutation();
 
-  const form = useForm<z.infer<typeof createExerciseInput>>({
+  const form = useForm<z.infer<typeof updateExerciseInput>>({
     resolver: zodResolver(createExerciseInput),
     defaultValues: {
-      name: "",
-      description: "",
-      videoUrl: "",
-      category: "",
-      imageUrl: [],
-      primaryMuscle: "",
-      secondaryMuscles: [],
+      id: exercise.id,
+      name: exercise.name,
+      description: exercise.description ?? undefined,
+      videoUrl: exercise.videoUrl ?? undefined,
+      category: exercise.category ?? undefined,
+      imageUrl: exercise.imageUrl?.split(",") ?? [],
+      primaryMuscle: exercise.primaryMuscle ?? undefined,
+      secondaryMuscles: exercise.secondaryMuscles ?? [],
     },
     mode: "onSubmit",
   });
+
+  useEffect(() => {
+    if (mutation.isSuccess) {
+      form.reset();
+      toast({
+        title: "Esecizio modifcato",
+        description: "L'esercizio è stato salvato correttamente",
+        color: "green",
+      });
+    } else if (mutation.error) {
+      toast({
+        title: "Errore",
+        description:
+          "Si è verificato un errore durante il salvataggio dell'esercizio",
+        color: "red",
+      });
+    }
+  }, [form, mutation.error, mutation.isSuccess]);
 
   return (
     <Form {...form}>
@@ -59,7 +86,10 @@ export default function FormAddExercise({ onSubmit }: Props) {
             muscleGroups={muscleGroups.data ?? []}
           />
 
-          <SecondaryMusclesSelect form={form} muscleGroups={muscleGroups} />
+          <SecondaryMusclesSelect
+            form={form}
+            muscleGroups={muscleGroups ?? []}
+          />
         </div>
         <Separator className="mb-4" />
 
@@ -71,7 +101,7 @@ export default function FormAddExercise({ onSubmit }: Props) {
             Caricamento...
           </Button>
         ) : (
-          <Button type="submit">Aggiungi esercizio</Button>
+          <Button type="submit">Salva esercizio</Button>
         )}
       </form>
     </Form>

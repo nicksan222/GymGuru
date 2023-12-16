@@ -64,7 +64,7 @@ export const columns: ColumnDef<Exercise>[] = [
           </DropdownMenuTrigger>
           <DropdownMenuContent align="end">
             <DropdownMenuLabel>Azioni</DropdownMenuLabel>
-            <Link href={`/dashboard/esercizi/${exercise.id}`}>
+            <Link href={`/dashboard/esercizi/edit/${exercise.id}`}>
               <DropdownMenuItem>Modifica</DropdownMenuItem>
             </Link>
             <DropdownMenuSeparator />

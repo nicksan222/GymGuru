@@ -10,18 +10,8 @@ import FormAddExercise from "../../../../../components/esercizi/add/form-add-exe
 import { useEffect } from "react";
 import { Separator } from "#/components/ui/separator";
 
-import { zodResolver } from "@hookform/resolvers/zod";
-import { useForm } from "react-hook-form";
-// import { trpc } from "#/src/utils/trpc";
-import { createClientInput } from "@acme/api/src/router/clients/types";
-
 export default function AddExercise() {
   const mutation = trpc.exercisesRouter.createExercise.useMutation();
-
-  const form = useForm<z.infer<typeof createExerciseInput>>({
-    resolver: zodResolver(createClientInput),
-    defaultValues: {},
-  });
 
   function onSubmit(values: z.infer<typeof createExerciseInput>) {
     mutation.mutate(values);
@@ -29,7 +19,6 @@ export default function AddExercise() {
 
   useEffect(() => {
     if (mutation.isSuccess) {
-      form.reset();
       toast({
         title: "Successo",
         description: "L'esercizio è stato creato con successo",
@@ -43,7 +32,7 @@ export default function AddExercise() {
         color: "red",
       });
     }
-  }, [form, mutation.error, mutation.isSuccess]);
+  }, [mutation.error, mutation.isSuccess]);
 
   return (
     <Sidebar>
@@ -54,7 +43,7 @@ export default function AddExercise() {
       />
       <Separator className="my-6" />
 
-      <FormAddExercise onSubmit={onSubmit} form={form} />
+      <FormAddExercise onSubmit={onSubmit} />
     </Sidebar>
   );
 }
