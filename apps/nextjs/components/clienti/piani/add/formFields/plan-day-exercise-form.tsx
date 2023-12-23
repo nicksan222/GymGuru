@@ -13,16 +13,10 @@ import { createPlanInput } from "@acme/api/src/router/plans/types";
 import { useFieldArray, useFormContext } from "react-hook-form";
 import * as z from "zod";
 import DropdownEditExerciseSerie from "./dropdown-info-exercise-serie";
-import {
-  Table,
-  TableBody,
-  TableCell,
-  TableHeader,
-  TableRow,
-} from "#/components/ui/table";
-import { DeleteIcon } from "lucide-react";
+import { Table, TableBody, TableCell, TableRow } from "#/components/ui/table";
 import { FiDelete } from "react-icons/fi";
 import DrawerEditExerciseTimes from "./drawer-edit-exercise-times";
+import { Textarea } from "#/components/ui/textarea";
 
 interface SeriesInputProps {
   workoutIndex: number;
@@ -119,6 +113,10 @@ const PlanDayExerciseForm: React.FC<PlanDayExerciseFormProps> = ({
     control: form.control,
     name: `workouts.${workoutIndex}.exercises.${exerciseIndex}.series`,
   });
+  const { remove: removeExercise } = useFieldArray({
+    control: form.control,
+    name: `workouts.${workoutIndex}.exercises`,
+  });
 
   const addNewSeries = () => {
     const defaultValues = {
@@ -142,33 +140,54 @@ const PlanDayExerciseForm: React.FC<PlanDayExerciseFormProps> = ({
 
   return (
     <div>
-      <div className=" space-x-4 ">
+      <h2 className="mt-4 pl-4 text-lg font-semibold">{exerciseName}</h2>
+      <div className=" grid space-x-4 md:grid-cols-2">
         <Form {...form}>
           <Table className="my-4 w-full">
-            <TableHeader className=" text-lg font-semibold">
-              <h2 className="pl-4">{exerciseName}</h2>
-            </TableHeader>
             <TableBody>
-              {series?.map((serie, index) => (
-                <FormItem key={serie.order}>
-                  <FormControl>
-                    <TableRow>
+              <TableRow>
+                {series?.map((serie, index) => (
+                  <FormItem key={serie.order + "" + index}>
+                    <FormControl>
                       <SeriesInput
                         workoutIndex={workoutIndex}
                         exerciseIndex={exerciseIndex}
                         seriesIndex={index}
                       />
-                    </TableRow>
-                  </FormControl>
-                  <FormMessage />
-                </FormItem>
-              ))}
+                    </FormControl>
+                    <FormMessage />
+                  </FormItem>
+                ))}
+              </TableRow>
             </TableBody>
           </Table>
-          <Button onClick={addNewSeries} type="button" variant="outline">
-            Aggiungi serie
-          </Button>
+          <FormField
+            control={form.control}
+            name={`workouts.${workoutIndex}.exercises.${exerciseIndex}.description`}
+            render={({ field }) => (
+              <div className="mr-4">
+                <Textarea
+                  className="mb-8 h-full"
+                  {...field}
+                  aria-label="Descrizione"
+                  placeholder="Descrizione"
+                />
+              </div>
+            )}
+          />
         </Form>
+      </div>
+      <div className="mt-10 flex flex-row justify-between">
+        <Button onClick={addNewSeries} type="button" variant="outline">
+          Aggiungi serie
+        </Button>
+        <Button
+          variant="secondary"
+          className="bg-red-500 text-white hover:text-black"
+          onClick={() => removeExercise(exerciseIndex)}
+        >
+          Rimuovi esercizio
+        </Button>
       </div>
     </div>
   );

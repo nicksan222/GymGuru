@@ -13,6 +13,7 @@ import { Separator } from "#/components/ui/separator";
 import ExerciseImagesUrlInput from "./formFields/exerciseImagesUrlInputProps";
 import { Button } from "#/components/ui/button";
 import { Toaster } from "#/components/ui/toaster";
+import { useEffect } from "react";
 
 interface Props {
   onSubmit(values: z.infer<typeof createExerciseInput>): void;
@@ -35,6 +36,10 @@ export default function FormAddExercise({ onSubmit }: Props) {
     },
     mode: "onSubmit",
   });
+
+  useEffect(() => {
+    console.info("form", form);
+  }, [form]);
 
   return (
     <Form {...form}>

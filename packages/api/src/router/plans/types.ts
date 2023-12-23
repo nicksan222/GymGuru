@@ -1,12 +1,9 @@
 import * as z from "zod";
 
-const uuidErrorMessage = "ID non valido";
-const greaterThanZeroMessage = "Deve essere maggiore di 0";
-
-const uuidSchema = z.string().uuid({ message: uuidErrorMessage });
-const positiveNumberSchema = z
-  .number()
-  .min(1, { message: greaterThanZeroMessage });
+const uuidSchema = z.string();
+const positiveNumberSchema = z.number().min(0, {
+  message: "Il numero deve essere positivo",
+});
 
 const seriesSchema = z.object({
   reps: positiveNumberSchema,
@@ -21,11 +18,11 @@ const exerciseSchema = z.object({
   id: uuidSchema,
   series: z.array(seriesSchema).optional(),
   order: positiveNumberSchema,
+  description: z.string().optional(),
 });
 
 const workoutSchema = z.object({
   day: z.number().min(1).max(7, { message: "Il giorno deve essere tra 1 e 7" }),
-  name: z.string().min(1, { message: "Il nome è obbligatorio" }),
   exercises: z.array(exerciseSchema).optional(),
 });
 

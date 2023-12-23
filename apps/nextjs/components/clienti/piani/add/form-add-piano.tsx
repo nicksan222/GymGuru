@@ -1,5 +1,4 @@
 import { Toaster } from "#/components/ui/toaster";
-import { trpc } from "#/src/utils/trpc";
 import { createPlanInput } from "@acme/api/src/router/plans/types";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { Form } from "#/components/ui/form";
@@ -8,6 +7,7 @@ import * as z from "zod";
 import { Separator } from "@radix-ui/react-dropdown-menu";
 import PlanDayForm from "./formFields/plan-day-form";
 import ButtonAddDayForm from "./formFields/button-add-day-form";
+import { Button } from "#/components/ui/button";
 
 interface Props {
   clientId: string;
@@ -38,7 +38,19 @@ export default function FormAddWorkoutPlan({ onSubmit, clientId }: Props) {
           <PlanDayForm key={index} form={form} workoutIndex={index} />
         ))}
 
-        <ButtonAddDayForm form={form} />
+        <div className="flex flex-row justify-between">
+          <ButtonAddDayForm form={form} />
+          <Button
+            onClick={() =>
+              onSubmit({
+                ...form.getValues(),
+                clientId: clientId,
+              })
+            }
+          >
+            Salva
+          </Button>
+        </div>
       </form>
     </Form>
   );

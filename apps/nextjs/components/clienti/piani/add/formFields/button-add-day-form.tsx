@@ -19,11 +19,11 @@ export default function ButtonAddDayForm({ form }: PlanDayFormProps) {
   return (
     <Button
       type="button"
+      variant={"secondary"}
       onClick={() => {
         append({
-          name: "",
           exercises: [],
-          day: Math.max(...workouts.map((w) => w.day)) + 1,
+          day: Math.max(...workouts.map((w) => w.day), 1) + 1,
         });
       }}
     >

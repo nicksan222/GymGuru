@@ -3,14 +3,12 @@ import { Sidebar } from "#/components/sidebar";
 import { Toaster } from "#/components/ui/toaster";
 import { toast } from "#/components/ui/use-toast";
 import { trpc } from "#/src/utils/trpc";
-import { createExerciseInput } from "@acme/api/src/router/exercises/types";
 
 import * as z from "zod";
 
 import { useEffect } from "react";
 import { Separator } from "#/components/ui/separator";
 import { createPlanInput } from "@acme/api/src/router/plans/types";
-import FormAddPiano from "#/components/clienti/piani/add/form-add-piano";
 import FormAddWorkoutPlan from "#/components/clienti/piani/add/form-add-piano";
 import { useRouter } from "next/router";
 
