@@ -40,16 +40,7 @@ export default function FormAddWorkoutPlan({ onSubmit, clientId }: Props) {
 
         <div className="flex flex-row justify-between">
           <ButtonAddDayForm form={form} />
-          <Button
-            onClick={() =>
-              onSubmit({
-                ...form.getValues(),
-                clientId: clientId,
-              })
-            }
-          >
-            Salva
-          </Button>
+          <Button>Salva</Button>
         </div>
       </form>
     </Form>

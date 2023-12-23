@@ -42,12 +42,15 @@ const SeriesInput: React.FC<SeriesInputProps> = ({
           control={control}
           name={`workouts.${workoutIndex}.exercises.${exerciseIndex}.series.${seriesIndex}.reps`}
           render={({ field }) => (
-            <>
-              <Input {...field} aria-label="Reps" type="number" />
+            <FormItem>
+              <FormControl>
+                <Input {...field} />
+              </FormControl>
               <FormDescription className="ml-2 mt-2">
                 Ripetizioni
               </FormDescription>
-            </>
+              <FormMessage />
+            </FormItem>
           )}
         />
       </TableCell>

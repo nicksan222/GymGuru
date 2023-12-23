@@ -1,73 +1,99 @@
-import { Client, Exercise } from "@acme/db";
+import { Client, Exercise, WorkoutPlan } from "@acme/db";
 import { ColumnDef } from "@tanstack/react-table";
-import { ArrowUpDown, MoreHorizontal } from "lucide-react";
+import { ArrowUpDown } from "lucide-react";
 
 import { Button } from "#/components/ui/button";
-import {
-  DropdownMenu,
-  DropdownMenuContent,
-  DropdownMenuItem,
-  DropdownMenuLabel,
-  DropdownMenuSeparator,
-  DropdownMenuTrigger,
-} from "#/components/ui/dropdown-menu";
-import Link from "next/link";
-import { trpc } from "#/src/utils/trpc";
-import { useToast } from "#/components/ui/use-toast";
 import ImageCell from "./imageCell";
 import ActionsCell from "./actions";
+import { Badge } from "#/components/ui/badge";
+import Link from "next/link";
 
-export const columns: ColumnDef<Partial<Client>>[] = [
+interface Props {
+  cliente: Partial<Client>;
+  workoutPlan: Partial<WorkoutPlan>;
+}
+
+function isActive(workoutPlan: Partial<WorkoutPlan>) {
+  const today = new Date();
+  const startDate = workoutPlan.startDate;
+  const endDate = workoutPlan.endDate;
+
+  if (startDate && endDate) {
+    return today >= startDate && today <= endDate;
+  }
+
+  return false;
+}
+
+export const columns: ColumnDef<Props>[] = [
   {
-    accessorKey: "firstName",
+    accessorKey: "cliente",
     header: "Immagine",
     cell: ({ row }) => {
       return (
         <>
           <ImageCell
-            firstName={row.original.firstName ?? ""}
-            lastName={row.original.lastName ?? ""}
+            firstName={row.original.cliente.firstName ?? ""}
+            lastName={row.original.cliente.lastName ?? ""}
           />
         </>
       );
     },
   },
   {
-    accessorKey: "firstName",
-    header: ({ column }) => {
-      return (
-        <Button
-          variant="ghost"
-          onClick={() => column.toggleSorting(column.getIsSorted() === "asc")}
-        >
-          Nome
-          <ArrowUpDown className="ml-2 h-4 w-4" />
-        </Button>
-      );
-    },
-  },
-  {
-    accessorKey: "lastName",
-    header: ({ column }) => {
-      return (
-        <Button
-          variant="ghost"
-          onClick={() => column.toggleSorting(column.getIsSorted() === "asc")}
-        >
-          Cognome
-          <ArrowUpDown className="ml-2 h-4 w-4" />
-        </Button>
-      );
-    },
-  },
-  {
-    accessorKey: "email",
-    header: "E-mail",
-  },
-  {
-    id: "actions",
+    accessorKey: "workoutPlan",
+    header: "Data inizio",
     cell: ({ row }) => {
-      return <ActionsCell client={row.original} />;
+      return (
+        <>
+          <span>
+            {row.original.workoutPlan.startDate?.toISOString().split("T")[0]}
+          </span>
+        </>
+      );
+    },
+  },
+  {
+    accessorKey: "workoutPlan",
+    header: "Data fine",
+    cell: ({ row }) => {
+      return (
+        <>
+          <span>
+            {row.original.workoutPlan.endDate?.toISOString().split("T")[0]}
+          </span>
+        </>
+      );
+    },
+  },
+  {
+    accessorKey: "Attivo",
+    header: "Attivo",
+    cell: ({ row }) => {
+      return (
+        <>
+          <span>
+            {isActive(row.original.workoutPlan) ? (
+              <Badge color="green">Attivo</Badge>
+            ) : (
+              <Badge color="red">Non attivo</Badge>
+            )}
+          </span>
+        </>
+      );
+    },
+  },
+  {
+    accessorKey: "Dettagli",
+    header: "Dettagli",
+    cell: ({ row }) => {
+      return (
+        <Link
+          href={`/dashboard/clienti/${row.original.cliente.id}/piani/${row.original.workoutPlan.id}`}
+        >
+          <Button variant="secondary">Dettagli</Button>
+        </Link>
+      );
     },
   },
 ];
