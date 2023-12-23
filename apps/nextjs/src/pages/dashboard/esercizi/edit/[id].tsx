@@ -1,6 +1,5 @@
 import { trpc } from "#/src/utils/trpc";
 import { useRouter } from "next/router";
-import { Exercise } from "@acme/db";
 import { Sidebar } from "#/components/sidebar";
 import DashboardTitle from "#/components/header/title";
 import FormEditExercise from "#/components/esercizi/edit/form-edit-exercise";

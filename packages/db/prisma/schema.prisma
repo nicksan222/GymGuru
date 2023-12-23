@@ -43,6 +43,15 @@ model WorkoutPlan {
     trainerId String
 }
 
+model WorkoutPlanDay {
+    id            String   @id @default(cuid())
+    workoutPlanId String
+    day           Int
+    createdAt     DateTime @default(now())
+    updatedAt     DateTime @updatedAt
+    trainerId     String
+}
+
 enum MuscleTarget {
     Addominali
     Bicipiti
@@ -79,13 +88,13 @@ model Exercise {
 }
 
 model WorkoutExercise {
-    id            String   @id @default(cuid())
-    exerciseId    String
-    workoutPlanId String
-    order         Int
-    createdAt     DateTime @default(now())
-    updatedAt     DateTime @updatedAt
-    trainerId     String
+    id               String   @id @default(cuid())
+    exerciseId       String
+    workoutPlanDayId String
+    order            Int
+    createdAt        DateTime @default(now())
+    updatedAt        DateTime @updatedAt
+    trainerId        String
 }
 
 model ExerciseSet {

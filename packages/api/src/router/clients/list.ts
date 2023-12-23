@@ -1,5 +1,4 @@
 import { protectedProcedure } from "../../trpc";
-import { z } from "zod";
 
 const listClients = protectedProcedure.query(async ({ ctx }) => {
   return ctx.prisma.client.findMany({
@@ -10,6 +9,7 @@ const listClients = protectedProcedure.query(async ({ ctx }) => {
       firstName: true,
       lastName: true,
       id: true,
+      email: true,
     },
   });
 });
