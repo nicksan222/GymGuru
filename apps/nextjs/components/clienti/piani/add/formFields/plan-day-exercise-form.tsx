@@ -136,8 +136,8 @@ const PlanDayExerciseForm: React.FC<PlanDayExerciseFormProps> = ({
         : defaultValues;
 
     append({
-      order: (series?.length ?? 0) + 1,
       ...(lastSeries ?? defaultValues),
+      order: (series?.length ?? 0) + 1,
     });
   };
 

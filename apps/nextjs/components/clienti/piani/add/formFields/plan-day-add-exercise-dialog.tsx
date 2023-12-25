@@ -16,6 +16,7 @@ import {
 import { Input } from "#/components/ui/input";
 import { Separator } from "#/components/ui/separator";
 import { DialogClose } from "@radix-ui/react-dialog";
+import { ScrollArea } from "#/components/ui/scroll-area";
 
 interface Props {
   form: UseFormReturn<z.infer<typeof createPlanInput>>;
@@ -32,7 +33,7 @@ export function PlanDayAddExerciseDialog({ form, workoutIndex }: Props) {
     Record<string, Partial<Exercise>[]>
   >({});
 
-  const { append } = useFieldArray({
+  const { append, fields } = useFieldArray({
     control: form.control,
     name: `workouts.${workoutIndex}.exercises`,
   });
@@ -49,6 +50,24 @@ export function PlanDayAddExerciseDialog({ form, workoutIndex }: Props) {
       filterExercises(categorizedExercises, filterText);
     }
   }, [exercises.data, filterText]);
+
+  const addExercise = (exercise: Partial<Exercise>) => {
+    if (!exercise.id || !exercise.name) {
+      return;
+    }
+
+    // Calculate the maximum order value from the existing exercises
+    const maxOrder = fields.reduce(
+      (max, field) => Math.max(max, field.order || 0),
+      0,
+    );
+
+    append({
+      id: exercise.id,
+      order: maxOrder + 1,
+      series: [],
+    });
+  };
 
   const filterExercises = (
     exercises: Record<string, Partial<Exercise>[]>,
@@ -75,45 +94,37 @@ export function PlanDayAddExerciseDialog({ form, workoutIndex }: Props) {
         <Button variant="outline">Aggiungi esercizio</Button>
       </DialogTrigger>
       <DialogContent className="sm:max-w-[425px]">
-        <DialogHeader>
-          <DialogTitle>Aggiungi esercizio</DialogTitle>
-          <DialogDescription>
-            <Input
-              placeholder="Cerca esercizio"
-              className="mt-4"
-              value={filterText}
-              onChange={(e) => setFilterText(e.target.value)}
-            />
-          </DialogDescription>
-        </DialogHeader>
-        <div className="grid gap-4 py-4">
-          {Object.entries(filteredExercises).map(([category, exercises]) => (
-            <div key={category}>
-              <h3 className="my-2">{category}</h3>
-              {exercises.map((exercise) => (
-                <DialogClose key={exercise.id} className="w-full">
-                  <div
-                    className="cursor-pointer rounded-md border-2 px-4 py-2 hover:bg-gray-100"
-                    onClick={() => {
-                      if (!exercise.id || !exercise.name) {
-                        return;
-                      }
-
-                      append({
-                        id: exercise.id,
-                        order: 0,
-                        series: [],
-                      });
-                    }}
-                  >
-                    {exercise.name}
-                  </div>
-                </DialogClose>
-              ))}
-              <Separator className="my-4" />
-            </div>
-          ))}
-        </div>
+        <ScrollArea className="h-[450px] rounded-md border p-4">
+          <DialogHeader>
+            <DialogTitle>Aggiungi esercizio</DialogTitle>
+            <DialogDescription>
+              <Input
+                placeholder="Cerca esercizio"
+                className="mt-4"
+                value={filterText}
+                onChange={(e) => setFilterText(e.target.value)}
+              />
+            </DialogDescription>
+          </DialogHeader>
+          <div className="grid gap-4 py-4">
+            {Object.entries(filteredExercises).map(([category, exercises]) => (
+              <div key={category}>
+                <h3 className="my-2">{category}</h3>
+                {exercises.map((exercise) => (
+                  <DialogClose key={exercise.id} className="w-full">
+                    <div
+                      className="cursor-pointer rounded-md border-2 px-4 py-2 hover:bg-gray-100"
+                      onClick={() => addExercise(exercise)}
+                    >
+                      {exercise.name}
+                    </div>
+                  </DialogClose>
+                ))}
+                <Separator className="my-4" />
+              </div>
+            ))}
+          </div>
+        </ScrollArea>
       </DialogContent>
     </Dialog>
   );

@@ -47,6 +47,7 @@ const PrimaryMuscleSelect: React.FC<PrimaryMuscleSelectProps> = ({
                 <Button
                   variant="outline"
                   role="combobox"
+                  data-test="primary-muscle-select"
                   className={cn(
                     "w-[400px] justify-between",
                     !field.value && "text-muted-foreground",
@@ -60,13 +61,14 @@ const PrimaryMuscleSelect: React.FC<PrimaryMuscleSelectProps> = ({
                 </Button>
               </FormControl>
             </PopoverTrigger>
-            <PopoverContent className="w-[400px] p-0">
+            <PopoverContent className="w-[400px] p-0" data-test="muscle-modal">
               <Command>
-                <CommandInput placeholder="Search muscle..." />
+                <CommandInput placeholder="Cerca gruppo muscolare..." />
                 <CommandEmpty>Nessun gruppo muscolare trovato.</CommandEmpty>
                 <CommandGroup>
                   {muscleGroups.map((muscle) => (
                     <CommandItem
+                      data-test={`primary-muscle`}
                       value={muscle}
                       key={muscle}
                       onSelect={() => {

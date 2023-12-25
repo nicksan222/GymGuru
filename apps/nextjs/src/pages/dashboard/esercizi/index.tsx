@@ -1,3 +1,4 @@
+import ImportEserciziButton from "#/components/esercizi/list/importButton";
 import EserciziTable from "#/components/esercizi/list/table";
 import DashboardTitle from "#/components/header/title";
 import { Sidebar } from "#/components/sidebar";
@@ -10,7 +11,8 @@ export default function ExercisesList() {
 
   return (
     <Sidebar>
-      <DashboardTitle title="Clienti" subtitle="Gestisci i tuoi clienti" />
+      <DashboardTitle title="Esercizi" subtitle="Gestisci i tuoi esercizi" />
+      <ImportEserciziButton />
       <div className="mt-8" />
       <EserciziTable exercises={(exercises.data ?? []) as Exercise[]} />
     </Sidebar>

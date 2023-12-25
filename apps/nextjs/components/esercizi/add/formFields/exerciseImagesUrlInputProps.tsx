@@ -71,7 +71,7 @@ const ExerciseImagesUrlInput = ({ form }: ExerciseImagesUrlInputProps) => {
         type="button"
         onClick={() => setValue("imageUrl", [...getValues().imageUrl, ""])}
       >
-        Add Image URL
+        Aggiungi immagine
       </Button>
     </>
   );

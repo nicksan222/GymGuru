@@ -1,0 +1,310 @@
+[
+  {
+    "name": "Panca Piana",
+    "description": "Esercizio classico per i pettorali, utilizzando bilanciere o manubri.",
+    "primaryMuscle": "Pettorali",
+    "secondaryMuscles": "Tricipiti, Deltoidi",
+    "category": "Esercizi con resistenza"
+  },
+  {
+    "name": "Squat",
+    "description": "Esercizio fondamentale per le gambe e i glutei, eseguito con o senza pesi.",
+    "primaryMuscle": "Quadricipiti",
+    "secondaryMuscles": "Glutei, Addominali",
+    "category": "Esercizi con il peso del corpo"
+  },
+  {
+    "name": "Affondi",
+    "description": "Esercizio per gambe e glutei, eseguito con o senza pesi.",
+    "primaryMuscle": "Quadricipiti",
+    "secondaryMuscles": "Glutei, Femorali",
+    "category": "Esercizi di rafforzamento"
+  },
+  {
+    "name": "Curl Bicipiti",
+    "description": "Esercizio di isolamento per i bicipiti, eseguito con bilanciere o manubri.",
+    "primaryMuscle": "Bicipiti",
+    "secondaryMuscles": "Avambracci",
+    "category": "Esercizi con resistenza"
+  },
+  {
+    "name": "Tricipiti alle parallele",
+    "description": "Esercizio per i tricipiti e la parte inferiore del petto, utilizzando le parallele.",
+    "primaryMuscle": "Tricipiti",
+    "secondaryMuscles": "Pettorali inferiori",
+    "category": "Esercizi con il peso del corpo"
+  },
+  {
+    "name": "Leg press",
+    "description": "Esercizio per rafforzare le gambe, eseguito su una macchina specifica.",
+    "primaryMuscle": "Quadricipiti",
+    "secondaryMuscles": "Glutei, Femorali",
+    "category": "Esercizi con resistenza"
+  },
+  {
+    "name": "Stacchi da terra",
+    "description": "Esercizio completo che coinvolge diversi gruppi muscolari, eseguito con il bilanciere.",
+    "primaryMuscle": "Dorsali",
+    "secondaryMuscles": "Glutei, Femorali, Addominali",
+    "category": "Esercizi con resistenza"
+  },
+  {
+    "name": "Trazioni alla sbarra",
+    "description": "Esercizio per la parte superiore del corpo, sfruttando il peso del corpo.",
+    "primaryMuscle": "Dorsali",
+    "secondaryMuscles": "Bicipiti, Deltoidi",
+    "category": "Esercizi con il peso del corpo"
+  },
+  {
+    "name": "Plank",
+    "description": "Esercizio isometrico per rinforzare il core, svolto in posizione orizzontale.",
+    "primaryMuscle": "Addominali",
+    "secondaryMuscles": "Spalle, Glutei",
+    "category": "Esercizi di stabilizzazione"
+  },
+  {
+    "name": "Push-up",
+    "description": "Esercizio classico a corpo libero per pettorali, tricipiti e deltoidi.",
+    "primaryMuscle": "Pettorali",
+    "secondaryMuscles": "Tricipiti, Deltoidi",
+    "category": "Esercizi con il peso del corpo"
+  },
+  {
+    "name": "Dip su panca",
+    "description": "Esercizio per i tricipiti, eseguibile con una panca.",
+    "primaryMuscle": "Tricipiti",
+    "secondaryMuscles": "Pettorali, Deltoidi",
+    "category": "Esercizi con il peso del corpo"
+  },
+  {
+    "name": "Lunges laterali",
+    "description": "Variante degli affondi, focalizzata sui muscoli interni ed esterni della coscia.",
+    "primaryMuscle": "Quadricipiti",
+    "secondaryMuscles": "Glutei, Adduttori",
+    "category": "Esercizi di mobilità"
+  },
+  {
+    "name": "Bird Dog",
+    "description": "Esercizio per la stabilità del core e la coordinazione, eseguito a quattro zampe.",
+    "primaryMuscle": "Addominali",
+    "secondaryMuscles": "Dorsali, Glutei",
+    "category": "Esercizi di coordinazione"
+  },
+  {
+    "name": "Dead Bug",
+    "description": "Esercizio per il core, svolto a terra, utile per la stabilità lombare.",
+    "primaryMuscle": "Addominali",
+    "secondaryMuscles": "Flessori dell'anca",
+    "category": "Esercizi di stabilizzazione"
+  },
+  {
+    "name": "Mountain Climbers",
+    "description": "Esercizio dinamico a corpo libero per addominali, braccia e cardio.",
+    "primaryMuscle": "Addominali",
+    "secondaryMuscles": "Deltoidi, Quadricipiti",
+    "category": "Esercizi di riscaldamento"
+  },
+  {
+    "name": "Superman",
+    "description": "Esercizio a corpo libero per rinforzare la zona lombare e i glutei.",
+    "primaryMuscle": "Dorsali",
+    "secondaryMuscles": "Glutei",
+    "category": "Esercizi di rafforzamento"
+  },
+  {
+    "name": "Ponte gluteo",
+    "description": "Esercizio mirato per i glutei, eseguibile a terra.",
+    "primaryMuscle": "Glutei",
+    "secondaryMuscles": "Femorali, Addominali bassi",
+    "category": "Esercizi di potenziamento"
+  },
+  {
+    "name": "Jump Squat",
+    "description": "Variante dinamica dello squat, include un salto per aumentare l'intensità.",
+    "primaryMuscle": "Quadricipiti",
+    "secondaryMuscles": "Glutei, Polpacci",
+    "category": "Esercizi di potenziamento"
+  },
+  {
+    "name": "Burpees",
+    "description": "Esercizio a corpo libero che combina squat, plank e salto, per cardio e forza.",
+    "primaryMuscle": "Addominali",
+    "secondaryMuscles": "Quadricipiti, Pettorali",
+    "category": "Esercizi di riscaldamento"
+  },
+  {
+    "name": "Piegamenti su gomiti",
+    "description": "Esercizio isometrico simile al plank, per stabilizzare il core.",
+    "primaryMuscle": "Addominali",
+    "secondaryMuscles": "Spalle, Glutei",
+    "category": "Esercizi di stabilizzazione"
+  },
+  {
+    "name": "Pull-up",
+    "description": "Trazioni svolte alla sbarra, focalizzate sui dorsali e bicipiti.",
+    "primaryMuscle": "Dorsali",
+    "secondaryMuscles": "Bicipiti, Avambracci",
+    "category": "Esercizi con il peso del corpo"
+  },
+  {
+    "name": "Sit-up",
+    "description": "Esercizio classico per gli addominali, svolto a terra.",
+    "primaryMuscle": "Addominali",
+    "secondaryMuscles": "Flessori dell'anca",
+    "category": "Esercizi di rafforzamento"
+  },
+  {
+    "name": "Front raise",
+    "description": "Esercizio per i deltoidi, eseguito sollevando pesi frontalmente.",
+    "primaryMuscle": "Deltoidi",
+    "secondaryMuscles": "Trapezio, Addominali",
+    "category": "Esercizi con resistenza"
+  },
+  {
+    "name": "Side plank",
+    "description": "Variante del plank, focalizzata sui muscoli obliqui e sulla stabilità laterale.",
+    "primaryMuscle": "Obliqui",
+    "secondaryMuscles": "Glutei, Spalle",
+    "category": "Esercizi di stabilizzazione"
+  },
+  {
+    "name": "Box jump",
+    "description": "Esercizio plyometrico, salto su una piattaforma rialzata per migliorare potenza e coordinazione.",
+    "primaryMuscle": "Quadricipiti",
+    "secondaryMuscles": "Glutei, Polpacci",
+    "category": "Esercizi di potenziamento"
+  },
+  {
+    "name": "Calf raise",
+    "description": "Esercizio per rafforzare i polpacci, eseguibile con o senza pesi.",
+    "primaryMuscle": "Polpacci",
+    "secondaryMuscles": "",
+    "category": "Esercizi di rafforzamento"
+  },
+  {
+    "name": "Lateral raise",
+    "description": "Esercizio per i deltoidi laterali, eseguito sollevando pesi lateralmente.",
+    "primaryMuscle": "Deltoidi",
+    "secondaryMuscles": "Trapezio",
+    "category": "Esercizi con resistenza"
+  },
+  {
+    "name": "Reverse fly",
+    "description": "Esercizio per i deltoidi posteriori e i dorsali, eseguito inclinandosi in avanti.",
+    "primaryMuscle": "Deltoidi",
+    "secondaryMuscles": "Dorsali",
+    "category": "Esercizi con resistenza"
+  },
+  {
+    "name": "Hip thrust",
+    "description": "Esercizio concentrato sui glutei, eseguito con un bilanciere o a corpo libero.",
+    "primaryMuscle": "Glutei",
+    "secondaryMuscles": "Femorali, Addominali bassi",
+    "category": "Esercizi di potenziamento"
+  },
+  {
+    "name": "Arnold press",
+    "description": "Esercizio per le spalle, combinando un movimento di rotazione con la pressione verso l'alto.",
+    "primaryMuscle": "Deltoidi",
+    "secondaryMuscles": "Tricipiti",
+    "category": "Esercizi con resistenza"
+  },
+  {
+    "name": "Wall sit",
+    "description": "Esercizio isometrico per le gambe, eseguito in posizione seduta contro un muro.",
+    "primaryMuscle": "Quadricipiti",
+    "secondaryMuscles": "Glutei, Polpacci",
+    "category": "Esercizi di stabilizzazione"
+  },
+  {
+    "name": "Bent over row",
+    "description": "Esercizio per i dorsali, eseguito inclinandosi in avanti e tirando un bilanciere o manubri.",
+    "primaryMuscle": "Dorsali",
+    "secondaryMuscles": "Bicipiti, Spalle",
+    "category": "Esercizi con resistenza"
+  },
+  {
+    "name": "Farmer's walk",
+    "description": "Esercizio di forza e stabilità, eseguito camminando con pesi pesanti tenuti ai lati.",
+    "primaryMuscle": "Avambracci",
+    "secondaryMuscles": "Dorsali, Spalle",
+    "category": "Esercizi di potenziamento"
+  },
+  {
+    "name": "Bicycle crunch",
+    "description": "Esercizio per gli addominali, simulando una pedalata a terra.",
+    "primaryMuscle": "Addominali",
+    "secondaryMuscles": "Obliqui",
+    "category": "Esercizi di rafforzamento"
+  },
+  {
+    "name": "Step-up",
+    "description": "Esercizio per le gambe, eseguito salendo e scendendo da un gradino o una piattaforma.",
+    "primaryMuscle": "Quadricipiti",
+    "secondaryMuscles": "Glutei",
+    "category": "Esercizi di potenziamento"
+  },
+  {
+    "name": "Swiss ball crunch",
+    "description": "Esercizio per gli addominali, eseguito su una palla svizzera per maggiore instabilità.",
+    "primaryMuscle": "Addominali",
+    "secondaryMuscles": "Obliqui",
+    "category": "Esercizi di stabilizzazione"
+  },
+  {
+    "name": "Kettlebell swing",
+    "description": "Esercizio total-body che coinvolge la forza esplosiva, eseguito con un kettlebell.",
+    "primaryMuscle": "Glutei",
+    "secondaryMuscles": "Dorsali, Quadricipiti",
+    "category": "Esercizi di potenziamento"
+  },
+  {
+    "name": "Pullover",
+    "description": "Esercizio per i pettorali e i dorsali, eseguito con un manubrio o bilanciere.",
+    "primaryMuscle": "Dorsali",
+    "secondaryMuscles": "Pettorali, Tricipiti",
+    "category": "Esercizi con resistenza"
+  },
+  {
+    "name": "Leg curl",
+    "description": "Esercizio per i femorali, eseguito su una macchina specifica.",
+    "primaryMuscle": "Femorali",
+    "secondaryMuscles": "",
+    "category": "Esercizi con resistenza"
+  },
+  {
+    "name": "Leg extension",
+    "description": "Esercizio per isolare i quadricipiti, eseguito su una macchina specifica.",
+    "primaryMuscle": "Quadricipiti",
+    "secondaryMuscles": "",
+    "category": "Esercizi con resistenza"
+  },
+  {
+    "name": "Lateral lunge",
+    "description": "Esercizio per le gambe, eseguito con un movimento laterale.",
+    "primaryMuscle": "Quadricipiti",
+    "secondaryMuscles": "Glutei, Adduttori",
+    "category": "Esercizi di mobilità"
+  },
+  {
+    "name": "Seated row",
+    "description": "Esercizio per i dorsali, eseguito su una macchina a sedere.",
+    "primaryMuscle": "Dorsali",
+    "secondaryMuscles": "Bicipiti, Spalle",
+    "category": "Esercizi con resistenza"
+  },
+  {
+    "name": "Shoulder press",
+    "description": "Esercizio per le spalle, eseguito sollevando pesi sopra la testa.",
+    "primaryMuscle": "Deltoidi",
+    "secondaryMuscles": "Tricipiti",
+    "category": "Esercizi con resistenza"
+  },
+  {
+    "name": "Upright row",
+    "description": "Esercizio per spalle e trapezio, eseguito tirando pesi verso il mento.",
+    "primaryMuscle": "Deltoidi",
+    "secondaryMuscles": "Trapezio",
+    "category": "Esercizi con resistenza"
+  }
+]

@@ -46,6 +46,7 @@ const SecondaryMusclesSelect = ({
             <PopoverTrigger asChild>
               <FormControl>
                 <Button
+                  data-test="secondary-muscle-select"
                   variant="outline"
                   role="combobox"
                   className={cn(
@@ -61,7 +62,10 @@ const SecondaryMusclesSelect = ({
                 </Button>
               </FormControl>
             </PopoverTrigger>
-            <PopoverContent className="w-[400px] p-0">
+            <PopoverContent
+              className="w-[400px] p-0"
+              data-test="secondary-muscle-modal"
+            >
               <Command>
                 <CommandInput placeholder="Search muscle..." />
                 <CommandEmpty>Nessun gruppo muscolare trovato.</CommandEmpty>
@@ -70,6 +74,7 @@ const SecondaryMusclesSelect = ({
                     <CommandItem
                       value={muscle}
                       key={muscle}
+                      data-test={`secondary-muscle`}
                       onSelect={() => {
                         if (!field.value?.includes(muscle)) {
                           form.setValue("secondaryMuscles", [

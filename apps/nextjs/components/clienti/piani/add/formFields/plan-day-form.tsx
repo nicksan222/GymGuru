@@ -18,14 +18,14 @@ export default function PlanDayForm({ form, workoutIndex }: PlanDayFormProps) {
 
   const exercises = trpc.exercisesRouter.listExercises.useQuery({});
 
-  if (!workout) {
-    return null;
-  }
-
   const { remove } = useFieldArray({
     control: form.control,
     name: `workouts`,
   });
+
+  if (!workout) {
+    return null;
+  }
 
   return (
     <div className="rounded-xl border-2 border-r-2 p-4">

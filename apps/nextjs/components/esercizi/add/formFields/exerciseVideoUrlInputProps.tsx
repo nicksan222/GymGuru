@@ -29,6 +29,7 @@ const ExerciseVideoUrlInput: React.FC<ExerciseVideoUrlInputProps> = ({
             <Input
               placeholder="Link al video dell'esercizio"
               type="url"
+              data-test="exercise-video-url-input"
               {...field}
             />
           </FormControl>

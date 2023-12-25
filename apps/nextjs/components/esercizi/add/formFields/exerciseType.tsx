@@ -47,6 +47,7 @@ const ExerciseCategorySelect: React.FC<PrimarytypeSelectProps> = ({
                 <Button
                   variant="outline"
                   role="combobox"
+                  data-test="exercise-type-select"
                   className={cn(
                     "w-[400px] justify-between",
                     !field.value && "text-muted-foreground",
@@ -60,13 +61,17 @@ const ExerciseCategorySelect: React.FC<PrimarytypeSelectProps> = ({
                 </Button>
               </FormControl>
             </PopoverTrigger>
-            <PopoverContent className="w-[400px] p-0">
+            <PopoverContent
+              className="w-[400px] p-0"
+              data-test="exercise-type-modal"
+            >
               <Command>
                 <CommandInput placeholder="Search type..." />
                 <CommandEmpty>Nessuna tipologia trovata.</CommandEmpty>
                 <CommandGroup>
                   {types.map((type) => (
                     <CommandItem
+                      data-test={`exercise-type`}
                       value={type}
                       key={type}
                       onSelect={() => {

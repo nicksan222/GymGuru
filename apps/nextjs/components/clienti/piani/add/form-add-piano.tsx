@@ -8,6 +8,7 @@ import { Separator } from "@radix-ui/react-dropdown-menu";
 import PlanDayForm from "./formFields/plan-day-form";
 import ButtonAddDayForm from "./formFields/button-add-day-form";
 import { Button } from "#/components/ui/button";
+import PlanDatePicker from "./formFields/date-picker";
 
 interface Props {
   clientId: string;
@@ -37,6 +38,11 @@ export default function FormAddWorkoutPlan({ onSubmit, clientId }: Props) {
         {watch().workouts?.map((_, index) => (
           <PlanDayForm key={index} form={form} workoutIndex={index} />
         ))}
+
+        <div className="grid grid-cols-1 gap-4">
+          <h2>Validità piano</h2>
+          <PlanDatePicker />
+        </div>
 
         <div className="flex flex-row justify-between">
           <ButtonAddDayForm form={form} />

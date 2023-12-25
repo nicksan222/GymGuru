@@ -43,4 +43,5 @@ export const getExerciseInput = z.object({
 
 export const listExercisesInput = z.object({
   muscleGroup: z.string().optional(),
+  filterIds: z.array(z.string()).optional(),
 });

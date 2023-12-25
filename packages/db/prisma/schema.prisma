@@ -95,14 +95,18 @@ model WorkoutExercise {
     createdAt        DateTime @default(now())
     updatedAt        DateTime @updatedAt
     trainerId        String
+    description      String?
 }
 
-model ExerciseSet {
+model WorkoutSet {
     id                String   @id @default(cuid())
     workoutExerciseId String
     setNumber         Int
     reps              Int
     rest              Int
+    hold              Int
+    eccentric         Int
+    concentric        Int
     createdAt         DateTime @default(now())
     updatedAt         DateTime @updatedAt
 }
@@ -111,8 +115,7 @@ model Payment {
     id        String   @id @default(cuid())
     amount    Float
     date      DateTime @default(now())
-    validFrom DateTime
-    validTo   DateTime
+    planId    String
     clientId  String
     trainerId String
 }

@@ -76,7 +76,9 @@ export default function FormAddExercise({ onSubmit }: Props) {
             Caricamento...
           </Button>
         ) : (
-          <Button type="submit">Aggiungi esercizio</Button>
+          <Button data-test="submit-exercise-button" type="submit">
+            Aggiungi esercizio
+          </Button>
         )}
       </form>
     </Form>

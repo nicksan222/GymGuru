@@ -1,5 +1,4 @@
 import { protectedProcedure } from "../../trpc";
-import { z } from "zod";
 import { listExercisesInput } from "./types";
 import { MuscleTarget } from "@acme/db";
 
@@ -33,6 +32,14 @@ const listExercises = protectedProcedure
           secondaryMuscles: true,
           imageUrl: true,
           category: true,
+        },
+      });
+    } else if (input.filterIds) {
+      // Query filtering by ids
+      return ctx.prisma.exercise.findMany({
+        where: {
+          id: { in: input.filterIds },
+          trainerId: ctx.auth.userId,
         },
       });
     } else {
