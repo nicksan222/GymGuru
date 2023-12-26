@@ -14,14 +14,14 @@ export const seriesSchema = z.object({
   order: positiveNumberSchema,
 });
 
-const exerciseSchema = z.object({
+export const exerciseSchema = z.object({
   id: uuidSchema,
   series: z.array(seriesSchema).optional(),
   order: positiveNumberSchema,
   description: z.string().optional(),
 });
 
-const workoutSchema = z.object({
+export const workoutSchema = z.object({
   day: z.number().min(1).max(7, { message: "Il giorno deve essere tra 1 e 7" }),
   exercises: z.array(exerciseSchema).optional(),
 });

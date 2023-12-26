@@ -1,5 +1,4 @@
 import { protectedProcedure } from "../../trpc";
-import { z } from "zod";
 import { updateClientInput } from "./types";
 
 const updateClient = protectedProcedure

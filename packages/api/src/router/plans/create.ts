@@ -1,95 +1,183 @@
 import { protectedProcedure } from "../../trpc";
-import { createPlanInput } from "./types";
+import {
+  createPlanInput,
+  exerciseSchema,
+  seriesSchema,
+  workoutSchema,
+} from "./types";
 import * as z from "zod";
 import { Context } from "../../context";
-import { seriesSchema } from "./types";
+import { WorkoutPlanDay } from "@acme/db";
+import { TRPCError } from "@trpc/server";
+
+type Exercise = z.infer<typeof exerciseSchema>;
+type Series = z.infer<typeof seriesSchema>;
+type Workout = z.infer<typeof workoutSchema>;
 
 // Function to create workout exercises for each workout plan day
 async function createWorkoutExercises(
-  exercises: Array<{
-    id: string;
-    order: number;
-    description?: string;
-    series: z.infer<typeof seriesSchema>[];
-  }>,
-  workoutPlanDayId: string,
+  exercises: Exercise[],
+  workoutPlanDay: WorkoutPlanDay,
   ctx: Context,
-) {
+): Promise<void> {
   if (!exercises || exercises.length === 0) return;
 
-  await Promise.all(
-    exercises.map(async (exercise) => {
-      if (!exercise.order) throw new Error("Exercise order is required");
-      if (!ctx.auth.userId) throw new Error("User ID is required");
+  for (const exercise of exercises) {
+    validateExercise(exercise, ctx);
+    const workoutExerciseId = await createWorkoutExercise(
+      exercise,
+      workoutPlanDay,
+      ctx,
+    );
+    await createWorkoutSets(exercise.series ?? [], workoutExerciseId.id, ctx);
+  }
+}
 
-      const workoutExerciseId = await ctx.prisma.workoutExercise.create({
-        data: {
-          order: exercise.order,
-          trainerId: ctx.auth.userId,
-          workoutPlanDayId: workoutPlanDayId,
-          description: exercise.description,
-          exerciseId: exercise.id,
-        },
-      });
+function validateExercise(exercise: Exercise, ctx: Context): void {
+  if (!exercise.order)
+    throw new TRPCError({
+      code: "BAD_REQUEST",
+      message: "Exercise order is required",
+    });
+  if (!ctx.auth.userId)
+    throw new TRPCError({
+      code: "UNAUTHORIZED",
+      message: "User ID is required",
+    });
+  if (!exercise.series || exercise.series.length === 0)
+    throw new TRPCError({
+      code: "BAD_REQUEST",
+      message: "Exercise series are required",
+    });
+}
 
-      exercise.series?.forEach(async (serie, index) => {
-        if (!serie.reps) throw new Error("Serie reps is required");
+function validateUser(ctx: Context): void {
+  if (!ctx.auth.userId)
+    throw new TRPCError({
+      code: "UNAUTHORIZED",
+      message: "User ID is required",
+    });
+}
 
-        await ctx.prisma.workoutSet.create({
-          data: {
-            reps: serie.reps,
-            rest: serie.rest,
-            setNumber: index + 1,
-            workoutExerciseId: workoutExerciseId.id,
-            concentric: serie.concentric,
-            eccentric: serie.eccentric,
-            hold: serie.hold,
-          },
-        });
-      });
-    }),
-  );
+async function createWorkoutExercise(
+  exercise: Exercise,
+  workoutPlanDay: WorkoutPlanDay,
+  ctx: Context,
+): Promise<{ id: string }> {
+  validateUser(ctx);
+
+  return await ctx.prisma.workoutExercise.create({
+    data: {
+      order: exercise.order,
+      description: exercise.description,
+      Exercise: {
+        connect: { id: exercise.id },
+      },
+      WorkoutPlanDay: {
+        connect: { id: workoutPlanDay.id },
+      },
+      trainerId: ctx.auth.userId ?? "",
+    },
+  });
+}
+
+async function createWorkoutSets(
+  series: Series[],
+  workoutExerciseId: string,
+  ctx: Context,
+): Promise<void> {
+  series?.forEach(async (serie, index) => {
+    validateSerie(serie);
+    validateUser(ctx);
+
+    await ctx.prisma.workoutSet.create({
+      data: {
+        ...serie,
+        setNumber: index + 1,
+        workoutExerciseId,
+        trainerId: ctx.auth.userId ?? "",
+      },
+    });
+  });
+}
+
+function validateSerie(serie: Series): void {
+  if (!serie.reps)
+    throw new TRPCError({
+      code: "BAD_REQUEST",
+      message: "Serie reps are required",
+    });
 }
 
 const createPlan = protectedProcedure
   .input(createPlanInput)
   .mutation(async ({ ctx, input }) => {
-    const { workouts, ...planDetails } = input;
-    const workoutPlan = await ctx.prisma.workoutPlan.create({
-      data: {
-        ...planDetails,
-        trainerId: ctx.auth.userId,
-      },
-    });
+    if (!input.workouts || input.workouts.length === 0)
+      throw new TRPCError({
+        code: "BAD_REQUEST",
+        message: "Workouts are required",
+      });
 
-    if (workouts && workouts.length > 0) {
-      await Promise.all(
-        workouts.map(async (workout) => {
-          const workoutPlanDay = await ctx.prisma.workoutPlanDay.create({
-            data: {
-              day: workout.day,
-              workoutPlanId: workoutPlan.id,
-              trainerId: ctx.auth.userId,
-            },
-          });
+    if (!ctx.auth.userId)
+      throw new TRPCError({
+        code: "UNAUTHORIZED",
+        message: "User is not authorized",
+      });
 
-          if (workout.exercises && workout.exercises.length > 0) {
-            await createWorkoutExercises(
-              workout.exercises.map((exercise) => ({
-                description: exercise.description,
-                id: exercise.id,
-                order: exercise.order,
-                series: exercise.series ?? [],
-              })),
-              workoutPlanDay.id,
-              ctx,
-            );
-          }
-        }),
-      );
-    }
-
+    const workoutPlan = await createWorkoutPlan(input, ctx);
+    await processWorkouts(input.workouts, workoutPlan.id, ctx);
     return workoutPlan;
   });
+
+async function createWorkoutPlan(
+  planDetails: z.infer<typeof createPlanInput>,
+  ctx: Context,
+) {
+  validateUser(ctx);
+
+  return await ctx.prisma.workoutPlan.create({
+    data: {
+      ...planDetails,
+      trainerId: ctx.auth.userId ?? "",
+    },
+  });
+}
+
+async function processWorkouts(
+  workouts: Workout[],
+  workoutPlanId: string,
+  ctx: Context,
+): Promise<void> {
+  if (workouts && workouts.length > 0) {
+    for (const workout of workouts) {
+      const workoutPlanDay = await createWorkoutPlanDay(
+        workout,
+        workoutPlanId,
+        ctx,
+      );
+      await createWorkoutExercises(
+        workout.exercises || [],
+        workoutPlanDay,
+        ctx,
+      );
+    }
+  }
+}
+
+async function createWorkoutPlanDay(
+  workout: Workout,
+  workoutPlanId: string,
+  ctx: Context,
+): Promise<WorkoutPlanDay> {
+  validateUser(ctx);
+
+  return await ctx.prisma.workoutPlanDay.create({
+    data: {
+      day: workout.day,
+      workoutPlanId,
+      trainerId: ctx.auth.userId ?? "",
+    },
+  });
+}
 
 export default createPlan;

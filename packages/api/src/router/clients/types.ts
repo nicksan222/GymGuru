@@ -11,11 +11,14 @@ export const createClientInput = z.object({
 
 export const updateClientInput = z.object({
   id: z.string(),
-  firstName: z.string().min(2, { message: "First name is too short" }),
-  lastName: z.string().min(2, { message: "Last name is too short" }),
-  email: z.string().email(),
+  firstName: z
+    .string()
+    .min(2, { message: "First name is too short" })
+    .optional(),
+  lastName: z.string().min(2, { message: "Last name is too short" }).optional(),
+  email: z.string().email().optional(),
   phone: z.string().optional(),
-  birthDate: z.date(),
+  birthDate: z.date().optional(),
   medicalHistory: z.string().optional(),
 });
 

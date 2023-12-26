@@ -7,51 +7,6 @@ datasource db {
     url      = env("DATABASE_URL")
 }
 
-model Client {
-    id             String    @id @default(uuid())
-    firstName      String
-    lastName       String
-    email          String    @unique
-    phone          String?   @unique
-    birthDate      DateTime
-    medicalHistory String?
-    createdAt      DateTime  @default(now())
-    updatedAt      DateTime  @updatedAt
-    deletedAt      DateTime?
-    trainerId      String
-}
-
-model ProgressRecord {
-    id                 String   @id @default(cuid())
-    date               DateTime @default(now())
-    weight             Float?
-    bodyFat            Float?
-    armCircumference   Float?
-    chestCircumference Float?
-    waistCircumference Float?
-    hipCircumference   Float?
-    clientId           String
-    trainerId          String
-}
-
-model WorkoutPlan {
-    id        String   @id @default(cuid())
-    startDate DateTime
-    endDate   DateTime
-    clientId  String
-    createdAt DateTime @default(now())
-    trainerId String
-}
-
-model WorkoutPlanDay {
-    id            String   @id @default(cuid())
-    workoutPlanId String
-    day           Int
-    createdAt     DateTime @default(now())
-    updatedAt     DateTime @updatedAt
-    trainerId     String
-}
-
 enum MuscleTarget {
     Addominali
     Bicipiti
@@ -73,7 +28,7 @@ enum MuscleTarget {
 }
 
 model Exercise {
-    id               String       @id @default(cuid())
+    id               String            @id @default(cuid())
     name             String
     description      String?
     videoUrl         String?
@@ -82,56 +37,127 @@ model Exercise {
     secondaryMuscles String
     instructions     String?
     category         String
-    createdAt        DateTime     @default(now())
-    updatedAt        DateTime     @updatedAt
+    createdAt        DateTime          @default(now())
+    updatedAt        DateTime          @updatedAt
     trainerId        String
+    WorkoutExercise  WorkoutExercise[]
+}
+
+model Client {
+    id             String           @id @default(uuid())
+    firstName      String
+    lastName       String
+    email          String           @unique
+    phone          String?          @unique
+    birthDate      DateTime
+    medicalHistory String?
+    createdAt      DateTime         @default(now())
+    updatedAt      DateTime         @updatedAt
+    deletedAt      DateTime?
+    trainerId      String
+    ProgressRecord ProgressRecord[]
+    WorkoutPlan    WorkoutPlan[]
+    Payment        Payment[]
+    WorkoutRecord  WorkoutRecord[]
+}
+
+model ProgressRecord {
+    id                 String   @id @default(cuid())
+    date               DateTime @default(now())
+    weight             Float?
+    bodyFat            Float?
+    armCircumference   Float?
+    chestCircumference Float?
+    waistCircumference Float?
+    hipCircumference   Float?
+    trainerId          String
+
+    Client   Client @relation(fields: [clientId], references: [id])
+    clientId String
+}
+
+model WorkoutPlan {
+    id        String   @id @default(cuid())
+    startDate DateTime
+    endDate   DateTime
+    createdAt DateTime @default(now())
+    trainerId String
+
+    Client         Client           @relation(fields: [clientId], references: [id])
+    clientId       String
+    WorkoutPlanDay WorkoutPlanDay[]
+}
+
+model WorkoutPlanDay {
+    id        String   @id @default(cuid())
+    day       Int
+    createdAt DateTime @default(now())
+    updatedAt DateTime @updatedAt
+    trainerId String
+
+    WorkoutPlan     WorkoutPlan       @relation(fields: [workoutPlanId], references: [id])
+    workoutPlanId   String
+    WorkoutExercise WorkoutExercise[]
+    WorkoutRecord   WorkoutRecord[]
 }
 
 model WorkoutExercise {
-    id               String   @id @default(cuid())
-    exerciseId       String
+    id          String       @id @default(cuid())
+    trainerId   String
+    order       Int
+    createdAt   DateTime     @default(now())
+    updatedAt   DateTime     @updatedAt
+    description String?
+    WorkoutSet  WorkoutSet[]
+
+    WorkoutPlanDay   WorkoutPlanDay @relation(fields: [workoutPlanDayId], references: [id])
     workoutPlanDayId String
-    order            Int
-    createdAt        DateTime @default(now())
-    updatedAt        DateTime @updatedAt
-    trainerId        String
-    description      String?
+
+    Exercise   Exercise @relation(fields: [exerciseId], references: [id])
+    exerciseId String
 }
 
 model WorkoutSet {
-    id                String   @id @default(cuid())
+    id         String   @id @default(cuid())
+    setNumber  Int
+    reps       Int
+    rest       Int
+    hold       Int
+    eccentric  Int
+    concentric Int
+    createdAt  DateTime @default(now())
+    updatedAt  DateTime @updatedAt
+    trainerId  String
+
+    WorkoutExercise   WorkoutExercise @relation(fields: [workoutExerciseId], references: [id])
     workoutExerciseId String
-    setNumber         Int
-    reps              Int
-    rest              Int
-    hold              Int
-    eccentric         Int
-    concentric        Int
-    createdAt         DateTime @default(now())
-    updatedAt         DateTime @updatedAt
 }
 
 model WorkoutRecordSet {
-    id                String   @id @default(cuid())
-    workoutPlanDayId  String
-    workoutExerciseId String
-    workoutSetId      String
-    reps              Int
-    weight            Float
-    rest              Int
-    createdAt         DateTime @default(now())
-    updatedAt         DateTime @updatedAt
-    trainerId         String
+    id        String   @id @default(cuid())
+    reps      Int
+    weight    Float
+    rest      Int
+    createdAt DateTime @default(now())
+    updatedAt DateTime @updatedAt
+
+    WorkoutRecord   WorkoutRecord @relation(fields: [workoutRecordId], references: [id])
+    workoutRecordId String
 }
 
 model WorkoutRecord {
-    id               String    @id @default(cuid())
-    workoutPlanDayId String
-    createdAt        DateTime  @default(now())
-    updatedAt        DateTime  @updatedAt
+    id               String             @id @default(cuid())
+    createdAt        DateTime           @default(now())
+    updatedAt        DateTime           @updatedAt
     trainerId        String
     completedAt      DateTime?
-    clientId         String
+    WorkoutRecordSet WorkoutRecordSet[]
+
+    WorkoutPlanDay   WorkoutPlanDay @relation(fields: [workoutPlanDayId], references: [id])
+    workoutPlanDayId String
+
+    Client   Client @relation(fields: [clientId], references: [id])
+    clientId String
 }
 
 model Payment {
@@ -139,6 +165,8 @@ model Payment {
     amount    Float
     date      DateTime @default(now())
     planId    String
-    clientId  String
     trainerId String
+
+    Client   Client @relation(fields: [clientId], references: [id])
+    clientId String
 }

@@ -8,78 +8,43 @@ async function findActiveWorkoutPlan(ctx: Context) {
 
   const user = await ctx.prisma.client.findFirst({
     where: { email: ctx.auth.user?.emailAddresses[0]?.emailAddress },
+    include: {
+      WorkoutPlan: {
+        where: {
+          startDate: { lte: currentDate },
+          endDate: { gte: currentDate },
+        },
+        include: {
+          WorkoutPlanDay: {
+            orderBy: { day: "asc" },
+            include: {
+              WorkoutExercise: {
+                include: {
+                  Exercise: true,
+                  WorkoutSet: true,
+                },
+              },
+            },
+          },
+        },
+      },
+    },
   });
 
-  if (!user) {
+  if (!user || user.WorkoutPlan.length === 0) {
     throw new TRPCError({
       code: "NOT_FOUND",
-      message: "User not found",
+      message: "Active workout plan not found",
     });
   }
 
-  return await ctx.prisma.workoutPlan.findFirst({
-    where: {
-      AND: [
-        { clientId: user.id },
-        { startDate: { lte: currentDate } },
-        { endDate: { gte: currentDate } },
-      ],
-    },
-  });
+  return user.WorkoutPlan[0];
 }
 
 const getActivePlan = protectedProcedure.query(async ({ ctx }) => {
   const activeWorkoutPlan = await findActiveWorkoutPlan(ctx);
 
-  if (!activeWorkoutPlan) {
-    throw new TRPCError({
-      code: "NOT_FOUND",
-      message: "Active plan not found",
-    });
-  }
-
-  // Fetch workout plan days, exercises, and series
-  const workoutPlanDays = await ctx.prisma.workoutPlanDay.findMany({
-    where: { workoutPlanId: activeWorkoutPlan.id },
-    orderBy: { day: "asc" },
-  });
-
-  const workoutPlanExercises = await ctx.prisma.workoutExercise.findMany({
-    where: { workoutPlanDayId: { in: workoutPlanDays.map((day) => day.id) } },
-  });
-
-  const workoutPlanSeries = await ctx.prisma.workoutSet.findMany({
-    where: {
-      workoutExerciseId: {
-        in: workoutPlanExercises.map((exercise) => exercise.id),
-      },
-    },
-  });
-
-  const exercisesDetails = await ctx.prisma.exercise.findMany({
-    where: {
-      id: { in: workoutPlanExercises.map((exercise) => exercise.exerciseId) },
-    },
-  });
-
-  // Map days to exercises and series
-  const days = workoutPlanDays.map((day) => ({
-    dayInfo: day,
-    exercises: workoutPlanExercises
-      .filter((exercise) => exercise.workoutPlanDayId === day.id)
-      .map((exercise) => ({
-        exerciseInfo: exercisesDetails.find(
-          (detail) => detail.id === exercise.exerciseId,
-        ),
-        series: workoutPlanSeries.filter(
-          (series) => series.workoutExerciseId === exercise.id,
-        ),
-      })),
-  }));
-
-  console.info(JSON.stringify(days, null, 2));
-
-  return { plan: activeWorkoutPlan, days };
+  return { plan: activeWorkoutPlan };
 });
 
 export default getActivePlan;
