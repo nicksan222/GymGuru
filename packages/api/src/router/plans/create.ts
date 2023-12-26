@@ -90,14 +90,24 @@ async function createWorkoutSets(
     validateSerie(serie);
     validateUser(ctx);
 
-    await ctx.prisma.workoutSet.create({
+    const result = await ctx.prisma.workoutSet.create({
       data: {
-        ...serie,
+        concentric: serie.concentric,
+        eccentric: serie.eccentric,
+        hold: serie.hold,
+        reps: serie.reps,
+        rest: serie.rest,
         setNumber: index + 1,
         workoutExerciseId,
         trainerId: ctx.auth.userId ?? "",
       },
     });
+
+    if (!result)
+      throw new TRPCError({
+        code: "INTERNAL_SERVER_ERROR",
+        message: "Error creating workout set",
+      });
   });
 }
 
@@ -137,7 +147,11 @@ async function createWorkoutPlan(
 
   return await ctx.prisma.workoutPlan.create({
     data: {
-      ...planDetails,
+      startDate: planDetails.startDate,
+      endDate: planDetails.endDate,
+      Client: {
+        connect: { id: planDetails.clientId },
+      },
       trainerId: ctx.auth.userId ?? "",
     },
   });

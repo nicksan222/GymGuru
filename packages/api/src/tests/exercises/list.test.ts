@@ -4,12 +4,12 @@ import {
   getMockTrainerTRPC,
 } from "../utils/getMockTrainerTRPC";
 import { prisma } from "@acme/db";
+import getMockIdentities from "../utils/getMockIdentities";
 
 describe("Exercise deletion", () => {
   it("should list exercises", async () => {
-    const caller = await getMockTrainerTRPC("exercise_deletion");
-    const idCaller = await getMockTrainerId("exercise_deletion");
-    expect(idCaller).toBeDefined();
+    const sessions = await getMockIdentities();
+    const caller = await getMockTrainerTRPC(sessions.sessionTrainer.userId);
 
     const result = await prisma.exercise.createMany({
       data: [
@@ -20,7 +20,7 @@ describe("Exercise deletion", () => {
           imageUrl: "test",
           primaryMuscle: MuscleTarget.Pettorali,
           secondaryMuscles: "",
-          trainerId: idCaller ?? "",
+          trainerId: sessions.sessionTrainer.userId,
         },
         {
           category: "test",
@@ -29,7 +29,7 @@ describe("Exercise deletion", () => {
           imageUrl: "test",
           primaryMuscle: MuscleTarget.Glutei,
           secondaryMuscles: "",
-          trainerId: idCaller ?? "",
+          trainerId: sessions.sessionTrainer.userId,
         },
       ],
     });
@@ -44,7 +44,7 @@ describe("Exercise deletion", () => {
     // Delete the exercises
     const resultDeletion = await prisma.exercise.deleteMany({
       where: {
-        trainerId: idCaller ?? "",
+        trainerId: sessions.sessionTrainer.userId,
       },
     });
 

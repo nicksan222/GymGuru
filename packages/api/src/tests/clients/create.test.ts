@@ -1,10 +1,12 @@
 import { MuscleTarget } from "@prisma/client";
 import { getMockTrainerTRPC } from "../utils/getMockTrainerTRPC";
 import { prisma } from "@acme/db";
+import getMockIdentities from "../utils/getMockIdentities";
 
 describe("Client creation", () => {
   it("should create a client", async () => {
-    const caller = await getMockTrainerTRPC();
+    const sessions = await getMockIdentities();
+    const caller = await getMockTrainerTRPC(sessions.sessionTrainer.userId);
 
     const result = await caller.clientRouter.createClient({
       birthDate: new Date(),

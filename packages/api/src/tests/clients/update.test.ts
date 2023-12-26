@@ -4,12 +4,12 @@ import {
   getMockTrainerTRPC,
 } from "../utils/getMockTrainerTRPC";
 import { prisma } from "@acme/db";
+import getMockIdentities from "../utils/getMockIdentities";
 
 describe("Client update", () => {
   it("should update a client", async () => {
-    const caller = await getMockTrainerTRPC();
-    const idCaller = await getMockTrainerId();
-    expect(idCaller).toBeDefined();
+    const sessions = await getMockIdentities();
+    const caller = await getMockTrainerTRPC(sessions.sessionTrainer.userId);
 
     const result = await prisma.client.create({
       data: {
@@ -17,7 +17,7 @@ describe("Client update", () => {
         email: "c@c.com",
         firstName: "",
         lastName: "",
-        trainerId: idCaller ?? "",
+        trainerId: sessions.sessionTrainer.userId,
       },
       select: {
         id: true,
@@ -27,9 +27,15 @@ describe("Client update", () => {
     expect(result).toBeDefined();
     expect(result?.id).toBeDefined();
 
+    const randomEmail =
+      Math.random().toString(36).substring(7) +
+      "@" +
+      Math.random().toString(36).substring(7) +
+      ".com";
+
     const updateResult = await caller.clientRouter.updateClient({
       id: result?.id,
-      email: "d@d.com",
+      email: randomEmail,
     });
 
     expect(updateResult).toBeDefined();

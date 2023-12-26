@@ -2,11 +2,11 @@ import { appRouter } from "../../router";
 import { createContextInner } from "../../context";
 import sessionTrainer from "./getMockTrainerContext";
 
-export const getMockTrainerTRPC = async (userId?: string) => {
+export const getMockTrainerTRPC = async (userId: string, email?: string) => {
   const ctx = await createContextInner({
     auth: {
       ...sessionTrainer,
-      userId: userId || sessionTrainer.userId,
+      userId: userId,
     },
   });
   const caller = appRouter.createCaller(ctx);

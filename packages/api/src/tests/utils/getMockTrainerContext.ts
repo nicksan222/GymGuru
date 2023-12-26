@@ -1,4 +1,5 @@
 import { SignedInAuthObject } from "@clerk/nextjs/api";
+import { randomUUID } from "crypto";
 
 const sessionTrainer: Partial<SignedInAuthObject> = {
   sessionClaims: {
@@ -14,7 +15,7 @@ const sessionTrainer: Partial<SignedInAuthObject> = {
     __raw: "",
   },
   sessionId: "sess_2Zziy00ZyQuQrE4lyrDQFv1YWHs",
-  userId: "user_trainer",
+  userId: randomUUID(),
 };
 
 export default sessionTrainer as SignedInAuthObject;

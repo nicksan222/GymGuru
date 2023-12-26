@@ -4,12 +4,12 @@ import {
   getMockTrainerTRPC,
 } from "../utils/getMockTrainerTRPC";
 import { prisma } from "@acme/db";
+import getMockIdentities from "../utils/getMockIdentities";
 
 describe("Exercise deletion", () => {
   it("should delete an exercise", async () => {
-    const caller = await getMockTrainerTRPC();
-    const idCaller = await getMockTrainerId();
-    expect(idCaller).toBeDefined();
+    const sessions = await getMockIdentities();
+    const caller = await getMockTrainerTRPC(sessions.sessionTrainer.userId);
 
     const result = await prisma.exercise.create({
       data: {
@@ -19,7 +19,7 @@ describe("Exercise deletion", () => {
         imageUrl: "test",
         primaryMuscle: MuscleTarget.Pettorali,
         secondaryMuscles: "",
-        trainerId: idCaller ?? "",
+        trainerId: sessions.sessionTrainer.userId,
       },
       select: {
         id: true,

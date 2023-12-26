@@ -1,10 +1,25 @@
 import { appRouter } from "../../router";
 import { createContextInner } from "../../context";
-import sessionTrainer from "./getMockTrainerContext";
+import sessionClient from "./getMockClientContext";
+import { User } from "@clerk/clerk-sdk-node";
 
-export const getMockClientTRPC = async () => {
+export const getMockClientTRPC = async (userId?: string, email?: string) => {
   const ctx = await createContextInner({
-    auth: sessionTrainer,
+    auth: {
+      ...sessionClient,
+      userId: userId ?? sessionClient.userId,
+      user: {
+        ...(sessionClient.user as User),
+        emailAddresses: [
+          {
+            emailAddress: email ?? "",
+            id: "",
+            linkedTo: [],
+            verification: null,
+          },
+        ],
+      },
+    },
   });
   const caller = appRouter.createCaller(ctx);
 

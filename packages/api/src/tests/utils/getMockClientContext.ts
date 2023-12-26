@@ -1,4 +1,10 @@
 import { SignedInAuthObject } from "@clerk/nextjs/api";
+import { randomUUID } from "crypto";
+
+const generateRandomEmail = () => {
+  const uuid = randomUUID();
+  return `client+${uuid}@client.com`;
+};
 
 const sessionClient: Partial<SignedInAuthObject> = {
   sessionClaims: {
@@ -14,11 +20,11 @@ const sessionClient: Partial<SignedInAuthObject> = {
     __raw: "",
   },
   sessionId: "sess_2Zziy00ZyQuQrE4lyrDQFv1YWHs",
-  userId: "user_client",
+  userId: randomUUID(),
   user: {
     emailAddresses: [
       {
-        emailAddress: "client@testclient.com",
+        emailAddress: generateRandomEmail(),
         id: "eml_2ZJMb3YCdXrw3EE7hNBPysiEcBC",
         linkedTo: [],
         verification: null,

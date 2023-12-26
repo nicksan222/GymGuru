@@ -86,6 +86,7 @@ model WorkoutPlan {
     Client         Client           @relation(fields: [clientId], references: [id])
     clientId       String
     WorkoutPlanDay WorkoutPlanDay[]
+    Payment        Payment[]
 }
 
 model WorkoutPlanDay {
@@ -164,9 +165,11 @@ model Payment {
     id        String   @id @default(cuid())
     amount    Float
     date      DateTime @default(now())
-    planId    String
     trainerId String
 
     Client   Client @relation(fields: [clientId], references: [id])
     clientId String
+
+    WorkoutPlan   WorkoutPlan @relation(fields: [workoutPlanId], references: [id])
+    workoutPlanId String
 }
