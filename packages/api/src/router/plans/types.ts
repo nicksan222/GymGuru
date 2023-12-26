@@ -5,7 +5,7 @@ const positiveNumberSchema = z.number().min(0, {
   message: "Il numero deve essere positivo",
 });
 
-const seriesSchema = z.object({
+export const seriesSchema = z.object({
   reps: positiveNumberSchema,
   concentric: positiveNumberSchema,
   eccentric: positiveNumberSchema,

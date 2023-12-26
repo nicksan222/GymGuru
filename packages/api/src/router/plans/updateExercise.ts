@@ -31,7 +31,7 @@ const updateExercise = protectedProcedure
     if (input.exerciseSets) {
       await Promise.all(
         input.exerciseSets.map((set) =>
-          ctx.prisma.exerciseSet.update({
+          ctx.prisma.workoutSet.update({
             where: { id: set.id },
             data: {
               setNumber: set.setNumber,

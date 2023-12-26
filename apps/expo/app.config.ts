@@ -4,8 +4,8 @@ const CLERK_PUBLISHABLE_KEY =
   "pk_test_ZnVubnktd2lsZGNhdC02NC5jbGVyay5hY2NvdW50cy5kZXYk";
 
 const defineConfig = (_ctx: ConfigContext): ExpoConfig => ({
-  name: "expo",
-  slug: "expo",
+  name: "GymGuru",
+  slug: "gymguru",
   version: "1.0.0",
   orientation: "portrait",
   icon: "./assets/icon.png",

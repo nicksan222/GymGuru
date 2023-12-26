@@ -24,7 +24,10 @@ export const columns: ColumnDef<Exercise>[] = [
       return (
         <>
           <Image
-            src={row.original?.imageUrl?.split(",")[0] ?? ""}
+            src={
+              row.original?.imageUrl?.split(",")[0] ||
+              "https://via.placeholder.com/100x100.png?text=Immagine+mancante"
+            }
             alt={"Immagine mancante"}
             width={100}
             height={100}

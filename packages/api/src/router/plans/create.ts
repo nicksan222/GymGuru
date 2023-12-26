@@ -1,21 +1,24 @@
-import { Context } from "../../context";
 import { protectedProcedure } from "../../trpc";
 import { createPlanInput } from "./types";
 import * as z from "zod";
+import { Context } from "../../context";
+import { seriesSchema } from "./types";
 
-// Function to create workout exercises
+// Function to create workout exercises for each workout plan day
 async function createWorkoutExercises(
-  input: z.infer<typeof createPlanInput>,
-  workoutPlanId: string,
+  exercises: Array<{
+    id: string;
+    order: number;
+    description?: string;
+    series: z.infer<typeof seriesSchema>[];
+  }>,
+  workoutPlanDayId: string,
   ctx: Context,
 ) {
-  const exercises = input.workouts?.map((workout) => workout.exercises).flat();
-  if (!exercises) return;
+  if (!exercises || exercises.length === 0) return;
 
-  // Create each exercise and its associated sets
   await Promise.all(
     exercises.map(async (exercise) => {
-      if (!exercise) return;
       if (!exercise.order) throw new Error("Exercise order is required");
       if (!ctx.auth.userId) throw new Error("User ID is required");
 
@@ -23,22 +26,20 @@ async function createWorkoutExercises(
         data: {
           order: exercise.order,
           trainerId: ctx.auth.userId,
-          workoutPlanDayId: workoutPlanId,
+          workoutPlanDayId: workoutPlanDayId,
           description: exercise.description,
           exerciseId: exercise.id,
         },
       });
 
-      exercise.series?.forEach(async (serie) => {
-        if (!serie) return;
+      exercise.series?.forEach(async (serie, index) => {
         if (!serie.reps) throw new Error("Serie reps is required");
-        if (!serie.order) throw new Error("Serie order is required");
 
         await ctx.prisma.workoutSet.create({
           data: {
             reps: serie.reps,
             rest: serie.rest,
-            setNumber: serie.order,
+            setNumber: index + 1,
             workoutExerciseId: workoutExerciseId.id,
             concentric: serie.concentric,
             eccentric: serie.eccentric,
@@ -54,8 +55,6 @@ const createPlan = protectedProcedure
   .input(createPlanInput)
   .mutation(async ({ ctx, input }) => {
     const { workouts, ...planDetails } = input;
-
-    // Create the main Workout Plan
     const workoutPlan = await ctx.prisma.workoutPlan.create({
       data: {
         ...planDetails,
@@ -63,8 +62,7 @@ const createPlan = protectedProcedure
       },
     });
 
-    // Add workouts to the plan
-    if (workouts && workouts?.length > 0) {
+    if (workouts && workouts.length > 0) {
       await Promise.all(
         workouts.map(async (workout) => {
           const workoutPlanDay = await ctx.prisma.workoutPlanDay.create({
@@ -75,8 +73,17 @@ const createPlan = protectedProcedure
             },
           });
 
-          if (workout.exercises && workout.exercises?.length > 0) {
-            await createWorkoutExercises(input, workoutPlanDay.id, ctx);
+          if (workout.exercises && workout.exercises.length > 0) {
+            await createWorkoutExercises(
+              workout.exercises.map((exercise) => ({
+                description: exercise.description,
+                id: exercise.id,
+                order: exercise.order,
+                series: exercise.series ?? [],
+              })),
+              workoutPlanDay.id,
+              ctx,
+            );
           }
         }),
       );
