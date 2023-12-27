@@ -14,7 +14,7 @@ type PlanDetails = inferRouterOutputs<AppRouter["plansRouter"]>;
 
 interface Props {
   plan: WorkoutPlan | undefined | null;
-  days: PlanDetails["getPlan"]["days"];
+  days: PlanDetails["getPlan"]["WorkoutPlanDay"];
   exercises: Map<string, Exercise>;
 }
 
@@ -35,9 +35,9 @@ export default function PianoDetail({ days, plan, exercises }: Props) {
         {days.map((day) => {
           return (
             <PlanDayDetail
-              key={day.info.id}
-              info={day.info}
-              exercises={day.exercises}
+              key={day.id}
+              info={day}
+              exercises={day.WorkoutExercise}
               exercisesModels={getExercisesModels()}
             />
           );
@@ -46,7 +46,7 @@ export default function PianoDetail({ days, plan, exercises }: Props) {
       <div>
         <h2 className="ml-12 mb-16 text-xl font-bold">Frequenza target</h2>
         <GraphBodyTargetsFrequencies
-          exercises={days.map((day) => day.exercises).flat()}
+          exercises={days.map((day) => day.WorkoutExercise).flat()}
           exercisesModels={getExercisesModels()}
         />
       </div>

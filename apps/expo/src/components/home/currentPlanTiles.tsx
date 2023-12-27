@@ -1,4 +1,4 @@
-import { Text, View, StyleSheet, ScrollView } from "react-native";
+import { Text, View, StyleSheet } from "react-native";
 import { trpc } from "../../utils/trpc";
 import WorkoutDayPreviewTile from "./workoutPreviewTile";
 

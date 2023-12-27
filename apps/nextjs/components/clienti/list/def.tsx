@@ -1,19 +1,8 @@
-import { Client, Exercise } from "@acme/db";
+import { Client } from "@acme/db";
 import { ColumnDef } from "@tanstack/react-table";
-import { ArrowUpDown, MoreHorizontal } from "lucide-react";
+import { ArrowUpDown } from "lucide-react";
 
 import { Button } from "#/components/ui/button";
-import {
-  DropdownMenu,
-  DropdownMenuContent,
-  DropdownMenuItem,
-  DropdownMenuLabel,
-  DropdownMenuSeparator,
-  DropdownMenuTrigger,
-} from "#/components/ui/dropdown-menu";
-import Link from "next/link";
-import { trpc } from "#/src/utils/trpc";
-import { useToast } from "#/components/ui/use-toast";
 import ImageCell from "./imageCell";
 import ActionsCell from "./actions";
 

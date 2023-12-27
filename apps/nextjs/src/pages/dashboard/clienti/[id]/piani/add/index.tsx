@@ -4,13 +4,12 @@ import { Toaster } from "#/components/ui/toaster";
 import { toast } from "#/components/ui/use-toast";
 import { trpc } from "#/src/utils/trpc";
 
-import * as z from "zod";
-
 import { useEffect } from "react";
 import { Separator } from "#/components/ui/separator";
-import { createPlanInput } from "@acme/api/src/router/plans/types";
 import FormAddWorkoutPlan from "#/components/clienti/piani/add/form-add-piano";
 import { useRouter } from "next/router";
+import * as z from "zod";
+import { createPlanInput } from "@acme/api/src/router/plans/create-types";
 
 export default function AddPlan() {
   const mutation = trpc.plansRouter.createPlan.useMutation();

@@ -10,10 +10,10 @@ import { tokenCache } from "./utils/cache";
 import Constants from "expo-constants";
 
 import { NavigationContainer } from "@react-navigation/native";
-import { createNativeStackNavigator } from "@react-navigation/native-stack";
-import StartWorkout from "./screens/workout/start";
+import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import { RootStackParamList } from "./types/rootStackParamList";
-const Stack = createNativeStackNavigator<RootStackParamList>();
+
+const Tab = createBottomTabNavigator<RootStackParamList>();
 
 export const App = () => {
   return (
@@ -25,10 +25,10 @@ export const App = () => {
         <TRPCProvider>
           <SafeAreaProvider>
             <NavigationContainer>
-              <Stack.Navigator>
-                <Stack.Screen name="Home" component={HomeScreen} />
-                <Stack.Screen name="StartWorkout" component={StartWorkout} />
-              </Stack.Navigator>
+              <Tab.Navigator>
+                <Tab.Screen name="Home" component={HomeScreen} />
+                <Tab.Screen name="Login" component={SignInSignUpScreen} />
+              </Tab.Navigator>
             </NavigationContainer>
             <StatusBar />
           </SafeAreaProvider>

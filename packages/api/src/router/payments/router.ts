@@ -1,4 +1,3 @@
-import { inferRouterInputs, inferRouterOutputs } from "@trpc/server";
 import { router } from "../../trpc";
 import createPayment from "./create";
 import deletePayment from "./delete";
@@ -9,6 +8,3 @@ export const paymentsRouter = router({
   listPayments,
   deletePayment,
 });
-
-export type PaymentsRouterInput = inferRouterInputs<typeof paymentsRouter>;
-export type PaymentsRouterOutput = inferRouterOutputs<typeof paymentsRouter>;

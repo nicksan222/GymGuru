@@ -6,7 +6,7 @@ import { Bar, BarChart, ResponsiveContainer, XAxis, YAxis } from "recharts";
 type PlanDetails = inferRouterOutputs<AppRouter["plansRouter"]>;
 
 interface Props {
-  exercises: PlanDetails["getPlan"]["days"][0]["exercises"];
+  exercises: PlanDetails["getPlan"]["WorkoutPlanDay"][0]["WorkoutExercise"];
   exercisesModels: Map<string, Exercise>;
 }
 

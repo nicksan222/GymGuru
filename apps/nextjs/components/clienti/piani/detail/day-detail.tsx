@@ -7,7 +7,7 @@ type PlanDetails = inferRouterOutputs<AppRouter["plansRouter"]>;
 
 interface Props {
   info: WorkoutPlanDay;
-  exercises: PlanDetails["getPlan"]["days"][0]["exercises"];
+  exercises: PlanDetails["getPlan"]["WorkoutPlanDay"][0]["WorkoutExercise"];
   exercisesModels: Map<string, Exercise>;
 }
 

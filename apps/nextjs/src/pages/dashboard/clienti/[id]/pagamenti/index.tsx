@@ -17,6 +17,14 @@ export default function PaymentView() {
     clientId: id as string,
   });
 
+  if (!payments.data || !plans.data) {
+    return (
+      <Sidebar>
+        <DashboardTitle title="Caricamento..." />
+      </Sidebar>
+    );
+  }
+
   return (
     <Sidebar>
       <DashboardTitle title="Pagamenti" />

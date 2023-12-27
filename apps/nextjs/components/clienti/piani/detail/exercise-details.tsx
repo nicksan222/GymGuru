@@ -14,7 +14,9 @@ import Image from "next/image";
 type PlanDetails = inferRouterOutputs<AppRouter["plansRouter"]>;
 
 interface Props {
-  details: PlanDetails["getPlan"]["days"][0]["exercises"][0] | undefined;
+  details:
+    | PlanDetails["getPlan"]["WorkoutPlanDay"][0]["WorkoutExercise"][0]
+    | undefined;
   exercisesModel?: Exercise;
 }
 
@@ -58,12 +60,12 @@ export default function PlanExerciseDetail({ details, exercisesModel }: Props) {
           </TableRow>
         </TableHeader>
         <TableBody>
-          {details?.series.map((serie, index) => (
+          {details?.WorkoutSet.map((set, index) => (
             <TableRow key={index}>
-              <TableCell>{serie.reps}</TableCell>
-              <TableCell>{serie.rest} s</TableCell>
+              <TableCell>{set.reps}</TableCell>
+              <TableCell>{set.rest} s</TableCell>
               <TableCell>
-                {serie.concentric} - {serie.hold} - {serie.eccentric} s
+                {set.concentric} - {set.hold} - {set.eccentric} s
               </TableCell>
             </TableRow>
           ))}

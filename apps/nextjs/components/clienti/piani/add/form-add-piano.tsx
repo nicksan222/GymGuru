@@ -1,5 +1,4 @@
 import { Toaster } from "#/components/ui/toaster";
-import { createPlanInput } from "@acme/api/src/router/plans/types";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { Form } from "#/components/ui/form";
 import { useForm } from "react-hook-form";
@@ -9,6 +8,7 @@ import PlanDayForm from "./formFields/plan-day-form";
 import ButtonAddDayForm from "./formFields/button-add-day-form";
 import { Button } from "#/components/ui/button";
 import PlanDatePicker from "./formFields/date-picker";
+import { createPlanInput } from "@acme/api/src/router/plans/create-types";
 
 interface Props {
   clientId: string;

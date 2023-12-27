@@ -1,6 +1,5 @@
 import { Form } from "#/components/ui/form";
 import { trpc } from "#/src/utils/trpc";
-import { createExerciseInput } from "@acme/api/src/router/exercises/types";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { useForm } from "react-hook-form";
 import * as z from "zod";
@@ -14,6 +13,7 @@ import ExerciseImagesUrlInput from "./formFields/exerciseImagesUrlInputProps";
 import { Button } from "#/components/ui/button";
 import { Toaster } from "#/components/ui/toaster";
 import { useEffect } from "react";
+import { createExerciseInput } from "@acme/api/src/router/exercises/types";
 
 interface Props {
   onSubmit(values: z.infer<typeof createExerciseInput>): void;
@@ -26,7 +26,6 @@ export default function FormAddExercise({ onSubmit }: Props) {
   const form = useForm<z.infer<typeof createExerciseInput>>({
     resolver: zodResolver(createExerciseInput),
     defaultValues: {
-      name: "",
       description: "",
       videoUrl: "",
       category: "",

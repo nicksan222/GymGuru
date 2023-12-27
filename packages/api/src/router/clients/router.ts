@@ -1,4 +1,3 @@
-import { inferRouterInputs, inferRouterOutputs } from "@trpc/server";
 import { router } from "../../trpc";
 import createClient from "./create";
 import deleteClient from "./delete";
@@ -13,6 +12,3 @@ export const clientRouter = router({
   createClient,
   updateClient,
 });
-
-export type ClientRouterInput = inferRouterInputs<typeof clientRouter>;
-export type ClientRouterOutput = inferRouterOutputs<typeof clientRouter>;

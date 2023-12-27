@@ -1,8 +1,6 @@
-import { inferRouterInputs, inferRouterOutputs } from "@trpc/server";
 import { router } from "../../trpc";
 import createPlan from "./create";
 import deletePlan from "./delete";
-import deleteExercise from "./delete-exercise";
 import getPlan from "./get";
 import getActivePlan from "./get-active-plan";
 import listPlans from "./list";
@@ -16,9 +14,5 @@ export const plansRouter = router({
   listPlans,
   updatePlan,
   updateExercise,
-  deleteExercise,
   getActivePlan,
 });
-
-export type PlansRouterInputs = inferRouterInputs<typeof plansRouter>;
-export type PlansRouterOutput = inferRouterOutputs<typeof plansRouter>;

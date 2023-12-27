@@ -9,8 +9,8 @@ import {
 import { Input } from "#/components/ui/input";
 import { Button } from "#/components/ui/button";
 import * as z from "zod";
-import { createExerciseInput } from "@acme/api/src/router/exercises/types";
 import { FiDelete } from "react-icons/fi";
+import { createExerciseInput } from "@acme/api/src/router/exercises/types";
 
 interface ExerciseImagesUrlInputProps {
   form: UseFormReturn<z.infer<typeof createExerciseInput>>;
