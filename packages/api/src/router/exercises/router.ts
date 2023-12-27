@@ -1,3 +1,4 @@
+import { inferRouterInputs, inferRouterOutputs } from "@trpc/server";
 import { router } from "../../trpc";
 import createExercise from "./create";
 import deleteExercise from "./delete";
@@ -16,3 +17,6 @@ export const exercisesRouter = router({
   listExercises,
   listExerciseCategories,
 });
+
+export type ExercisesRouterInput = inferRouterInputs<typeof exercisesRouter>;
+export type ExercisesRouterOutput = inferRouterOutputs<typeof exercisesRouter>;

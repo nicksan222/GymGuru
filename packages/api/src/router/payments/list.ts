@@ -1,8 +1,12 @@
 import { protectedProcedure } from "../../trpc";
-import { listPaymentsInput } from "./types";
+import * as z from "zod";
 
 const listPayments = protectedProcedure
-  .input(listPaymentsInput)
+  .input(
+    z.object({
+      clientId: z.string().optional(),
+    }),
+  )
   .query(async ({ ctx, input }) => {
     return ctx.prisma.payment.findMany({
       where: {

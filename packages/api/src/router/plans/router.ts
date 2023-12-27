@@ -1,12 +1,13 @@
+import { inferRouterInputs, inferRouterOutputs } from "@trpc/server";
 import { router } from "../../trpc";
 import createPlan from "./create";
 import deletePlan from "./delete";
-import deleteExercise from "./deleteExercise";
+import deleteExercise from "./delete-exercise";
 import getPlan from "./get";
-import getActivePlan from "./getActivePlan";
+import getActivePlan from "./get-active-plan";
 import listPlans from "./list";
 import updatePlan from "./update";
-import updateExercise from "./updateExercise";
+import updateExercise from "./update-exercise";
 
 export const plansRouter = router({
   createPlan,
@@ -18,3 +19,6 @@ export const plansRouter = router({
   deleteExercise,
   getActivePlan,
 });
+
+export type PlansRouterInputs = inferRouterInputs<typeof plansRouter>;
+export type PlansRouterOutput = inferRouterOutputs<typeof plansRouter>;

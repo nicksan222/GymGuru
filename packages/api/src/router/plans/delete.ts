@@ -1,10 +1,10 @@
 import { protectedProcedure } from "../../trpc";
 import { z } from "zod";
 
-const deletePlan = protectedProcedure
+const deleteExercise = protectedProcedure
   .input(
     z.object({
-      planId: z.string().uuid(),
+      planId: z.string(),
     }),
   )
   .mutation(async ({ ctx, input }) => {
@@ -22,4 +22,4 @@ const deletePlan = protectedProcedure
     });
   });
 
-export default deletePlan;
+export default deleteExercise;

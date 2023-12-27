@@ -1,8 +1,16 @@
+import { inferRouterInputs, inferRouterOutputs } from "@trpc/server";
 import { router } from "../../trpc";
-import getNextWorkoutExerciseRoute from "./getNextWorkoutExercise";
-import startWorkoutRoute from "./startWorkout";
+import getNextWorkoutExercise from "./get-next-workout-exercise";
+import startWorkout from "./start-workout";
+import endWorkout from "./end-workout";
+import recordWorkoutSet from "./record-workout-set";
 
 export const workoutsRouter = router({
-  startWorkoutRoute,
-  getNextWorkoutExerciseRoute,
+  startWorkout,
+  endWorkout,
+  getNextWorkoutExercise,
+  recordWorkoutSet,
 });
+
+export type WorkoutsRouterInputs = inferRouterInputs<typeof workoutsRouter>;
+export type WorkoutRouterOutput = inferRouterOutputs<typeof workoutsRouter>;

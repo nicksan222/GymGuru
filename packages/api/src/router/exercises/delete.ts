@@ -1,9 +1,12 @@
 import { protectedProcedure } from "../../trpc";
-import { z } from "zod";
-import { deleteExerciseInput } from "./types";
+import * as z from "zod";
 
 const deleteExercise = protectedProcedure
-  .input(deleteExerciseInput)
+  .input(
+    z.object({
+      id: z.string(),
+    }),
+  )
   .mutation(async ({ ctx, input }) => {
     return ctx.prisma.exercise.deleteMany({
       where: {

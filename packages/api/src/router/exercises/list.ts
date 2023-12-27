@@ -1,9 +1,14 @@
 import { protectedProcedure } from "../../trpc";
-import { listExercisesInput } from "./types";
+import * as z from "zod";
 import { MuscleTarget } from "@acme/db";
 
 const listExercises = protectedProcedure
-  .input(listExercisesInput)
+  .input(
+    z.object({
+      muscleGroup: z.string().optional(),
+      filterIds: z.array(z.string()).optional(),
+    }),
+  )
   .query(async ({ ctx, input }) => {
     // Check if the muscle group is valid, if provided
     if (

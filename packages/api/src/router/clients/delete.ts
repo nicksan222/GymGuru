@@ -1,8 +1,12 @@
 import { protectedProcedure } from "../../trpc";
-import { deleteClientInput } from "./types";
+import * as z from "zod";
 
 const deleteClient = protectedProcedure
-  .input(deleteClientInput)
+  .input(
+    z.object({
+      id: z.string(),
+    }),
+  )
   .mutation(async ({ ctx, input }) => {
     return ctx.prisma.client.deleteMany({
       where: {

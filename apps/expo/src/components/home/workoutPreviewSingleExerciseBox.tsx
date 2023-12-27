@@ -1,31 +1,35 @@
 import { AppRouter } from "@acme/api";
 import { inferRouterOutputs } from "@trpc/server";
-import { View, StyleSheet, Text, Image } from "react-native";
+import { View, StyleSheet, Text, Image, ScrollView } from "react-native";
+import { RootStackParamList } from "../../types/rootStackParamList";
+import { NavigationProp, useNavigation } from "@react-navigation/native";
 
 type RouterOutput = inferRouterOutputs<AppRouter>;
 
 interface Props {
-  workoutExercise: RouterOutput["plansRouter"]["getActivePlan"]["days"][0]["exercises"][0];
+  workoutExercise: RouterOutput["plansRouter"]["getActivePlan"]["plan"]["WorkoutPlanDay"][0]["WorkoutExercise"][0];
 }
 
 export default function WorkoutPreviewSingleExerciseBox({
   workoutExercise,
 }: Props) {
+  // const navigation = useNavigation<NavigationProp<RootStackParamList>>();
+
   return (
-    <View style={styles.container}>
+    <ScrollView style={styles.container}>
       <Image
         source={{
           uri:
-            workoutExercise.exerciseInfo?.imageUrl ||
+            workoutExercise.Exercise?.imageUrl ||
             "https://via.placeholder.com/75",
         }}
         style={{ width: 75, height: 75 }}
       />
-      <Text style={styles.title}>{workoutExercise.exerciseInfo?.name}</Text>
+      <Text style={styles.title}>{workoutExercise.Exercise?.name}</Text>
       <Text style={styles.description}>
-        {workoutExercise.series.length} serie
+        {workoutExercise.WorkoutSet.length} serie
       </Text>
-    </View>
+    </ScrollView>
   );
 }
 

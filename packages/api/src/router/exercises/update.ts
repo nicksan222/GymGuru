@@ -1,9 +1,20 @@
 import { protectedProcedure } from "../../trpc";
-import { updateExerciseInput } from "./types";
+import * as z from "zod";
 import { MuscleTarget } from "@acme/db";
 
 const updateExercise = protectedProcedure
-  .input(updateExerciseInput)
+  .input(
+    z.object({
+      id: z.string(),
+      name: z.string().optional(),
+      description: z.string().optional(),
+      primaryMuscle: z.string().optional(),
+      secondaryMuscles: z.string().optional(),
+      videoUrl: z.string().optional(),
+      imageUrl: z.array(z.string()).optional(),
+      category: z.string().optional(),
+    }),
+  )
   .mutation(async ({ ctx, input }) => {
     return ctx.prisma.exercise.updateMany({
       where: {

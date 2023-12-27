@@ -1,3 +1,4 @@
+import { inferRouterInputs, inferRouterOutputs } from "@trpc/server";
 import { router } from "../../trpc";
 import createProgress from "./create";
 import deleteProgress from "./delete";
@@ -10,3 +11,6 @@ export const progressRouter = router({
   listProgress,
   updateProgress,
 });
+
+export type ProgressRouterInputs = inferRouterInputs<typeof progressRouter>;
+export type ProgressRouterOutput = inferRouterOutputs<typeof progressRouter>;

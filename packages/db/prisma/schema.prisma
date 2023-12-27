@@ -96,10 +96,11 @@ model WorkoutPlanDay {
     updatedAt DateTime @updatedAt
     trainerId String
 
-    WorkoutPlan     WorkoutPlan       @relation(fields: [workoutPlanId], references: [id])
+    WorkoutPlan     WorkoutPlan       @relation(fields: [workoutPlanId], references: [id], onDelete: Cascade)
     workoutPlanId   String
     WorkoutExercise WorkoutExercise[]
     WorkoutRecord   WorkoutRecord[]
+    WorkoutSet      WorkoutSet[]
 }
 
 model WorkoutExercise {
@@ -111,7 +112,7 @@ model WorkoutExercise {
     description String?
     WorkoutSet  WorkoutSet[]
 
-    WorkoutPlanDay   WorkoutPlanDay @relation(fields: [workoutPlanDayId], references: [id])
+    WorkoutPlanDay   WorkoutPlanDay @relation(fields: [workoutPlanDayId], references: [id], onDelete: Cascade)
     workoutPlanDayId String
 
     Exercise   Exercise @relation(fields: [exerciseId], references: [id])
@@ -130,8 +131,13 @@ model WorkoutSet {
     updatedAt  DateTime @updatedAt
     trainerId  String
 
-    WorkoutExercise   WorkoutExercise @relation(fields: [workoutExerciseId], references: [id])
+    WorkoutExercise   WorkoutExercise @relation(fields: [workoutExerciseId], references: [id], onDelete: Cascade)
     workoutExerciseId String
+
+    WorkoutRecordSet WorkoutRecordSet[]
+
+    WorkoutPlanDay   WorkoutPlanDay @relation(fields: [workoutPlanDayId], references: [id], onDelete: Cascade)
+    workoutPlanDayId String
 }
 
 model WorkoutRecordSet {
@@ -142,8 +148,10 @@ model WorkoutRecordSet {
     createdAt DateTime @default(now())
     updatedAt DateTime @updatedAt
 
-    WorkoutRecord   WorkoutRecord @relation(fields: [workoutRecordId], references: [id])
+    WorkoutRecord   WorkoutRecord @relation(fields: [workoutRecordId], references: [id], onDelete: Cascade)
     workoutRecordId String
+    WorkoutSet      WorkoutSet?   @relation(fields: [workoutSetId], references: [id])
+    workoutSetId    String?
 }
 
 model WorkoutRecord {
@@ -154,10 +162,10 @@ model WorkoutRecord {
     completedAt      DateTime?
     WorkoutRecordSet WorkoutRecordSet[]
 
-    WorkoutPlanDay   WorkoutPlanDay @relation(fields: [workoutPlanDayId], references: [id])
+    WorkoutPlanDay   WorkoutPlanDay @relation(fields: [workoutPlanDayId], references: [id], onDelete: Cascade)
     workoutPlanDayId String
 
-    Client   Client @relation(fields: [clientId], references: [id])
+    Client   Client @relation(fields: [clientId], references: [id], onDelete: Cascade)
     clientId String
 }
 
@@ -170,6 +178,6 @@ model Payment {
     Client   Client @relation(fields: [clientId], references: [id])
     clientId String
 
-    WorkoutPlan   WorkoutPlan @relation(fields: [workoutPlanId], references: [id])
-    workoutPlanId String
+    WorkoutPlan   WorkoutPlan? @relation(fields: [workoutPlanId], references: [id], onDelete: SetNull)
+    workoutPlanId String?
 }

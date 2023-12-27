@@ -1,9 +1,4 @@
 import { inferRouterOutputs } from "@trpc/server";
-import {
-  WorkoutExercise,
-  WorkoutPlan,
-  WorkoutPlanDay,
-} from "../../../../../packages/db";
 import { AppRouter } from "@acme/api";
 import { View, StyleSheet, Text, ScrollView, Pressable } from "react-native";
 import WorkoutPreviewSingleExerciseBox from "./workoutPreviewSingleExerciseBox";
@@ -11,46 +6,46 @@ import { trpc } from "../../utils/trpc";
 import { useEffect } from "react";
 import { NativeStackScreenProps } from "@react-navigation/native-stack";
 import { RootStackParamList } from "../../types/rootStackParamList";
+import { NavigationProp, useNavigation } from "@react-navigation/native";
 
 type RouterOutput = inferRouterOutputs<AppRouter>;
 
 interface Props {
-  workoutDay: RouterOutput["plansRouter"]["getActivePlan"]["days"][0];
-  navigation: NativeStackScreenProps<RootStackParamList, "Home">;
+  workoutDay: RouterOutput["plansRouter"]["getActivePlan"]["plan"]["WorkoutPlanDay"][0];
 }
 
-export default function WorkoutDayPreviewTile({
-  workoutDay,
-  navigation,
-}: Props) {
-  const mutation = trpc.progressRouter.startWorkout.useMutation();
+export default function WorkoutDayPreviewTile({ workoutDay }: Props) {
+  const mutation = trpc.workoutsRouter.startWorkout.useMutation();
+  const navigation = useNavigation<NavigationProp<RootStackParamList>>();
 
   function startWorkout() {
+    if (!workoutDay) return;
+
     mutation.mutateAsync({
-      workoutId: workoutDay.dayInfo.id,
+      workoutId: workoutDay?.id,
     });
   }
 
   useEffect(() => {
-    if (mutation.isSuccess) {
-      navigation.navigation.navigate("StartWorkout", {
-        workoutId: workoutDay.dayInfo.id,
+    if (mutation.isSuccess && workoutDay) {
+      navigation.navigate("StartWorkout", {
+        workoutId: workoutDay?.id,
       });
     }
   }, [mutation.isSuccess]);
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Giorno {workoutDay.dayInfo.day}</Text>
+      <Text style={styles.title}>Giorno {workoutDay.day}</Text>
       <ScrollView
         horizontal
         style={styles.scrollView}
         contentContainerStyle={styles.scrollViewContent}
       >
-        {workoutDay.exercises.map((exercise) => {
+        {workoutDay.WorkoutExercise.map((exercise) => {
           return (
             <WorkoutPreviewSingleExerciseBox
-              key={exercise.exerciseInfo?.id}
+              key={exercise.id}
               workoutExercise={exercise}
             />
           );

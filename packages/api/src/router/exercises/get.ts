@@ -1,9 +1,12 @@
 import { protectedProcedure } from "../../trpc";
-import { z } from "zod";
-import { getExerciseInput } from "./types";
+import * as z from "zod";
 
 const getExercise = protectedProcedure
-  .input(getExerciseInput)
+  .input(
+    z.object({
+      id: z.string(),
+    }),
+  )
   .query(async ({ ctx, input }) => {
     return ctx.prisma.exercise.findFirst({
       where: {

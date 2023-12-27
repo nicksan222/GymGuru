@@ -1,9 +1,15 @@
 import { TRPCError } from "@trpc/server";
 import { protectedProcedure } from "../../trpc";
-import { createPaymentInput } from "./types";
+import * as z from "zod";
 
 const createPayment = protectedProcedure
-  .input(createPaymentInput)
+  .input(
+    z.object({
+      amount: z.number(),
+      planId: z.string(),
+      clientId: z.string(),
+    }),
+  )
   .mutation(async ({ ctx, input }) => {
     if (!ctx.auth.userId) {
       throw new TRPCError({

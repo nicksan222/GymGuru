@@ -1,20 +1,18 @@
+import { TRPCError } from "@trpc/server";
 import { protectedProcedure } from "../../trpc";
 import { z } from "zod";
 
 const updatePlan = protectedProcedure
   .input(
     z.object({
-      planId: z.string().uuid(),
-      name: z.string().optional(),
-      description: z.string().optional(),
+      planId: z.string(),
       startDate: z.date().optional(),
       endDate: z.date().optional(),
     }),
   )
   .mutation(async ({ ctx, input }) => {
     const { planId, ...updateData } = input;
-
-    return ctx.prisma.workoutPlan.updateMany({
+    const previousPlan = await ctx.prisma.workoutPlan.findFirst({
       where: {
         AND: [
           {
@@ -25,7 +23,23 @@ const updatePlan = protectedProcedure
           },
         ],
       },
-      data: updateData,
+    });
+
+    if (!previousPlan) {
+      throw new TRPCError({
+        code: "NOT_FOUND",
+        message: "Plan not found",
+      });
+    }
+
+    return ctx.prisma.workoutPlan.update({
+      where: {
+        id: planId,
+      },
+      data: {
+        endDate: updateData.endDate || previousPlan.endDate,
+        startDate: updateData.startDate || previousPlan.startDate,
+      },
     });
   });
 

@@ -4,18 +4,29 @@ import { z } from "zod";
 const listPlans = protectedProcedure
   .input(
     z.object({
-      clientId: z.string().uuid(),
+      clientId: z.string(),
     }),
   )
   .query(async ({ ctx, input }) => {
+    const clientEmail = ctx.auth.user?.emailAddresses[0]?.emailAddress;
+
     return ctx.prisma.workoutPlan.findMany({
       where: {
-        AND: [
+        OR: [
           {
-            clientId: input.clientId,
+            AND: [
+              {
+                Client: {
+                  id: input.clientId,
+                },
+              },
+              { trainerId: ctx.auth.userId },
+            ],
           },
           {
-            trainerId: ctx.auth.userId,
+            Client: {
+              email: clientEmail,
+            },
           },
         ],
       },

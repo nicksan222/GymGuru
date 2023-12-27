@@ -1,9 +1,13 @@
 import { TRPCError } from "@trpc/server";
 import { protectedProcedure } from "../../trpc";
-import { inputFinishedWorkout } from "./types";
+import * as z from "zod";
 
-const finishedWorkout = protectedProcedure
-  .input(inputFinishedWorkout)
+const endWorkout = protectedProcedure
+  .input(
+    z.object({
+      workoutId: z.string(),
+    }),
+  )
   .mutation(async ({ ctx, input }) => {
     // Does another workout exist for this user? Is it active?
     const activeWorkout = await ctx.prisma.workoutRecord.findFirst({
@@ -34,3 +38,5 @@ const finishedWorkout = protectedProcedure
 
     return updatedWorkout;
   });
+
+export default endWorkout;

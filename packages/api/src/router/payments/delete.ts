@@ -1,14 +1,14 @@
 import { protectedProcedure } from "../../trpc";
-import { deletePaymentInput } from "./types";
+import * as z from "zod";
 
 const deletePayment = protectedProcedure
-  .input(deletePaymentInput)
+  .input(
+    z.object({
+      id: z.string(),
+    }),
+  )
   .mutation(async ({ ctx, input }) => {
-    if (!ctx.auth.userId) {
-      throw new Error("Not logged in");
-    }
-
-    return ctx.prisma.payment.deleteMany({
+    return await ctx.prisma.payment.deleteMany({
       where: {
         id: input.id,
         trainerId: ctx.auth.userId,

@@ -1,11 +1,10 @@
 import getMockIdentities from "../utils/getMockIdentities";
-import { getMockTrainerTRPC } from "../utils/getMockTrainerTRPC";
-import { prisma } from "@acme/db";
 import { createMockExercise } from "./utils/createMockExercise";
 import { cleanupMockExercise } from "./utils/deleteMockExercise";
 import { createMockPlan } from "./utils/createMockPlan";
 import { deleteMockPlan } from "./utils/deleteMockPlan";
 import { getMockClientTRPC } from "../utils/getMockClientTRPC";
+import { TRPCError } from "@trpc/server";
 
 describe("Get active plan", () => {
   const exercises: string[] = [];
@@ -51,5 +50,16 @@ describe("Get active plan", () => {
     expect(result).toBeDefined();
 
     expect(result?.plan?.id).toBe(plansIds[0]);
+  });
+
+  it("should not get active plan if no plans are active for this user", async () => {
+    const caller = await getMockClientTRPC("a");
+
+    try {
+      await caller.plansRouter.getActivePlan();
+      fail("Should have thrown");
+    } catch (e) {
+      expect(e).toBeInstanceOf(TRPCError);
+    }
   });
 });

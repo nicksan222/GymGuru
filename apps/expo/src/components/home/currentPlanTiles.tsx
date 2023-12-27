@@ -1,4 +1,4 @@
-import { Text, View, StyleSheet } from "react-native";
+import { Text, View, StyleSheet, ScrollView } from "react-native";
 import { trpc } from "../../utils/trpc";
 import WorkoutDayPreviewTile from "./workoutPreviewTile";
 
@@ -16,20 +16,20 @@ export default function CurrentPlanTile() {
   return (
     <View style={styles.container}>
       <Text style={styles.subtitle}>
-        {currentPlan.data.plan.startDate.toLocaleDateString("it-IT", {
+        {currentPlan.data.plan?.startDate.toLocaleDateString("it-IT", {
           day: "numeric",
           month: "long",
           year: "numeric",
         })}{" "}
         -{" "}
-        {currentPlan.data.plan.endDate.toLocaleDateString("it-IT", {
+        {currentPlan.data.plan?.endDate.toLocaleDateString("it-IT", {
           day: "numeric",
           month: "long",
           year: "numeric",
         })}
       </Text>
-      {currentPlan.data.days.map((day) => {
-        return <WorkoutDayPreviewTile key={day.dayInfo.id} workoutDay={day} />;
+      {currentPlan.data.plan?.WorkoutPlanDay.map((day) => {
+        return <WorkoutDayPreviewTile key={day.id} workoutDay={day} />;
       })}
     </View>
   );
@@ -72,12 +72,10 @@ const styles = StyleSheet.create({
   title: {
     fontSize: 20,
     fontWeight: "bold",
-    marginBottom: 10,
   },
   subtitle: {
     fontSize: 16,
     fontWeight: "bold",
-    marginBottom: 10,
   },
   text: {
     fontSize: 16,

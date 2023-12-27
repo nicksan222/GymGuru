@@ -1,20 +1,10 @@
-import { Client, PrismaClient } from "@acme/db";
+import { PrismaClient } from "@acme/db";
 import sessionClient from "./getMockClientContext";
 import sessionTrainer from "./getMockTrainerContext";
 
 const prisma = new PrismaClient();
 
-let instance: {
-  sessionClient: typeof sessionClient;
-  sessionTrainer: typeof sessionTrainer;
-  recordClient: Client;
-} | null = null;
-
 const getMockIdentities = async () => {
-  if (instance) {
-    return instance;
-  }
-
   // Does the client exist?
   let client = await prisma.client.findFirst({
     where: {
@@ -47,13 +37,11 @@ const getMockIdentities = async () => {
     }
   }
 
-  instance = {
+  return {
     sessionClient,
     sessionTrainer,
     recordClient: client,
   };
-
-  return instance;
 };
 
 export default getMockIdentities;

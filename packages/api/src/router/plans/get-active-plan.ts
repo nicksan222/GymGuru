@@ -32,10 +32,7 @@ async function findActiveWorkoutPlan(ctx: Context) {
   });
 
   if (!user || user.WorkoutPlan.length === 0) {
-    throw new TRPCError({
-      code: "NOT_FOUND",
-      message: "Active workout plan not found",
-    });
+    return null;
   }
 
   return user.WorkoutPlan[0];
@@ -43,6 +40,13 @@ async function findActiveWorkoutPlan(ctx: Context) {
 
 const getActivePlan = protectedProcedure.query(async ({ ctx }) => {
   const activeWorkoutPlan = await findActiveWorkoutPlan(ctx);
+
+  if (!activeWorkoutPlan) {
+    throw new TRPCError({
+      code: "NOT_FOUND",
+      message: "Active workout plan not found",
+    });
+  }
 
   return { plan: activeWorkoutPlan };
 });
