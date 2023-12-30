@@ -9,8 +9,18 @@ const SignInWithEmail = () => {
   const { signIn } = useSignIn();
 
   const handleSignInPress = async () => {
+    if (!email || !password) {
+      setError("Email and password are required");
+      return;
+    }
+
+    console.info("Signing in...");
+    console.info("Email:", email);
+    console.info("Password:", password);
+
     try {
-      await signIn?.create({ identifier: email, password });
+      const result = await signIn?.create({ identifier: email, password });
+      console.log(result);
       // Handle successful sign-in
     } catch (err) {
       if (err instanceof Error) {
@@ -30,6 +40,7 @@ const SignInWithEmail = () => {
           onChangeText={setEmail}
           style={styles.input}
           placeholderTextColor="#aaa"
+          keyboardType="email-address"
         />
         <TextInput
           placeholder="Password"
@@ -38,6 +49,7 @@ const SignInWithEmail = () => {
           secureTextEntry
           style={styles.input}
           placeholderTextColor="#aaa"
+          textContentType="password"
         />
       </View>
       {error ? <Text style={styles.errorText}>{error}</Text> : null}

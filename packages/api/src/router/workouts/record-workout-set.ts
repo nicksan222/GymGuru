@@ -1,7 +1,8 @@
 import { protectedProcedure } from "../../trpc";
 import * as z from "zod";
-import { fetchClientIdFromEmail } from "../../utils/fetchClientIdFromEmail";
 import { TRPCError } from "@trpc/server";
+import fetchClientEmailFromId from "../../utils/fetchClientEmailFromId";
+import { fetchClientIdFromEmail } from "../../utils/fetchClientIdFromEmail";
 
 const recordWorkoutSet = protectedProcedure
   .input(
@@ -15,7 +16,28 @@ const recordWorkoutSet = protectedProcedure
   .query(async ({ ctx, input }) => {
     const userId = await fetchClientIdFromEmail(ctx);
 
-    const plan = await ctx.prisma.workoutSet.findUnique({
+    // Does the workoutRecord already exist? If not, create it
+    const workoutRecord = await ctx.prisma.workoutRecord.findFirst({
+      where: {
+        WorkoutPlanDay: {
+          WorkoutSet: {
+            some: {
+              id: input.setId,
+            },
+          },
+        },
+      },
+    });
+
+    if (!workoutRecord) {
+      throw new TRPCError({
+        message: "Workout not started",
+        code: "BAD_REQUEST",
+      });
+    }
+
+    // Find the set
+    const set = await prisma?.workoutSet.findUnique({
       where: {
         id: input.setId,
       },
@@ -28,10 +50,33 @@ const recordWorkoutSet = protectedProcedure
       },
     });
 
-    if (!plan) {
+    if (!set) {
       throw new TRPCError({
         code: "NOT_FOUND",
-        message: "Workout plan not found",
+        message: "Could not find the set id",
+      });
+    }
+
+    // The workout should be in progress
+    const workoutRecordInProgress = await ctx.prisma.workoutRecord.findFirst({
+      where: {
+        AND: [
+          {
+            Client: {
+              id: userId,
+            },
+          },
+          {
+            completedAt: null,
+          },
+        ],
+      },
+    });
+
+    if (!workoutRecordInProgress) {
+      throw new TRPCError({
+        code: "NOT_FOUND",
+        message: "No workout in progress found",
       });
     }
 
@@ -41,23 +86,13 @@ const recordWorkoutSet = protectedProcedure
         rest: input.rest,
         weight: input.weight,
         WorkoutRecord: {
-          connectOrCreate: {
-            create: {
-              trainerId: plan.trainerId,
-              Client: {
-                connect: {
-                  id: userId,
-                },
-              },
-              WorkoutPlanDay: {
-                connect: {
-                  id: plan.WorkoutPlanDay.id,
-                },
-              },
-            },
-            where: {
-              id: plan.WorkoutPlanDay.id,
-            },
+          connect: {
+            id: workoutRecordInProgress.id,
+          },
+        },
+        WorkoutSet: {
+          connect: {
+            id: input.setId,
           },
         },
       },

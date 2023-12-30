@@ -1,68 +1,45 @@
-import { TRPCError } from "@trpc/server";
 import { protectedProcedure } from "../../trpc";
 import * as z from "zod";
 import { fetchClientIdFromEmail } from "../../utils/fetchClientIdFromEmail";
+import { conflictError, notFoundError } from "./start-workout-types";
 
 const startWorkout = protectedProcedure
   .input(
     z.object({
-      workoutId: z.string(),
+      workoutId: z.string().min(1, "Workout ID must not be empty"),
     }),
   )
   .mutation(async ({ ctx, input }) => {
     const userId = await fetchClientIdFromEmail(ctx);
 
-    // Does another currently running workout exist?
-    const currentWorkout = await ctx.prisma.workoutRecord.findFirst({
-      where: {
-        Client: {
-          id: userId,
+    // Check for existing workout and fetch workout plan day in one query
+    const [currentWorkout, workoutPlanDay] = await Promise.all([
+      ctx.prisma.workoutRecord.findFirst({
+        where: {
+          Client: { id: userId },
+          completedAt: null,
         },
-        completedAt: null,
-      },
-    });
+      }),
+      ctx.prisma.workoutPlanDay.findFirst({
+        where: { id: input.workoutId },
+        include: { WorkoutPlan: true },
+      }),
+    ]);
 
-    if (currentWorkout) {
-      throw new TRPCError({
-        code: "CONFLICT",
-        message: "A workout is already running",
-      });
+    // Conflict error if a workout is currently running
+    if (currentWorkout) throw conflictError;
+
+    // Not found error if the workout plan day doesn't exist or doesn't match the user
+    if (!workoutPlanDay || workoutPlanDay.WorkoutPlan.clientId !== userId) {
+      throw notFoundError;
     }
 
-    const workoutPlanDay = await ctx.prisma.workoutPlanDay.findFirst({
-      where: {
-        id: input.workoutId,
-      },
-      include: {
-        WorkoutPlan: true,
-      },
-    });
-
-    if (
-      !workoutPlanDay ||
-      !workoutPlanDay.trainerId ||
-      workoutPlanDay.WorkoutPlan.clientId !== userId
-    ) {
-      throw new TRPCError({
-        code: "NOT_FOUND",
-        message: "Workout not found for this user",
-      });
-    }
-
-    // Creating a new workout start
-    return await ctx.prisma.workoutRecord.create({
+    // Create a new workout record
+    return ctx.prisma.workoutRecord.create({
       data: {
-        trainerId: workoutPlanDay?.trainerId,
-        Client: {
-          connect: {
-            id: userId,
-          },
-        },
-        WorkoutPlanDay: {
-          connect: {
-            id: input.workoutId,
-          },
-        },
+        trainerId: workoutPlanDay.trainerId,
+        Client: { connect: { id: userId } },
+        WorkoutPlanDay: { connect: { id: input.workoutId } },
       },
     });
   });

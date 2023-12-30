@@ -1,12 +1,20 @@
 import { inferRouterOutputs } from "@trpc/server";
 import { AppRouter } from "@acme/api";
-import { View, StyleSheet, Text, ScrollView, Pressable } from "react-native";
+import {
+  View,
+  StyleSheet,
+  Text,
+  ScrollView,
+  Pressable,
+  Alert,
+} from "react-native";
 import WorkoutPreviewSingleExerciseBox from "./workoutPreviewSingleExerciseBox";
 import { trpc } from "../../utils/trpc";
 import { useEffect } from "react";
 import { NativeStackScreenProps } from "@react-navigation/native-stack";
 import { RootStackParamList } from "../../types/rootStackParamList";
 import { NavigationProp, useNavigation } from "@react-navigation/native";
+import { conflictError } from "@acme/api/src/router/workouts/start-workout-types";
 
 type RouterOutput = inferRouterOutputs<AppRouter>;
 
@@ -15,24 +23,64 @@ interface Props {
 }
 
 export default function WorkoutDayPreviewTile({ workoutDay }: Props) {
-  const mutation = trpc.workoutsRouter.startWorkout.useMutation();
+  const mutationStartWorkout = trpc.workoutsRouter.startWorkout.useMutation();
+  const mutationEndWorkout = trpc.workoutsRouter.endWorkout.useMutation();
   const navigation = useNavigation<NavigationProp<RootStackParamList>>();
 
   function startWorkout() {
     if (!workoutDay) return;
 
-    mutation.mutateAsync({
+    mutationStartWorkout.mutate({
       workoutId: workoutDay?.id,
     });
   }
 
+  function continuePreviousWorkout() {
+    // Navigate to the workout screen
+  }
+
+  async function stopPreviousWorkoutAndStartNew() {
+    try {
+      const result = await mutationEndWorkout.mutateAsync({
+        workoutPlanDayId: workoutDay?.id,
+      });
+
+      if (result) {
+        // Now i can start the workout
+        startWorkout();
+      }
+    } catch (error) {
+      Alert.alert("Errore", "Impossibile terminare il workout in corso");
+    }
+  }
+
   useEffect(() => {
-    if (mutation.isSuccess && workoutDay) {
+    if (mutationStartWorkout.isSuccess && workoutDay) {
       navigation.navigate("StartWorkout", {
         workoutId: workoutDay?.id,
       });
+    } else if (mutationStartWorkout.isError) {
+      // Is another workout running?
+      if (mutationStartWorkout.error.message === conflictError.message) {
+        Alert.alert("Attenzione", "E' stato trovato un workout in corso", [
+          {
+            text: "Continua precedente",
+            style: "default",
+            onPress: () => continuePreviousWorkout(),
+          },
+          {
+            text: "Termina e inizia nuovo",
+            style: "destructive",
+            onPress: () => stopPreviousWorkoutAndStartNew(),
+          },
+          {
+            text: "Annulla",
+            style: "cancel",
+          },
+        ]);
+      }
     }
-  }, [mutation.isSuccess]);
+  }, [mutationStartWorkout.isSuccess, mutationStartWorkout.isError]);
 
   return (
     <View style={styles.container}>
@@ -51,7 +99,11 @@ export default function WorkoutDayPreviewTile({ workoutDay }: Props) {
           );
         })}
       </ScrollView>
-      <Pressable style={styles.button} onPress={startWorkout}>
+      <Pressable
+        style={styles.button}
+        onPress={startWorkout}
+        disabled={mutationStartWorkout.isLoading}
+      >
         <Text style={styles.buttonText}>Inizia workout</Text>
       </Pressable>
     </View>

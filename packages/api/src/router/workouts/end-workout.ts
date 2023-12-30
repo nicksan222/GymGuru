@@ -1,35 +1,38 @@
 import { TRPCError } from "@trpc/server";
 import { protectedProcedure } from "../../trpc";
 import * as z from "zod";
+import fetchClientEmailFromId from "../../utils/fetchClientEmailFromId";
 
 const endWorkout = protectedProcedure
   .input(
     z.object({
-      workoutId: z.string(),
+      workoutPlanDayId: z.string(),
     }),
   )
   .mutation(async ({ ctx, input }) => {
-    // Does another workout exist for this user? Is it active?
-    const activeWorkout = await ctx.prisma.workoutRecord.findFirst({
+    // Getting the active workout record for the workoutDayId
+    const workoutRecord = await ctx.prisma.workoutRecord.findFirst({
       where: {
-        clientId: ctx.auth.user?.id,
-        completedAt: {
-          not: null,
+        WorkoutPlanDay: {
+          id: input.workoutPlanDayId,
+        },
+        Client: {
+          email: await fetchClientEmailFromId(ctx),
         },
       },
     });
 
-    if (!activeWorkout) {
+    if (!workoutRecord) {
       throw new TRPCError({
         code: "NOT_FOUND",
-        message: "No active workout",
+        message: "No workout found",
       });
     }
 
     // Update the workout record
     const updatedWorkout = await ctx.prisma.workoutRecord.update({
       where: {
-        id: activeWorkout.id,
+        id: workoutRecord.id,
       },
       data: {
         completedAt: new Date(),

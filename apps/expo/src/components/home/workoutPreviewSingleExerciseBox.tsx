@@ -16,7 +16,7 @@ export default function WorkoutPreviewSingleExerciseBox({
   // const navigation = useNavigation<NavigationProp<RootStackParamList>>();
 
   return (
-    <ScrollView style={styles.container}>
+    <View style={styles.container}>
       <Image
         source={{
           uri:
@@ -29,7 +29,7 @@ export default function WorkoutPreviewSingleExerciseBox({
       <Text style={styles.description}>
         {workoutExercise.WorkoutSet.length} serie
       </Text>
-    </ScrollView>
+    </View>
   );
 }
 

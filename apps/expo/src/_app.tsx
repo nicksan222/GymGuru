@@ -12,6 +12,7 @@ import Constants from "expo-constants";
 import { NavigationContainer } from "@react-navigation/native";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import { RootStackParamList } from "./types/rootStackParamList";
+import SignInWithEmail from "./components/signin/SignInWithEmail";
 
 const Tab = createBottomTabNavigator<RootStackParamList>();
 
@@ -27,7 +28,7 @@ export const App = () => {
             <NavigationContainer>
               <Tab.Navigator>
                 <Tab.Screen name="Home" component={HomeScreen} />
-                <Tab.Screen name="Login" component={SignInSignUpScreen} />
+                <Tab.Screen name="Login" component={SignInWithEmail} />
               </Tab.Navigator>
             </NavigationContainer>
             <StatusBar />

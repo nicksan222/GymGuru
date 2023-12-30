@@ -1,9 +1,10 @@
 import { Context } from "../context";
+import fetchClientEmailFromId from "./fetchClientEmailFromId";
 
 export const fetchClientIdFromEmail = async (ctx: Context) => {
-  const email = ctx.auth.user?.emailAddresses[0]?.emailAddress;
+  let email = ctx.auth.user?.emailAddresses[0]?.emailAddress;
   if (!email) {
-    throw new Error("No email found");
+    email = await fetchClientEmailFromId(ctx);
   }
 
   const result = await ctx.prisma.client.findFirst({

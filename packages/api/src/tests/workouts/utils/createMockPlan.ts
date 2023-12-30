@@ -1,6 +1,8 @@
-import { Client, prisma } from "@acme/db";
+import { Client, WorkoutSet, prisma } from "@acme/db";
 import { getMockTrainerTRPC } from "../../utils/getMockTrainerTRPC";
 import { SignedInAuthObject } from "@clerk/clerk-sdk-node";
+import { seriesSchema } from "../../../router/plans/create-types";
+import * as z from "zod";
 
 export async function createMockPlan(
   exercisesIds: string[],
@@ -11,6 +13,7 @@ export async function createMockPlan(
     sessionTrainer: SignedInAuthObject;
     recordClient: Client;
   },
+  numSeries = 1,
 ) {
   const caller = await getMockTrainerTRPC(sessions.sessionTrainer.userId);
 
@@ -34,6 +37,18 @@ export async function createMockPlan(
   expect(client).toBeDefined();
   expect(client?.id).toBe(sessions.recordClient.id);
 
+  const series: z.infer<typeof seriesSchema>[] = [];
+
+  for (let i = 0; i < numSeries; i += 1)
+    series.push({
+      concentric: 1,
+      eccentric: 1,
+      hold: 1,
+      order: i,
+      reps: 1,
+      rest: 1,
+    });
+
   const result = await caller.plansRouter.createPlan({
     clientId: client?.id ?? "",
     endDate: to,
@@ -45,16 +60,7 @@ export async function createMockPlan(
           id: exercise.id,
           order: 1,
           description: "Test description",
-          series: [
-            {
-              concentric: 1,
-              eccentric: 1,
-              hold: 1,
-              order: 1,
-              reps: 1,
-              rest: 1,
-            },
-          ],
+          series: series,
         })),
       },
     ],
@@ -63,5 +69,20 @@ export async function createMockPlan(
   expect(result).toBeDefined();
   expect(result?.id).toBeDefined();
 
-  return result;
+  return await prisma.workoutPlan.findUnique({
+    where: {
+      id: result?.id ?? "",
+    },
+    include: {
+      WorkoutPlanDay: {
+        include: {
+          WorkoutExercise: {
+            include: {
+              WorkoutSet: true,
+            },
+          },
+        },
+      },
+    },
+  });
 }

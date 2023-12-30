@@ -1,13 +1,16 @@
 import { TRPCError } from "@trpc/server";
 import { protectedProcedure } from "../../trpc";
 import { Context } from "../../context";
+import fetchClientEmailFromId from "../../utils/fetchClientEmailFromId";
 
 // Modular function to get the active workout plan based on startingDate and endingDate
 async function findActiveWorkoutPlan(ctx: Context) {
   const currentDate = new Date();
 
+  const email = await fetchClientEmailFromId(ctx);
+
   const user = await ctx.prisma.client.findFirst({
-    where: { email: ctx.auth.user?.emailAddresses[0]?.emailAddress },
+    where: { email },
     include: {
       WorkoutPlan: {
         where: {
