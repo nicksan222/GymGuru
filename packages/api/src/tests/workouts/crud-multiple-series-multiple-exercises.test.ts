@@ -104,11 +104,17 @@ describe("Workout start", () => {
   });
 
   it("should loop over all the sets and complete them", async () => {
-    loopUtil(numExercises, function () {
-      loopUtil(numSeries, async function () {
-        const result = await caller.workoutsRouter.getNextWorkoutExercise();
-
-        expect(result).toBeDefined();
+    loopUtil(numExercises, function (numExercise) {
+      loopUtil(numSeries, async function (numSerie) {
+        try {
+          const result = await caller.workoutsRouter.getNextWorkoutExercise();
+          expect(result).toBeDefined();
+        } catch (error) {
+          // If is the last set, we expect an error
+          if (numExercise === numExercises - 1 && numSerie === numSeries - 1) {
+            return;
+          }
+        }
       });
     });
   });

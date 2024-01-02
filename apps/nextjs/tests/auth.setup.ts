@@ -27,7 +27,6 @@ test("authenticate", async ({ browser }) => {
   // Should get redirected to the dashboard
   await page.waitForURL("http://localhost:3000");
 
-  // TODO: Check if the user is logged in.
   // There should be cookies
   const cookies = await page.context().cookies();
   expect(cookies).toBeTruthy();

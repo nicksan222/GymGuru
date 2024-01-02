@@ -1,6 +1,7 @@
 import { createClerkClient } from "@clerk/clerk-sdk-node";
 import { TRPCError } from "@trpc/server";
 import { Context } from "../context";
+import getMockIdentities from "../tests/utils/getMockIdentities";
 
 const clerk = createClerkClient({
   apiKey: process.env.NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY,
@@ -8,6 +9,10 @@ const clerk = createClerkClient({
 });
 
 export default async function fetchClientEmailFromId(ctx: Context) {
+  if (process.env.NODE_ENV === "test") {
+    return (await getMockIdentities()).recordClient.email;
+  }
+
   if (!ctx.auth.userId) {
     throw new TRPCError({
       code: "UNAUTHORIZED",

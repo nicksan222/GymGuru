@@ -1,16 +1,17 @@
 import { TRPCError } from "@trpc/server";
 import { protectedProcedure } from "../../trpc";
 import { Context } from "../../context";
-import fetchClientEmailFromId from "../../utils/fetchClientEmailFromId";
+import * as z from "zod";
+import { fetchClientIdFromEmail } from "../../utils/fetchClientIdFromEmail";
 
 // Modular function to get the active workout plan based on startingDate and endingDate
-async function findActiveWorkoutPlan(ctx: Context) {
+async function findActiveWorkoutPlan(ctx: Context, userId: string) {
   const currentDate = new Date();
 
-  const email = await fetchClientEmailFromId(ctx);
-
   const user = await ctx.prisma.client.findFirst({
-    where: { email },
+    where: {
+      id: userId,
+    },
     include: {
       WorkoutPlan: {
         where: {
@@ -41,17 +42,46 @@ async function findActiveWorkoutPlan(ctx: Context) {
   return user.WorkoutPlan[0];
 }
 
-const getActivePlan = protectedProcedure.query(async ({ ctx }) => {
-  const activeWorkoutPlan = await findActiveWorkoutPlan(ctx);
+async function isAllowed(ctx: Context, clientId: string) {
+  if (!ctx.auth.userId) return false;
 
-  if (!activeWorkoutPlan) {
-    throw new TRPCError({
-      code: "NOT_FOUND",
-      message: "Active workout plan not found",
-    });
-  }
+  const result = await ctx.prisma.client.findFirst({
+    where: {
+      AND: [{ trainerId: ctx.auth.userId }, { id: clientId }],
+    },
+  });
 
-  return { plan: activeWorkoutPlan };
-});
+  return Boolean(result);
+}
+
+const getActivePlan = protectedProcedure
+  .input(
+    z
+      .object({
+        clientId: z.string(),
+      })
+      .optional(),
+  )
+  .query(async ({ ctx, input }) => {
+    // If a client id is provided, then ensuring the trainer is allowed
+    if (input?.clientId) {
+      if (!(await isAllowed(ctx, input.clientId))) {
+        throw new TRPCError({ code: "UNAUTHORIZED" });
+      }
+    }
+
+    const userId = input?.clientId || (await fetchClientIdFromEmail(ctx));
+
+    const activeWorkoutPlan = await findActiveWorkoutPlan(ctx, userId);
+
+    if (!activeWorkoutPlan) {
+      throw new TRPCError({
+        code: "NOT_FOUND",
+        message: "Active workout plan not found",
+      });
+    }
+
+    return { plan: activeWorkoutPlan };
+  });
 
 export default getActivePlan;

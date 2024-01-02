@@ -1,6 +1,5 @@
 import { protectedProcedure } from "../../trpc";
 import { fetchClientIdFromEmail } from "../../utils/fetchClientIdFromEmail";
-import { createPlanInput } from "./create-types";
 import { TRPCError } from "@trpc/server";
 import * as z from "zod";
 
